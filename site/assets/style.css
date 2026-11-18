@@ -690,6 +690,11 @@
     color: var(--text-secondary);
     font-size: 0.78rem;
     text-align: end;
+
+    & a {
+      font-style: italic;
+      text-decoration-color: currentColor;
+    }
   }
 
 
