@@ -1,0 +1,11 @@
+{
+  "code": "MED1502",
+  "name": "人体结构、功能与疾病",
+  "kind": "general",
+  "tags": [
+    "medicine"
+  ],
+  "resource_ids": [
+    "chembio-MED1502-notes"
+  ]
+}

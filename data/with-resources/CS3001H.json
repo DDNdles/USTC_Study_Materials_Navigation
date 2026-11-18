@@ -1,0 +1,14 @@
+{
+  "code": "CS3001H",
+  "name": "计算机组成原理(H)",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "resource_ids": [
+    "computing-lectures-gh-ustc-course-resour-cs3001h-h",
+    "computing-notes-gh-ustc-course-resour-cs3001h-h",
+    "computing-projects-gh-ustc-course-plus-cs3001h-h"
+  ]
+}

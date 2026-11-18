@@ -1,0 +1,22 @@
+{
+  "code": "PHYS1001A",
+  "name": "力学A",
+  "kind": "common",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1001a-exams-160f74",
+    "mp-feixu-phys1001a-exams-283c1e",
+    "mp-feixu-phys1001a-exams-4cdd45",
+    "mp-feixu-phys1001a-exams-8ff02d",
+    "mp-feixu-phys1001a-exams-d26a55",
+    "mp-feixu-phys1001a-open_book-c5c998",
+    "mp-uexam-phys1001a-2021-final-80903e",
+    "mp-uexam-phys1001a-2021-midterm-fdcab1",
+    "mp-uexam-phys1001a-2023-final-aaac1c",
+    "mp-uexam-phys1001a-2023-midterm-32cb75",
+    "mp-uexam-phys1001a-2024-final-d8a5ff"
+  ]
+}

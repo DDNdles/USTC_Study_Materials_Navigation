@@ -1,0 +1,12 @@
+{
+  "code": "BIO1510",
+  "name": "解码生命信息",
+  "kind": "general",
+  "tags": [
+    "biology",
+    "cs"
+  ],
+  "resource_ids": [
+    "chembio-BIO1510-project"
+  ]
+}

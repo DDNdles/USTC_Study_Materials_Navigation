@@ -1,0 +1,17 @@
+{
+  "code": "PHYS1001H",
+  "name": "力学(H)",
+  "kind": "common",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1001a-exams-160f74",
+    "mp-uexam-phys1001a-2023-final-aaac1c",
+    "mp-uexam-phys1001a-2024-final-d8a5ff",
+    "mp-uexam-phys1001h-2024-midterm-b27e92",
+    "mp-uexam-phys1001h-2025-midterm-04cf04",
+    "mp-uexam-phys1001h-2026-midterm-3e6d8a"
+  ]
+}

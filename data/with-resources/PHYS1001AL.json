@@ -1,0 +1,13 @@
+{
+  "code": "PHYS1001AL",
+  "name": "力学A(L)",
+  "kind": "common",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-uexam-phys1001al-2024-midterm-2ad6b5",
+    "mp-uexam-phys1001al-2024-midterm-e26b10"
+  ]
+}

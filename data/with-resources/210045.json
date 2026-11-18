@@ -1,0 +1,13 @@
+{
+  "code": "210045",
+  "name": "电路基本理论",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "resource_ids": [
+    "computing-exam-feixu-210045-2018-2025",
+    "computing-lectures-gh-ly382965-210045-1sp-fundamentals-of-circuit-analysis",
+    "computing-lectures-gh-ustc-course-materi-210045"
+  ]
+}

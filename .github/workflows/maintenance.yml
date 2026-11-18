@@ -1,0 +1,68 @@
+name: Weekly source maintenance
+
+on:
+  schedule:
+    # 每周一北京时间 09:17（UTC 01:17）
+    - cron: '17 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  monitor-and-build:
+    name: Check links, publish report, build
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Check registered links and GitHub sources
+        # 来源级失败会写入逐项状态并继续；基础设施、凭据或通知失败使任务失败。
+        # 只使用本仓库 GITHUB_TOKEN，不读取第三方凭据、不使用 Edge Cookie。
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/monitor.mjs --publish
+
+      - name: Validate data strictly for publishing
+        run: npm run validate -- --strict-research
+
+      - name: Build site from this run's monitoring result
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: monitor-and-build
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy Pages artifact
+        id: deployment
+        uses: actions/deploy-pages@v4

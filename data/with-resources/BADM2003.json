@@ -1,0 +1,12 @@
+{
+  "code": "BADM2003",
+  "name": "会计学原理",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "finance"
+  ],
+  "resource_ids": [
+    "hum-BADM2003-lectures-blog"
+  ]
+}

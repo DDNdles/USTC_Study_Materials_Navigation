@@ -1,0 +1,13 @@
+{
+  "code": "003154",
+  "name": "物理化学I",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "resource_ids": [
+    "chembio-003154-hw-answers",
+    "chembio-003154-notes",
+    "chembio-003154-quiz-2024"
+  ]
+}

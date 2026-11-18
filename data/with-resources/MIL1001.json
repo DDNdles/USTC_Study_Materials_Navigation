@@ -1,0 +1,11 @@
+{
+  "code": "MIL1001",
+  "name": "军事理论",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "resource_ids": [
+    "hum-MIL1001-homework-feixu"
+  ]
+}

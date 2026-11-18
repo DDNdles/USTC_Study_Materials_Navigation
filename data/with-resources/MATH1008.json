@@ -1,0 +1,24 @@
+{
+  "code": "MATH1008",
+  "name": "数学分析(B3)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1006-exams-b933f7",
+    "mp-uexam-math1008-2016-final-e2e9fa",
+    "mp-uexam-math1008-2017-final-490ce9",
+    "mp-uexam-math1008-2018-final-6ce974",
+    "mp-uexam-math1008-2018-midterm-16a694",
+    "mp-uexam-math1008-2020-final-a3136f",
+    "mp-uexam-math1008-2020-midterm-04f1f1",
+    "mp-uexam-math1008-2022-midterm-ef1611",
+    "mp-uexam-math1008-2023-final-cdc011",
+    "mp-uexam-math1008-2023-midterm-1b65b1",
+    "mp-uexam-math1008-2024-final-b96212",
+    "mp-uexam-math1008-2024-midterm-be18a5",
+    "mp-uexam-math1008-2025-midterm-aaa19e",
+    "mp-uexam-math1008-2026-midterm-f130fd"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "code": "MATH1009",
+  "name": "线性代数(B1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1009-exams-05d8",
+    "mp-feixu-math1009-exams-2ee23c",
+    "mp-feixu-math1009-exams-4262f6",
+    "mp-feixu-math1009-exams-e05a1e",
+    "mp-feixu-math1009-exams-e6b2ad",
+    "mp-feixu-math1009-lectures-4bf59d",
+    "mp-feixu-math1009-notes-430beb",
+    "mp-gh-fandahao17-math1009-exams-1357",
+    "mp-gh-fandahao17-math1009-exams-410b",
+    "mp-gh-fandahao17-math1009-exams-448b",
+    "mp-gh-fandahao17-math1009-exams-4b61",
+    "mp-gh-fandahao17-math1009-exams-68f7",
+    "mp-gh-fandahao17-math1009-exams-6b7b",
+    "mp-gh-fandahao17-math1009-exams-7379",
+    "mp-gh-fandahao17-math1009-exams-90b3",
+    "mp-gh-fandahao17-math1009-exams-a7a0",
+    "mp-gh-fandahao17-math1009-exams-b1a3",
+    "mp-gh-fandahao17-math1009-exams-d2b8",
+    "mp-gh-fandahao17-math1009-exams-d959",
+    "mp-gh-fandahao17-math1009-exams-eb24",
+    "mp-gh-math1009-notes-5893e7",
+    "mp-uexam-math1009-2019-final-d531eb",
+    "mp-uexam-math1009-2020-final-52809c",
+    "mp-uexam-math1009-2024-final-134691",
+    "mp-uexam-math1009-2025-final-ecd559",
+    "mp-uexam-math1009-2025-midterm-88b170",
+    "mp-uexam-math1009-2025-midterm-e965e6",
+    "mp-uexam-math1009-2026-final-f31261",
+    "mp-uexam-math1009-2026-midterm-ec7815"
+  ]
+}

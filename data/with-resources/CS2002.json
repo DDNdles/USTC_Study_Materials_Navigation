@@ -1,0 +1,23 @@
+{
+  "code": "CS2002",
+  "name": "数理逻辑基础",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-exam-guch-cs2002-mathematicallogic2017t2020-pdf",
+    "computing-exam-guch-cs2002-mathematicallogic2020mid-pdf",
+    "computing-exam-guch-cs2002-mathematicallogic2022final-pdf",
+    "computing-exam-guch-cs2002-mathematicallogic2023final-pdf",
+    "computing-exam-guch-cs2002-mathematicallogic2024f-pdf",
+    "computing-exam-guch-cs2002-mathematicallogic2025f-pdf",
+    "computing-exam-guch-cs2002-mathematicallogic2026final-md",
+    "computing-exam-ustc-course-cs2002-2017",
+    "computing-exam-ustc-course-cs2002-2018",
+    "computing-homework-gh-ustc-course-plus-cs2002",
+    "computing-lectures-gh-ustc-cs-courses-re-cs2002",
+    "computing-notes-gh-ustc-course-cs2002-notes"
+  ]
+}

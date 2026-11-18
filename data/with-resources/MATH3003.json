@@ -1,0 +1,23 @@
+{
+  "code": "MATH3003",
+  "name": "拓扑学",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-gh-math3003-homework-fb5d8e",
+    "mp-gh-math3003-lectures-fb5d8e",
+    "mp-gh-math3003-notes-fb5d8e",
+    "mp-uexam-math3003-2016-final-6a768c",
+    "mp-uexam-math3003-2016-midterm-1908cc",
+    "mp-uexam-math3003-2020-final-804cf0",
+    "mp-uexam-math3003-2020-final-8a050d",
+    "mp-uexam-math3003-2021-final-7d4531",
+    "mp-uexam-math3003-2021-midterm-a3fe50",
+    "mp-uexam-math3003-2022-midterm-6fee08",
+    "mp-uexam-math3003-2024-final-9092d5",
+    "mp-uexam-math3003-2024-midterm-78ed45",
+    "mp-uexam-math3003-2025-midterm-7e1c75"
+  ]
+}

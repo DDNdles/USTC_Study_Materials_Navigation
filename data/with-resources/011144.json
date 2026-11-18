@@ -1,0 +1,25 @@
+{
+  "code": "011144",
+  "name": "计算机网络",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "communications"
+  ],
+  "resource_ids": [
+    "computing-exam-feixu-011144-finals-collection",
+    "computing-exam-guch-011144-cn2019m-pdf",
+    "computing-exam-guch-011144-cn2020f-pdf",
+    "computing-exam-guch-011144-cn2024m-pdf",
+    "computing-exam-ustc-course-011144-2018",
+    "computing-homework-gh-ustc-course-materi-011144-5",
+    "computing-homework-gh-ustc-course-plus-011144",
+    "computing-lectures-gh-ustc-course-materi-011144",
+    "computing-lectures-gh-ustc-cs-courses-re-011144",
+    "computing-notes-gh-ustc-course-011144-notes",
+    "computing-notes-gh-ustc-course-resour-011144",
+    "computing-projects-feixu-011144-labs",
+    "computing-study-feixu-011144-final-cheatsheet",
+    "computing-study-feixu-011144-mid-cheatsheet"
+  ]
+}

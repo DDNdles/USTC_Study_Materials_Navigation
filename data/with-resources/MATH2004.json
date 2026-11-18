@@ -1,0 +1,29 @@
+{
+  "code": "MATH2004",
+  "name": "代数学基础",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math2004-exams-1bfdd1",
+    "mp-feixu-math2004-exams-2dbec1",
+    "mp-feixu-math2004-exams-3fe7ac",
+    "mp-feixu-math2004-exams-44fb81",
+    "mp-feixu-math2004-exams-8e1506",
+    "mp-feixu-math2004-exams-f740f3",
+    "mp-feixu-math2004-notes-699be0",
+    "mp-feixu-math2004-notes-e7a565",
+    "mp-feixu-math2004-notes-f22c02",
+    "mp-uexam-math2004-2021-midterm-63c71a",
+    "mp-uexam-math2004-2022-final-e10188",
+    "mp-uexam-math2004-2022-midterm-9e548f",
+    "mp-uexam-math2004-2023-final-c75be4",
+    "mp-uexam-math2004-2023-midterm-0bdc13",
+    "mp-uexam-math2004-2023-midterm-956aca",
+    "mp-uexam-math2004-2024-final-3d3b0d",
+    "mp-uexam-math2004-2024-midterm-35232d",
+    "mp-uexam-math2004-2024-midterm-7b1c61",
+    "mp-uexam-math2004-2025-final-434fe2"
+  ]
+}

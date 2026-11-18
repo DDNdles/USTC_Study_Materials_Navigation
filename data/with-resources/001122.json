@@ -1,0 +1,18 @@
+{
+  "code": "001122",
+  "name": "偏微分方程",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-uexam-001122-2020-final-87032c",
+    "mp-uexam-001122-2022-final-5b279c",
+    "mp-uexam-001122-2022-final-e0e32a",
+    "mp-uexam-001122-2024-final-6b6d58",
+    "mp-uexam-001122-2024-final-b1b9e6",
+    "mp-uexam-001122-2025-final-14fc17",
+    "mp-uexam-001122-2025-midterm-9ad4bd",
+    "mp-uexam-001122-2025-midterm-deefdb"
+  ]
+}

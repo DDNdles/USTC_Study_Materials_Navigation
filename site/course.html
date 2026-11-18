@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="color-scheme" content="light dark">
+    <meta name="description" content="按官方课程代码查看中国科学技术大学本科课程的已收资料、试题年份、来源与访问要求。">
+    <title>课程资料 · 中科大本科课程资料导航</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <script type="module" src="assets/mode.mjs"></script>
+    <script type="module" src="assets/app.mjs"></script>
+  </head>
+  <body data-page="course">
+    <a class="skip-link" href="#main">跳到主要内容</a>
+
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <p class="brand"><a href="./">中科大本科课程资料导航</a></p>
+        <p class="site-note">只收录并导航公开课程资料，不转载第三方文件。</p>
+        <button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>详细模式</button>
+      </div>
+    </header>
+
+    <main id="main" class="wrap" tabindex="-1">
+      <p class="breadcrumb"><a href="./">← 返回课程目录</a></p>
+
+      <h1 id="course-title" tabindex="-1">课程资料</h1>
+      <p id="course-meta" class="course-meta"></p>
+      <p id="course-status" class="course-status"></p>
+
+      <p id="load-error" class="load-error" role="alert" hidden></p>
+
+      <section id="not-found" class="empty-state" hidden aria-labelledby="not-found-heading">
+        <h2 id="not-found-heading">未找到该课程</h2>
+        <p>课程代码可能不正确，或该课程不在 2025 秋、2026 春、2026 夏、2026 秋的本科开课范围内。</p>
+        <p><a href="./">返回课程目录，按代码或名称搜索</a></p>
+      </section>
+
+      <div id="course-content" hidden>
+        <div id="resource-sections"></div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>资料版权归原作者所有；本站只提供导航链接，不托管、不转载第三方文件。外链健康状态来自定期匿名检查，HTTP 可访问不代表课程、年份或授权已确认。</p>
+        <p><a href="sources.html">来源、检索记录与致谢</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

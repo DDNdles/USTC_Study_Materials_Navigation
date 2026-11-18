@@ -1,0 +1,19 @@
+{
+  "code": "PHYS1003A",
+  "name": "光学A",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1003a-exams-1c6317",
+    "mp-feixu-phys1003a-exams-88bda4",
+    "mp-feixu-phys1003a-exams-d8c90c",
+    "mp-feixu-phys1003a-exams-ff8c37",
+    "mp-feixu-phys1003a-notes-082e1d",
+    "mp-uexam-phys1003a-2022-final-e98121",
+    "mp-uexam-phys1003a-2023-final-331185",
+    "mp-uexam-phys1003a-2024-final-006f0a",
+    "mp-uexam-phys1003a-2025-final-3ed3f8"
+  ]
+}

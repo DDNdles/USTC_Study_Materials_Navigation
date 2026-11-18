@@ -1,0 +1,18 @@
+{
+  "code": "PHYS1004H",
+  "name": "电磁学(H)",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1004h-exams-57ecd0",
+    "mp-feixu-phys1004h-exams-582de9",
+    "mp-feixu-phys1004h-exams-f28f13",
+    "mp-uexam-phys1004a-2023-midterm-cabce8",
+    "mp-uexam-phys1004h-2024-final-81daf9",
+    "mp-uexam-phys1004h-2025-final-4a54bd",
+    "mp-uexam-phys1004h-2026-final-82b729",
+    "mp-uexam-phys1004h-2026-midterm-ced5c9"
+  ]
+}

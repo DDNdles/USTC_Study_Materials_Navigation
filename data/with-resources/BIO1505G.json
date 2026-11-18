@@ -1,0 +1,11 @@
+{
+  "code": "BIO1505G",
+  "name": "生物技术与生命科学",
+  "kind": "general",
+  "tags": [
+    "biology"
+  ],
+  "resource_ids": [
+    "chembio-BIO1505G-notes"
+  ]
+}

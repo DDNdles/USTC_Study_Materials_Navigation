@@ -1,0 +1,25 @@
+{
+  "code": "EE2003",
+  "name": "计算机原理与嵌入式系统",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "resource_ids": [
+    "eng-exam-ee2003-3ffc4dcf",
+    "eng-exam-ee2003-57d8aa22",
+    "eng-exam-ee2003-7eb40d35",
+    "eng-homework-ee2003-0b157da3",
+    "eng-homework-ee2003-8fd73e4d",
+    "eng-lectures-ee2003-49d7e7fd",
+    "eng-lectures-ee2003-d6654962",
+    "eng-notes-ee2003-34d6d8ad",
+    "eng-notes-ee2003-7fab8348",
+    "eng-notes-ee2003-f0e508fb",
+    "eng-open_book-ee2003-a00c98da",
+    "eng-open_book-ee2003-f03bc984",
+    "eng-projects-ee2003-5433963f",
+    "eng-projects-ee2003-e5714f71"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "CS1515",
+  "name": "Python科学计算基础",
+  "kind": "general",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "resource_ids": [
+    "computing-lectures-web-cs1515"
+  ]
+}

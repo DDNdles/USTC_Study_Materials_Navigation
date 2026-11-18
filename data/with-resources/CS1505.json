@@ -1,0 +1,12 @@
+{
+  "code": "CS1505",
+  "name": "Java软件开发基础",
+  "kind": "general",
+  "tags": [
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-lectures-web-cs1505",
+    "computing-notes-gh-ustc-course-cs1505-java-notes"
+  ]
+}

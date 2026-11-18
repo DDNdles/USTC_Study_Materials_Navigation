@@ -1,0 +1,24 @@
+{
+  "code": "MATH1001",
+  "name": "数学分析(A1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1001-exams-1e847a",
+    "mp-feixu-math1001-exams-3ac15b",
+    "mp-feixu-math1001-exams-48e604",
+    "mp-feixu-math1001-exams-64bbcd",
+    "mp-feixu-math1001-exams-66e6c7",
+    "mp-feixu-math1001-exams-a4bae9",
+    "mp-feixu-math1001-exams-d270a2",
+    "mp-uexam-math1001-2021-midterm-d2bc8c",
+    "mp-uexam-math1001-2022-final-4b774b",
+    "mp-uexam-math1001-2023-midterm-859ee6",
+    "mp-uexam-math1001-2024-final-f276e1",
+    "mp-uexam-math1001-2024-midterm-b3d5c6",
+    "mp-uexam-math1001-2025-final-22feda",
+    "mp-uexam-math1001-2025-midterm-d47e01"
+  ]
+}

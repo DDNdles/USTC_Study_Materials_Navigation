@@ -1,0 +1,37 @@
+{
+  "code": "MATH1002",
+  "name": "数学分析(A2)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1002-exams-0e7452",
+    "mp-feixu-math1002-exams-3709c5",
+    "mp-feixu-math1002-exams-4ef032",
+    "mp-feixu-math1002-exams-5fde70",
+    "mp-feixu-math1002-exams-7bfd4b",
+    "mp-feixu-math1002-exams-83384e",
+    "mp-feixu-math1002-exams-858b1f",
+    "mp-feixu-math1002-exams-ce903e",
+    "mp-uexam-math1002-2018-final-3d0435",
+    "mp-uexam-math1002-2021-final-67719d",
+    "mp-uexam-math1002-2021-final-c94324",
+    "mp-uexam-math1002-2021-midterm-ea53b8",
+    "mp-uexam-math1002-2022-midterm-088d8b",
+    "mp-uexam-math1002-2022-midterm-5ac79a",
+    "mp-uexam-math1002-2022-midterm-cf0799",
+    "mp-uexam-math1002-2023-final-7555a2",
+    "mp-uexam-math1002-2023-midterm-1bb5ec",
+    "mp-uexam-math1002-2023-midterm-906c0c",
+    "mp-uexam-math1002-2023-midterm-962013",
+    "mp-uexam-math1002-2024-final-c6ec19",
+    "mp-uexam-math1002-2024-midterm-305006",
+    "mp-uexam-math1002-2024-midterm-41c969",
+    "mp-uexam-math1002-2024-midterm-ca318a",
+    "mp-uexam-math1002-2025-final-8107a1",
+    "mp-uexam-math1002-2025-midterm-efdc51",
+    "mp-uexam-math1002-2026-final-d515ad",
+    "mp-uexam-math1002-2026-midterm-80f7ab"
+  ]
+}

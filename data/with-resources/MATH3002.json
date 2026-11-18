@@ -1,0 +1,40 @@
+{
+  "code": "MATH3002",
+  "name": "实分析",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math3002-exams-018486",
+    "mp-feixu-math3002-exams-050dee",
+    "mp-feixu-math3002-exams-090a00",
+    "mp-feixu-math3002-exams-09b7ed",
+    "mp-feixu-math3002-exams-1d31b1",
+    "mp-feixu-math3002-exams-480685",
+    "mp-feixu-math3002-exams-74986f",
+    "mp-feixu-math3002-exams-890efc",
+    "mp-feixu-math3002-exams-8efe62",
+    "mp-feixu-math3002-exams-8fba79",
+    "mp-feixu-math3002-exams-95535b",
+    "mp-feixu-math3002-exams-9f1f9f",
+    "mp-feixu-math3002-exams-b3f610",
+    "mp-feixu-math3002-exams-d16ef0",
+    "mp-gh-math3002-exam-2018-98db1b",
+    "mp-gh-math3002-exam-ny-ebb67c",
+    "mp-gh-math3002-homework-9d6ea6",
+    "mp-gh-math3002-homework-d85aab",
+    "mp-gh-math3002-lectures-d85aab",
+    "mp-gh-math3002-notes-d85aab",
+    "mp-uexam-math3002-2024-final-c00952",
+    "mp-uexam-math3002-2024-midterm-c2676e",
+    "mp-uexam-math3002-2025-final-25b63c",
+    "mp-uexam-math3002-2025-final-d671ff",
+    "mp-uexam-math3002-2025-midterm-3b8a4c",
+    "mp-uexam-math3002-2026-final-6c7ed1",
+    "mp-uexam-math3002-2026-final-a76994",
+    "mp-uexam-math3002-2026-midterm-0a67f4",
+    "mp-uexam-math3002-2026-midterm-26f97b",
+    "mp-uexam-math3002-2026-midterm-72f52d"
+  ]
+}

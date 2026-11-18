@@ -1,0 +1,27 @@
+{
+  "code": "MATH1005",
+  "name": "线性代数(A2)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1004-exams-83aede",
+    "mp-feixu-math1004-study-731453",
+    "mp-feixu-math1005-exams-266f26",
+    "mp-feixu-math1005-exams-3312ac",
+    "mp-feixu-math1005-exams-7f4434",
+    "mp-feixu-math1005-exams-8fd839",
+    "mp-feixu-math1005-exams-e9029a",
+    "mp-feixu-math1009-exams-05d8",
+    "mp-uexam-math1005-2023-final-08dad0",
+    "mp-uexam-math1005-2023-midterm-64709c",
+    "mp-uexam-math1005-2023-midterm-7a4eee",
+    "mp-uexam-math1005-2024-final-28ff11",
+    "mp-uexam-math1005-2024-midterm-b1c37b",
+    "mp-uexam-math1005-2024-midterm-c84534",
+    "mp-uexam-math1005-2025-final-6ab1b1",
+    "mp-uexam-math1005-2025-midterm-16d8c7",
+    "mp-uexam-math1005-2026-midterm-c9a5a0"
+  ]
+}

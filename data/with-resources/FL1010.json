@@ -1,0 +1,11 @@
+{
+  "code": "FL1010",
+  "name": "英语读写进阶I",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "resource_ids": [
+    "hum-FL1010-lectures-mooc"
+  ]
+}

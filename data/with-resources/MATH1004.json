@@ -1,0 +1,29 @@
+{
+  "code": "MATH1004",
+  "name": "线性代数(A1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1004-exams-1d6cd4",
+    "mp-feixu-math1004-exams-36d555",
+    "mp-feixu-math1004-exams-517df8",
+    "mp-feixu-math1004-exams-83aede",
+    "mp-feixu-math1004-exams-d7938a",
+    "mp-feixu-math1004-study-731453",
+    "mp-feixu-math1009-exams-05d8",
+    "mp-uexam-math1004-2014-midterm-adeaa6",
+    "mp-uexam-math1004-2023-final-459e47",
+    "mp-uexam-math1004-2023-final-677391",
+    "mp-uexam-math1004-2023-midterm-39d61a",
+    "mp-uexam-math1004-2024-final-c3b235",
+    "mp-uexam-math1004-2024-final-fff2d8",
+    "mp-uexam-math1004-2024-midterm-062290",
+    "mp-uexam-math1004-2025-final-6ba251",
+    "mp-uexam-math1004-2025-final-f73ee1",
+    "mp-uexam-math1004-2025-midterm-b5faab",
+    "mp-uexam-math1004-2026-final-c58152",
+    "mp-uexam-math1004-2026-midterm-5a8509"
+  ]
+}

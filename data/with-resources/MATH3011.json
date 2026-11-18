@@ -1,0 +1,16 @@
+{
+  "code": "MATH3011",
+  "name": "运筹学",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-gh-math3011-exam-ny-e0dbd1",
+    "mp-gh-math3011-exam-ny-e2e99d",
+    "mp-gh-math3011-homework-9ec5d2",
+    "mp-gh-math3011-lectures-9ec5d2",
+    "mp-gh-math3011-notes-9ec5d2",
+    "mp-gh-math3011-projects-9ec5d2"
+  ]
+}

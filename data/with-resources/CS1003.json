@@ -1,0 +1,28 @@
+{
+  "code": "CS1003",
+  "name": "计算机程序设计",
+  "kind": "common",
+  "tags": [
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-exam-feixu-cs1003-2018",
+    "computing-exam-feixu-cs1003-2019",
+    "computing-exam-feixu-cs1003-2020",
+    "computing-exam-feixu-cs1003-2020-2",
+    "computing-exam-feixu-cs1003-2021",
+    "computing-exam-feixu-cs1003-2021-2",
+    "computing-exam-feixu-cs1003-2021-3",
+    "computing-exam-feixu-cs1003-2021-a",
+    "computing-exam-feixu-cs1003-2021-b",
+    "computing-exam-feixu-cs1003-2023",
+    "computing-exam-guch-cs1003-programdesign2018-pdf",
+    "computing-exam-guch-cs1003-programdesign2020-pdf",
+    "computing-exam-guch-cs1003-programdesign2021-pdf",
+    "computing-homework-feixu-cs1003",
+    "computing-homework-feixu-cs1003-2",
+    "computing-notes-feixu-cs1003",
+    "computing-projects-gh-ustc-course-materi-cs1003",
+    "computing-study-feixu-cs1003-c-review"
+  ]
+}

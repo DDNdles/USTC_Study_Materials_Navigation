@@ -1,0 +1,24 @@
+{
+  "code": "MATH1003",
+  "name": "数学分析(A3)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1003-exams-4633c9",
+    "mp-feixu-math1003-exams-60a2e6",
+    "mp-feixu-math1003-exams-b5840c",
+    "mp-feixu-math1003-exams-fcae83",
+    "mp-uexam-math1003-2017-final-129810",
+    "mp-uexam-math1003-2019-final-058bdb",
+    "mp-uexam-math1003-2022-midterm-832847",
+    "mp-uexam-math1003-2023-final-087166",
+    "mp-uexam-math1003-2023-midterm-b86cac",
+    "mp-uexam-math1003-2024-final-f127b3",
+    "mp-uexam-math1003-2024-midterm-782974",
+    "mp-uexam-math1003-2025-final-21b702",
+    "mp-uexam-math1003-2025-midterm-97b40d",
+    "mp-uexam-math1003-2026-midterm-716190"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "code": "MATH1007",
+  "name": "数学分析(B2)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1006-exams-b933f7",
+    "mp-feixu-math1007-exams-1306e5",
+    "mp-feixu-math1007-exams-16fd15",
+    "mp-feixu-math1007-exams-29cff3",
+    "mp-feixu-math1007-exams-345998",
+    "mp-feixu-math1007-exams-4fb584",
+    "mp-feixu-math1007-exams-56b373",
+    "mp-feixu-math1007-exams-ad20c9",
+    "mp-feixu-math1007-exams-d15e58",
+    "mp-feixu-math1007-exams-e8642a",
+    "mp-feixu-math1007-exams-f60b1b",
+    "mp-feixu-math1007-lectures-ae7254",
+    "mp-feixu-math1007-study-4206bc",
+    "mp-feixu-math1007-study-847f64",
+    "mp-feixu-math1007-study-bd89c2",
+    "mp-feixu-math1007-study-fa54e9",
+    "mp-uexam-math1007-2020-final-4b8c37",
+    "mp-uexam-math1007-2020-midterm-5f840f",
+    "mp-uexam-math1007-2023-final-74363c",
+    "mp-uexam-math1007-2023-midterm-b46408",
+    "mp-uexam-math1007-2024-final-e513c3",
+    "mp-uexam-math1007-2024-midterm-044297",
+    "mp-uexam-math1007-2025-final-59e298",
+    "mp-uexam-math1007-2025-midterm-39393e",
+    "mp-uexam-math1007-2026-final-f9b6dc",
+    "mp-uexam-math1007-2026-midterm-17f93b"
+  ]
+}

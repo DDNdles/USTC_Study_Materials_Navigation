@@ -1,0 +1,12 @@
+{
+  "code": "003156",
+  "name": "物理化学III",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "resource_ids": [
+    "chembio-003156-hw-report",
+    "chembio-003156-lectures-2021"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "008137",
+  "name": "药物化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "medicine"
+  ],
+  "resource_ids": [
+    "chembio-008137-lectures"
+  ]
+}

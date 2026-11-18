@@ -1,0 +1,12 @@
+{
+  "code": "CS2502B",
+  "name": "数据结构B",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-guides-ustcguide-ds",
+    "computing-lectures-web-cs2502b"
+  ]
+}

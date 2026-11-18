@@ -1,0 +1,38 @@
+{
+  "code": "STAT2002",
+  "name": "概率论与数理统计",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "resource_ids": [
+    "mp-feixu-stat2002-exams-04de78",
+    "mp-feixu-stat2002-exams-3be156",
+    "mp-feixu-stat2002-notes-33cbbe",
+    "mp-feixu-stat2002-notes-79a97b",
+    "mp-feixu-stat2002-notes-833a2d",
+    "mp-gh-stat2002-exam-2018-634c57",
+    "mp-gh-stat2002-exam-2019-acb570",
+    "mp-gh-stat2002-exam-2020-315fe0",
+    "mp-gh-stat2002-exam-ny-296bee",
+    "mp-gh-stat2002-exam-ny-49437f",
+    "mp-gh-stat2002-exam-ny-c6b0ee",
+    "mp-gh-stat2002-exam-ny-e3772e",
+    "mp-gh-stat2002-homework-c920cd",
+    "mp-gh-stat2002-lectures-c920cd",
+    "mp-gh-stat2002-notes-a95ed2",
+    "mp-gh-stat2002-notes-ac8282",
+    "mp-gh-stat2002-notes-c920cd",
+    "mp-gh-stat2002-notes-ca5f2b",
+    "mp-gh-stat2002-notes-cdcb77",
+    "mp-uexam-stat2002-2022-final-6de6ad",
+    "mp-uexam-stat2002-2023-final-4f605a",
+    "mp-uexam-stat2002-2023-final-7c0cdd",
+    "mp-uexam-stat2002-2024-final-830ec1",
+    "mp-uexam-stat2002-2024-final-9c040c",
+    "mp-uexam-stat2002-2025-final-822960",
+    "mp-uexam-stat2002-2025-midterm-11e276",
+    "mp-uexam-stat2002-ny-final-df6ebb"
+  ]
+}

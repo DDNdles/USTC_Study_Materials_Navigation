@@ -1,0 +1,12 @@
+{
+  "code": "CHEM3003",
+  "name": "化学动力学基础",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "resource_ids": [
+    "chembio-CHEM3003-notes"
+  ]
+}

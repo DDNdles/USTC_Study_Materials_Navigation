@@ -1,0 +1,12 @@
+{
+  "code": "BIO3002",
+  "name": "生物化学A2",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "chemistry"
+  ],
+  "resource_ids": [
+    "chembio-BIO3002-notes"
+  ]
+}

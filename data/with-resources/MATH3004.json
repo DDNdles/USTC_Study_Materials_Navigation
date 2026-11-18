@@ -1,0 +1,34 @@
+{
+  "code": "MATH3004",
+  "name": "泛函分析",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math3004-exams-180d70",
+    "mp-feixu-math3004-exams-216c87",
+    "mp-feixu-math3004-exams-4dd7be",
+    "mp-feixu-math3004-exams-53b780",
+    "mp-feixu-math3004-exams-5420e4",
+    "mp-feixu-math3004-exams-5d008d",
+    "mp-feixu-math3004-exams-5da453",
+    "mp-feixu-math3004-exams-686b10",
+    "mp-feixu-math3004-exams-75d86b",
+    "mp-feixu-math3004-exams-a79e12",
+    "mp-gh-math3004-homework-5674d0",
+    "mp-gh-math3004-lectures-c67309",
+    "mp-gh-math3004-notes-3d22fa",
+    "mp-gh-math3004-notes-c67309",
+    "mp-uexam-math3004-2022-final-f55cfd",
+    "mp-uexam-math3004-2023-final-60d54d",
+    "mp-uexam-math3004-2023-midterm-9112ee",
+    "mp-uexam-math3004-2024-final-4f5bca",
+    "mp-uexam-math3004-2024-final-9a398f",
+    "mp-uexam-math3004-2024-midterm-a7ff9a",
+    "mp-uexam-math3004-2025-final-73b3c4",
+    "mp-uexam-math3004-2025-midterm-438181",
+    "mp-uexam-math3004-2025-midterm-af54f1",
+    "mp-uexam-math3004-2026-midterm-5cf963"
+  ]
+}

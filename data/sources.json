@@ -1,0 +1,612 @@
+[
+  {
+    "id": "openmathbooks-levin-dmoi",
+    "name": "Oscar Levin · Discrete Mathematics: An Open Introduction",
+    "url": "https://discrete.openmathbooks.org/dmoi4.html",
+    "maintainer": "Oscar Levin",
+    "kind": "website",
+    "github": null,
+    "notes": "作者发布页明确免费提供第四版完整在线版与 PDF；第四版采用 CC BY-NC-SA 4.0。"
+  },
+  {
+    "id": "chembio-bionmr-courses",
+    "name": "Ke Ruan 课程页（bionmr.ustc.edu.cn/courses）",
+    "url": "http://bionmr.ustc.edu.cn/courses/",
+    "maintainer": "阮科（Ke Ruan）",
+    "kind": "website",
+    "github": null,
+    "notes": "教师公开课程页，页首写明 Fall course: Medicinal Chemistry，逐章列 PPT 与 PDB/压缩包下载。"
+  },
+  {
+    "id": "chembio-brilliantpig-inorg-lab",
+    "name": "Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I",
+    "url": "https://github.com/Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I",
+    "maintainer": "Brilliant-Pig-CN",
+    "kind": "repository",
+    "github": {
+      "owner": "Brilliant-Pig-CN",
+      "repo": "USTC-Fundamental-Inorganic-Chemistry-Experiment-I",
+      "branch": "main"
+    },
+    "notes": "README 明确为无机化学基础实验（上）课程资料：实验报告单、实验图像与按日期归档的过程照片。无 LICENSE。"
+  },
+  {
+    "id": "chembio-daswalpurgis",
+    "name": "dasWalpurgis/USTC（化学系、化学物理系课程资料）",
+    "url": "https://github.com/dasWalpurgis/USTC",
+    "maintainer": "dasWalpurgis",
+    "kind": "repository",
+    "github": {
+      "owner": "dasWalpurgis",
+      "repo": "USTC",
+      "branch": "main"
+    },
+    "notes": "README 说明按大类分目录（量子化学含应用量子化学，分子光谱学含分子光谱学基础）；作者声明文件未开源，仅目录导航。仓库无 LICENSE。\nREADME 明确“文件没有开源”，仅作原页导航，不复制内容；含通识课程学生作品。"
+  },
+  {
+    "id": "chembio-flimmernz",
+    "name": "flimmernz/course-note（材料系课程笔记与报告）",
+    "url": "https://github.com/flimmernz/course-note",
+    "maintainer": "flimmernz",
+    "kind": "repository",
+    "github": {
+      "owner": "flimmernz",
+      "repo": "course-note",
+      "branch": "main"
+    },
+    "notes": "README 明列本科阶段：材料制备与加工、固体材料结构基础、物化实验；仓库无 LICENSE。"
+  },
+  {
+    "id": "chembio-gold3fluoride-019175",
+    "name": "gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）",
+    "url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz",
+    "maintainer": "gold3fluoride",
+    "kind": "repository",
+    "github": {
+      "owner": "gold3fluoride",
+      "repo": "2025spr.ustc.019175.05.wxz",
+      "branch": "main"
+    },
+    "notes": "仓库名含官方课程号 019175 与学期 2025春；README 说明为分析化学作业的 MATLAB/Python 代码。无 LICENSE。"
+  },
+  {
+    "id": "chembio-q2chem-teaching",
+    "name": "李震宇（Prof. Zhenyu Li）教学页 q2chemistry.net/teaching",
+    "url": "https://q2chemistry.net/teaching.html",
+    "maintainer": "李震宇（Zhenyu Li，USTC）",
+    "kind": "website",
+    "github": null,
+    "notes": "教师公开教学页，逐门课列课程信息与章节 PDF 直链（staff.ustc.edu.cn/~zyli/download/），含量子化学、应用量子化学、量子计算化学、计算材料学、科技写作与表达等；页面未声明再分发许可。"
+  },
+  {
+    "id": "chembio-yixuanche-home",
+    "name": "YIXUAN CHE 个人主页课程页（home.ustc.edu.cn/~zz0312）",
+    "url": "http://home.ustc.edu.cn/~zz0312/Courses.html",
+    "maintainer": "YIXUAN CHE（在校学生个人主页）",
+    "kind": "website",
+    "github": null,
+    "notes": "学生个人主页，按课程建页并标注课程号与学期（Physical Chemistry III 003156.01 Fall 2021；Basic Structures of Solid Materials 014007.01 Fall 2023），提供幻灯片与讲义 PDF；同站 Resource.html 汇总睿客网网盘并注明“仅限化院内部使用，严禁外传”，不收录。"
+  },
+  {
+    "id": "eng-catalog",
+    "name": "中国科学技术大学课程目录（官方）",
+    "url": "https://catalog.ustc.edu.cn/query/lesson",
+    "maintainer": "中国科学技术大学教务处",
+    "kind": "index",
+    "github": null,
+    "notes": "官方本科课程目录；course/infos API提供课程名/开课单位/学科/类别/中文简介/教材，用于课程归属与标签依据。\n官方课程查询；课程信息与标签依据 /api/teach/course/infos 的实际响应。"
+  },
+  {
+    "id": "eng-github-duxiaoyang-materials",
+    "name": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials",
+    "maintainer": "duxiaoyang-creator",
+    "kind": "repository",
+    "github": {
+      "owner": "duxiaoyang-creator",
+      "repo": "USTC-Course-Materials",
+      "branch": "main"
+    },
+    "notes": "README按年级/学期列课程与部分授课教师；含课件、试卷、作业、实验与项目。\nbranch=main 经 GitHub API repos 元数据核验；无许可声明；个人本科课程作业/实验报告/复习资料存档。2026-11-18 读取完整 git tree 核对目录。\n本科课程作业与复习资料存档；仓库无 LICENSE，版权归原作者，仅原页导航；目录内教材/教辅扫描已排除，不收录教材下载。"
+  },
+  {
+    "id": "eng-github-epihio-automation",
+    "name": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "url": "https://github.com/EpiHio/USTC_Automation",
+    "maintainer": "EpiHio",
+    "kind": "repository",
+    "github": {
+      "owner": "EpiHio",
+      "repo": "USTC_Automation",
+      "branch": "main"
+    },
+    "notes": "README声明为自动化专业本科课程资料，按学期+课程目录；含笔记/课本答案/作业/往年题/实验。本轮仅登记公开原页面。"
+  },
+  {
+    "id": "eng-github-guch8017",
+    "name": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "url": "https://github.com/guch8017/USTC_CS_EXAM",
+    "maintainer": "guch8017",
+    "kind": "repository",
+    "github": {
+      "owner": "guch8017",
+      "repo": "USTC_CS_EXAM",
+      "branch": "master"
+    },
+    "notes": "README按课程/教师/年份列试卷；资源大部分收集自USTC评课社区。本轮检查README与Exams目录。\nbranch=master 经 GitHub API repos 元数据核验；无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "eng-github-ly382965-materials",
+    "name": "ly382965/USTC_learning_materials（6系课程资料）",
+    "url": "https://github.com/ly382965/USTC_learning_materials",
+    "maintainer": "ly382965",
+    "kind": "repository",
+    "github": {
+      "owner": "ly382965",
+      "repo": "USTC_learning_materials",
+      "branch": "main"
+    },
+    "notes": "README提供35个课程目录索引与资料类型说明；来源含评课社区/课程群/学长主页。含Z-Library教材下载，已排除不收录。\nbranch=main 经 GitHub API repos 元数据核验；无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题。2026-11-18 读取完整 git tree 核对目录。\n电子信息培养方案课程资料；毛概目录含2021版分章知识点/练习题与复习文档；仓库无 LICENSE，仅原页导航。"
+  },
+  {
+    "id": "eng-github-melmaphother",
+    "name": "Melmaphother/ustc-course-resources",
+    "url": "https://github.com/Melmaphother/ustc-course-resources",
+    "maintainer": "Melmaphother",
+    "kind": "repository",
+    "github": {
+      "owner": "Melmaphother",
+      "repo": "ustc-course-resources",
+      "branch": "main"
+    },
+    "notes": "课程资源补充；量子物理/计算机网络等目录。计算机网络目录仅README，不计资料。\nbranch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明个人课程资源记录。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "eng-github-mrphilo-eeis",
+    "name": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）",
+    "url": "https://github.com/Mr-Philo/USTC_EEIS_Courses",
+    "maintainer": "Mr-Philo（wangruizhe@mail.ustc.edu.cn）",
+    "kind": "repository",
+    "github": {
+      "owner": "Mr-Philo",
+      "repo": "USTC_EEIS_Courses",
+      "branch": "main"
+    },
+    "notes": "README明确“所有资料仅供科大学弟学妹参考使用，切勿随意外传”；本轮只登记公开仓库目录页，不提供受限文件直链或镜像。"
+  },
+  {
+    "id": "eng-github-starkerfirst-icdesign",
+    "name": "starkerfirst/USTC_2022FA_ICdesign（芯片设计实践2022秋）",
+    "url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign",
+    "maintainer": "starkerfirst",
+    "kind": "repository",
+    "github": {
+      "owner": "starkerfirst",
+      "repo": "USTC_2022FA_ICdesign",
+      "branch": "main"
+    },
+    "notes": "README说明为Chip Design Practice 2022FA项目，GDS已提交代工厂；含EDA理论/教程与ic_design工程。商业EDA工具教程权利独立。"
+  },
+  {
+    "id": "eng-github-ustcwpz-cs",
+    "name": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource",
+    "maintainer": "ustcwpz",
+    "kind": "repository",
+    "github": {
+      "owner": "ustcwpz",
+      "repo": "USTC-CS-Courses-Resource",
+      "branch": "master"
+    },
+    "notes": "历史计算机课程资料，含教材和第三方文件；本轮只用已确认课程目录，排除教材下载。\nbranch=master 经 GitHub API repos 元数据核验；仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可。2026-11-18 读取完整 git tree 核对目录。\nmbinary/USTC-CS-Courses-Resource 的镜像/分叉；自由选修-经管类中微观经济学、会计学原理文件与 15172658790/Blog 的 blob SHA 相同，按精确镜像合并 locations。"
+  },
+  {
+    "id": "feixu-alist",
+    "name": "feixu 学习资料分享站（AList）",
+    "url": "https://share.feixu.site/",
+    "maintainer": "feixu.site 站长与投稿者",
+    "kind": "website",
+    "github": null,
+    "notes": "公开 AList 目录，数学类/物理类为本切片范围；页脚声明仅供学习、不得商用，不构成逐文件再分发许可；下载使用站点签名，本站不保存签名链接。\nAList 公开分享站；站内注明资料仅供学习、不得商用，投稿说明不等于第三方文件再分发许可。本切片只用到“其他/有机化学A1”“其他/脑与认知科学导论”等目录。\n公开 AList 目录；站内声明资料仅可学习、不得商用，站长说明不接收已出版书籍与课堂 PPT 投稿。文件权利未单独声明，本站只导航原页、不转存、不提供签名临时直链。2026-11-18 通过 /api/fs/list 实际读取「计算机类」24 个目录、196 条目。\nAList 公开目录；站内声明仅供学习、不得商用；不保存 sign 临时直链；投稿说明不投稿已出版书籍/课堂 PPT，不构成再分发许可。"
+  },
+  {
+    "id": "gh-15172658790-blog",
+    "name": "15172658790/Blog",
+    "url": "https://github.com/15172658790/Blog",
+    "maintainer": "15172658790",
+    "kind": "repository",
+    "github": {
+      "owner": "15172658790",
+      "repo": "Blog",
+      "branch": "branch_1"
+    },
+    "notes": "branch=branch_1 经 GitHub API repos 元数据核验；无许可声明；为 USTC-CS-Courses-Resource 的镜像/整理版本（按类别组织），与 ustcwpz 内容有重叠。2026-11-18 读取完整 git tree 核对目录。\nmbinary/USTC-CS-Courses-Resource 的旧备份镜像，实际默认分支为 branch_1；README 声明无特别声明资料按 CC BY-NC-SA 4.0，第三方课件/试卷版权归原作者，仅原页导航。"
+  },
+  {
+    "id": "gh-cg-2020",
+    "name": "SqrtiZhang/CG_2020spring",
+    "url": "https://github.com/SqrtiZhang/CG_2020spring",
+    "maintainer": "SqrtiZhang",
+    "kind": "repository",
+    "github": {
+      "owner": "SqrtiZhang",
+      "repo": "CG_2020spring",
+      "branch": "master"
+    },
+    "notes": "计算机图形学 2020 春作业与文档；README 明示课程编号。"
+  },
+  {
+    "id": "gh-guidongnan",
+    "name": "guidongnan/ustc_ds_undergraduate_course",
+    "url": "https://github.com/guidongnan/ustc_ds_undergraduate_course",
+    "maintainer": "guidongnan",
+    "kind": "repository",
+    "github": {
+      "owner": "guidongnan",
+      "repo": "ustc_ds_undergraduate_course",
+      "branch": "main"
+    },
+    "notes": "本科课程试卷与复习资料；根 LICENSE 仅覆盖原创部分。\n数据科学学院本科资料；README声明禁止抄袭、侵删。含信号与系统/计算机网络/运筹学等试卷目录，课程代码未标注。\nbranch=main 经 GitHub API repos 元数据核验；仓库 LICENSE 为 MIT；README 声明非商业用途、禁止抄袭。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "gh-kobe972",
+    "name": "Kobe972/ustc_course_plus",
+    "url": "https://github.com/Kobe972/ustc_course_plus",
+    "maintainer": "Kobe972",
+    "kind": "repository",
+    "github": {
+      "owner": "Kobe972",
+      "repo": "ustc_course_plus",
+      "branch": "main"
+    },
+    "notes": "个人课程资料补充；数理方程B、电磁学C、量子物理、概统；未见根 LICENSE。\n课程补充资料/实验；含模拟与数字电路、量子物理等目录，课程代码未在目录名标注。\nbranch=main 经 GitHub API repos 元数据核验；README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者。2026-11-18 读取完整 git tree 核对目录。\nREADME 声明除特殊说明外可复制、修改、传播；作为课程资源补充，仅原页导航。"
+  },
+  {
+    "id": "gh-li-qi-lin",
+    "name": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing",
+    "maintainer": "li-qi-lin",
+    "kind": "repository",
+    "github": {
+      "owner": "li-qi-lin",
+      "repo": "USTC-Course-Materials-Sharing",
+      "branch": "master"
+    },
+    "notes": "课程资料分享；含概统、复变函数、大物实验；未见根 LICENSE。\nREADME声明为6系电子信息工程本科专业课程资料，未传完；含考试复习/半开卷资料。\nbranch=master 经 GitHub API repos 元数据核验；无许可声明；6系电子信息工程课程资料整理。2026-11-18 读取完整 git tree 核对目录。\n电子信息工程本科资料库；仓库无 LICENSE，仅原页导航。"
+  },
+  {
+    "id": "gh-lrel7-ustc-cod-sp24",
+    "name": "lrel7/USTC-COD-SP24",
+    "url": "https://github.com/lrel7/USTC-COD-SP24",
+    "maintainer": "lrel7",
+    "kind": "repository",
+    "github": {
+      "owner": "lrel7",
+      "repo": "USTC-COD-SP24",
+      "branch": "master"
+    },
+    "notes": "branch=master 经 GitHub API repos 元数据核验；无许可声明；2024春卢建良班计算机组成原理课程实验。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "gh-lucien-fa",
+    "name": "Luciennnnnnn/ustc-functional-analysis-exercise-set",
+    "url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set",
+    "maintainer": "Luciennnnnnn",
+    "kind": "repository",
+    "github": {
+      "owner": "Luciennnnnnn",
+      "repo": "ustc-functional-analysis-exercise-set",
+      "branch": "main"
+    },
+    "notes": "实变函数与泛函分析习题集；根 LICENSE 仅覆盖原创。"
+  },
+  {
+    "id": "gh-syvshc-fa",
+    "name": "syvshc/2019Fall_FA",
+    "url": "https://github.com/syvshc/2019Fall_FA",
+    "maintainer": "syvshc",
+    "kind": "repository",
+    "github": {
+      "owner": "syvshc",
+      "repo": "2019Fall_FA",
+      "branch": "master"
+    },
+    "notes": "2019秋泛函分析笔记；未见根 LICENSE。"
+  },
+  {
+    "id": "gh-tinyrubbish-course-materials",
+    "name": "TinyRubbish/Course-Materials",
+    "url": "https://github.com/TinyRubbish/Course-Materials",
+    "maintainer": "TinyRubbish",
+    "kind": "repository",
+    "github": {
+      "owner": "TinyRubbish",
+      "repo": "Course-Materials",
+      "branch": "main"
+    },
+    "notes": "branch=main 经 GitHub API repos 元数据核验；无许可声明；个人 USTC 课程资料。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "gh-txtxj-alg",
+    "name": "txtxj/USTC-Algorithm",
+    "url": "https://github.com/txtxj/USTC-Algorithm",
+    "maintainer": "txtxj",
+    "kind": "repository",
+    "github": {
+      "owner": "txtxj",
+      "repo": "USTC-Algorithm",
+      "branch": "master"
+    },
+    "notes": "算法基础 2022SP（陈雪）实验。"
+  },
+  {
+    "id": "gh-ustc-ai-sgy-ustc-ai-sgy-io",
+    "name": "ustc-ai-sgy/ustc-ai-sgy.github.io",
+    "url": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io",
+    "maintainer": "ustc-ai-sgy",
+    "kind": "repository",
+    "github": {
+      "owner": "ustc-ai-sgy",
+      "repo": "ustc-ai-sgy.github.io",
+      "branch": "main"
+    },
+    "notes": "branch=main 经 GitHub API repos 元数据核验；无许可声明；AI 通识课程站点源码与课件。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "gh-ustc-cg-25",
+    "name": "USTC-CG/USTC_CG_25",
+    "url": "https://github.com/USTC-CG/USTC_CG_25",
+    "maintainer": "USTC-CG",
+    "kind": "repository",
+    "github": {
+      "owner": "USTC-CG",
+      "repo": "USTC_CG_25",
+      "branch": "master"
+    },
+    "notes": "计算机图形学（001065）2025春课程作业仓库；README 明示课程编号。"
+  },
+  {
+    "id": "gh-ustc-cs-resources",
+    "name": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources",
+    "maintainer": "USTC-CS-Course-Resource",
+    "kind": "repository",
+    "github": {
+      "owner": "USTC-CS-Course-Resource",
+      "repo": "USTC-CS-Resources",
+      "branch": "master"
+    },
+    "notes": "跨课程聚合；Physics/电磁学、大物实验目录仅作候选，未确认级别；根 LICENSE 仅覆盖原创。\n计算机学院个人学习资料；含Analog-and-Digital-Circuits实验、运筹学基础试卷等。课程代码未标注。\nbranch=master 经 GitHub API repos 元数据核验；仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "gh-ustc-resource",
+    "name": "USTC-Resource/USTC-Course",
+    "url": "https://github.com/USTC-Resource/USTC-Course",
+    "maintainer": "USTC-Resource",
+    "kind": "repository",
+    "github": {
+      "owner": "USTC-Resource",
+      "repo": "USTC-Course",
+      "branch": "master"
+    },
+    "notes": "跨课程资料库；数理方程、概率统计、计算方法、近世代数等目录；未见根 LICENSE。\nREADME的CC声明不覆盖仓库内全部第三方文件；本轮仅登记已确认课程目录页。\nbranch=master 经 GitHub API repos 元数据核验；仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者。2026-11-18 读取完整 git tree 核对目录。\n学生原创笔记、总结与经验；README 声明无特别声明资料按 CC BY-NC-SA 4.0，第三方内容版权归原作者，仅原页导航。"
+  },
+  {
+    "id": "gh-vatican-mm",
+    "name": "TheVaticanCameos/USTC_MM_25",
+    "url": "https://github.com/TheVaticanCameos/USTC_MM_25",
+    "maintainer": "TheVaticanCameos",
+    "kind": "repository",
+    "github": {
+      "owner": "TheVaticanCameos",
+      "repo": "USTC_MM_25",
+      "branch": "main"
+    },
+    "notes": "数学建模（MATH001139）2025春作业；未见根 LICENSE。"
+  },
+  {
+    "id": "gh-weiyu-mathstat",
+    "name": "Weiyu-USTC/USTCmath-stat",
+    "url": "https://github.com/Weiyu-USTC/USTCmath-stat",
+    "maintainer": "Weiyu-USTC",
+    "kind": "repository",
+    "github": {
+      "owner": "Weiyu-USTC",
+      "repo": "USTCmath-stat",
+      "branch": "master"
+    },
+    "notes": "数学/统计课程笔记作业；含实分析、拓扑、泛函；内嵌教材 PDF 不收录；未见根 LICENSE。"
+  },
+  {
+    "id": "gh-wloner0809",
+    "name": "Wloner0809/ustc-course-resource",
+    "url": "https://github.com/Wloner0809/ustc-course-resource",
+    "maintainer": "Wloner0809",
+    "kind": "repository",
+    "github": {
+      "owner": "Wloner0809",
+      "repo": "ustc-course-resource",
+      "branch": "main"
+    },
+    "notes": "课程review/作业；数理方程B、概统、线代B1；未见根 LICENSE。\nbranch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明维护者与最后更新时间。2026-11-18 读取完整 git tree 核对目录。"
+  },
+  {
+    "id": "gh-zhichen-cpa",
+    "name": "Zhichenzzz/Computational-Physics-A",
+    "url": "https://github.com/Zhichenzzz/Computational-Physics-A",
+    "maintainer": "Zhichenzzz",
+    "kind": "repository",
+    "github": {
+      "owner": "Zhichenzzz",
+      "repo": "Computational-Physics-A",
+      "branch": "main"
+    },
+    "notes": "计算物理A作业；未见根 LICENSE。"
+  },
+  {
+    "id": "github-hehaha68-metaverse",
+    "name": "USTC 2022春《元宇宙导论》课程资源（hehaha68）",
+    "url": "https://github.com/hehaha68/USTC_2022Spring_An-introduction-to-Metaverse",
+    "maintainer": "hehaha68",
+    "kind": "repository",
+    "github": {
+      "owner": "hehaha68",
+      "repo": "USTC_2022Spring_An-introduction-to-Metaverse",
+      "branch": "master"
+    },
+    "notes": "README 自述 USTC 2022春《元宇宙导论》课程资源；仓库根目录未见 LICENSE，版权归作者，仅原页导航。"
+  },
+  {
+    "id": "github-hehaha68-time-series-b",
+    "name": "USTC 2022春《时间序列分析B》课程资源（hehaha68）",
+    "url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
+    "maintainer": "hehaha68",
+    "kind": "repository",
+    "github": {
+      "owner": "hehaha68",
+      "repo": "USTC_2022Spring_Time-Series-Analysis-B",
+      "branch": "master"
+    },
+    "notes": "Readme 自述 USTC 2022春《时间序列分析B》课程资源；仓库根目录未见 LICENSE，版权归作者，仅原页导航。"
+  },
+  {
+    "id": "github-irvingyou-regression-lab",
+    "name": "中科大回归分析 2025 lab（IrvingYou）",
+    "url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
+    "maintainer": "IrvingYou",
+    "kind": "repository",
+    "github": {
+      "owner": "IrvingYou",
+      "repo": "USTC-Regression-Analysis-lab2025",
+      "branch": "main"
+    },
+    "notes": "README 自述中科大回归分析2025 lab 作业，答案由作者生成、不保证正确；仓库根目录未见 LICENSE，仅原页导航。"
+  },
+  {
+    "id": "github-luckytoe-film-music",
+    "name": "电影音乐艺术《末代皇帝》展示材料（LuckytoeUSTC）",
+    "url": "https://github.com/LuckytoeUSTC/the-last-emperor-film-music",
+    "maintainer": "LuckytoeUSTC",
+    "kind": "repository",
+    "github": {
+      "owner": "LuckytoeUSTC",
+      "repo": "the-last-emperor-film-music",
+      "branch": "main"
+    },
+    "notes": "README 自述分享电影音乐艺术课程的展示材料、讲稿与课程讲义；仓库根目录未见 LICENSE，仅原页导航。"
+  },
+  {
+    "id": "github-rachel-finance-minor",
+    "name": "USTC_Finance_Minor（RachelK9790715）",
+    "url": "https://github.com/RachelK9790715/USTC_Finance_Minor",
+    "maintainer": "RachelK9790715",
+    "kind": "repository",
+    "github": {
+      "owner": "RachelK9790715",
+      "repo": "USTC_Finance_Minor",
+      "branch": "main"
+    },
+    "notes": "金融辅修课程资料；仓库无 LICENSE，仅原页导航。"
+  },
+  {
+    "id": "icourse-club",
+    "name": "USTC 评课社区",
+    "url": "https://icourse.club/",
+    "maintainer": "USTC评课社区（jenny42 等）",
+    "kind": "website",
+    "github": null,
+    "notes": "公开课程页可核对课程号和开课信息（课程号可能附教学班后缀），点评内部分附件要求登录，未绕过。旧索引提供的复变函数 B 与线代 B1 两个附件直链实测匿名返回 206 application/pdf；只登记已证实公开可取的直链，文件权利归原作者。"
+  },
+  {
+    "id": "ustc-math-exam",
+    "name": "USTC 数学课程往年试卷",
+    "url": "https://ustcmathexam.github.io/",
+    "maintainer": "ustcmathexam（学生运营）",
+    "kind": "website",
+    "github": {
+      "owner": "ustcmathexam",
+      "repo": "ustcmathexam.github.io",
+      "branch": "master"
+    },
+    "notes": "按课程分类的数学试卷站，文件在仓库 USTC/；站点模板 MIT 不覆盖试卷权利。"
+  },
+  {
+    "id": "ustc-mooc",
+    "name": "中国科学技术大学慕课平台",
+    "url": "https://mooc.course.ustc.edu.cn/",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "官方慕课；匿名可看课程介绍/章节，视频等学习内容需登录；仅原页导航，不抓取受限视频。"
+  },
+  {
+    "id": "ustc-phy-exam",
+    "name": "USTC 物理课程往年试卷",
+    "url": "https://ustcphyexam.github.io/",
+    "maintainer": "ustcphyexam（学生运营）",
+    "kind": "website",
+    "github": {
+      "owner": "ustcphyexam",
+      "repo": "ustcphyexam.github.io",
+      "branch": "main"
+    },
+    "notes": "按课程分类的物理试卷站，文件在仓库 USTC/；站点模板 MIT 不覆盖试卷权利。"
+  },
+  {
+    "id": "ustc-teacher-pages",
+    "name": "USTC 教师个人主页（staff/faculty）",
+    "url": "https://staff.ustc.edu.cn/",
+    "maintainer": "各课程授课教师",
+    "kind": "website",
+    "github": null,
+    "notes": "经评课社区课程页外链定位到 staff/faculty 课程主页；仅登记含课件/资料链接的页面，材料权利归教师。\n教师个人课程主页/院系课程站点；课件权利归授课教师，页面多无再分发许可，本站只导航原页。2026-11-18 通过搜索引擎定位并实际打开页面核对标题与文件列表。"
+  },
+  {
+    "id": "ustcguide-gitbook",
+    "name": "USTC 课程资料簿（GitBook）",
+    "url": "https://ustcguide.gitbook.io/coursedata/",
+    "maintainer": "USTCGUIDE（施耀炜等贡献者）",
+    "kind": "index",
+    "github": null,
+    "notes": "课程经验索引（GitBook）；正文页面未取得，仅作原页导航，不含电子书/教材下载。关联仓库 USTCGUIDE/USTCGUIDE 的 Coursedata 分支（见 ustcguide-repository），本站页面本身无 GitHub 身份。\n按课程组织的资料索引，条目多为 easylink.cc 短链跳转云盘；序言署名施耀炜（21级少年班），贡献者与致谢见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md ；序言声明含电子书扫描版（教材下载不收录）。\n公开课程经验/资料索引，序署施耀炜（21级少年班）；无再分发许可，只做原页导航；本轮检查llms.txt目录与相关课程页。\n课程资料索引；序署名施耀炜（21级少年班），贡献者名单见 https://ustcguide.gitbook.io/coursedata/start/geng-xin-ri-zhi-yu-gong-xian-zhe-ming-dan.md 。序说明含电子版教材扫描，按本站方案不收录教材下载。\n序署名施耀炜（21级少年班）及公开贡献者；资料簿 llms.txt 无本切片课程专页；无再分发许可，仅原页导航。"
+  },
+  {
+    "id": "ustcguide-legacy",
+    "name": "USTCGUIDE/UstcCourseData.github.io",
+    "url": "https://github.com/USTCGUIDE/UstcCourseData.github.io",
+    "maintainer": "USTCGUIDE",
+    "kind": "mirror",
+    "github": {
+      "owner": "USTCGUIDE",
+      "repo": "UstcCourseData.github.io",
+      "branch": "main"
+    },
+    "notes": "课程资料簿旧版站点/索引，与 GitBook 同源，不重复计份。"
+  },
+  {
+    "id": "ustcguide-repository",
+    "name": "USTCGUIDE/USTCGUIDE（Coursedata 分支）",
+    "url": "https://github.com/USTCGUIDE/USTCGUIDE/tree/Coursedata",
+    "maintainer": "USTCGUIDE contributors",
+    "kind": "repository",
+    "github": {
+      "owner": "USTCGUIDE",
+      "repo": "USTCGUIDE",
+      "branch": "Coursedata"
+    },
+    "notes": "课程资料簿的仓库版本；Coursedata 分支经 GitHub API /branches/Coursedata 实际核验存在（head e746f5029da77ee47babd4ecf27edc73a971bb5a），与 GitBook 同源，不视为多份资料。\n方案指定 Coursedata 分支实际存在（head e746f50）；无本切片课程页。"
+  },
+  {
+    "id": "gh-fandahao17-ustc-cs",
+    "name": "fandahao17/USTC-CS-Courses-Resource（历史课程资料）",
+    "url": "https://github.com/fandahao17/USTC-CS-Courses-Resource",
+    "maintainer": "fandahao17",
+    "kind": "repository",
+    "github": {
+      "owner": "fandahao17",
+      "repo": "USTC-CS-Courses-Resource",
+      "branch": "master"
+    },
+    "notes": "README 自述为中国科学技术大学计算机学院课程资源；根 LICENSE 为 MIT（GitHub API 元数据），不当然覆盖第三方试卷；数学类/线性代数B1 目录含 15 份可核验的 B1 试卷扫描件与 1 个整包 zip；raw.githubusercontent.com 匿名可取，15 份实测 200 且字节数与本地副本一致。"
+  }
+]

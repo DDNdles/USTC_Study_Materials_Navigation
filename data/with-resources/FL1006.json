@@ -1,0 +1,11 @@
+{
+  "code": "FL1006",
+  "name": "英语读写II",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "resource_ids": [
+    "hum-FL1006-lectures-mooc"
+  ]
+}

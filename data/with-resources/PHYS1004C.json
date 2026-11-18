@@ -1,0 +1,19 @@
+{
+  "code": "PHYS1004C",
+  "name": "电磁学C",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1004c-exams-0ce5ce",
+    "mp-feixu-phys1004c-exams-1267ed",
+    "mp-feixu-phys1004c-exams-279fa1",
+    "mp-feixu-phys1004c-exams-ca3286",
+    "mp-feixu-phys1004c-lectures-7a9076",
+    "mp-feixu-phys1004c-notes-1b2e37",
+    "mp-feixu-phys1004c-notes-bb56c2",
+    "mp-gh-phys1004c-notes-3d0e05",
+    "mp-gh-phys1004c-projects-3d0e05"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "MATH3005",
+  "name": "数理统计",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "resource_ids": [
+    "mp-feixu-math3005-exams-1184d4",
+    "mp-feixu-math3005-exams-d1792c",
+    "mp-uexam-math3005-2024-final-7d31f7",
+    "mp-uexam-math3005-2024-midterm-8ca2fa",
+    "mp-uexam-math3005-2025-final-e0336d",
+    "mp-uexam-math3005-2025-final-f3bf4b",
+    "mp-uexam-math3005-2025-midterm-4d761a"
+  ]
+}

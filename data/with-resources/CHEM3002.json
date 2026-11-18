@@ -1,0 +1,12 @@
+{
+  "code": "CHEM3002",
+  "name": "分子光谱学基础",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "resource_ids": [
+    "chembio-CHEM3002-notes"
+  ]
+}

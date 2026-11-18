@@ -1,0 +1,20 @@
+{
+  "code": "HS2001",
+  "name": "科学、技术与工程导论",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "physics",
+    "chemistry",
+    "astronomy",
+    "earth",
+    "space",
+    "biology",
+    "statistics",
+    "cs",
+    "ai"
+  ],
+  "resource_ids": [
+    "hum-HS2001-openbook-feixu"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "code": "PHYS1001B",
+  "name": "力学B",
+  "kind": "common",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1001b-exams-03327c",
+    "mp-feixu-phys1001b-exams-03eed3",
+    "mp-feixu-phys1001b-exams-3210c4",
+    "mp-feixu-phys1001b-exams-624979",
+    "mp-feixu-phys1001b-exams-8a8626",
+    "mp-feixu-phys1001b-exams-a113e3",
+    "mp-feixu-phys1001b-exams-c70090",
+    "mp-feixu-phys1001b-exams-f9b7b1"
+  ]
+}

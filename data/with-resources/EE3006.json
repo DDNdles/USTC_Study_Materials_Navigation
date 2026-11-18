@@ -1,0 +1,15 @@
+{
+  "code": "EE3006",
+  "name": "计算机控制基础",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-exam-feixu-ee3006-2023-a",
+    "computing-exam-feixu-ee3006-2024-a",
+    "computing-homework-feixu-ee3006-answers",
+    "computing-study-feixu-ee3006-formula"
+  ]
+}

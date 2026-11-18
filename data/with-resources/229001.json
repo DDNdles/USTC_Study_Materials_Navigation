@@ -1,0 +1,17 @@
+{
+  "code": "229001",
+  "name": "离散数学",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-exam-guch-is3004-dma23f-md",
+    "computing-exam-guch-is3004-dma23m-md",
+    "computing-exam-guch-is3004-dma24f-pdf",
+    "computing-homework-gh-ustc-ds-undergradu-229001",
+    "icourse-229001-discrete-2021-final-recall",
+    "openbook-229001-levin-dmoi4"
+  ]
+}

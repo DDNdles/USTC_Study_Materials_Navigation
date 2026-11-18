@@ -1,0 +1,22 @@
+{
+  "code": "011145",
+  "name": "计算机组成原理",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "resource_ids": [
+    "computing-exam-feixu-011145-2017",
+    "computing-exam-guch-011145-cod2017-pdf",
+    "computing-homework-feixu-011145",
+    "computing-lectures-gh-ustc-cs-courses-re-011145",
+    "computing-lectures-web-011145",
+    "computing-notes-feixu-011145",
+    "computing-notes-gh-ustc-cs-resources-011145-cs-computer-organization-and-design",
+    "computing-projects-gh-course-materials-011145",
+    "computing-projects-gh-ustc-cod-sp24-011145",
+    "computing-projects-gh-ustc-course-011145-codes",
+    "computing-projects-web-210072"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "014127",
+  "name": "材料物性",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "resource_ids": [
+    "chembio-014127-hw",
+    "chembio-014127-lectures"
+  ]
+}

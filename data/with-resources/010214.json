@@ -1,0 +1,38 @@
+{
+  "code": "010214",
+  "name": "计算机控制",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "cs"
+  ],
+  "resource_ids": [
+    "eng-exam-010214-0dace6b2",
+    "eng-exam-010214-180a578a",
+    "eng-exam-010214-1bfe1694",
+    "eng-exam-010214-49694f76",
+    "eng-exam-010214-655a11d2",
+    "eng-exam-010214-7ef4bacb",
+    "eng-exam-010214-8596dad4",
+    "eng-exam-010214-8603b21c",
+    "eng-exam-010214-87c3b33c",
+    "eng-exam-010214-a937127f",
+    "eng-exam-010214-ab84df19",
+    "eng-exam-010214-afe83413",
+    "eng-exam-010214-b24d5813",
+    "eng-exam-010214-b99ee471",
+    "eng-exam-010214-cfd4419b",
+    "eng-exam-010214-d2e001b3",
+    "eng-exam-010214-d58f3262",
+    "eng-exam-010214-d6d1a453",
+    "eng-exam-010214-d83b81cd",
+    "eng-exam-010214-d8cfa71a",
+    "eng-exam-010214-db28697b",
+    "eng-exam-010214-e37a3936",
+    "eng-homework-010214-373ad89d",
+    "eng-homework-010214-53cf2c38",
+    "eng-lectures-010214-e7dbfeaf",
+    "eng-open_book-010214-1fad3ed1",
+    "eng-open_book-010214-e235636a"
+  ]
+}

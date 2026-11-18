@@ -1,0 +1,21 @@
+{
+  "code": "PHYS1002A",
+  "name": "热学A",
+  "kind": "common",
+  "tags": [
+    "physics",
+    "thermal"
+  ],
+  "resource_ids": [
+    "mp-feixu-phys1002a-homework-98c5a621",
+    "mp-feixu-phys1002a-notes-3046bd",
+    "mp-feixu-phys1002a-notes-8c7b7d",
+    "mp-feixu-phys1002a-study-724ec003",
+    "mp-feixu-phys1002a-study-d9be3c93",
+    "mp-uexam-phys1002a-2022-final-d1c465",
+    "mp-uexam-phys1002a-2024-final-ca9e43",
+    "mp-uexam-phys1002a-2025-final-b16567",
+    "mp-uexam-phys1002a-2025-final-fff3f2",
+    "mp-uexam-phys1002a-2026-final-40f843"
+  ]
+}

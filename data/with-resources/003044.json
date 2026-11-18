@@ -1,0 +1,11 @@
+{
+  "code": "003044",
+  "name": "物理化学实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "resource_ids": [
+    "chembio-003044-lab-reports"
+  ]
+}

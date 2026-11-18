@@ -1,0 +1,15 @@
+{
+  "code": "EE4001",
+  "name": "芯片设计实践",
+  "kind": "professional",
+  "tags": [
+    "ic",
+    "electronics"
+  ],
+  "resource_ids": [
+    "eng-guides-ee4001-564057a3",
+    "eng-guides-ee4001-8fd10b3f",
+    "eng-lectures-ee4001-7fd086b7",
+    "eng-projects-ee4001-42d089e4"
+  ]
+}

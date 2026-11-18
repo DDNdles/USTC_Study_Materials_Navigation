@@ -1,0 +1,16 @@
+{
+  "code": "MARX1011",
+  "name": "马克思主义基本原理",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "resource_ids": [
+    "hum-MARX1011-homework-duxiaoyang",
+    "hum-MARX1011-homework-feixu",
+    "hum-MARX1011-lectures-blog",
+    "hum-MARX1011-notes-feixu",
+    "hum-MARX1011-notes-liqilin",
+    "hum-MARX1011-notes-ustcresource"
+  ]
+}

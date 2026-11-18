@@ -1,0 +1,12 @@
+{
+  "code": "PHYS1002B",
+  "name": "热学B",
+  "kind": "common",
+  "tags": [
+    "physics",
+    "thermal"
+  ],
+  "resource_ids": [
+    "mp-uexam-phys1002b-2025-final-3a5d14"
+  ]
+}

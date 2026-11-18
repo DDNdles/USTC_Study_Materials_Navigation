@@ -1,0 +1,6 @@
+.task-work/
+dist/
+node_modules/
+*.log
+.env
+.env.*

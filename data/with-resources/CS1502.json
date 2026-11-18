@@ -1,0 +1,12 @@
+{
+  "code": "CS1502",
+  "name": "计算机系统详解",
+  "kind": "general",
+  "tags": [
+    "cs"
+  ],
+  "resource_ids": [
+    "computing-projects-gh-ustc-course-cs1502-codes",
+    "computing-projects-gh-ustc-cs-courses-re-cs1502-csapp"
+  ]
+}

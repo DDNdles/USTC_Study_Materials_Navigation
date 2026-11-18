@@ -1,0 +1,40 @@
+{
+  "code": "MATH1006",
+  "name": "数学分析(B1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1006-exams-0b49a0",
+    "mp-feixu-math1006-exams-0f2f72",
+    "mp-feixu-math1006-exams-132f26",
+    "mp-feixu-math1006-exams-1da05d",
+    "mp-feixu-math1006-exams-1f40ce",
+    "mp-feixu-math1006-exams-21a6ec",
+    "mp-feixu-math1006-exams-252768",
+    "mp-feixu-math1006-exams-2d6c5f",
+    "mp-feixu-math1006-exams-379dc1",
+    "mp-feixu-math1006-exams-3a562b",
+    "mp-feixu-math1006-exams-3bf400",
+    "mp-feixu-math1006-exams-41825e",
+    "mp-feixu-math1006-exams-4debfc",
+    "mp-feixu-math1006-exams-68c10c",
+    "mp-feixu-math1006-exams-776a65",
+    "mp-feixu-math1006-exams-9f734c",
+    "mp-feixu-math1006-exams-aa15a9",
+    "mp-feixu-math1006-exams-b933f7",
+    "mp-feixu-math1006-exams-c6d040",
+    "mp-feixu-math1006-exams-cc8ebb",
+    "mp-feixu-math1006-exams-e7883d",
+    "mp-feixu-math1006-exams-ef8c66",
+    "mp-feixu-math1006-lectures-d6981d",
+    "mp-feixu-math1006-study-13fa9d",
+    "mp-feixu-math1006-study-4d36b8",
+    "mp-feixu-math1006-study-4fbb75",
+    "mp-uexam-math1006-2016-quiz-c5b293",
+    "mp-uexam-math1006-2023-midterm-113679",
+    "mp-uexam-math1006-2024-final-5790a2",
+    "mp-uexam-math1006-ny-final-2fcdad"
+  ]
+}

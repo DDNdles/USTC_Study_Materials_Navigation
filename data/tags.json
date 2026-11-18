@@ -1,0 +1,146 @@
+[
+  {
+    "id": "math",
+    "label": "数学"
+  },
+  {
+    "id": "statistics",
+    "label": "统计"
+  },
+  {
+    "id": "physics",
+    "label": "物理"
+  },
+  {
+    "id": "astronomy",
+    "label": "天文"
+  },
+  {
+    "id": "earth",
+    "label": "地球科学"
+  },
+  {
+    "id": "space",
+    "label": "空间科学"
+  },
+  {
+    "id": "chemistry",
+    "label": "化学"
+  },
+  {
+    "id": "materials",
+    "label": "材料"
+  },
+  {
+    "id": "biology",
+    "label": "生命科学"
+  },
+  {
+    "id": "medicine",
+    "label": "医学"
+  },
+  {
+    "id": "biomedical",
+    "label": "生物医学工程"
+  },
+  {
+    "id": "environment",
+    "label": "环境"
+  },
+  {
+    "id": "mechanics",
+    "label": "力学"
+  },
+  {
+    "id": "instruments",
+    "label": "机械与仪器"
+  },
+  {
+    "id": "thermal",
+    "label": "热能"
+  },
+  {
+    "id": "safety",
+    "label": "安全"
+  },
+  {
+    "id": "nuclear",
+    "label": "核科学"
+  },
+  {
+    "id": "electronics",
+    "label": "电子"
+  },
+  {
+    "id": "communications",
+    "label": "通信"
+  },
+  {
+    "id": "control",
+    "label": "自动化"
+  },
+  {
+    "id": "ic",
+    "label": "集成电路"
+  },
+  {
+    "id": "cs",
+    "label": "计算机"
+  },
+  {
+    "id": "ai",
+    "label": "人工智能"
+  },
+  {
+    "id": "security",
+    "label": "网络安全"
+  },
+  {
+    "id": "economics",
+    "label": "经济"
+  },
+  {
+    "id": "finance",
+    "label": "金融"
+  },
+  {
+    "id": "management",
+    "label": "管理"
+  },
+  {
+    "id": "philosophy",
+    "label": "哲学"
+  },
+  {
+    "id": "history",
+    "label": "历史"
+  },
+  {
+    "id": "literature",
+    "label": "文学"
+  },
+  {
+    "id": "arts",
+    "label": "艺术"
+  },
+  {
+    "id": "languages",
+    "label": "外语"
+  },
+  {
+    "id": "sports",
+    "label": "体育"
+  },
+  {
+    "id": "politics",
+    "label": "思政"
+  },
+  {
+    "id": "psychology",
+    "label": "心理"
+  },
+  {
+    "id": "innovation",
+    "label": "创新创业"
+  }
+]

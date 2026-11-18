@@ -1,0 +1,19 @@
+{
+  "name": "ustc-course-navigation",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "中国科学技术大学本科课程资料导航",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "collect:courses": "node scripts/collect-courses.mjs",
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "monitor": "node scripts/monitor.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,27 @@
+{
+  "code": "EE2004",
+  "name": "计算机网络B",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "communications"
+  ],
+  "resource_ids": [
+    "eng-exam-ee2004-159a90f7",
+    "eng-exam-ee2004-27b02309",
+    "eng-exam-ee2004-4a5f8c3b",
+    "eng-exam-ee2004-57b73bcd",
+    "eng-exam-ee2004-5aaa676f",
+    "eng-exam-ee2004-6ccfbd8d",
+    "eng-exam-ee2004-72e4c22a",
+    "eng-exam-ee2004-b318762d",
+    "eng-exam-ee2004-d6363c38",
+    "eng-homework-ee2004-3975a817",
+    "eng-homework-ee2004-5d4427c9",
+    "eng-lectures-ee2004-34e82ff7",
+    "eng-notes-ee2004-043f281d",
+    "eng-notes-ee2004-20d980df",
+    "eng-notes-ee2004-4e2bb855",
+    "eng-projects-ee2004-cbf80c8b"
+  ]
+}

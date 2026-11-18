@@ -1,0 +1,21 @@
+{
+  "code": "MATH1010",
+  "name": "线性代数(B2)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "resource_ids": [
+    "mp-feixu-math1009-exams-05d8",
+    "mp-feixu-math1010-exams-2edb47",
+    "mp-feixu-math1010-exams-ddf020",
+    "mp-feixu-math1010-exams-ecb4da",
+    "mp-uexam-math1010-2021-final-712bbc",
+    "mp-uexam-math1010-2022-final-86a92c",
+    "mp-uexam-math1010-2023-final-462fe4",
+    "mp-uexam-math1010-2023-midterm-3329e2",
+    "mp-uexam-math1010-2024-final-f45b04",
+    "mp-uexam-math1010-2024-midterm-ff1c6a",
+    "mp-uexam-math1010-2025-midterm-3fba8d"
+  ]
+}
