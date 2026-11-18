@@ -290,6 +290,36 @@
       "locations": [
         {
           "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw4.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "li-qi-lin",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw5.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "li-qi-lin",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "li-qi-lin",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-li-qi-lin",
           "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C",
           "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C",
           "download_url": null,

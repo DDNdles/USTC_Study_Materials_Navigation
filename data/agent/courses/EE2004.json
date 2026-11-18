@@ -501,6 +501,16 @@
       "locations": [
         {
           "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6/cn-1%EF%BC%882025%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
           "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6",
           "download_page": null,
           "download_url": null,
@@ -530,6 +540,16 @@
         "note": "README明确3A秋计算机网络B；归属EE2004。"
       },
       "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81/%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "EpiHio",
+          "page_kind": "file"
+        },
         {
           "source_id": "eng-github-epihio-automation",
           "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81",

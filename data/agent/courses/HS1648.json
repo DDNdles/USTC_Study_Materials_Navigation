@@ -26,6 +26,26 @@
       "locations": [
         {
           "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E8%AF%BE%E7%A8%8B%E5%B0%8F%E4%BD%9C%E4%B8%9A.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
           "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1",
           "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1",
           "download_url": null,

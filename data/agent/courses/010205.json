@@ -60,6 +60,16 @@
       "locations": [
         {
           "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control/PDF%E7%89%88%E6%9C%AC/1.%E7%BB%AA%E8%AE%BA.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
           "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control",
           "download_page": null,
           "download_url": null,

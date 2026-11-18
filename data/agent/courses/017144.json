@@ -441,6 +441,36 @@
       "locations": [
         {
           "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "USTC-Resource",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "USTC-Resource",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "USTC-Resource",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
           "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
           "download_url": null,

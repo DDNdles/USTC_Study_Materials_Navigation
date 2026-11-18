@@ -249,6 +249,16 @@
     "locations": [
       {
         "source_id": "chembio-daswalpurgis",
+        "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E9%A2%98%E7%9B%AE.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "dasWalpurgis",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "chembio-daswalpurgis",
         "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B",
         "download_page": null,
         "download_url": null,
@@ -279,6 +289,16 @@
       "note": "目录名合并两门课，仅文件名明确写“物理化学III”的条目可确认归属。"
     },
     "locations": [
+      {
+        "source_id": "chembio-daswalpurgis",
+        "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E4%BD%9C%E4%B8%9A%E5%90%88%E9%9B%86.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "dasWalpurgis",
+        "page_kind": "file"
+      },
       {
         "source_id": "chembio-daswalpurgis",
         "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6",
@@ -1122,6 +1142,36 @@
       "note": "README 明确“2025春分析化学作业”，学期年份可确认。"
     },
     "locations": [
+      {
+        "source_id": "chembio-gold3fluoride-019175",
+        "page_url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/trial0329_0.m",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "gold3fluoride",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "chembio-gold3fluoride-019175",
+        "page_url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/analchem2.py",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "gold3fluoride",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "chembio-gold3fluoride-019175",
+        "page_url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/essay/template.typ",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "gold3fluoride",
+        "page_kind": "file"
+      },
       {
         "source_id": "chembio-gold3fluoride-019175",
         "page_url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz",
@@ -7143,6 +7193,16 @@
     "locations": [
       {
         "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-ly382965-materials",
         "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP(minor)%20Algorithms%20for%20Big%20Data",
         "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP(minor)%20Algorithms%20for%20Big%20Data",
         "download_url": null,
@@ -7175,6 +7235,28 @@
     "locations": [
       {
         "source_id": "gh-ustc-resource",
+        "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "USTC-Resource",
+        "page_kind": "file",
+        "role": "solution"
+      },
+      {
+        "source_id": "gh-ustc-resource",
+        "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6_sol.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "USTC-Resource",
+        "page_kind": "file",
+        "role": "solution"
+      },
+      {
+        "source_id": "gh-ustc-resource",
         "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
         "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
         "download_url": null,
@@ -7205,6 +7287,36 @@
       "note": "年份取文件/目录名中的四位年份，仅作范围参考"
     },
     "locations": [
+      {
+        "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw4.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw5.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw.docx",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-li-qi-lin",
         "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C",
@@ -7271,6 +7383,46 @@
     "locations": [
       {
         "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/2.24%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/3.3%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/hw5%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91_%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%8C_%E6%80%9D%E8%80%83%E9%A2%98_%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-kobe972",
         "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
         "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
         "download_url": null,
@@ -7303,6 +7455,16 @@
     "locations": [
       {
         "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/HW-answers%E6%9C%80%E6%96%B0%E7%89%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-kobe972",
         "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
         "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
         "download_url": null,
@@ -7333,6 +7495,16 @@
       "note": "年份取文件/目录名中的四位年份，仅作范围参考"
     },
     "locations": [
+      {
+        "source_id": "gh-guidongnan",
+        "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BD%9C%E4%B8%9A/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BD%9C%E4%B8%9A%E4%B8%80.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "guidongnan",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-guidongnan",
         "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6",
@@ -13713,6 +13885,16 @@
     "locations": [
       {
         "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E3%80%8A%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-li-qi-lin",
         "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA",
         "download_page": null,
         "download_url": null,
@@ -13807,6 +13989,26 @@
       "note": "8-10章习题课等。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-epihio-automation",
+        "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%26%E7%AC%AC%E4%BA%8C%E7%AB%A0%281%29.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "EpiHio",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-epihio-automation",
+        "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%83%E7%AB%A0%281%29.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "EpiHio",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-epihio-automation",
         "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88",
@@ -13938,6 +14140,16 @@
     "locations": [
       {
         "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88/answers_chap1_2.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-ly382965-materials",
         "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88",
         "download_page": null,
         "download_url": null,
@@ -13970,6 +14182,16 @@
     "locations": [
       {
         "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/exercise%281%29.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-li-qi-lin",
         "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF",
         "download_page": null,
         "download_url": null,
@@ -14000,6 +14222,16 @@
       "note": "ex_chapter-1至3 docx。"
     },
     "locations": [
+      {
+        "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/ex_chapter-1-%5B2024SP%5D.docx",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-li-qi-lin",
         "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F",
@@ -14140,6 +14372,16 @@
     "locations": [
       {
         "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%BE%90%E5%AE%88%E6%97%B6%EF%BC%89%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-ly382965-materials",
         "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/Signals%20and%20Systems%20Solutions%EF%BC%88%E5%A5%A5%E6%9C%AC%E6%B5%B7%E5%A7%86%EF%BC%89.pdf",
         "download_page": null,
         "download_url": null,
@@ -14170,6 +14412,26 @@
       "note": "README明确运筹学A；归属EE2007。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-epihio-automation",
+        "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/1-4%E7%AB%A0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "EpiHio",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-epihio-automation",
+        "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E5%85%AD%E4%B8%83.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "EpiHio",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-epihio-automation",
         "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88",
@@ -14300,6 +14562,16 @@
     "locations": [
       {
         "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E4%B9%A0%E9%A2%98%E8%AF%BE-%E7%AC%AC3.5%EF%BC%8C4%E7%AB%A0.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-li-qi-lin",
         "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA",
         "download_page": null,
         "download_url": null,
@@ -14363,6 +14635,16 @@
     },
     "locations": [
       {
+        "source_id": "eng-github-duxiaoyang-materials",
+        "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E6%9C%AC%E8%AF%BE%E4%BB%B6/AAL.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "duxiaoyang-creator",
+        "page_kind": "file"
+      },
+      {
         "source_id": "eng-github-epihio-automation",
         "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E7%A8%8Bppt",
         "download_page": null,
@@ -14394,6 +14676,16 @@
       "note": "课本课件目录。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-epihio-automation",
+        "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E7%A8%8Bppt/AAL.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "EpiHio",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-duxiaoyang-materials",
         "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E6%9C%AC%E8%AF%BE%E4%BB%B6",
@@ -14460,6 +14752,16 @@
     "locations": [
       {
         "source_id": "eng-github-duxiaoyang-materials",
+        "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control/PDF%E7%89%88%E6%9C%AC/1.%E7%BB%AA%E8%AE%BA.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "duxiaoyang-creator",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-duxiaoyang-materials",
         "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control",
         "download_page": null,
         "download_url": null,
@@ -14522,6 +14824,16 @@
       "note": "ch01-ch07 PDF课件。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/ppt/ch01-1.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-ly382965-materials",
         "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/ppt",
@@ -14684,6 +14996,16 @@
     "locations": [
       {
         "source_id": "eng-github-duxiaoyang-materials",
+        "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6/cn-1%EF%BC%882025%EF%BC%89.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "duxiaoyang-creator",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-duxiaoyang-materials",
         "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6",
         "download_page": null,
         "download_url": null,
@@ -14812,6 +15134,16 @@
     "locations": [
       {
         "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/DIP-ch1%EF%BC%882025%EF%BC%89.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-ly382965-materials",
         "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A",
         "download_page": null,
         "download_url": null,
@@ -14938,6 +15270,16 @@
       "note": "复习目录。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-duxiaoyang-materials",
+        "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E6%8E%A7%E5%A4%8D%E4%B9%A0/%E7%8E%B0%E6%8E%A7%E8%A6%81%E7%82%B9.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "duxiaoyang-creator",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-epihio-automation",
         "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E5%A4%8D%E4%B9%A0",
@@ -15302,6 +15644,16 @@
     "locations": [
       {
         "source_id": "eng-github-epihio-automation",
+        "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81/%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "EpiHio",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-epihio-automation",
         "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81",
         "download_page": null,
         "download_url": null,
@@ -15428,6 +15780,16 @@
       "note": "复习纲要PDF；同目录有习题课250606。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E4%B9%A0%E9%A2%98%E8%AF%BE250606.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-ly382965-materials",
         "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E5%A4%8D%E4%B9%A0%E7%BA%B2%E8%A6%81.pdf",
@@ -16169,6 +16531,16 @@
     "locations": [
       {
         "source_id": "github-rachel-finance-minor",
+        "page_url": "https://github.com/RachelK9790715/USTC_Finance_Minor/blob/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98_%E9%A2%98%E7%9B%AE%E7%89%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "RachelK9790715",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-rachel-finance-minor",
         "page_url": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80",
         "download_page": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80",
         "download_url": null,
@@ -16623,6 +16995,36 @@
     "locations": [
       {
         "source_id": "gh-ustc-resource",
+        "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "USTC-Resource",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-ustc-resource",
+        "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "USTC-Resource",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-ustc-resource",
+        "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "USTC-Resource",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-ustc-resource",
         "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
         "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
         "download_url": null,
@@ -16683,6 +17085,67 @@
     "locations": [
       {
         "source_id": "github-irvingyou-regression-lab",
+        "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab1%20tutorial.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "IrvingYou",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-irvingyou-regression-lab",
+        "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab2/lab%202%20tutorial.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "IrvingYou",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-irvingyou-regression-lab",
+        "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab3/lab%203%20tutorial.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "IrvingYou",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-irvingyou-regression-lab",
+        "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab4/lab%204%20tutorial.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "IrvingYou",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-irvingyou-regression-lab",
+        "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab%201.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "IrvingYou",
+        "page_kind": "file",
+        "role": "solution"
+      },
+      {
+        "source_id": "github-irvingyou-regression-lab",
+        "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab%201%20summary.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "IrvingYou",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-irvingyou-regression-lab",
         "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
         "download_page": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
         "download_url": null,
@@ -16711,6 +17174,26 @@
       "note": "Readme 列出教材与 Lab1–5 习题号；文件树 11 个文件含 lab1–5.R 与实验报告1–5.pdf。"
     },
     "locations": [
+      {
+        "source_id": "github-hehaha68-time-series-b",
+        "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/blob/master/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "hehaha68",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "github-hehaha68-time-series-b",
+        "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/blob/master/lab1.R",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "hehaha68",
+        "page_kind": "file"
+      },
       {
         "source_id": "github-hehaha68-time-series-b",
         "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
@@ -17214,6 +17697,26 @@
       "note": "目录名与官方课名一致；文件为该课作业。"
     },
     "locations": [
+      {
+        "source_id": "eng-github-duxiaoyang-materials",
+        "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.docx",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "duxiaoyang-creator",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "eng-github-duxiaoyang-materials",
+        "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E8%AF%BE%E7%A8%8B%E5%B0%8F%E4%BD%9C%E4%B8%9A.docx",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "duxiaoyang-creator",
+        "page_kind": "file"
+      },
       {
         "source_id": "eng-github-duxiaoyang-materials",
         "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1",
@@ -19308,6 +19811,16 @@
       "note": "原仓库 README 标明中科大 2022 秋计算物理 A；压缩包读取中央目录并抽核代表文件。"
     },
     "locations": [
+      {
+        "source_id": "rainzor-computational-physics",
+        "page_url": "https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E7%AC%AC1-2%E9%A2%98.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Rainzor",
+        "page_kind": "file"
+      },
       {
         "source_id": "rainzor-computational-physics",
         "page_url": "https://github.com/Rainzor/Computational-Physics",
@@ -29701,6 +30214,16 @@
     "locations": [
       {
         "source_id": "gh-wloner0809",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/review1.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Wloner0809",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-wloner0809",
         "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
         "download_page": null,
         "download_url": null,
@@ -29729,6 +30252,26 @@
       "note": "目录内容按文件名归类，未逐份读正文"
     },
     "locations": [
+      {
+        "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/hw3.4%E5%8F%8D%E9%A6%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-kobe972",
         "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
@@ -29789,6 +30332,16 @@
       "note": "目录内容按文件名归类，未逐份读正文"
     },
     "locations": [
+      {
+        "source_id": "gh-kobe972",
+        "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Kobe972",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-kobe972",
         "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
@@ -29909,6 +30462,16 @@
       "note": "README 明示 USTC Computational Physics A"
     },
     "locations": [
+      {
+        "source_id": "gh-zhichen-cpa",
+        "page_url": "https://github.com/Zhichenzzz/Computational-Physics-A/blob/main/homework_1/report/report.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Zhichenzzz",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-zhichen-cpa",
         "page_url": "https://github.com/Zhichenzzz/Computational-Physics-A",
@@ -30156,6 +30719,16 @@
     "locations": [
       {
         "source_id": "gh-lucien-fa",
+        "page_url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set/blob/main/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Luciennnnnnn",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-lucien-fa",
         "page_url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set",
         "download_page": null,
         "download_url": null,
@@ -30184,6 +30757,26 @@
       "note": "目录内容按文件名归类，未逐份读正文"
     },
     "locations": [
+      {
+        "source_id": "gh-weiyu-mathstat",
+        "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/RA18hw_li.zip",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Weiyu-USTC",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-weiyu-mathstat",
+        "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/Stein%E5%AE%9E%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Weiyu-USTC",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-weiyu-mathstat",
         "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",
@@ -30274,6 +30867,16 @@
       "note": "目录内容按文件名归类，未逐份读正文"
     },
     "locations": [
+      {
+        "source_id": "gh-weiyu-mathstat",
+        "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology/hw2020-02-21.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Weiyu-USTC",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-weiyu-mathstat",
         "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology",
@@ -30546,6 +31149,16 @@
     "locations": [
       {
         "source_id": "gh-guidongnan",
+        "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "guidongnan",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-guidongnan",
         "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
         "download_page": null,
         "download_url": null,
@@ -30574,6 +31187,16 @@
       "note": "目录内容按文件名归类，未逐份读正文"
     },
     "locations": [
+      {
+        "source_id": "gh-guidongnan",
+        "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89v1.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "guidongnan",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-guidongnan",
         "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
@@ -31003,6 +31626,16 @@
     "locations": [
       {
         "source_id": "gh-wloner0809",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/HW%20answer.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Wloner0809",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-wloner0809",
         "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
         "download_page": null,
         "download_url": null,
@@ -31031,6 +31664,16 @@
       "note": "目录内容按文件名归类，未逐份读正文"
     },
     "locations": [
+      {
+        "source_id": "gh-wloner0809",
+        "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%90%9C%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Wloner0809",
+        "page_kind": "file"
+      },
       {
         "source_id": "gh-wloner0809",
         "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
@@ -49210,6 +49853,412 @@
         "access": "public",
         "license_note": "仅链接原页面；资料权利归原作者。",
         "attribution": "EpiHio/USTC_Automation 公开仓库"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-011186-bigdata-lecture1",
+    "course_codes": [
+      "011186"
+    ],
+    "type": "study",
+    "title": "大数据算法 Lecture 1：基础数学和统计工具",
+    "authors": [
+      "黄震"
+    ],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [
+        2024
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf",
+      "note": "PDF 首页：“大数据算法-2024 春 Lecture 1: 基础数学和统计工具，2024.2.27，Lecturer: 丁虎，Scribe: 黄震”，正文讲渐进记号与概率不等式。"
+    },
+    "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-011186-bigdata-streams",
+    "course_codes": [
+      "011186"
+    ],
+    "type": "study",
+    "title": "大数据算法 Notes Lec5 流算法",
+    "authors": [],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [
+        2025
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf",
+      "note": "PDF 首页：“大数据算法 March 14, 2025 Lecture 5: 数据流 Data Stream Algorithms，Lecturer: 彭攀”，讲概率计数与蓄水池抽样。"
+    },
+    "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-210070-data-structure-tutorial",
+    "course_codes": [
+      "210070"
+    ],
+    "type": "study",
+    "title": "数据结构第二~五章习题课",
+    "authors": [],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf",
+      "note": "PDF 首页：“第二~五章习题课 第二章作业：绪论”，逐题列错误选项并给正确答案（如 O(n^1/2)）。"
+    },
+    "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-006200-signal-class-exercises",
+    "course_codes": [
+      "006200"
+    ],
+    "type": "study",
+    "title": "统计信号分析 课堂习题",
+    "authors": [],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98.pdf",
+      "note": "PDF 首页“例1：设零均值的平稳随机信号 x(t) 输入到滤波器 h(t)…证明输出存在以下关系”，为课堂讲解例题。"
+    },
+    "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-ee3003-microwave-review",
+    "course_codes": [
+      "EE3003"
+    ],
+    "type": "study",
+    "title": "2025年微波技术基础期末考试复习要求",
+    "authors": [],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [
+        2025
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/2025%E5%B9%B4%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%A4%8D%E4%B9%A0%E8%A6%81%E6%B1%82.pdf",
+      "note": "11页；首页“《微波技术基础》2025年期末考试复习要求 第一章 引言…第二章 传输线理论…”，按章列掌握/理解要求。"
+    },
+    "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/2025%E5%B9%B4%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%A4%8D%E4%B9%A0%E8%A6%81%E6%B1%82.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-ee4011a-image-processing-tutorial",
+    "course_codes": [
+      "EE4011A"
+    ],
+    "type": "study",
+    "title": "数字图像处理 · 2013 年习题课讲义（第 2–7 章）",
+    "authors": [
+      "曾凌子"
+    ],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [
+        2013
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+      "note": "49页；首页“中国科学技术大学电子工程与信息科学系 2013/5/24 数字图像处理习题课(2-7章) 助教：曾凌子”，含习题解答。"
+    },
+    "locations": [
+      {
+        "source_id": "eng-github-ly382965-materials",
+        "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "ly382965",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-011174-os-reading-notes",
+    "course_codes": [
+      "011174"
+    ],
+    "type": "study",
+    "title": "操作系统读书笔记（死锁 / 文件 IO / 多处理器）",
+    "authors": [],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary",
+      "note": "目录含 deadlock.md、linux-file-io.md、multiprocessor.md；deadlock.md 头信息“title: 『现代操作系统』死锁 … tags: [操作系统,读书笔记]”，date 2018-06-08。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ustc-resource",
+        "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "USTC-Resource",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-022012-computational-physics-intro",
+    "course_codes": [
+      "022012"
+    ],
+    "type": "study",
+    "title": "2022 秋 计算物理 A · 丁泽军讲义：概论",
+    "authors": [
+      "丁泽军"
+    ],
+    "notes": "原仓库的课程讲义，适合独立查找；不是作业答案。",
+    "coverage": {
+      "years": [
+        2022
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf",
+      "note": "压缩包内 Assignments/讲义1.pdf 首页：'《计算物理》(丁泽军) 概论'；同目录另有 讲义2.pdf、讲义3.pdf，Note/ 下有 Note1_MonteCarlo方法基础.pdf、Note2_重要抽样MonteCarlo方法.pdf 与两份 cheat sheet。"
+    },
+    "locations": [
+      {
+        "source_id": "rainzor-computational-physics",
+        "page_url": "https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "Rainzor",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-210050-digital-logic-tutorial",
+    "course_codes": [
+      "210050"
+    ],
+    "type": "study",
+    "title": "数字逻辑电路第一次习题课讲义（1—2、4 章）",
+    "authors": [
+      "滕子涵"
+    ],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [
+        2023
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx",
+      "note": "习题课标题页注明日期与助教，含第一次作业补充题。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-li-qi-lin",
+        "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "li-qi-lin",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-011704-ics-homework01",
+    "course_codes": [
+      "011704"
+    ],
+    "type": "homework",
+    "title": "计算机系统概论 · Homework01（含参考解答）",
+    "authors": [],
+    "notes": "作业题目与 8 页参考解答开头题面一致，作为一条资料。",
+    "exercise_source": "公开课程资料仓库「计算机系统概论／作业」；第 1 题据教材第 1.5 题改编，教材版次未确认。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf",
+      "note": "题面和解答分别核读；解答不另计。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-guidongnan",
+        "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "guidongnan",
+        "page_kind": "file"
+      },
+      {
+        "source_id": "gh-guidongnan",
+        "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_solution.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "guidongnan",
+        "page_kind": "file",
+        "role": "solution"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-229001-discrete-math-solutions",
+    "course_codes": [
+      "229001"
+    ],
+    "type": "homework",
+    "title": "《离散数学教程》习题解答（个人整理）",
+    "authors": [],
+    "notes": "个人编写的解答，不是教材正文；原文声明仅限非商业用途。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%95%99%E7%A8%8B%E3%80%8B%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20beta%2016%5B1%5D%5B1%5D.11%20%E7%89%88.pdf",
+      "note": "“SOLVED AND TEXIFIED”“本习题解答系个人作品，仅供学习交流之用，可以自由复制、修改和传播，但不得用于商业用途”（首页版式文字）"
+    },
+    "locations": [
+      {
+        "source_id": "gh-guidongnan",
+        "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%95%99%E7%A8%8B%E3%80%8B%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20beta%2016%5B1%5D%5B1%5D.11%20%E7%89%88.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "guidongnan",
+        "page_kind": "file"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "homework-review-003156-physical-chemistry-report",
+    "course_codes": [
+      "003156"
+    ],
+    "type": "projects",
+    "title": "物理化学 III · 课程报告：基于几何的经典力学与经典热力学",
+    "authors": [],
+    "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+    "coverage": {
+      "years": [
+        2024
+      ],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf",
+      "note": "封面与正文确认是物理化学 III 课程报告，不归习题。"
+    },
+    "locations": [
+      {
+        "source_id": "chembio-daswalpurgis",
+        "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf",
+        "download_page": null,
+        "download_url": null,
+        "access": "public",
+        "license_note": "仅链接原页面；资料权利归原作者。",
+        "attribution": "dasWalpurgis",
+        "page_kind": "file"
       }
     ],
     "verified_at": "2026-11-19"

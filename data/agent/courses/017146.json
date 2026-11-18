@@ -26,6 +26,67 @@
       "locations": [
         {
           "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab1%20tutorial.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "IrvingYou",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab2/lab%202%20tutorial.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "IrvingYou",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab3/lab%203%20tutorial.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "IrvingYou",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab4/lab%204%20tutorial.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "IrvingYou",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab%201.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "IrvingYou",
+          "page_kind": "file",
+          "role": "solution"
+        },
+        {
+          "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab%201%20summary.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "IrvingYou",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-irvingyou-regression-lab",
           "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
           "download_page": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
           "download_url": null,

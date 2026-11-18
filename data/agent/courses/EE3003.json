@@ -41,6 +41,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "homework-review-ee3003-microwave-review",
+      "type": "study",
+      "title": "2025年微波技术基础期末考试复习要求",
+      "authors": [],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/2025%E5%B9%B4%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%A4%8D%E4%B9%A0%E8%A6%81%E6%B1%82.pdf",
+        "note": "11页；首页“《微波技术基础》2025年期末考试复习要求 第一章 引言…第二章 传输线理论…”，按章列掌握/理解要求。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/2025%E5%B9%B4%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%A4%8D%E4%B9%A0%E8%A6%81%E6%B1%82.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-lectures-ee3003-f554ba49",
       "type": "study",
       "title": "微波技术基础课件（2025，陈卫东）",

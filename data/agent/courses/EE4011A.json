@@ -74,6 +74,39 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "homework-review-ee4011a-image-processing-tutorial",
+      "type": "study",
+      "title": "数字图像处理 · 2013 年习题课讲义（第 2–7 章）",
+      "authors": [
+        "曾凌子"
+      ],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "note": "49页；首页“中国科学技术大学电子工程与信息科学系 2013/5/24 数字图像处理习题课(2-7章) 助教：曾凌子”，含习题解答。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-notes-ee4011a-3ecff1b6",
       "type": "study",
       "title": "数字图像处理A复习纲要与习题课",
@@ -91,6 +124,16 @@
         "note": "复习纲要PDF；同目录有习题课250606。"
       },
       "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E4%B9%A0%E9%A2%98%E8%AF%BE250606.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        },
         {
           "source_id": "eng-github-ly382965-materials",
           "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E5%A4%8D%E4%B9%A0%E7%BA%B2%E8%A6%81.pdf",
@@ -122,6 +165,16 @@
         "note": "DIP-ch1至ch7 PDF。"
       },
       "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/DIP-ch1%EF%BC%882025%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        },
         {
           "source_id": "eng-github-ly382965-materials",
           "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A",

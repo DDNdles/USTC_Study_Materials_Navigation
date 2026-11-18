@@ -26,6 +26,26 @@
       "locations": [
         {
           "source_id": "github-hehaha68-time-series-b",
+          "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/blob/master/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "hehaha68",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-hehaha68-time-series-b",
+          "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/blob/master/lab1.R",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "hehaha68",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "github-hehaha68-time-series-b",
           "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
           "download_page": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
           "download_url": null,

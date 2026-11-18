@@ -5,12 +5,12 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 219 门，暂未收录 965 门）。
-- 资料：1395 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：1407 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：53 个登记来源，其中 50 个被正式资料引用。
-- 检索记录：4387 条，覆盖 1184 门课程。
+- 检索记录：4500 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 1785 个网址，监控文件覆盖其中 1760 个。
-- 检查结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 25。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 1862 个网址，监控文件覆盖其中 1760 个。
+- 检查结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 102。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -148,13 +148,13 @@
 - **作业、习题与小测**
   - 数理方程B 课后习题解析 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90.pdf（文件页）
   - 数理方程B 课后习题解析(20260122213731) —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf（文件页）
-  - 数理方程B 数理方程B（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
-  - 数理方程B 数理方程B（homework） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
+  - 数理方程B 数理方程B（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/review1.pdf（文件页）
+  - 数理方程B 数理方程B（homework） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf（文件页）
 - **学习资料**
   - 2020 年：数理方程 · 高源助教自编复习资料 —— 高源 · 学习资料分享；核验于 2026-11-19 http://home.ustc.edu.cn/~wazs98/share.html
   - 数理方程B 数理方程（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B
   - 数理方程B 数理方程B（lectures） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
-  - 数理方程B 数理方程B（lectures） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
+  - 数理方程B 数理方程B（lectures） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80.pdf（文件页）
   - 数理方程B 数理方程B（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
   - 数理方程B 数理方程B（notes） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
 
@@ -289,7 +289,7 @@
 专业课 · 化学
 
 - **作业、习题与小测**
-  - 2024 年（小测、原题、含解答）：物理化学I 2024秋 四次小测题目（第一至第三次附解析） —— dasWalpurgis/USTC（化学系、化学物理系课程资料） https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B
+  - 2024 年（小测、原题、含解答）：物理化学I 2024秋 四次小测题目（第一至第三次附解析） —— dasWalpurgis/USTC（化学系、化学物理系课程资料） https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E9%A2%98%E7%9B%AE.pdf（文件页）
   - 物理化学I 作业答案合集 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86
 - **学习资料**
   - 物理化学I 知识点合集 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86.pdf
@@ -299,9 +299,11 @@
 专业课 · 化学
 
 - **作业、习题与小测**
-  - 物理化学III 作业合集与课程报告 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6
+  - 物理化学III 作业合集与课程报告 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E4%BD%9C%E4%B8%9A%E5%90%88%E9%9B%86.pdf（文件页）
 - **学习资料**
   - 2021 年：物理化学III 2021 秋季全套课程幻灯片（003156.01） —— YIXUAN CHE 个人主页课程页（home.ustc.edu.cn/~zz0312）；核验于 2026-11-18 http://home.ustc.edu.cn/~zz0312/PhyChemIII.html
+- **大作业与考核作品**
+  - 2024 年：物理化学 III · 课程报告：基于几何的经典力学与经典热力学 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-19 https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf（文件页）
 
 ### 004040 计算物理B
 
@@ -338,9 +340,9 @@
   - 2023 年（期末、回忆版、解答情况不明）：电磁场理论 2023 期末（回忆版） —— ly382965/USTC_learning_materials（6系课程资料） https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/23%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf
   - 2022 年（期末、回忆版、解答情况不明）：电磁场理论 2022 期末（回忆版） —— ly382965/USTC_learning_materials（6系课程资料）、li-qi-lin/USTC-Course-Materials-Sharing https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/22%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf
 - **作业、习题与小测**
-  - 电磁场理论基础课后答案与习题课 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA
+  - 电磁场理论基础课后答案与习题课 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E3%80%8A%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
-  - 电磁场理论习题课课件 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA
+  - 电磁场理论习题课课件 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E4%B9%A0%E9%A2%98%E8%AF%BE-%E7%AC%AC3.5%EF%BC%8C4%E7%AB%A0.pdf（文件页）
 
 ### 006200 统计信号分析与处理
 
@@ -351,6 +353,7 @@
 - **作业、习题与小测**
   - 统计信号分析与处理作业答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf
 - **学习资料**
+  - 统计信号分析 课堂习题 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98.pdf（文件页）
   - 统计信号分析与处理复习资料 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E5%A4%8D%E4%B9%A0%20-%202025.pdf
   - 统计信号分析与处理课程PDF（绪论至第六章） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing
 
@@ -404,13 +407,13 @@
   - 2022—2023 学年（类型不明、回忆版、含解答）：现代控制理论 2022—2023学年（公历年份未确认） 试卷（回忆版） —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%95%E5%8D%B7/22-23%281%29.pdf
   - 2025—2026 学年（期末、原题、解答情况不明）：现代控制理论 2025—2026学年（公历年份未确认） 期末（原卷） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%9A%84%E8%AF%95%E5%8D%B7/2025-2026%E5%AD%A6%E5%B9%B42023%E7%BA%A7%E5%9F%BA%E4%BA%8E%E8%AF%84%E8%AF%BE%E7%A4%BE%E5%8C%BA%E5%9B%BE%E7%89%87%E6%95%B4%E7%90%86%E7%9A%84%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE/2023%E7%BA%A72026%E5%B9%B41%E6%9C%88%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE.pdf
 - **作业、习题与小测**
-  - 现代控制理论作业题答案 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88
+  - 现代控制理论作业题答案 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%26%E7%AC%AC%E4%BA%8C%E7%AB%A0%281%29.pdf（文件页）
   - 线性系统理论习题解答（郑大钟） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94-%E9%83%91%E5%A4%A7%E9%92%9F%E7%AC%AC%E4%BA%8C%E7%89%88.pdf
 - **学习资料**
   - 现代控制理论复习 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E6%8E%A7%E5%A4%8D%E4%B9%A0
-  - 现代控制理论复习资料 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E5%A4%8D%E4%B9%A0
-  - 现代控制理论课程PPT —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E7%A8%8Bppt
-  - 现代控制理论课件 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E6%9C%AC%E8%AF%BE%E4%BB%B6
+  - 现代控制理论复习资料 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）、EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E6%8E%A7%E5%A4%8D%E4%B9%A0/%E7%8E%B0%E6%8E%A7%E8%A6%81%E7%82%B9.pdf（文件页）
+  - 现代控制理论课程PPT —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）、EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E6%9C%AC%E8%AF%BE%E4%BB%B6/AAL.pdf（文件页）
+  - 现代控制理论课件 —— EpiHio/USTC_Automation（自动化专业课程资料）、duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E7%A8%8Bppt/AAL.pdf（文件页）
 
 ### 010196 传感器原理与技术
 
@@ -433,7 +436,7 @@
 - **作业、习题与小测**
   - 运动控制课后习题答案（电力拖动自动控制系统） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E4%BA%94%E7%89%88-%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf
 - **学习资料**
-  - 运动控制课程PDF（绪论至多轴协调） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control
+  - 运动控制课程PDF（绪论至多轴协调） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control/PDF%E7%89%88%E6%9C%AC/1.%E7%BB%AA%E8%AE%BA.pdf（文件页）
   - 运动控制知识点总结 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf
 
 ### 010214 计算机控制
@@ -539,7 +542,7 @@
   - 2018 年（期中期末混合、形式不明、解答情况不明）：计算机网络期末试卷合集（2016—2017、2018 秋、2020—2021） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB%E5%90%88%E9%9B%86.pdf（文件页）
 - **作业、习题与小测**
   - 计算机网络 习题答案（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
-  - 计算机网络 作业（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
+  - 计算机网络 作业（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw4.pdf（文件页）
 - **学习资料**
   - 2017 年、2018 年、2025 年：计算机网络 课件与试卷（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
   - 2017 年：计算机网络 课件与作业（USTC-CS-Courses-Resource，华蓓/v7/信明三套课件） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
@@ -644,8 +647,9 @@
   - 2018 年（期末、回忆版、无解答）：操作系统原理与设计 2018 期末试卷回忆（secon） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md（文件页）
   - 年份待确认（类型不明、回忆版、无解答）：操作系统原理与设计 2017 试卷（回忆版） —— USTC-Resource/USTC-Course、guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2017%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf
 - **作业、习题与小测**
-  - 操作系统原理与设计 作业（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks
+  - 操作系统原理与设计 作业（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf（文件页）
 - **学习资料**
+  - 操作系统读书笔记（死锁 / 文件 IO / 多处理器） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary（资料目录）
   - 2015 年、2016 年、2017 年：操作系统原理与设计 课件与实验（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1
 - **大作业与考核作品**
   - 2025 年：操作系统原理与设计（陈香兰班）实验与理论资料 —— TinyRubbish/Course-Materials；核验于 2026-11-18 https://github.com/TinyRubbish/Course-Materials/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1-%E9%99%88%E9%A6%99%E5%85%B0
@@ -670,7 +674,10 @@
   - 2022 年（期末、形式不明、解答情况不明）：大数据算法 2022 期末（彭攀班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgorithmForBigData2022Final.pdf
   - 2022 年（期中、形式不明、解答情况不明）：大数据算法 2022 期中（彭攀班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgorithmForBigData2022Mid.pdf
 - **作业、习题与小测**
-  - 大数据算法 作业（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP(minor)%20Algorithms%20for%20Big%20Data
+  - 大数据算法 作业（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf（文件页）
+- **学习资料**
+  - 2024 年：大数据算法 Lecture 1：基础数学和统计工具 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf（文件页）
+  - 2025 年：大数据算法 Notes Lec5 流算法 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf（文件页）
 
 ### 011703 编译原理和技术(H)
 
@@ -684,6 +691,7 @@
 专业课 · 计算机
 
 - **作业、习题与小测**
+  - 计算机系统概论 · Homework01（含参考解答） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-19 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf（文件页）
   - 2020 年：计算机系统概论 作业与实验（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
 - **大作业与考核作品**
   - 计算机系统概论 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
@@ -765,7 +773,7 @@
 专业课 · 金融 · 经济
 
 - **作业、习题与小测**
-  - 金融经济学基础课后习题与答案 —— USTC_Finance_Minor（RachelK9790715）；核验于 2026-11-18 https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80
+  - 金融经济学基础课后习题与答案 —— USTC_Finance_Minor（RachelK9790715）；核验于 2026-11-18 https://github.com/RachelK9790715/USTC_Finance_Minor/blob/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98_%E9%A2%98%E7%9B%AE%E7%89%88.pdf（文件页）
 - **学习资料**
   - 金融经济学基础课件（Bodie 版） —— USTC_Finance_Minor（RachelK9790715）；核验于 2026-11-18 https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80PPT
 
@@ -788,7 +796,7 @@
   - 2016 年（期末、原题、解答情况不明）：随机过程B 2015-2016学年第二学期补考试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf
   - 2021—2022 学年（期末、原题、解答情况不明）：随机过程B 2021-2022学年秋季学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
 - **作业、习题与小测**
-  - 随机过程习题答案（方兆本教材/第三、四章） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework
+  - 随机过程习题答案（方兆本教材/第三、四章） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 随机过程复习与总结 —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes
 
@@ -797,14 +805,14 @@
 专业课 · 统计
 
 - **作业、习题与小测**
-  - 回归分析 2025 Lab1–4 讲义与作业 —— 中科大回归分析 2025 lab（IrvingYou）；核验于 2026-11-18 https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025
+  - 回归分析 2025 Lab1–4 讲义与作业 —— 中科大回归分析 2025 lab（IrvingYou）；核验于 2026-11-18 https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab1%20tutorial.pdf（文件页）
 
 ### 017165 时间序列分析B
 
 专业课 · 统计
 
 - **作业、习题与小测**
-  - 时间序列分析B 2022春 Lab1–5 源码与实验报告 —— USTC 2022春《时间序列分析B》课程资源（hehaha68）；核验于 2026-11-18 https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B
+  - 时间序列分析B 2022春 Lab1–5 源码与实验报告 —— USTC 2022春《时间序列分析B》课程资源（hehaha68）；核验于 2026-11-18 https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/blob/master/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1.pdf（文件页）
 
 ### 019011 有机化学(A1)
 
@@ -890,7 +898,7 @@
 专业课 · 化学
 
 - **作业、习题与小测**
-  - 2025 年：分析化学I 2025春 作业：章节 MATLAB/Python 代码与滴定曲线图 —— gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）；核验于 2026-11-18 https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz
+  - 2025 年：分析化学I 2025春 作业：章节 MATLAB/Python 代码与滴定曲线图 —— gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）；核验于 2026-11-18 https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/trial0329_0.m（文件页）
 - **学习资料**
   - 分析化学I 公式汇总 —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/20024/
 
@@ -913,9 +921,11 @@
 专业课 · 计算机 · 物理
 
 - **作业、习题与小测**
-  - 2022 年：2022 秋 计算物理 A · 作业与讲义合集 —— Rainzor/Computational-Physics、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/Rainzor/Computational-Physics（资料目录）
+  - 2022 年：2022 秋 计算物理 A · 作业与讲义合集 —— Rainzor/Computational-Physics、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E7%AC%AC1-2%E9%A2%98.pdf（文件页）
   - 计算物理A新作业 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E6%96%B0%E4%BD%9C%E4%B8%9A.pdf（文件页）
-  - 计算物理A作业（蒙特卡洛/伊辛模型等） —— Zhichenzzz/Computational-Physics-A；核验于 2026-11-18 https://github.com/Zhichenzzz/Computational-Physics-A
+  - 计算物理A作业（蒙特卡洛/伊辛模型等） —— Zhichenzzz/Computational-Physics-A；核验于 2026-11-18 https://github.com/Zhichenzzz/Computational-Physics-A/blob/main/homework_1/report/report.pdf（文件页）
+- **学习资料**
+  - 2022 年：2022 秋 计算物理 A · 丁泽军讲义：概论 —— Rainzor/Computational-Physics；核验于 2026-11-19 https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf（文件页）
 
 ### 022057 电动力学
 
@@ -1127,12 +1137,12 @@
   - 年份待确认（类型不明、原题、含解答）：线性电子线路 年份未标 试卷（原卷） —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98%EF%BC%88%E5%B9%B4%E4%BB%BD%E4%B8%8D%E8%AF%A6%EF%BC%89.pdf
   - 年份待确认（类型不明、原题、解答情况不明）：线性电子线路往年卷合集（2014 秋起，12 页） —— ly382965/USTC_learning_materials（6系课程资料）、feixu 学习资料分享站（AList） https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E9%9B%86.pdf
 - **作业、习题与小测**
-  - 线性电子线路章节练习与小结 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF
-  - 线性电子线路章节习题答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88
+  - 线性电子线路章节练习与小结 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/exercise%281%29.pdf（文件页）
+  - 线性电子线路章节习题答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88/answers_chap1_2.pdf（文件页）
 - **学习资料**
   - 线性电子线路复习笔记 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E7%94%B5%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf
   - 线性电子线路概念整理 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E6%A6%82%E5%BF%B5.docx
-  - 线性电子线路课件 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/ppt
+  - 线性电子线路课件 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/ppt/ch01-1.pdf（文件页）
 
 ### 025148 新闻学概论
 
@@ -1195,6 +1205,7 @@
   - 数字逻辑电路 习题课讲义与作业解答（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89
 - **学习资料**
   - 数字逻辑电路 资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits
+  - 2023 年：数字逻辑电路第一次习题课讲义（1—2、4 章） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-19 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx（文件页）
 
 ### 210067 近世代数与数论
 
@@ -1222,6 +1233,7 @@
 - **学习资料**
   - 数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa
   - 数据结构错题集 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt（文件页）
+  - 数据结构第二~五章习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf（文件页）
   - 数据结构及应用算法经验分享 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf（文件页）
 
 ### 210073 电子技术实验I
@@ -1309,7 +1321,8 @@
   - 2023—2024 学年（期中、回忆版、无解答）：离散数学 2023 秋期中（回忆版，邵帅班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA23M.md（文件页）
   - 2024—2025 学年（期末、原题、无解答）：离散数学 2024 秋期末试卷（邵帅班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA24F.pdf（文件页）
 - **作业、习题与小测**
-  - 离散数学 作业与图算法课件（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6
+  - 《离散数学教程》习题解答（个人整理） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-19 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%95%99%E7%A8%8B%E3%80%8B%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20beta%2016%5B1%5D%5B1%5D.11%20%E7%89%88.pdf（文件页）
+  - 离散数学 作业与图算法课件（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BD%9C%E4%B8%9A/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BD%9C%E4%B8%9A%E4%B8%80.pdf（文件页）
 - **教材与参考书**
   - Discrete Mathematics: An Open Introduction（第 4 版，补充参考） —— Oscar Levin · Discrete Mathematics: An Open Introduction；免登录公开全文 PDF；核验于 2026-11-18 https://discrete.openmathbooks.org/pdfs/dmoi4.pdf
 
@@ -1485,7 +1498,7 @@
   - 2018 年（期末、回忆版、无解答）：数理逻辑 2018 春期末试题（回忆版） —— USTC-Resource/USTC-Course https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A62018%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2017 年（类型不明、回忆版、无解答）：数理逻辑 2017 试卷（回忆版） —— USTC-Resource/USTC-Course https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/2017%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86.pdf
 - **作业、习题与小测**
-  - 数理逻辑基础 习题课与作业答案（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80
+  - 数理逻辑基础 习题课与作业答案（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/2.24%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 数理逻辑 笔记（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes
   - 数理逻辑 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91
@@ -1574,7 +1587,7 @@
   - 2025 年（期末、原题、解答情况不明）：运筹学基础2025期末（3页图片） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%802025%E6%9C%9F%E6%9C%AB-1.jpg（文件页）
   - 2020 年（期末、回忆版、无解答）：运筹学基础 2020 春期末试卷（回忆） —— USTC-CS-Course-Resource/USTC-CS-Resources https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/2020%E6%98%A5%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%95%E5%8D%B7.pdf
 - **作业、习题与小测**
-  - 运筹学基础 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80
+  - 运筹学基础 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/HW-answers%E6%9C%80%E6%96%B0%E7%89%88.pdf（文件页）
 - **学习资料**
   - 2014 年：运筹学基础 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80
 
@@ -1644,7 +1657,7 @@
   - 2023—2024 学年（类型不明、模拟练习、无解答）：计算机原理与嵌入式系统 2023—2024学年（公历年份未确认） 试卷（样卷/模拟） —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7%281%29.pdf
 - **作业、习题与小测**
   - 2025 年：计算机原理与嵌入式系统 · 2025 版作业参考答案（含解析） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-19 https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E8%AE%A1%E5%B5%8C%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
-  - 计算机原理与嵌入式系统课后练习（2024SP） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F
+  - 计算机原理与嵌入式系统课后练习（2024SP） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/ex_chapter-1-%5B2024SP%5D.docx（文件页）
   - 计算机原理与嵌入式系统作业参考答案 —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88
 - **学习资料**
   - 计嵌大抄（A4排版） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%A4%A7%E6%8A%84inA4.pdf
@@ -1678,8 +1691,8 @@
 - **学习资料**
   - 计算机网络复习（2025秋） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B%E5%A4%8D%E4%B9%A0%EF%BC%882025%E7%A7%8B%29.pdf
   - 计算机网络复习与知识点总结 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/%E8%AE%A1%E7%BD%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf
-  - 计算机网络课件（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6
-  - 计算机网络B复习记录与图示源码 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81
+  - 计算机网络课件（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6/cn-1%EF%BC%882025%EF%BC%89.pdf（文件页）
+  - 计算机网络B复习记录与图示源码 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81/%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95.pdf（文件页）
 - **大作业与考核作品**
   - 计算机网络实验（RDT/滑动窗口） —— Mr-Philo/USTC_EEIS_Courses（6系本科资料）；核验于 2026-11-18 https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%AE%9E%E9%AA%8C
 
@@ -1710,7 +1723,7 @@
   - 2015—2016 学年（期中、形式不明、含解答）：信号与系统A 期中考试参考答案（多年份汇编，陈镜舟） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.md（文件页）
   - 年份待确认（期末、形式不明、解答情况不明）：信号与系统A 往年期末试卷合集（8 页） —— Mr-Philo/USTC_EEIS_Courses（6系本科资料）、feixu 学习资料分享站（AList） https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf
 - **作业、习题与小测**
-  - 信号与系统教材习题答案（奥本海姆/徐守时） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/Signals%20and%20Systems%20Solutions%EF%BC%88%E5%A5%A5%E6%9C%AC%E6%B5%B7%E5%A7%86%EF%BC%89.pdf
+  - 信号与系统教材习题答案（奥本海姆/徐守时） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%BE%90%E5%AE%88%E6%97%B6%EF%BC%89%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 2020 年：信号与系统A 期末习题课讲解（2020-06-04） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf（文件页）
   - 信号与系统A 手写笔记（第 1、2 册） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%AC%94%E8%AE%B01.pdf（文件页）
@@ -1723,7 +1736,7 @@
   - 2025 年（期末、原题、解答情况不明）：运筹学A 2025 期末（原卷） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/2025%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98/%E8%BF%90%E7%AD%B9%E5%AD%A625-26%E5%AD%A6%E5%B9%B4%E8%AF%95%E9%A2%98.pdf
 - **作业、习题与小测**
   - 运筹学作业习题答案 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%BD%9C%E4%B8%9A%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88
-  - 运筹学A作业答案 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88
+  - 运筹学A作业答案 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/1-4%E7%AB%A0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 运筹学复习资料 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%A4%8D%E4%B9%A0.pdf
   - 运筹学基础讲义与专题（线性/非线性规划） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf
@@ -1751,6 +1764,7 @@
 - **作业、习题与小测**
   - 微波技术基础作业（2022） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/homework2022.pdf
 - **学习资料**
+  - 2025 年：2025年微波技术基础期末考试复习要求 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/2025%E5%B9%B4%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%A4%8D%E4%B9%A0%E8%A6%81%E6%B1%82.pdf（文件页）
   - 微波技术基础课件（2025，陈卫东） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8BPPT%282025%EF%BC%89-%E9%99%88%E5%8D%AB%E4%B8%9C.pdf
 - **大作业与考核作品**
   - 微波技术基础实验报告与虚拟仿真资料 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Fundamentals%20of%20Microwave%20Technology/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A
@@ -1798,8 +1812,9 @@
 - **作业、习题与小测**
   - 数字图像处理A作业1-7与习题答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A
 - **学习资料**
-  - 数字图像处理A复习纲要与习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E5%A4%8D%E4%B9%A0%E7%BA%B2%E8%A6%81.pdf
-  - 数字图像处理A课件（2025，第1-7章） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A
+  - 2013 年：数字图像处理 · 2013 年习题课讲义（第 2–7 章） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 数字图像处理A复习纲要与习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E4%B9%A0%E9%A2%98%E8%AF%BE250606.pdf（文件页）
+  - 数字图像处理A课件（2025，第1-7章） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/DIP-ch1%EF%BC%882025%EF%BC%89.pdf（文件页）
 - **大作业与考核作品**
   - 数字图像处理项目一/二源码与结果 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86
   - 数字图像处理A实验源码（Python） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A/%E5%AE%9E%E9%AA%8C%E6%BA%90%E7%A0%81
@@ -1894,7 +1909,7 @@
 通识课 · 思政
 
 - **作业、习题与小测**
-  - 生活中的公共事务课程作业与内参范文 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1
+  - 生活中的公共事务课程作业与内参范文 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.docx（文件页）
 
 ### HS2001 科学、技术与工程导论
 
@@ -2401,8 +2416,8 @@
   - 2015 年（期中、形式不明、解答情况不明）：2015实分析期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
 - **作业、习题与小测**
   - 2007—2008 学年：实变函数习题答案（2007–2008 学年第二学期） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88_%E5%8C%97%E5%A4%A7%E7%89%88_%E5%91%A8%E6%B0%91%E5%BC%BA.pdf
-  - 实变函数与泛函分析习题集（2023秋，殷保群班） —— Luciennnnnnn/ustc-functional-analysis-exercise-set；核验于 2026-11-18 https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set
-  - 实分析 实分析Real Analysis（homework） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
+  - 实变函数与泛函分析习题集（2023秋，殷保群班） —— Luciennnnnnn/ustc-functional-analysis-exercise-set；核验于 2026-11-18 https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set/blob/main/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86.pdf（文件页）
+  - 实分析 实分析Real Analysis（homework） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/RA18hw_li.zip（文件页）
 - **学习资料**
   - 实分析 实分析Real Analysis（lectures） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
   - 实分析 实分析Real Analysis（notes） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
@@ -2423,7 +2438,7 @@
   - 2016 年（期末、原题、解答情况不明）：拓扑学 2016 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016topofinal.pdf
   - 2016 年（期中、原题、解答情况不明）：拓扑学 2016 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016topomid.pdf
 - **作业、习题与小测**
-  - 拓扑学 拓扑学Topology（homework） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology
+  - 拓扑学 拓扑学Topology（homework） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology/hw2020-02-21.pdf（文件页）
 - **学习资料**
   - 拓扑学 拓扑学Topology（lectures） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology
   - 拓扑学 拓扑学Topology（notes） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology
@@ -2588,9 +2603,9 @@
   - 年份待确认（类型不明、原题、解答情况不明）：运筹学 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/exam/exam.pdf
   - 年份待确认（类型不明、形式不明、解答情况不明）：运筹学 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/exam/exam.md
 - **作业、习题与小测**
-  - 运筹学 运筹学（homework） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6
+  - 运筹学 运筹学（homework） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
 - **学习资料**
-  - 运筹学 运筹学（lectures） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6
+  - 运筹学 运筹学（lectures） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89v1.pdf（文件页）
   - 运筹学 运筹学（notes） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6
 - **大作业与考核作品**
   - 运筹学 运筹学（projects） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6
@@ -2879,11 +2894,11 @@
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版，含手写页） —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版） —— feixu 学习资料分享站（AList）、USTC 评课社区、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
-  - 概率论与数理统计 概率论与数理统计（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
+  - 概率论与数理统计 概率论与数理统计（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/HW%20answer.pdf（文件页）
   - 概率论与数理统计 试卷 —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://raw.githubusercontent.com/Wloner0809/ustc-course-resource/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E9%9B%86%E7%AD%94%E6%A1%88.pdf
 - **学习资料**
   - 概率论与数理统计 3-概率论与数理统计（notes） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
-  - 概率论与数理统计 概率论与数理统计（lectures） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
+  - 概率论与数理统计 概率论与数理统计（lectures） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%90%9C%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf（文件页）
   - 概率论与数理统计 概率论与数理统计（notes） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
@@ -2936,7 +2951,7 @@
 - 维护者：dasWalpurgis
 - GitHub：dasWalpurgis/USTC（分支 main）
 - 说明：README 说明按大类分目录（量子化学含应用量子化学，分子光谱学含分子光谱学基础）；作者声明文件未开源，仅目录导航。仓库无 LICENSE。 README 明确“文件没有开源”，仅作原页导航，不复制内容；含通识课程学生作品。
-- 被正式资料引用：11 处
+- 被正式资料引用：14 处
 
 ### flimmernz/course-note（材料系课程笔记与报告）
 
@@ -2954,7 +2969,7 @@
 - 维护者：gold3fluoride
 - GitHub：gold3fluoride/2025spr.ustc.019175.05.wxz（分支 main）
 - 说明：仓库名含官方课程号 019175 与学期 2025春；README 说明为分析化学作业的 MATLAB/Python 代码。无 LICENSE。
-- 被正式资料引用：1 处
+- 被正式资料引用：4 处
 
 ### 李震宇（Prof. Zhenyu Li）教学页 q2chemistry.net/teaching
 
@@ -2987,7 +3002,7 @@
 - 维护者：duxiaoyang-creator
 - GitHub：duxiaoyang-creator/USTC-Course-Materials（分支 main）
 - 说明：README按年级/学期列课程与部分授课教师；含课件、试卷、作业、实验与项目。 branch=main 经 GitHub API repos 元数据核验；无许可声明；个人本科课程作业/实验报告/复习资料存档。2026-11-18 读取完整 git tree 核对目录。 本科课程作业与复习资料存档；仓库无 LICENSE，版权归原作者，仅原页导航；目录内教材/教辅扫描已排除，不收录教材下载。
-- 被正式资料引用：78 处
+- 被正式资料引用：84 处
 
 ### EpiHio/USTC_Automation（自动化专业课程资料）
 
@@ -2996,7 +3011,7 @@
 - 维护者：EpiHio
 - GitHub：EpiHio/USTC_Automation（分支 main）
 - 说明：README声明为自动化专业本科课程资料，按学期+课程目录；含笔记/课本答案/作业/往年题/实验。本轮仅登记公开原页面。
-- 被正式资料引用：34 处
+- 被正式资料引用：40 处
 
 ### guch8017/USTC_CS_EXAM（跨课试卷索引）
 
@@ -3014,7 +3029,7 @@
 - 维护者：ly382965
 - GitHub：ly382965/USTC_learning_materials（分支 main）
 - 说明：README提供35个课程目录索引与资料类型说明；来源含评课社区/课程群/学长主页。含Z-Library教材下载，已排除不收录。 branch=main 经 GitHub API repos 元数据核验；无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题。2026-11-18 读取完整 git tree 核对目录。 电子信息培养方案课程资料；毛概目录含2021版分章知识点/练习题与复习文档；仓库无 LICENSE，仅原页导航。
-- 被正式资料引用：61 处
+- 被正式资料引用：73 处
 
 ### Melmaphother/ustc-course-resources
 
@@ -3085,7 +3100,7 @@
 - 维护者：guidongnan
 - GitHub：guidongnan/ustc_ds_undergraduate_course（分支 main）
 - 说明：本科课程试卷与复习资料；根 LICENSE 仅覆盖原创部分。 数据科学学院本科资料；README声明禁止抄袭、侵删。含信号与系统/计算机网络/运筹学等试卷目录，课程代码未标注。 branch=main 经 GitHub API repos 元数据核验；仓库 LICENSE 为 MIT；README 声明非商业用途、禁止抄袭。2026-11-18 读取完整 git tree 核对目录。
-- 被正式资料引用：16 处
+- 被正式资料引用：22 处
 
 ### Kobe972/ustc_course_plus
 
@@ -3094,7 +3109,7 @@
 - 维护者：Kobe972
 - GitHub：Kobe972/ustc_course_plus（分支 main）
 - 说明：个人课程资料补充；数理方程B、电磁学C、量子物理、概统；未见根 LICENSE。 课程补充资料/实验；含模拟与数字电路、量子物理等目录，课程代码未在目录名标注。 branch=main 经 GitHub API repos 元数据核验；README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者。2026-11-18 读取完整 git tree 核对目录。 README 声明除特殊说明外可复制、修改、传播；作为课程资源补充，仅原页导航。
-- 被正式资料引用：18 处
+- 被正式资料引用：26 处
 
 ### li-qi-lin/USTC-Course-Materials-Sharing
 
@@ -3103,7 +3118,7 @@
 - 维护者：li-qi-lin
 - GitHub：li-qi-lin/USTC-Course-Materials-Sharing（分支 master）
 - 说明：课程资料分享；含概统、复变函数、大物实验；未见根 LICENSE。 README声明为6系电子信息工程本科专业课程资料，未传完；含考试复习/半开卷资料。 branch=master 经 GitHub API repos 元数据核验；无许可声明；6系电子信息工程课程资料整理。2026-11-18 读取完整 git tree 核对目录。 电子信息工程本科资料库；仓库无 LICENSE，仅原页导航。
-- 被正式资料引用：50 处
+- 被正式资料引用：58 处
 
 ### lrel7/USTC-COD-SP24
 
@@ -3121,7 +3136,7 @@
 - 维护者：Luciennnnnnn
 - GitHub：Luciennnnnnn/ustc-functional-analysis-exercise-set（分支 main）
 - 说明：实变函数与泛函分析习题集；根 LICENSE 仅覆盖原创。
-- 被正式资料引用：2 处
+- 被正式资料引用：3 处
 
 ### syvshc/2019Fall_FA
 
@@ -3184,7 +3199,7 @@
 - 维护者：USTC-Resource
 - GitHub：USTC-Resource/USTC-Course（分支 master）
 - 说明：跨课程资料库；数理方程、概率统计、计算方法、近世代数等目录；未见根 LICENSE。 README的CC声明不覆盖仓库内全部第三方文件；本轮仅登记已确认课程目录页。 branch=master 经 GitHub API repos 元数据核验；仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者。2026-11-18 读取完整 git tree 核对目录。 学生原创笔记、总结与经验；README 声明无特别声明资料按 CC BY-NC-SA 4.0，第三方内容版权归原作者，仅原页导航。
-- 被正式资料引用：29 处
+- 被正式资料引用：35 处
 
 ### TheVaticanCameos/USTC_MM_25
 
@@ -3202,7 +3217,7 @@
 - 维护者：Weiyu-USTC
 - GitHub：Weiyu-USTC/USTCmath-stat（分支 master）
 - 说明：数学/统计课程笔记作业；含实分析、拓扑、泛函；内嵌教材 PDF 不收录；未见根 LICENSE。
-- 被正式资料引用：11 处
+- 被正式资料引用：14 处
 
 ### Wloner0809/ustc-course-resource
 
@@ -3211,7 +3226,7 @@
 - 维护者：Wloner0809
 - GitHub：Wloner0809/ustc-course-resource（分支 main）
 - 说明：课程review/作业；数理方程B、概统、线代B1；未见根 LICENSE。 branch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明维护者与最后更新时间。2026-11-18 读取完整 git tree 核对目录。
-- 被正式资料引用：18 处
+- 被正式资料引用：21 处
 
 ### Zhichenzzz/Computational-Physics-A
 
@@ -3220,7 +3235,7 @@
 - 维护者：Zhichenzzz
 - GitHub：Zhichenzzz/Computational-Physics-A（分支 main）
 - 说明：计算物理A作业；未见根 LICENSE。
-- 被正式资料引用：1 处
+- 被正式资料引用：2 处
 
 ### USTC 2022春《元宇宙导论》课程资源（hehaha68）
 
@@ -3238,7 +3253,7 @@
 - 维护者：hehaha68
 - GitHub：hehaha68/USTC_2022Spring_Time-Series-Analysis-B（分支 master）
 - 说明：Readme 自述 USTC 2022春《时间序列分析B》课程资源；仓库根目录未见 LICENSE，版权归作者，仅原页导航。
-- 被正式资料引用：1 处
+- 被正式资料引用：3 处
 
 ### 中科大回归分析 2025 lab（IrvingYou）
 
@@ -3247,7 +3262,7 @@
 - 维护者：IrvingYou
 - GitHub：IrvingYou/USTC-Regression-Analysis-lab2025（分支 main）
 - 说明：README 自述中科大回归分析2025 lab 作业，答案由作者生成、不保证正确；仓库根目录未见 LICENSE，仅原页导航。
-- 被正式资料引用：1 处
+- 被正式资料引用：7 处
 
 ### 电影音乐艺术《末代皇帝》展示材料（LuckytoeUSTC）
 
@@ -3265,7 +3280,7 @@
 - 维护者：RachelK9790715
 - GitHub：RachelK9790715/USTC_Finance_Minor（分支 main）
 - 说明：金融辅修课程资料；仓库无 LICENSE，仅原页导航。
-- 被正式资料引用：2 处
+- 被正式资料引用：3 处
 
 ### USTC 评课社区
 
@@ -3367,7 +3382,7 @@
 - 维护者：Rainzor
 - GitHub：Rainzor/Computational-Physics（分支 master）
 - 说明：README 明确为中科大 2022 秋计算物理 A 作业和讲义。
-- 被正式资料引用：1 处
+- 被正式资料引用：3 处
 
 ## 检索记录
 
@@ -5072,6 +5087,42 @@
   - 检查范围：实际打开作者页，核对复习指导、手册与专题入口；与飞絮镜像对照。
   - 说明：原作者页独立导航，同文件镜像不另计。
   - 来源 ID：yuan-gao-ustc-course-share
+  - 课程代码：001549
+- 2026-11-19 · GitHub · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf>
+  - 查询：同班同助教《数理方程B 习题课》讲义（习题课（一）（三）（五），86页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：原文明示未经同意不得上传校外
+  - 来源 ID：gh-wloner0809
+  - 课程代码：001549
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB>
+  - 查询：数理方程B 第一章参考答案（103 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：重复且原文明示不得上传校外
+  - 来源 ID：gh-wloner0809
+  - 课程代码：001549
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/review1.pdf>
+  - 查询：review1.pdf 为习题解答（Legendre 方程等）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-001549-homework-3be8d3。
+  - 来源 ID：gh-wloner0809
+  - 课程代码：001549
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf>
+  - 查询：数理方程B 第一次作业反馈（含提示与逐题讲评）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-001549-homework-a44a32。
+  - 来源 ID：gh-kobe972
+  - 课程代码：001549
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/hw3.4%E5%8F%8D%E9%A6%88.pdf>
+  - 查询：第三、四次作业反馈
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-001549-homework-a44a32。
+  - 来源 ID：gh-kobe972
+  - 课程代码：001549
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80.pdf>
+  - 查询：数理方程B 习题课（一）24 页
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-001549-lectures-a44a32。
+  - 来源 ID：gh-kobe972
   - 课程代码：001549
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/数理方程/数理方程B历年真题.pdf
@@ -6853,6 +6904,24 @@
 
 ### 003154 物理化学I
 
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86>
+  - 查询：Op.113.pdf（物理化学I 作业合集，63 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：合集已收，正文含不必要个人标识
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003154
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E9%A2%98%E7%9B%AE.pdf>
+  - 查询：2024 秋物理化学I 第一次测验题目.pdf（4 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：chembio-003154-quiz-2024。
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003154
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/2024%E7%A7%8B%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90.pdf>
+  - 查询：2024秋物理化学第一次测验试题解析.pdf（扫描件，6 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：仅凭文件名和扫描形态，正文未核
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003154
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
   - 检查范围：相关课程页点评附件文件名列表（003056 四次小测；003154 2025年秋季期末试题；019161 2024Fall Final；019060 2021/2021A/2425/小测合并；CHEM4004 2023 考试题_答案；BIO3701 期末试卷讲解）
@@ -6953,6 +7022,18 @@
 
 ### 003156 物理化学III
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E4%BD%9C%E4%B8%9A%E5%90%88%E9%9B%86.pdf>
+  - 查询：物理化学III作业合集.pdf（36 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：chembio-003156-hw-report。
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003156
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf>
+  - 查询：物理化学III课程报告.pdf（Op.158，7 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-003156-physical-chemistry-report。
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003156
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -7506,6 +7587,18 @@
 
 ### 006174 电磁场理论
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E3%80%8A%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E3%80%8B%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.pdf>
+  - 查询：《电磁场理论基础》课后习题解答（45 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-006174-5e4c8af6。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：006174
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E4%B9%A0%E9%A2%98%E8%AF%BE-%E7%AC%AC3.5%EF%BC%8C4%E7%AB%A0.pdf>
+  - 查询：习题课：第 3.5 章、第四章（10 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-006174-5e4c8af6。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：006174
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/22%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：006174 电磁场理论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7595,6 +7688,18 @@
 
 ### 006200 统计信号分析与处理
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98.pdf>
+  - 查询：统计信号分析 课堂习题
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-006200-signal-class-exercises。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：006200
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/22457/>
+  - 查询：评课社区：统计信号分析与处理（叶中付、刘军、徐旭）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：006200
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：006200 统计信号分析与处理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9018,6 +9123,42 @@
 
 ### 010177 现代控制理论
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E6%8E%A7%E5%A4%8D%E4%B9%A0/%E7%8E%B0%E6%8E%A7%E8%A6%81%E7%82%B9.pdf>
+  - 查询：现代控制理论 现控题型归类/要点
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-notes-010177-467119d9。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：010177
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E6%9C%AC%E8%AF%BE%E4%BB%B6/AAL.pdf>
+  - 查询：现代控制理论 课程讲义 AAL.pdf
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-010177-1a3ea659。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：010177
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/4455/>
+  - 查询：评课社区：现代控制理论（王永）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：010177
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%26%E7%AC%AC%E4%BA%8C%E7%AB%A0%281%29.pdf>
+  - 查询：现代控制理论 第一章&第二章 作业答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-010177-e8804715。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：010177
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E4%BD%9C%E4%B8%9A%E9%A2%98%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%83%E7%AB%A0%281%29.pdf>
+  - 查询：现代控制理论 第七章 作业答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-010177-e8804715。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：010177
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E7%A8%8Bppt/AAL.pdf>
+  - 查询：现代控制理论 课程讲义 AAL.pdf
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-010177-a6fec94a。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：010177
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%95%E5%8D%B7/22-23%281%29.pdf>
   - 查询：010177 现代控制理论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9121,6 +9262,18 @@
 
 ### 010205 运动控制
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control/PDF%E7%89%88%E6%9C%AC/1.%E7%BB%AA%E8%AE%BA.pdf>
+  - 查询：运动控制 课程讲义 1.绪论
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-010205-fe3b0f49。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：010205
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/6490/>
+  - 查询：评课社区：运动控制（尚伟伟）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：010205
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control>
   - 查询：010205 运动控制
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9185,6 +9338,36 @@
 
 ### 010214 计算机控制
 
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B8%93%E9%A2%98%E8%AE%AD%E7%BB%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E8%A7%A3%E7%AD%94.pdf>
+  - 查询：计算机控制 历年重点题型分类汇编及详细解答
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：模型生成，非课程原始资料
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：010214
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B8%93%E9%A2%98%E8%AE%AD%E7%BB%83/4%20%E5%A4%A7%E9%A2%98%E9%85%8D%E7%BD%AE%E4%B8%93%E9%A1%B9%E8%A7%A3%E7%AD%94.pdf>
+  - 查询：计算机控制 大题配置专项解答
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：同目录专题汇总，未证实发布者与作业配套
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：010214
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/20655/>
+  - 查询：评课社区：计算机控制（薛美盛、王兴虎）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：010214
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%28%E6%9D%8E%E5%97%A3%E7%A6%8F%2C%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf>
+  - 查询：计算机控制习题答案（李嗣福 第二版）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：与已收录李嗣福教材答案内容高度近似，未完成文件级判重
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：010214
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E5%A4%A7%E6%8A%84/%E8%AE%A1%E6%8E%A7%E5%A4%A7%E6%8A%84.pdf>
+  - 查询：计控大抄
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：已有课程速查笔记，未证实独立版本
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：010214
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2001%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf>
   - 查询：010214 计算机控制
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9395,6 +9578,30 @@
 
 ### 011144 计算机网络
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw4.pdf>
+  - 查询：计算机网络 第四次作业题目（P271-275）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-materi-011144-5。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：011144
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw5.pdf>
+  - 查询：计算机网络 第五次作业题目
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-materi-011144-5。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：011144
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw.docx>
+  - 查询：hw.docx：层次协议补充题
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-materi-011144-5。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：011144
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C>
+  - 查询：Kurose《Computer Networking》第 7 版复习题与习题解答（150 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：教师专用，禁止分发
+  - 来源 ID：gh-kobe972
+  - 课程代码：011144
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20USTC&type=repositories>
   - 查询：计算机网络 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog、guidongnan/ustc_ds_undergraduate_course
@@ -9539,6 +9746,24 @@
 
 ### 011174 操作系统原理与设计
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf>
+  - 查询：操作系统作业4 参考答案（hw4_sol.pdf）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为配套解答：computing-homework-gh-ustc-course-011174-homeworks。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011174
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6_sol.pdf>
+  - 查询：操作系统作业6 参考答案（hw6_sol.pdf）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为配套解答：computing-homework-gh-ustc-course-011174-homeworks。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011174
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary>
+  - 查询：操作系统读书笔记（死锁 / 文件 IO / 多处理器）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-011174-os-reading-notes。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011174
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：操作系统原理与设计 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog、Kobe972/ustc_course_plus
@@ -9597,6 +9822,30 @@
 
 ### 011186 大数据算法
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf>
+  - 查询：大数据算法 Lecture 1：基础数学和统计工具
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-011186-bigdata-lecture1。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：011186
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf>
+  - 查询：大数据算法 Notes Lec5 流算法
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-011186-bigdata-streams。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：011186
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf>
+  - 查询：大数据算法第三次作业答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ly382965-011186-3sp-minor-algorithms-for-big-data。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：011186
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/18025/>
+  - 查询：评课社区：大数据算法（丁虎）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：011186
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%20USTC&type=repositories>
   - 查询：大数据算法 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -9656,6 +9905,24 @@
 
 ### 011704 计算机系统概论(H)
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf>
+  - 查询：计算机系统概论 Homework01 题面
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-011704-ics-homework01。
+  - 来源 ID：gh-guidongnan
+  - 课程代码：011704
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_solution.pdf>
+  - 查询：Homework01 参考解答
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为配套解答：homework-review-011704-ics-homework01。
+  - 来源 ID：gh-guidongnan
+  - 课程代码：011704
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88/ch02_complete.pdf>
+  - 查询：教材课后题答案（Chapter 2 完整/选做）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：教材答案来源与可公开分发性未确认
+  - 来源 ID：gh-guidongnan
+  - 课程代码：011704
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA(H)%20USTC&type=repositories>
   - 查询：计算机系统概论(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 USTC-CS-Course-Resource/USTC-CS-Resources、Kobe972/ustc_course_plus、guidongnan/ustc_ds_undergraduate_course
@@ -10687,6 +10954,24 @@
 
 ### 017139 金融经济学基础
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/RachelK9790715/USTC_Finance_Minor/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98_%E9%A2%98%E7%9B%AE%E7%89%88.pdf>
+  - 查询：课后习题题目版（63 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017139-homework-rachel。
+  - 来源 ID：github-rachel-finance-minor
+  - 课程代码：017139
+- 2026-11-19 · GitHub · 候选未确认 · <https://raw.githubusercontent.com/RachelK9790715/USTC_Finance_Minor/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%AD%94%E6%A1%88.pdf>
+  - 查询：金融经济学答案（32 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：未证实与题目版逐题对应，现有合集已覆盖
+  - 来源 ID：github-rachel-finance-minor
+  - 课程代码：017139
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88>
+  - 查询：课后题答案图片目录（30 张 jpg）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：仅见图片列表，未核和PDF有无增量
+  - 来源 ID：github-rachel-finance-minor
+  - 课程代码：017139
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："金融经济学基础" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10706,6 +10991,24 @@
 
 ### 017144 随机过程B
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf>
+  - 查询：方兆本《随机过程》答案（55 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017144-homework-ustcresource。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf>
+  - 查询：第三章习题答案（6 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017144-homework-ustcresource。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf>
+  - 查询：第四章习题答案（8 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017144-homework-ustcresource。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%28B%292018%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/随机过程/随机过程(B)2018期末考题.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -10768,6 +11071,42 @@
 
 ### 017146 回归分析
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab1/lab1%20tutorial.pdf>
+  - 查询：Lab-1 讲义：相关分析（6 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017146-homework-regression。
+  - 来源 ID：github-irvingyou-regression-lab
+  - 课程代码：017146
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab2/lab%202%20tutorial.pdf>
+  - 查询：Lab-2 讲义：简单线性回归（5 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017146-homework-regression。
+  - 来源 ID：github-irvingyou-regression-lab
+  - 课程代码：017146
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab3/lab%203%20tutorial.pdf>
+  - 查询：Lab-3 讲义：多重线性回归（11 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017146-homework-regression。
+  - 来源 ID：github-irvingyou-regression-lab
+  - 课程代码：017146
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab4/lab%204%20tutorial.pdf>
+  - 查询：Lab-4 讲义：回归诊断（11 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017146-homework-regression。
+  - 来源 ID：github-irvingyou-regression-lab
+  - 课程代码：017146
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab1/lab%201.pdf>
+  - 查询：Lab-1 作答输出（11 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为配套解答：hum-017146-homework-regression。
+  - 来源 ID：github-irvingyou-regression-lab
+  - 课程代码：017146
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/IrvingYou/USTC-Regression-Analysis-lab2025/main/lab1/lab%201%20summary.pdf>
+  - 查询：Lab-1 小结（3 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017146-homework-regression。
+  - 来源 ID：github-irvingyou-regression-lab
+  - 课程代码：017146
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："回归分析" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19 个公开课程仓库文件树 + 仓库 IrvingYou/USTC-Regression-Analysis-lab2025 的 README 与递归文件树
@@ -10884,6 +11223,18 @@
 
 ### 017165 时间序列分析B
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/master/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1.pdf>
+  - 查询：Lab1 实验报告（6 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017165-homework-timeseries。
+  - 来源 ID：github-hehaha68-time-series-b
+  - 课程代码：017165
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/master/lab1.R>
+  - 查询：Lab1 R 源码
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-017165-homework-timeseries。
+  - 来源 ID：github-hehaha68-time-series-b
+  - 课程代码：017165
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90B%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："时间序列分析B" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19 个公开课程仓库文件树 + 仓库 hehaha68/USTC_2022Spring_Time-Series-Analysis-B 的 README 与递归文件树
@@ -11847,6 +12198,24 @@
 
 ### 019175 分析化学I
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/trial0329_0.m>
+  - 查询：trial0329_0.m（MATLAB 滴定曲线脚本）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：chembio-019175-hw-2025。
+  - 来源 ID：chembio-gold3fluoride-019175
+  - 课程代码：019175
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/analchem2.py>
+  - 查询：analchem2.py（Python 平衡/滴定计算脚本）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：chembio-019175-hw-2025。
+  - 来源 ID：chembio-gold3fluoride-019175
+  - 课程代码：019175
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/essay/template.typ>
+  - 查询：essay/template.typ（Typst 大作业报告模板）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：chembio-019175-hw-2025。
+  - 来源 ID：chembio-gold3fluoride-019175
+  - 课程代码：019175
 - 2026-11-18 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md>
   - 查询：USTC课程资料簿 分析化学I 页试卷条目
   - 检查范围：索引页条目 + easylink.cc/fkpdui 在浏览器打开（显示“分析化学期末卷（答案有错）.pdf”，PDF 预览加载中）
@@ -12125,6 +12494,24 @@
   - 说明：为已有合集补原入口，不另计。
   - 来源 ID：rainzor-computational-physics
   - 课程代码：022012
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/Zhichenzzz/Computational-Physics-A/main/homework_1/report/report.pdf>
+  - 查询：Homework1 实验报告（5 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-022012-homework-b2cae4。
+  - 来源 ID：gh-zhichen-cpa
+  - 课程代码：022012
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf>
+  - 查询：丁泽军《计算物理》讲义（概论）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-022012-computational-physics-intro。
+  - 来源 ID：rainzor-computational-physics
+  - 课程代码：022012
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E7%AC%AC1-2%E9%A2%98.pdf>
+  - 查询：第1–2题等作业题面与报告
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-feixu-022012-exams-8643f4。
+  - 来源 ID：rainzor-computational-physics
+  - 课程代码：022012
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86>
   - 查询：计算物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12217,6 +12604,12 @@
 
 ### 022062 热力学与统计物理A
 
+- 2026-11-19 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2024.pdf>
+  - 查询：同课程 2024 春正式考试试卷（非本小测）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：已有同课程同期中，未确认是否异卷，不另计
+  - 来源 ID：feixu-alist
+  - 课程代码：022062
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：热力学与统计物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12578,6 +12971,30 @@
 
 ### 023181 线性电子线路
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88/answers_chap1_2.pdf>
+  - 查询：线性电子线路 第一、二章课后习题解答
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-023181-68bead28。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：023181
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/ppt/ch01-1.pdf>
+  - 查询：线性电子线路 第一章课件
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-023181-35b330fc。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：023181
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/14405/>
+  - 查询：评课社区：线性电子线路（陆广华）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：023181
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/exercise%281%29.pdf>
+  - 查询：《线性电子线路》习题精解（58 页，含课后作业参考答案）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-023181-847d2143。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：023181
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/19%E6%98%A5%281%29.pdf>
   - 查询：023181 线性电子线路
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -13481,6 +13898,12 @@
 
 ### 210050 数字逻辑电路
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx>
+  - 查询：数字逻辑电路第一次习题课讲义（1—2、4 章）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-210050-digital-logic-tutorial。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：210050
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%20USTC&type=repositories>
   - 查询：数字逻辑电路 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -13558,6 +13981,30 @@
 
 ### 210070 数据结构及其算法
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf>
+  - 查询：数据结构第二~五章习题课
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-210070-data-structure-tutorial。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：210070
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E3%80%8B%E5%BE%80%E5%B9%B4%E9%A2%98%E7%AD%94%E6%A1%88.pdf>
+  - 查询：《数据结构及其算法》往年题答案（陈镜舟）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：已收录的历年题配套，与本次习题范围无新增
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：210070
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E4%B9%A0%E9%A2%98%E9%9B%86.pdf>
+  - 查询：《数据结构》习题集
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：已有习题合集、未证实独立课程归属
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：210070
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/2947/>
+  - 查询：评课社区：数据结构及其算法（刘东）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：210070
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%20USTC&type=repositories>
   - 查询：数据结构及其算法 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -14187,6 +14634,24 @@
 
 ### 229001 离散数学
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BD%9C%E4%B8%9A/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BD%9C%E4%B8%9A%E4%B8%80.pdf>
+  - 查询：离散数学作业一（2020-10-16 交）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-ds-undergradu-229001。
+  - 来源 ID：gh-guidongnan
+  - 课程代码：229001
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/answer-1.pdf>
+  - 查询：代数结构作业答案 answer-1
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：与标称离散数学作业不是同一题面，课程代码待确认
+  - 来源 ID：gh-guidongnan
+  - 课程代码：229001
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%95%99%E7%A8%8B%E3%80%8B%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20beta%2016%5B1%5D%5B1%5D.11%20%E7%89%88.pdf>
+  - 查询：《离散数学教程》习题解答（261 页，第三方免费分发）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-229001-discrete-math-solutions。
+  - 来源 ID：gh-guidongnan
+  - 课程代码：229001
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%20USTC&type=repositories>
   - 查询：离散数学 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 guidongnan/ustc_ds_undergraduate_course
@@ -16393,6 +16858,30 @@
 
 ### CS2002 数理逻辑基础
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/2.24%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf>
+  - 查询：数理逻辑基础 第一次作业参考答案（2.24）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs2002。
+  - 来源 ID：gh-kobe972
+  - 课程代码：CS2002
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/3.3%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf>
+  - 查询：数理逻辑基础 第二次作业参考答案（3.3）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs2002。
+  - 来源 ID：gh-kobe972
+  - 课程代码：CS2002
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/hw5%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf>
+  - 查询：hw5 作业反馈（逐题提示）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs2002。
+  - 来源 ID：gh-kobe972
+  - 课程代码：CS2002
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91_%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%8C_%E6%80%9D%E8%80%83%E9%A2%98_%E7%AD%94%E6%A1%88.pdf>
+  - 查询：习题课二思考题及答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs2002。
+  - 来源 ID：gh-kobe972
+  - 课程代码：CS2002
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：数理逻辑基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Kobe972/ustc_course_plus、Wloner0809/ustc-course-resource
@@ -16900,6 +17389,12 @@
 
 ### CS4012 运筹学基础
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus/blob/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/HW-answers%E6%9C%80%E6%96%B0%E7%89%88.pdf>
+  - 查询：运筹学基础 作业答案（47 页，Hw1 起）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs4012。
+  - 来源 ID：gh-kobe972
+  - 课程代码：CS4012
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：运筹学基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Kobe972/ustc_course_plus、ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog
@@ -17533,6 +18028,12 @@
   - 说明：独立版次，非旧合集镜像；仅答案。
   - 来源 ID：eng-github-epihio-automation
   - 课程代码：EE2003
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/ex_chapter-1-%5B2024SP%5D.docx>
+  - 查询：计算机原理与嵌入式系统 第 1 章作业（2024SP）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-ee2003-0b157da3。
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：EE2003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/2020%E6%98%A5%E5%BE%AE%E5%B5%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf>
   - 查询：EE2003 计算机原理与嵌入式系统
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17577,6 +18078,30 @@
 
 ### EE2004 计算机网络B
 
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%85%AD%E7%AB%A0%E7%AD%94%E6%A1%88.pdf>
+  - 查询：计算机网络 第六章答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：教师答案目录同批，公开分发依据不足
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：EE2004
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81/%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95.pdf>
+  - 查询：计算机网络B 复习记录
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-notes-ee2004-4e2bb855。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：EE2004
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21862/>
+  - 查询：评课社区：计算机网络B（郑烇）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE2004
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6/cn-1%EF%BC%882025%EF%BC%89.pdf>
+  - 查询：计算机网络 第1章课件（2025）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-ee2004-34e82ff7。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：EE2004
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/2018%E7%A7%8B%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：EE2004 计算机网络B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17653,6 +18178,18 @@
 
 ### EE2006A 信号与系统A
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88%E5%BE%90%E5%AE%88%E6%97%B6%EF%BC%89%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf>
+  - 查询：信号与系统（徐守时）课后习题答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-ee2006a-a55766fa。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：EE2006A
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/25206/>
+  - 查询：评课社区：信号与系统A（陈志波、李鑫）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE2006A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf>
   - 查询：EE2006A 信号与系统A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17691,6 +18228,30 @@
 
 ### EE2007 运筹学A
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/1-4%E7%AB%A0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf>
+  - 查询：运筹学A 1-4章作业答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-ee2007-1cc5fc53。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：EE2007
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E5%85%AD%E4%B8%83.pdf>
+  - 查询：运筹学A 第六、七章作业答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-homework-ee2007-1cc5fc53。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：EE2007
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/25857/>
+  - 查询：评课社区：运筹学A（熊军林）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE2007
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%BD%9C%E4%B8%9A%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/1-4%E7%AB%A0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf>
+  - 查询：运筹学 1-4章作业答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：与编号32字节相同
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：EE2007
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/2025%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98/%E8%BF%90%E7%AD%B9%E5%AD%A625-26%E5%AD%A6%E5%B9%B4%E8%AF%95%E9%A2%98.pdf>
   - 查询：EE2007 运筹学A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17884,6 +18445,18 @@
 
 ### EE3003 微波技术基础
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/2025%E5%B9%B4%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%A4%8D%E4%B9%A0%E8%A6%81%E6%B1%82.pdf>
+  - 查询：2025年微波技术基础期末考试复习要求
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-ee3003-microwave-review。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：EE3003
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/2444/>
+  - 查询：评课社区：微波技术基础（陈卫东）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE3003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80>
   - 查询：EE3003 微波技术基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18240,6 +18813,30 @@
 
 ### EE4011A 数字图像处理A
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf>
+  - 查询：数字图像处理 祖传习题答案
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：作为独立资料收录：homework-review-ee4011a-image-processing-tutorial。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：EE4011A
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/DIP-ch1%EF%BC%882025%EF%BC%89.pdf>
+  - 查询：数字图像处理 第1章课件（2025）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-lectures-ee4011a-18e8a801。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：EE4011A
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E4%B9%A0%E9%A2%98%E8%AF%BE250606.pdf>
+  - 查询：数字图像处理 习题课（2025-06-06）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：eng-notes-ee4011a-3ecff1b6。
+  - 来源 ID：eng-github-ly382965-materials
+  - 课程代码：EE4011A
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/25210/>
+  - 查询：评课社区：数字图像处理A（张荣）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE4011A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DIP-A2025S.md>
   - 查询：EE4011A 数字图像处理A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -20853,6 +21450,12 @@
 
 ### HS1528 日本社会文化解读(双语课程)
 
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB>
+  - 查询：Op.159（压缩图片后）.pdf（18 页学生作品）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：课程论文且已有记录，不增含个人标识的文件级入口
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：HS1528
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB(%E5%8F%8C%E8%AF%AD%E8%AF%BE%E7%A8%8B)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："日本社会文化解读(双语课程)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20910,6 +21513,12 @@
 
 ### HS1534 社会心理学
 
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6>
+  - 查询：社会心理学期末论文《嫉妒心理的调查与思考》
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：已有记录，正文含学生学号
+  - 来源 ID：gh-li-qi-lin
+  - 课程代码：HS1534
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："社会心理学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21063,6 +21672,12 @@
 
 ### HS1551 交响乐赏析
 
+- 2026-11-19 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90>
+  - 查询：Op.147.pdf（17 页学生作品）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：课程论文且已有记录，不增含个人标识的文件级入口
+  - 来源 ID：chembio-daswalpurgis
+  - 课程代码：HS1551
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："交响乐赏析" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21982,6 +22597,24 @@
 
 ### HS1648 生活中的公共事务
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.docx>
+  - 查询：期末作业.docx（作业要求）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-HS1648-homework-duxiaoyang。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：HS1648
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E8%AF%BE%E7%A8%8B%E5%B0%8F%E4%BD%9C%E4%B8%9A.docx>
+  - 查询：课程小作业.docx（作业要求）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：hum-HS1648-homework-duxiaoyang。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：HS1648
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/24253/>
+  - 查询：评课社区：生活中的公共事务（尚虎平）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1648
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："生活中的公共事务" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23052,6 +23685,12 @@
 
 ### MARX1011 马克思主义基本原理
 
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/6867/>
+  - 查询：评课社区：马克思主义基本原理（胡云峰）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："马克思主义基本原理" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23090,6 +23729,12 @@
 
 ### MARX1013 毛泽东思想和中国特色社会主义理论体系概论
 
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/18075/>
+  - 查询：评课社区：毛泽东思想和中国特色社会主义理论体系概论（叶政）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："毛泽东思想和中国特色社会主义理论体系概论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -24862,6 +25507,24 @@
 
 ### MATH3002 实分析
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/Luciennnnnnn/ustc-functional-analysis-exercise-set/main/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86.pdf>
+  - 查询：实变函数与泛函分析习题集 PDF（18 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-math3002-homework-9d6ea6。
+  - 来源 ID：gh-lucien-fa
+  - 课程代码：MATH3002
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/RA18hw_li.zip>
+  - 查询：RA18hw_li.zip：Homework 1–12（作者 Weiyu Li，2019 春）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-math3002-homework-d85aab。
+  - 来源 ID：gh-weiyu-mathstat
+  - 课程代码：MATH3002
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/Stein%E5%AE%9E%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf>
+  - 查询：Stein 实分析习题解答（112 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-math3002-homework-d85aab。
+  - 来源 ID：gh-weiyu-mathstat
+  - 课程代码：MATH3002
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2023%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf>
   - 查询：我的科大：/数学类/实分析/2023实分析期末考试.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -24967,6 +25630,12 @@
 
 ### MATH3003 拓扑学
 
+- 2026-11-19 · GitHub · 已查看 · <https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E6%8B%93%E6%89%91%E5%AD%A6Topology/hw2020-02-21.pdf>
+  - 查询：拓扑学 Homework 1（2020-02-21 扫描，3 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-math3003-homework-fb5d8e。
+  - 来源 ID：gh-weiyu-mathstat
+  - 课程代码：MATH3003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Weiyu/USTC-USTCmath-stat>
   - 查询：拓扑学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -25435,6 +26104,18 @@
 
 ### MATH3011 运筹学
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf>
+  - 查询：运筹学第一章习题解答（9 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-math3011-homework-9ec5d2。
+  - 来源 ID：gh-guidongnan
+  - 课程代码：MATH3011
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89v1.pdf>
+  - 查询：运筹学习题课讲义 v1（26 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-math3011-lectures-9ec5d2。
+  - 来源 ID：gh-guidongnan
+  - 课程代码：MATH3011
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course>
   - 查询：运筹学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31283,6 +31964,18 @@
 
 ### STAT2002 概率论与数理统计
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/HW%20answer.pdf>
+  - 查询：概率论与数理统计作业答案（54 页）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-stat2002-homework-c920cd。
+  - 来源 ID：gh-wloner0809
+  - 课程代码：STAT2002
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%90%9C%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf>
+  - 查询：第一次习题课讲义（含第三周作业参考答案）
+  - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
+  - 说明：补已有资料的具体入口：mp-gh-stat2002-lectures-c920cd。
+  - 来源 ID：gh-wloner0809
+  - 课程代码：STAT2002
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/概率论与数理统计/概率论与数理统计历年真题.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -31735,6 +32428,8 @@
 - 课程 001506、001549 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95%E7%AC%94%E8%AE%B0%EF%BC%88%E9%A1%BE%E6%A8%B5%E8%AF%BE%E6%9C%AC%EF%BC%89.pdf>：目录只到“数学类/数理方程”，官方有 001506《数理方程A》、001549《数理方程B》；文件封面只写“数理方程/数理方程08班/数学物理方法”，无课程代码，不能确认 A 或 B。
 - 课程 001506、001549 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E4%BA%94%E5%A4%A9%E9%80%9F%E6%88%90%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B.pdf>：目录只到“数学类/数理方程”，官方有 001506《数理方程A》、001549《数理方程B》；文件封面只写“数理方程/数理方程08班/数学物理方法”，无课程代码，不能确认 A 或 B。
 - 课程 001506 · 评课社区 · 候选未确认 · <https://icourse.club/course/19975/>：附件需登录，未核验卷面/年份/解答：数理方程(A)2025春真题.pdf；数理方程(A)2025春真题参考答案.pdf
+- 课程 001549 · GitHub · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf>：原文明示未经同意不得上传校外
+- 课程 001549 · GitHub · 候选未确认 · <https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB>：重复且原文明示不得上传校外
 - 课程 001549 · 评课社区 · 候选未确认 · <https://icourse.club/course/24052/>：附件需登录，未核验卷面/年份/解答：课后习题解析.pdf；数理方程指导.pdf
 - 课程 001661 · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0I%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001661EX · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0I%28%E4%B9%A0%E9%A2%98%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -31798,6 +32493,8 @@
 - 课程 003056、003154、019161、019060、CHEM4004、BIO3701 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>：附件需登录评课社区才能下载，本次未取得卷面正文，无法按方案核验年份/卷型；仅页面列出文件名，故不正式收录，待登录或原站访问后逐卷确认。
 - 课程 003143e · 评课社区 · 候选未确认 · <https://icourse.club/course/26252/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 003143e · 公开网页 · 候选未确认 · <https://icourse.club/course/14352/>：结果仅出现非英语版物理化学基础实验(下)页面，打开后课程号为00314303，未见带(英)的英语班课程页
+- 课程 003154 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86>：合集已收，正文含不必要个人标识
+- 课程 003154 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/2024%E7%A7%8B%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90.pdf>：仅凭文件名和扫描形态，正文未核
 - 课程 003154 · 公开网页 · 候选未确认 · <http://staff.ustc.edu.cn/~junling/teaching/Introduction.pdf>：打开本校教师教学页课程介绍PDF，含授课时间、考核方式与《物理化学》教材，但未标课程号，且该教师主讲物理化学I(英)
 - 课程 003154e · 评课社区 · 候选未确认 · <https://icourse.club/course/23171/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 003155e · 评课社区 · 候选未确认 · <https://icourse.club/course/23034/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
@@ -31836,6 +32533,7 @@
 - 课程 006196 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006197 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006198 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 006200 · 评课社区 · 候选未确认 · <https://icourse.club/course/22457/>：评课页仅作为课程归属证据，不是新资料
 - 课程 006200 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006203 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006204 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -31884,16 +32582,26 @@
 - 课程 009501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010159 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010177 · 评课社区 · 候选未确认 · <https://icourse.club/course/4455/>：评课页仅作为课程归属证据，不是新资料
 - 课程 010177 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010190 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010196 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010197 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010205 · 评课社区 · 候选未确认 · <https://icourse.club/course/6490/>：评课页仅作为课程归属证据，不是新资料
 - 课程 010205 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010209 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010210 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010214 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B8%93%E9%A2%98%E8%AE%AD%E7%BB%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E8%A7%A3%E7%AD%94.pdf>：模型生成，非课程原始资料
+- 课程 010214 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B8%93%E9%A2%98%E8%AE%AD%E7%BB%83/4%20%E5%A4%A7%E9%A2%98%E9%85%8D%E7%BD%AE%E4%B8%93%E9%A1%B9%E8%A7%A3%E7%AD%94.pdf>：同目录专题汇总，未证实发布者与作业配套
+- 课程 010214 · 评课社区 · 候选未确认 · <https://icourse.club/course/20655/>：评课页仅作为课程归属证据，不是新资料
+- 课程 010214 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%28%E6%9D%8E%E5%97%A3%E7%A6%8F%2C%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf>：与已收录李嗣福教材答案内容高度近似，未完成文件级判重
+- 课程 010214 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E5%A4%A7%E6%8A%84/%E8%AE%A1%E6%8E%A7%E5%A4%A7%E6%8A%84.pdf>：已有课程速查笔记，未证实独立版本
 - 课程 010214 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010216 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010217 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 011144 · GitHub · 候选未确认 · <https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C>：教师专用，禁止分发
+- 课程 011186 · 评课社区 · 候选未确认 · <https://icourse.club/course/18025/>：评课页仅作为课程归属证据，不是新资料
+- 课程 011704 · GitHub · 候选未确认 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88/ch02_complete.pdf>：教材答案来源与可公开分发性未确认
 - 课程 013002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013090 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -31912,6 +32620,8 @@
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E8%80%83%E5%89%8D%E8%A1%A5%E5%85%85%E9%A2%98.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%8F%90%E7%BA%B2.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
+- 课程 017139 · GitHub · 候选未确认 · <https://raw.githubusercontent.com/RachelK9790715/USTC_Finance_Minor/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%AD%94%E6%A1%88.pdf>：未证实与题目版逐题对应，现有合集已覆盖
+- 课程 017139 · GitHub · 候选未确认 · <https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88>：仅见图片列表，未核和PDF有无增量
 - 课程 017146 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%20%E4%B8%AD%E7%A7%91%E5%A4%A7&setlang=zh-CN&cc=CN>：命中疑似大纲页 http://staff.ustc.edu.cn/~ynyang/2022/Syllabus.htm，HTTP 200 但响应正文为空（0 字节），无法核对课程号；重试 http/https 均如此，按受阻记录。
 - 课程 017156 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%E9%9D%9E%E5%8F%82%E6%95%B0%E7%BB%9F%E8%AE%A1%20%E4%B8%AD%E7%A7%91%E5%A4%A7&setlang=zh-CN&cc=CN>：命中疑似教师页 http://staff.ustc.edu.cn/~zwp/teach/nonpar/nonpar.htm，HTTP 200 但响应正文为空（0 字节），无法核对课程号与年份；重试 http/https 均如此，按受阻记录。
 - 课程 019011e · 评课社区 · 候选未确认 · <https://icourse.club/course/26014/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
@@ -31934,6 +32644,7 @@
 - 课程 022056 · GitHub · 受阻 · <https://github.com/search?q=%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022056 · 评课社区 · 候选未确认 · <https://icourse.club/course/23690/>：附件需登录，未核验卷面/年份/解答：运动学习题课.pdf；动(静)力学习题课.pdf；分析力学习题课.pdf；运动学习题课.pptx；动(静)力学习题课.pptx；分析力学习题课.pptx
 - 课程 022057 · 评课社区 · 候选未确认 · <https://icourse.club/course/23458/>：附件需登录，未核验卷面/年份/解答：第一周作业答案.pdf；第二周作业答案.pdf；第三周作业答案.pdf；第四周作业答案.pdf；第五周作业答案.pdf；第六周作业答案.pdf
+- 课程 022062 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2024.pdf>：已有同课程同期中，未确认是否异卷，不另计
 - 课程 022095 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022095 · 评课社区 · 候选未确认 · <https://icourse.club/course/21885/>：附件需登录，未核验卷面/年份/解答：cheat_sheet_icourse.rar；022095_cheet_sheet_final.pdf
 - 课程 022148 · 评课社区 · 候选未确认 · <https://icourse.club/course/22025/>：附件需登录，未核验卷面/年份/解答：量子力学笔记.pdf
@@ -31947,6 +32658,7 @@
 - 课程 022171 · 评课社区 · 候选未确认 · <https://icourse.club/course/13087/>：附件需登录，未核验卷面/年份/解答：恒星物理基础最终版.pdf
 - 课程 022506 · GitHub · 受阻 · <https://github.com/search?q=%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 023150 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 023181 · 评课社区 · 候选未确认 · <https://icourse.club/course/14405/>：评课页仅作为课程归属证据，不是新资料
 - 课程 023181 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 023246 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 023314 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -31989,6 +32701,9 @@
 - 课程 210037、CS2002、CS4010 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E8%BF%91%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/数理逻辑”，1184 门官方课程含 210037《数理逻辑与图论》、CS2002《数理逻辑基础》、CS4010《数理逻辑进阶与应用》；封面/正文未写课程代码或教师，无法确定唯一课程。
 - 课程 210038 · GitHub · 受阻 · <https://github.com/search?q=%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 210050 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 210070 · GitHub · 候选未确认 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E3%80%8B%E5%BE%80%E5%B9%B4%E9%A2%98%E7%AD%94%E6%A1%88.pdf>：已收录的历年题配套，与本次习题范围无新增
+- 课程 210070 · GitHub · 候选未确认 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E4%B9%A0%E9%A2%98%E9%9B%86.pdf>：已有习题合集、未证实独立课程归属
+- 课程 210070 · 评课社区 · 候选未确认 · <https://icourse.club/course/2947/>：评课页仅作为课程归属证据，不是新资料
 - 课程 210070、CS2502A、CS2502B · GitHub · 候选未确认 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%B5%84%E6%96%99(1).pdf>：无法确认属于 210070 数据结构及其算法，亦不能挂同名 CS2502A/CS2502B；不发布为确认资源。
 - 课程 210077 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 210710 · GitHub · 受阻 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
@@ -31998,6 +32713,7 @@
 - 课程 219004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 219005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 219006 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 229001 · GitHub · 候选未确认 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/answer-1.pdf>：与标称离散数学作业不是同一题面，课程代码待确认
 - 课程 232066 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 232084 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 232085 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32068,10 +32784,15 @@
 - 课程 EE1512 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE1513 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2004 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%85%AD%E7%AB%A0%E7%AD%94%E6%A1%88.pdf>：教师答案目录同批，公开分发依据不足
+- 课程 EE2004 · 评课社区 · 候选未确认 · <https://icourse.club/course/21862/>：评课页仅作为课程归属证据，不是新资料
 - 课程 EE2004 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/ji-suan-ji-wang-luo.md>：课程资料簿有《计算机网络》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
 - 课程 EE2005A · 评课社区 · 候选未确认 · <https://icourse.club/course/25882/>：候选1；页面课程号EE200902；点评数19；课程主页暂无；附件未发现。
 - 课程 EE2005A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2006A · 评课社区 · 候选未确认 · <https://icourse.club/course/25206/>：评课页仅作为课程归属证据，不是新资料
 - 课程 EE2006A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2007 · 评课社区 · 候选未确认 · <https://icourse.club/course/25857/>：评课页仅作为课程归属证据，不是新资料
+- 课程 EE2007 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%BD%9C%E4%B8%9A%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/1-4%E7%AB%A0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf>：与编号32字节相同
 - 课程 EE2007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2501 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/dian-zi-ji-shu-ji-chu-han-mo-ni-dian-lu.md>：课程资料簿有《电子技术基础（含模拟电路）》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
@@ -32080,6 +32801,7 @@
 - 课程 EE2505 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2506A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2506B · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE3003 · 评课社区 · 候选未确认 · <https://icourse.club/course/2444/>：评课页仅作为课程归属证据，不是新资料
 - 课程 EE3003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE3004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE3005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32097,6 +32819,7 @@
 - 课程 EE4008 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4010 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE4011A · 评课社区 · 候选未确认 · <https://icourse.club/course/25210/>：评课页仅作为课程归属证据，不是新资料
 - 课程 EE4011A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4013 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4014 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32164,6 +32887,10 @@
 - 课程 GEOP4015 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4016 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4017 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E8%B4%A8%E5%AD%A6%E4%B8%8E%E5%A4%A7%E5%9C%B0%E6%9E%84%E9%80%A0%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 HS1528 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB>：课程论文且已有记录，不增含个人标识的文件级入口
+- 课程 HS1534 · GitHub · 候选未确认 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6>：已有记录，正文含学生学号
+- 课程 HS1551 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90>：课程论文且已有记录，不增含个人标识的文件级入口
+- 课程 HS1648 · 评课社区 · 候选未确认 · <https://icourse.club/course/24253/>：评课页仅作为课程归属证据，不是新资料
 - 课程 IC1901 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC2701 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC3001 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32176,6 +32903,8 @@
 - 课程 IS3003 · GitHub · 受阻 · <https://github.com/search?q=%E5%AF%86%E7%A0%81%E5%B7%A5%E7%A8%8B%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3004 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3005 · GitHub · 受阻 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 MARX1011 · 评课社区 · 候选未确认 · <https://icourse.club/course/6867/>：评课页仅作为课程归属证据，不是新资料
+- 课程 MARX1013 · 评课社区 · 候选未确认 · <https://icourse.club/course/18075/>：评课页仅作为课程归属证据，不是新资料
 - 课程 MATH1008 · 评课社区 · 候选未确认 · <https://icourse.club/course/14210/>：附件需登录，未核验卷面/年份/解答：数学分析B3评分标准.pdf
 - 课程 MATH1009 · 评课社区 · 重复或镜像 · <https://icourse.club/uploads/files/1fd2e6e6f6d7334b7a8d7313fcf1396fbf360e27.pdf>：核对并修正 mp-feixu-math1009-exams-e05a1e；feixu 副本与 icourse 版本字节不同但同源同日次版
 - 课程 MATH1009 · 公开网页 · 重复或镜像 · <https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf>：核对并修正 mp-feixu-math1009-exams-e6b2ad；与 feixu「2014-2015第二学期…期中参考答案」字节一致；仓库内另有同 blob 的「2015—2016第一学期期中」重复上传
@@ -32396,8 +33125,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 1785 个网址，监控文件覆盖其中 1760 个。
-- 结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 25。
+- 统计范围：统计分母是站点引用的 1862 个网址，监控文件覆盖其中 1760 个。
+- 结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 102。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

@@ -74,6 +74,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "homework-review-006200-signal-class-exercises",
+      "type": "study",
+      "title": "统计信号分析 课堂习题",
+      "authors": [],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98.pdf",
+        "note": "PDF 首页“例1：设零均值的平稳随机信号 x(t) 输入到滤波器 h(t)…证明输出存在以下关系”，为课堂讲解例题。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E8%AF%BE%E5%A0%82%E4%B9%A0%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-notes-006200-6c91353e",
       "type": "study",
       "title": "统计信号分析与处理复习资料",

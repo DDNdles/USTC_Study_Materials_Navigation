@@ -480,6 +480,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "homework-review-210070-data-structure-tutorial",
+      "type": "study",
+      "title": "数据结构第二~五章习题课",
+      "authors": [],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf",
+        "note": "PDF 首页：“第二~五章习题课 第二章作业：绪论”，逐题列错误选项并给正确答案（如 O(n^1/2)）。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-guides-feixu-210070",
       "type": "study",
       "title": "数据结构及应用算法经验分享",

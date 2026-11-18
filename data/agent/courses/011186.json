@@ -193,6 +193,16 @@
       "locations": [
         {
           "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-ly382965-materials",
           "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP(minor)%20Algorithms%20for%20Big%20Data",
           "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP(minor)%20Algorithms%20for%20Big%20Data",
           "download_url": null,
@@ -203,6 +213,70 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "homework-review-011186-bigdata-lecture1",
+      "type": "study",
+      "title": "大数据算法 Lecture 1：基础数学和统计工具",
+      "authors": [
+        "黄震"
+      ],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf",
+        "note": "PDF 首页：“大数据算法-2024 春 Lecture 1: 基础数学和统计工具，2024.2.27，Lecturer: 丁虎，Scribe: 黄震”，正文讲渐进记号与概率不等式。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "homework-review-011186-bigdata-streams",
+      "type": "study",
+      "title": "大数据算法 Notes Lec5 流算法",
+      "authors": [],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf",
+        "note": "PDF 首页：“大数据算法 March 14, 2025 Lecture 5: 数据流 Data Stream Algorithms，Lecturer: 彭攀”，讲概率计数与蓄水池抽样。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {

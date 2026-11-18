@@ -332,6 +332,28 @@
       "locations": [
         {
           "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "USTC-Resource",
+          "page_kind": "file",
+          "role": "solution"
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6_sol.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "USTC-Resource",
+          "page_kind": "file",
+          "role": "solution"
+        },
+        {
+          "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
           "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
           "download_url": null,
@@ -342,6 +364,35 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "homework-review-011174-os-reading-notes",
+      "type": "study",
+      "title": "操作系统读书笔记（死锁 / 文件 IO / 多处理器）",
+      "authors": [],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary",
+        "note": "目录含 deadlock.md、linux-file-io.md、multiprocessor.md；deadlock.md 头信息“title: 『现代操作系统』死锁 … tags: [操作系统,读书笔记]”，date 2018-06-08。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "USTC-Resource",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "computing-lectures-gh-ustc-cs-courses-re-011174",

@@ -394,6 +394,16 @@
       "locations": [
         {
           "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/exercise%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "li-qi-lin",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-li-qi-lin",
           "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF",
           "download_page": null,
           "download_url": null,
@@ -423,6 +433,16 @@
         "note": "教材习题答案目录。"
       },
       "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88/answers_chap1_2.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        },
         {
           "source_id": "eng-github-ly382965-materials",
           "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88",
@@ -516,6 +536,16 @@
         "note": "ch01-ch07 PDF课件。"
       },
       "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/ppt/ch01-1.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "ly382965",
+          "page_kind": "file"
+        },
         {
           "source_id": "eng-github-ly382965-materials",
           "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/ppt",

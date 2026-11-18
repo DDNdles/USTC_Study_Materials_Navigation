@@ -568,6 +568,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "homework-review-210050-digital-logic-tutorial",
+      "type": "study",
+      "title": "数字逻辑电路第一次习题课讲义（1—2、4 章）",
+      "authors": [
+        "滕子涵"
+      ],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx",
+        "note": "习题课标题页注明日期与助教，含第一次作业补充题。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "li-qi-lin",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {

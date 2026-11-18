@@ -183,6 +183,16 @@
       "locations": [
         {
           "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/HW-answers%E6%9C%80%E6%96%B0%E7%89%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Kobe972",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-kobe972",
           "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
           "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
           "download_url": null,

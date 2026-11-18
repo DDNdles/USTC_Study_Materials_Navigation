@@ -1004,6 +1004,16 @@
       "locations": [
         {
           "source_id": "gh-lucien-fa",
+          "page_url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set/blob/main/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E9%9B%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Luciennnnnnn",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-lucien-fa",
           "page_url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set",
           "download_page": null,
           "download_url": null,
@@ -1031,6 +1041,26 @@
         "note": "目录内容按文件名归类，未逐份读正文"
       },
       "locations": [
+        {
+          "source_id": "gh-weiyu-mathstat",
+          "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/RA18hw_li.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Weiyu-USTC",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-weiyu-mathstat",
+          "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/blob/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/Stein%E5%AE%9E%E5%88%86%E6%9E%90%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Weiyu-USTC",
+          "page_kind": "file"
+        },
         {
           "source_id": "gh-weiyu-mathstat",
           "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",

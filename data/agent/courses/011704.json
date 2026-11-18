@@ -9,6 +9,47 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "homework-review-011704-ics-homework01",
+      "type": "homework",
+      "title": "计算机系统概论 · Homework01（含参考解答）",
+      "authors": [],
+      "notes": "作业题目与 8 页参考解答开头题面一致，作为一条资料。",
+      "exercise_source": "公开课程资料仓库「计算机系统概论／作业」；第 1 题据教材第 1.5 题改编，教材版次未确认。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf",
+        "note": "题面和解答分别核读；解答不另计。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "guidongnan",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_solution.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "guidongnan",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-ds-undergradu-011704",
       "type": "homework",
       "title": "计算机系统概论 作业与实验（ustc_ds_undergraduate_course）",

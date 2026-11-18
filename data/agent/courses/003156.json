@@ -28,6 +28,16 @@
       "locations": [
         {
           "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E4%BD%9C%E4%B8%9A%E5%90%88%E9%9B%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "dasWalpurgis",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "chembio-daswalpurgis",
           "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6",
           "download_page": null,
           "download_url": null,
@@ -71,6 +81,37 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "homework-review-003156-physical-chemistry-report",
+      "type": "projects",
+      "title": "物理化学 III · 课程报告：基于几何的经典力学与经典热力学",
+      "authors": [],
+      "notes": "从复核的课程资料入口核读正文，仅提供原文件导航。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf",
+        "note": "封面与正文确认是物理化学 III 课程报告，不归习题。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "dasWalpurgis",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {

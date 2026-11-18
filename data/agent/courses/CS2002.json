@@ -330,6 +330,46 @@
       "locations": [
         {
           "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/2.24%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Kobe972",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/3.3%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Kobe972",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/hw5%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Kobe972",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91_%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%8C_%E6%80%9D%E8%80%83%E9%A2%98_%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Kobe972",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-kobe972",
           "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
           "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
           "download_url": null,

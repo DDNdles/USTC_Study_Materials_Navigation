@@ -31,6 +31,16 @@
       "locations": [
         {
           "source_id": "rainzor-computational-physics",
+          "page_url": "https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E7%AC%AC1-2%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Rainzor",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "rainzor-computational-physics",
           "page_url": "https://github.com/Rainzor/Computational-Physics",
           "download_page": null,
           "download_url": null,
@@ -99,6 +109,16 @@
       "locations": [
         {
           "source_id": "gh-zhichen-cpa",
+          "page_url": "https://github.com/Zhichenzzz/Computational-Physics-A/blob/main/homework_1/report/report.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Zhichenzzz",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-zhichen-cpa",
           "page_url": "https://github.com/Zhichenzzz/Computational-Physics-A",
           "download_page": null,
           "download_url": null,
@@ -109,6 +129,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "homework-review-022012-computational-physics-intro",
+      "type": "study",
+      "title": "2022 秋 计算物理 A · 丁泽军讲义：概论",
+      "authors": [
+        "丁泽军"
+      ],
+      "notes": "原仓库的课程讲义，适合独立查找；不是作业答案。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf",
+        "note": "压缩包内 Assignments/讲义1.pdf 首页：'《计算物理》(丁泽军) 概论'；同目录另有 讲义2.pdf、讲义3.pdf，Note/ 下有 Note1_MonteCarlo方法基础.pdf、Note2_重要抽样MonteCarlo方法.pdf 与两份 cheat sheet。"
+      },
+      "locations": [
+        {
+          "source_id": "rainzor-computational-physics",
+          "page_url": "https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Rainzor",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {

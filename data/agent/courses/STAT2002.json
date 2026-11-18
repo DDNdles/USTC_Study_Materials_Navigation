@@ -630,6 +630,16 @@
       "locations": [
         {
           "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/HW%20answer.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Wloner0809",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-wloner0809",
           "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
           "download_page": null,
           "download_url": null,
@@ -715,6 +725,16 @@
         "note": "目录内容按文件名归类，未逐份读正文"
       },
       "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%90%9C%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Wloner0809",
+          "page_kind": "file"
+        },
         {
           "source_id": "gh-wloner0809",
           "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
