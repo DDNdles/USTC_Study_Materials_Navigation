@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "code": "MARX1012",
+  "name": "思想道德与法治",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-MARX1012-exam-2023-recall",
+      "type": "exams",
+      "title": "思想道德与法治 2023年期末参考回忆版",
+      "authors": [],
+      "notes": "文件名标 2022秋，正文标题为“2023思想道德与法治期末参考回忆版”，按正文记为 2023 回忆版。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc",
+        "note": "正文核对：2023 思想道德与法治期末参考回忆版，四道论述题；文件名年份与正文不一致，已在 notes 说明。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1012-homework-feixu",
+      "type": "homework",
+      "title": "思想道德与法治 2021秋机考题库",
+      "authors": [],
+      "notes": "机考题库 xlsx；非正式试卷。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2021%E7%A7%8B%E6%9C%BA%E8%80%83%E9%A2%98%E5%BA%93.xlsx",
+        "note": "文件名标注 2021秋机考题库；作为练习题库。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2021%E7%A7%8B%E6%9C%BA%E8%80%83%E9%A2%98%E5%BA%93.xlsx",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2021%E7%A7%8B%E6%9C%BA%E8%80%83%E9%A2%98%E5%BA%93.xlsx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1012-notes-feixu",
+      "type": "study",
+      "title": "思想道德与法治课本索引",
+      "authors": [],
+      "notes": "课本索引 PDF，便于开卷查阅。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B%E8%AF%BE%E6%9C%AC%E7%B4%A2%E5%BC%95.pdf",
+        "note": "文件名与课程一致；内容为课本索引。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B%E8%AF%BE%E6%9C%AC%E7%B4%A2%E5%BC%95.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B%E8%AF%BE%E6%9C%AC%E7%B4%A2%E5%BC%95.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

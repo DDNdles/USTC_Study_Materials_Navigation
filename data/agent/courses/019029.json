@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "019029",
+  "name": "仪器分析实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

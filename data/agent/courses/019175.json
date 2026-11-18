@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "code": "019175",
+  "name": "分析化学I",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019175-hw-2025",
+      "type": "homework",
+      "title": "分析化学I 2025春 作业：章节 MATLAB/Python 代码与滴定曲线图",
+      "authors": [
+        "gold3fluoride"
+      ],
+      "notes": "仓库名与 README 标注 2025春 019175 教学班 05；内容为作业中化学平衡/滴定曲线计算的 MATLAB 与 Python 脚本、输出图及 Typst 报告模板。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/README.md",
+        "note": "README 明确“2025春分析化学作业”，学期年份可确认。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-gold3fluoride-019175",
+          "page_url": "https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @gold3fluoride：2025spr.ustc.019175.05.wxz",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019175-notes",
+      "type": "study",
+      "title": "分析化学I 公式汇总",
+      "authors": [],
+      "notes": "评课社区课程页（课程号 01917507）点评附件；同页另有仅登录可见附件，文件名未显示。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20024/",
+        "note": "未标注年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20024/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 20024，文件“公式汇总.pdf”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-gold3fluoride-019175": "gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）",
+    "icourse-club": "USTC 评课社区"
+  }
+}

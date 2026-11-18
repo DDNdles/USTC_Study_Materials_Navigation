@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE3011",
+  "name": "核工程基础实验",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

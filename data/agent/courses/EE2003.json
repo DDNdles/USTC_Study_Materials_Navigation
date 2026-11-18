@@ -1,0 +1,512 @@
+{
+  "schema_version": 1,
+  "code": "EE2003",
+  "name": "计算机原理与嵌入式系统",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-ee2003-57d8aa22",
+      "type": "exams",
+      "title": "计算机原理与嵌入式系统 2019—2020 学年第二学期期末试卷（A 卷，卷面旧名微机原理与嵌入式系统）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；feixu 与 EpiHio 2020春微嵌期末试卷.pdf 题目相同，合并为镜像；卷面旧课程名“微机原理与嵌入式系统”，按现有 EE2003 归档，不再单列 210076。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/2020%E6%98%A5%E5%BE%AE%E5%B5%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "feixu 355562 字节与 EpiHio 2020春微嵌期末试卷.pdf 117222 字节题目相同、版式不同；卷面课程名为“微机原理与嵌入式系统”，现有条目已按 EE2003 归档；A 卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/2020%E6%98%A5%E5%BE%AE%E5%B5%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F2019-2020%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F2019-2020%E7%9C%9F%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2003-3ffc4dcf",
+      "type": "exams",
+      "title": "计算机原理与嵌入式系统 2023—2024 学年第二学期期末试卷",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；feixu 与 EpiHio 23计嵌期末.pdf 字节相同，合并为镜像；卷头课程编号 EE2003。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/23%E8%AE%A1%E5%B5%8C%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "feixu 与 EpiHio 23计嵌期末.pdf 字节相同（7517575，md5 bd70b51f…）；卷头课程编号 EE2003、闭卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/23%E8%AE%A1%E5%B5%8C%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AE%A1%E5%B5%8C2023%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AE%A1%E5%B5%8C2023%E6%9C%9F%E6%9C%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2003-7eb40d35",
+      "type": "exams",
+      "title": "计算机原理与嵌入式系统 2023—2024学年（公历年份未确认） 试卷（样卷/模拟）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；feixu 为同题样卷的另一版本；卷面明确不提供参考答案，修正 has_solutions。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "practice",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7%281%29.pdf",
+        "note": "feixu 文件 765564 字节与 EpiHio 题形示意卷(1).pdf 729041 字节内容相同但版式/字节不同；卷面明确“样卷不提供参考答案”，故 has_solutions=false。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2003-0b157da3",
+      "type": "homework",
+      "title": "计算机原理与嵌入式系统课后练习（2024SP）",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "ex_chapter-1至3 docx。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F",
+        "note": "ex_chapter-1至3 docx。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2003-8fd73e4d",
+      "type": "homework",
+      "title": "计算机原理与嵌入式系统作业参考答案",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "作业参考答案目录含 计嵌参考答案.pdf（10643809 字节）与 计嵌作业参考答案.pdf；feixu 答案.pdf 与前者字节完全相同，补文件级入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88",
+        "note": "目录内 计嵌参考答案.pdf 10643809 字节；feixu 答案.pdf 字节相同。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-open_book-ee2003-f03bc984",
+      "type": "study",
+      "title": "计嵌大抄（A4排版）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "半开卷大抄PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%A4%A7%E6%8A%84inA4.pdf",
+        "note": "半开卷大抄PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%A4%A7%E6%8A%84inA4.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2003-34d6d8ad",
+      "type": "study",
+      "title": "计嵌复习提要（2024-05-23 版与 2025-05-22 v2）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "现有 2024-05-23 版与 feixu 2025-05-22 v2 为同名不同版本，合并为两个文件入口；未逐页比对差异。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120240523.pdf",
+        "note": "2024-05-23 版 + feixu 2025-05-22 v2；版本不同，未逐页比对。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120240523.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120250522-v2.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120250522-v2.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2003-7fab8348",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统大抄",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "半开卷大抄PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.pdf",
+        "note": "半开卷大抄PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-open_book-ee2003-a00c98da",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统大抄",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "半开卷大抄目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E6%8A%84",
+        "note": "半开卷大抄目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E6%8A%84",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2003-f0e508fb",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统复习资料",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "复习提要2025版等。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%8D%E4%B9%A0",
+        "note": "复习提要2025版等。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%8D%E4%B9%A0",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee2003-d6654962",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统课件",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "计嵌第1-6章PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/ppt",
+        "note": "计嵌第1-6章PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/ppt",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee2003-49d7e7fd",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统课件（2025）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "c&e chapter与练习PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F",
+        "note": "c&e chapter与练习PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee2003-5433963f",
+      "type": "projects",
+      "title": "计算机原理与嵌入式系统实验",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "实验指导/代码/报告目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%AE%9E%E9%AA%8C",
+        "note": "实验指导/代码/报告目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%AE%9E%E9%AA%8C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee2003-e5714f71",
+      "type": "projects",
+      "title": "计算机原理与嵌入式系统综合实验",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "综合实验目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C",
+        "note": "综合实验目录。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

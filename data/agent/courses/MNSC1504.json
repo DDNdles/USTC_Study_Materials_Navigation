@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MNSC1504",
+  "name": "未来城市",
+  "kind": "general",
+  "tags": [
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

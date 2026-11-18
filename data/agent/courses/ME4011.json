@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME4011",
+  "name": "振动理论",
+  "kind": "professional",
+  "tags": [
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

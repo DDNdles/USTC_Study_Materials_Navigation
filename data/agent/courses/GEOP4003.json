@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOP4003",
+  "name": "地震勘探引论",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

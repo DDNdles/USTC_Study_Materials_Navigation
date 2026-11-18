@@ -1,0 +1,969 @@
+{
+  "schema_version": 1,
+  "code": "022148",
+  "name": "量子力学A",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-022148-2025-final-182348",
+      "type": "exams",
+      "title": "量子力学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：石名俊 (A)；文件：25FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：石名俊 (A)；文件：25FaQMAFinalSMJ.pdf；卷面/首页学期：2025秋；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2025-final-d91d2b",
+      "type": "exams",
+      "title": "量子力学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：郑炜,姚星灿 (A)；文件：25FaQMAFinalYXC.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：郑炜,姚星灿 (A)；文件：25FaQMAFinalYXC.pdf；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaQMAFinalYXC.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2024-final-318254",
+      "type": "exams",
+      "title": "量子力学 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024秋；单元格：石名俊 (A)；文件：24FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024秋；单元格：石名俊 (A)；文件：24FaQMAFinalSMJ.pdf；卷面/首页学期：2024秋；首页可见日期 2025年1月；年份按首页考试日期 2025年1月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2024%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%EF%BC%88%E7%9F%B3%E5%90%8D%E4%BF%8A%E7%8F%AD%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2023-final-7c740d",
+      "type": "exams",
+      "title": "量子力学 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023秋；单元格：石名俊 (A)；文件：23FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023秋；单元格：石名俊 (A)；文件：23FaQMAFinalSMJ.pdf；卷面/首页学期：2023秋；首页可见日期 2024年1月；年份按首页考试日期 2024年1月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2024-final-b7b911",
+      "type": "exams",
+      "title": "量子力学 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024秋；单元格：杨焕雄 (A)；文件：24FaQMAFinalYHX.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024秋；单元格：杨焕雄 (A)；文件：24FaQMAFinalYHX.pdf；文本层可读；抽读前3页（共13页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaQMAFinalYHX.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2024%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2024-midterm-0a889d",
+      "type": "exams",
+      "title": "量子力学 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：杨焕雄 (A)；文件：24FaQMAMidYHX.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：杨焕雄 (A)；文件：24FaQMAMidYHX.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaQMAMidYHX.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2024%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95A%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2024-midterm-ef7292",
+      "type": "exams",
+      "title": "量子力学 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：石名俊 (A)；文件：24FaQMAMidSMJ.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：石名俊 (A)；文件：24FaQMAMidSMJ.pdf；卷面/首页学期：2024秋；首页可见日期 2024年11月；年份按首页考试日期 2024年11月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaQMAMidSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2024%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%EF%BC%88%E7%9F%B3%E5%90%8D%E4%BF%8A%E7%8F%AD%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2023-final-94686c",
+      "type": "exams",
+      "title": "量子力学 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023秋；单元格：杨焕雄 (A)；文件：23FaQMAFinalYHX.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023秋；单元格：杨焕雄 (A)；文件：23FaQMAFinalYHX.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23FaQMAFinalYHX.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022148-exams-0df890a0",
+      "type": "exams",
+      "title": "量子力学 2023 期中考试参考解答",
+      "authors": [],
+      "notes": "目录：物理类/量子力学；2023 期中参考解答。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.html",
+        "note": "目录：物理类/量子力学；HTML 正文标题“2023中国科大量子力学A期中考试试题卷（参考解答）”，含试题与解答；文件页匿名访问 200"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2022-midterm-394be4",
+      "type": "exams",
+      "title": "量子力学 2022 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2022秋；单元格：杨焕雄 (A)；文件：22FaQMAMidYHX.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2022秋；单元格：杨焕雄 (A)；文件：22FaQMAMidYHX.pdf；文本层可读；抽读前3页（共10页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22FaQMAMidYHX.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2022%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2022%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%943%282%29%E8%A1%A5%E5%85%85.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2022%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2021-final-8aeef9",
+      "type": "exams",
+      "title": "量子力学 2021 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2021秋；单元格：杨焕雄 (A)；文件：21FaQMAFinalYHX.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2021秋；单元格：杨焕雄 (A)；文件：21FaQMAFinalYHX.pdf；文本层可读；抽读前3页（共9页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21FaQMAFinalYHX.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2021%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2020-final-f69fd8",
+      "type": "exams",
+      "title": "量子力学 2020 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020秋；单元格：杨焕雄 (A)；文件：20FaQMAFinalYHX.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020秋；单元格：杨焕雄 (A)；文件：20FaQMAFinalYHX.pdf；文本层可读；抽读前3页（共16页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/20FaQMAFinalYHX.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2020%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2019-final-789586",
+      "type": "exams",
+      "title": "量子力学 2019 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：19秋；文件：19FaQMAFinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：19秋；文件：19FaQMAFinal.pdf；卷面/首页学期：2019—2020学年第一学期；文本层可读；抽读前3页（共11页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/19FaQMAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2017-final-ad3223",
+      "type": "exams",
+      "title": "量子力学 2017 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：17秋；文件：17FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：17秋；文件：17FaQMAFinalSMJ.pdf；卷面/首页学期：2017秋；首页可见日期 2018年1月；年份按首页考试日期 2018年1月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/17FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2018-final-3e1e33",
+      "type": "exams",
+      "title": "量子力学 2018 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：18秋；文件：18FaQMAFinal.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：18秋；文件：18FaQMAFinal.pdf；卷面/首页学期：2018—2019学年第一学期；文本层可读；抽读前3页（共14页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/18FaQMAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2018%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2018-midterm-3becd3",
+      "type": "exams",
+      "title": "量子力学 2018 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：18秋；文件：18FaQMAMidSMJ.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：18秋；文件：18FaQMAMidSMJ.pdf；卷面/首页学期：2018秋；首页可见日期 2018年11月；年份按首页考试日期 2018年11月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/18FaQMAMidSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2017-midterm-5d7aa2",
+      "type": "exams",
+      "title": "量子力学 2017 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：17秋；文件：17FaQMAMidSMJ.pdf",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：17秋；文件：17FaQMAMidSMJ.pdf；卷面/首页学期：2017秋；首页可见日期 2017年11月；年份按首页考试日期 2017年11月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/17FaQMAMidSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2015-final-fdbcc5",
+      "type": "exams",
+      "title": "量子力学 2015 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15秋；文件：15FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：15秋；文件：15FaQMAFinalSMJ.pdf；卷面/首页学期：2015秋；首页可见日期 2016年1月；年份按首页考试日期 2016年1月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/15FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2016-midterm-1f5c72",
+      "type": "exams",
+      "title": "量子力学 2016 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：16秋；文件：16FaQMAMidSMJ.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：16秋；文件：16FaQMAMidSMJ.pdf；卷面/首页学期：2016秋；首页可见日期 2016年11月；年份按首页考试日期 2016年11月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/16FaQMAMidSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2014-final-42ac00",
+      "type": "exams",
+      "title": "量子力学 2014 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14秋；文件：14FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2015
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：14秋；文件：14FaQMAFinalSMJ.pdf；卷面/首页学期：2014秋；首页可见日期 2015年1月；年份按首页考试日期 2015年1月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/14FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2015-midterm-4dfe5d",
+      "type": "exams",
+      "title": "量子力学 2015 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：15秋1；文件：15FaQMAMidSMJ1.pdf",
+      "coverage": {
+        "years": [
+          2015
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：15秋1；文件：15FaQMAMidSMJ1.pdf；卷面/首页学期：2015秋；首页可见日期 2015年11月；年份按首页考试日期 2015年11月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/15FaQMAMidSMJ1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2015-midterm-e20b86",
+      "type": "exams",
+      "title": "量子力学 2015 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：15秋2；文件：15FaQMAMidSMJ2.pdf",
+      "coverage": {
+        "years": [
+          2015
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：15秋2；文件：15FaQMAMidSMJ2.pdf；卷面/首页学期：2015秋；首页可见日期 2015年11月；年份按首页考试日期 2015年11月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/15FaQMAMidSMJ2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2014-midterm-aa3386",
+      "type": "exams",
+      "title": "量子力学 2014 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：14秋；文件：14FaQMAMidSMJ.pdf",
+      "coverage": {
+        "years": [
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：14秋；文件：14FaQMAMidSMJ.pdf；卷面/首页学期：2014秋；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/14FaQMAMidSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2013-final-fcb3d9",
+      "type": "exams",
+      "title": "量子力学 2013 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：13秋；文件：13FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：13秋；文件：13FaQMAFinalSMJ.pdf；卷面/首页学期：2013秋；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/13FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2012-final-c60efc",
+      "type": "exams",
+      "title": "量子力学 2012 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：12秋；文件：12FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [
+          2012
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：12秋；文件：12FaQMAFinalSMJ.pdf；卷面/首页学期：2012秋；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/12FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022148-2022-final-9ace7d",
+      "type": "exams",
+      "title": "量子力学 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2022秋；单元格：石名俊 (A)；文件：22FaQMAFinalSMJ.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2022秋；单元格：石名俊 (A)；文件：22FaQMAFinalSMJ.pdf；卷面/首页学期：2023秋；首页可见日期 2023年2月；首页日期与所标学期不符，年份留空（不判定哪个为笔误）；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22FaQMAFinalSMJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022148-study-6522bdbc",
+      "type": "study",
+      "title": "量子力学知识点整理（杨焕雄班）",
+      "authors": [],
+      "notes": "目录：物理类/量子力学；量子力学知识点整理（杨焕雄班）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.docx",
+        "note": "同题 PDF 与 DOCX 两种格式；目录：物理类/量子力学；文件页匿名访问 200；PDF 文本层可读，抽读前 3 页；课件整理，非试题"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE3004",
+  "name": "人工智能实践",
+  "kind": "professional",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

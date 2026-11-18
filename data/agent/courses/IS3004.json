@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "IS3004",
+  "name": "数据建模与分析基础",
+  "kind": "professional",
+  "tags": [
+    "statistics",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

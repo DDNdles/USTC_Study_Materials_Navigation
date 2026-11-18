@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MARX1503",
+  "name": "改革开放史",
+  "kind": "general",
+  "tags": [
+    "politics",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "005051",
+  "name": "工程材料",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "code": "MARX1011",
+  "name": "马克思主义基本原理",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-MARX1011-homework-duxiaoyang",
+      "type": "homework",
+      "title": "2023年新版马原复习题库答案",
+      "authors": [],
+      "notes": "课程复习题库答案 PDF；同目录教材与教辅扫描未收录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%8E%9F%E5%B0%8F%E6%96%87%E6%A1%A3/2023%E5%B9%B4%E6%96%B0%E7%89%88%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%BA%93%E7%AD%94%E6%A1%88.pdf",
+        "note": "文件名与课程对应；题库答案，非正式试卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%8E%9F%E5%B0%8F%E6%96%87%E6%A1%A3/2023%E5%B9%B4%E6%96%B0%E7%89%88%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%BA%93%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%8E%9F%E5%B0%8F%E6%96%87%E6%A1%A3/2023%E5%B9%B4%E6%96%B0%E7%89%88%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%BA%93%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1011-homework-feixu",
+      "type": "homework",
+      "title": "马原第三、六、七章复习题",
+      "authors": [],
+      "notes": "分章复习题 PDF/docx；locations 为同一套复习题的各组成文件页，非镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86",
+        "note": "目录名为课程名；文件为分章复习题。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E5%85%AD%E3%80%81%E4%B8%83%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E5%85%AD%E3%80%81%E4%B8%83%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E5%85%AD%E3%80%81%E4%B8%83%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.docx",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E5%85%AD%E3%80%81%E4%B8%83%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1011-notes-feixu",
+      "type": "study",
+      "title": "《马克思主义基本原理》重点整理",
+      "authors": [],
+      "notes": "课程重点整理 PDF；页面署名未采集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B%E9%87%8D%E7%82%B9%E6%95%B4%E7%90%86.pdf",
+        "note": "资料站目录名为课程名；PDF 为马原重点整理。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B%E9%87%8D%E7%82%B9%E6%95%B4%E7%90%86.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B%E9%87%8D%E7%82%B9%E6%95%B4%E7%90%86.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1011-notes-liqilin",
+      "type": "study",
+      "title": "18年版《马原》期末复习资料",
+      "authors": [],
+      "notes": "复习资料 PDF，文件名标注 18 年版；作者公开署名为“摘云子”，本索引不额外采集个人信息。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86/%E9%A9%AC%E5%8E%9F/18%E5%B9%B4%E7%89%88%E3%80%8A%E9%A9%AC%E5%8E%9F%E3%80%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99-%E6%91%98%E4%BA%91%E5%AD%90.pdf",
+        "note": "文件名与目录均指向马原期末复习。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86/%E9%A9%AC%E5%8E%9F/18%E5%B9%B4%E7%89%88%E3%80%8A%E9%A9%AC%E5%8E%9F%E3%80%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99-%E6%91%98%E4%BA%91%E5%AD%90.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86/%E9%A9%AC%E5%8E%9F/18%E5%B9%B4%E7%89%88%E3%80%8A%E9%A9%AC%E5%8E%9F%E3%80%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99-%E6%91%98%E4%BA%91%E5%AD%90.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1011-notes-ustcresource",
+      "type": "study",
+      "title": "马克思主义基本原理概论笔记（基本概念、定理及推论）",
+      "authors": [
+        "李弈帅"
+      ],
+      "notes": "USTC-Resource/USTC-Course 仓库内 notes 目录，含基本概念与定理及推论两份 Markdown 笔记；文内声明显式署名 CC BY-NC-SA 4.0。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes",
+        "note": "目录名为课程名；两份笔记为课程概念/定理整理，文内标 CC BY-NC-SA 4.0。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
+          "attribution": "GitHub @USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1011-lectures-blog",
+      "type": "study",
+      "title": "马克思主义基本原理概论课件压缩包",
+      "authors": [],
+      "notes": "目录名为旧课程名《马克思主义基本原理概论》，内含 slides 压缩包。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA",
+        "note": "目录名为课程旧称，压缩包为课件；未解压逐页审阅。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-15172658790-blog",
+          "page_url": "https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA",
+          "download_page": "https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明无特别声明资料 CC BY-NC-SA 4.0；课件/试卷版权归原作者，仅原页导航",
+          "attribution": "GitHub @15172658790/Blog（学生投稿镜像）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "gh-15172658790-blog": "15172658790/Blog"
+  }
+}

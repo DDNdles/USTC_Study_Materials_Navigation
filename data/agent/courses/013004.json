@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "013004",
+  "name": "传热的基本原理",
+  "kind": "professional",
+  "tags": [
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

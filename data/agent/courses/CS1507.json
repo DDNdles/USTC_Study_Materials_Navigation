@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS1507",
+  "name": "Python与深度学习基础",
+  "kind": "general",
+  "tags": [
+    "cs",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

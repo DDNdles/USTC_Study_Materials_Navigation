@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "CHEM3002",
+  "name": "分子光谱学基础",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-CHEM3002-notes",
+      "type": "study",
+      "title": "分子光谱学 笔记与作业",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 README 明确“分子光谱学包含分子光谱学基础、分子光谱学II”，据此把 分子光谱学/NOTES.pdf 与 homework.pdf 挂到本科课程 分子光谱学基础；目录已注明“该文件夹不再更新”。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/blob/main/README.md",
+        "note": "课程归属依据仓库 README 对目录范围的说明，非文件名直接含课程号。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E5%88%86%E5%AD%90%E5%85%89%E8%B0%B1%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：分子光谱学/",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

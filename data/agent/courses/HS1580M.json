@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1580M",
+  "name": "大学生国家安全教育",
+  "kind": "general",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

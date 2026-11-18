@@ -1,0 +1,351 @@
+{
+  "schema_version": 1,
+  "code": "011705",
+  "name": "操作系统原理与设计(H)",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-011705-osh2025-md",
+      "type": "exams",
+      "title": "操作系统(H) 2025 春回忆版（邢凯班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2025.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2025.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2025.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-wloner-011705-2022",
+      "type": "exams",
+      "title": "操作系统(H) 2022 期末样卷",
+      "authors": [
+        "Wloner0809/ustc-course-resource"
+      ],
+      "notes": "PDF 首页标注“期末考试样卷-2022”与“操作系统（H）”，为样卷而非实考试卷，故 form=practice；不宣称是 2022 实考原卷。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2022%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "卷面明确“样卷”；未含答案。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2022%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2022%E6%9C%9F%E6%9C%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-wloner-011705-2021",
+      "type": "exams",
+      "title": "操作系统(H) 2021 期末试题（回忆）",
+      "authors": [
+        "Wloner0809/ustc-course-resource"
+      ],
+      "notes": "Wloner0809 2021期末.pdf 与 guch OSH2021.pdf 正文题目相同但文件字节不同，按方案不合并为镜像，保留两条独立来源；PDF 标题“OSH2021期末”。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2021%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "回忆式题面；未含答案。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2021%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2021%E6%9C%9F%E6%9C%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011705-osh2021-pdf",
+      "type": "exams",
+      "title": "操作系统(H) 2021 试卷（邢凯班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2021.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2021.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2021.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-wloner-011705-2018",
+      "type": "exams",
+      "title": "操作系统(H) 2018 期末试题（回忆）",
+      "authors": [
+        "Wloner0809/ustc-course-resource"
+      ],
+      "notes": "Wloner0809 仓库 操作系统H/exam/2018期末.pdf；正文为分 Part 的回忆要点而非原卷扫描，故 form=recollection；文件名标明期末，kind=final。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2018%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "回忆式题面，未含答案。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2018%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2018%E6%9C%9F%E6%9C%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-gh-ustc-cs-resources-011705-cs-os",
+      "type": "study",
+      "title": "操作系统(H) 笔记（USTC-CS-Resources）",
+      "authors": [
+        "USTC-CS-Course-Resource"
+      ],
+      "notes": "10 个文件（tree 实际读取）；目录 CS/OS",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/OS",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-cs-resources",
+          "page_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/OS",
+          "download_page": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/OS",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭",
+          "attribution": "USTC-CS-Course-Resource/USTC-CS-Resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-gh-wloner-011705-review",
+      "type": "study",
+      "title": "操作系统(H) 复习笔记（Wloner0809）",
+      "authors": [
+        "Wloner0809/ustc-course-resource"
+      ],
+      "notes": "review_note/OSH_review.md 与同名 PDF；按目录登记为复习笔记，未逐页核对全部图片。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/review_note",
+        "note": "非试题，年份与卷型为空。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/review_note/OSH_review.md",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/review_note/OSH_review.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/review_note/OSH_review.pdf",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/review_note/OSH_review.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-gh-ustc-course-resour-011705-h",
+      "type": "study",
+      "title": "操作系统原理与设计(H) 复习与试题（ustc-course-resources）",
+      "authors": [
+        "Melmaphother"
+      ],
+      "notes": "5 个文件（tree 实际读取）；目录 操作系统原理与设计(H)",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-melmaphother",
+          "page_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)",
+          "download_page": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明个人课程资源记录",
+          "attribution": "Melmaphother/ustc-course-resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-wloner-011705-labs",
+      "type": "projects",
+      "title": "操作系统(H) 2023 实验（Wloner0809）",
+      "authors": [
+        "Wloner0809/ustc-course-resource"
+      ],
+      "notes": "lab0–lab3 目录含 README、源码与运行截图；按目录登记，未执行仓库代码。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/osh-2023-labs",
+        "note": "非试题，年份与卷型为空。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/osh-2023-labs",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/osh-2023-labs",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-plus-011705-h",
+      "type": "projects",
+      "title": "操作系统原理与设计(H) 实验（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "80 个文件（tree 实际读取）；目录 操作系统原理与设计(H)",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "eng-github-melmaphother": "Melmaphother/ustc-course-resources",
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

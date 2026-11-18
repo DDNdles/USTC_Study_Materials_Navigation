@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00157",
+  "name": "匹克球ll",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

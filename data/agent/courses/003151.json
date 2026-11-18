@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "003151",
+  "name": "量子化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-003151-lectures",
+      "type": "study",
+      "title": "量子化学 章节讲义（绪论、分子对称性与点群、群的表示理论、多原子分子电子结构、计算量子化学初步）",
+      "authors": [
+        "李震宇（Zhenyu Li）"
+      ],
+      "notes": "教学页“量子化学（Quantum Chemistry）[2016—2024]”板块按第一至第五章列出 5 份 PDF（QC-1…QC-5），直链位于 staff.ustc.edu.cn/~zyli/download/；同页另有应用量子化学、量子计算化学、计算材料学等课程，分别单列。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://q2chemistry.net/teaching.html",
+        "note": "页面标注开课年份区间 2016—2024，未按单份文件标年，故年份留空。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-q2chem-teaching",
+          "page_url": "https://q2chemistry.net/teaching.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师个人教学页公开 PDF 直链；页面未声明再分发许可，仅导航原页面/直链，不转存文件。",
+          "attribution": "李震宇教学页：量子化学（Quantum Chemistry）章节资料",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-q2chem-teaching": "李震宇（Prof. Zhenyu Li）教学页 q2chemistry.net/teaching"
+  }
+}

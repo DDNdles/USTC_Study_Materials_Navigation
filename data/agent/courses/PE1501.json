@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE1501",
+  "name": "传统健身",
+  "kind": "general",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

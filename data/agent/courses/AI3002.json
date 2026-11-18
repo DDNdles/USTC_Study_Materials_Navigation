@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "AI3002",
+  "name": "人工智能与机器学习基础",
+  "kind": "professional",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

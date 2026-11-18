@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME2014",
+  "name": "电工电子技术基础II",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

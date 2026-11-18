@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PLNT4002",
+  "name": "行星遥感",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

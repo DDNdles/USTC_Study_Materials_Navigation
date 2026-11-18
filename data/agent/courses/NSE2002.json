@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE2002",
+  "name": "传热学B",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

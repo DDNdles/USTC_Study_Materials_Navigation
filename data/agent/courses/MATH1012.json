@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MATH1012",
+  "name": "微积分II",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

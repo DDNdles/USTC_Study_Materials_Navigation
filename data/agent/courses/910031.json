@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "910031",
+  "name": "组织学与胚胎学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

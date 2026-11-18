@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "019163",
+  "name": "化学原理B",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019163-lectures",
+      "type": "study",
+      "title": "化学原理B 课程 PPT 合集【时亮】（压缩包 37.7 MB）",
+      "authors": [
+        "时亮（课件署名）"
+      ],
+      "notes": "USTC课程资料簿“化学原理B”页“笔记与其他”条目；easylink.cc/v4tpso 在浏览器实际打开为“化学原理B PPT合集【时亮】.zip”，页面提供公开下载。同页教材/习题集条目为出版书电子版，按教材类排除。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/hua-xue-yuan-li-b.md",
+        "note": "索引页未标年份；文件为课堂 PPT 合集。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/hua-xue-yuan-li-b.md",
+          "download_page": "https://easylink.cc/v4tpso",
+          "download_url": null,
+          "access": "public",
+          "license_note": "课堂 PPT 由教师署名；分享站未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC课程资料簿：化学原理B 页；课件署名 时亮",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
+  }
+}

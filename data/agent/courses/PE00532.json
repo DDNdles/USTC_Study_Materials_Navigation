@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00532",
+  "name": "越野滑雪（专训）",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

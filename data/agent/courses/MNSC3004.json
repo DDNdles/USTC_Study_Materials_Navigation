@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC3004",
+  "name": "行为经济学",
+  "kind": "professional",
+  "tags": [
+    "economics",
+    "psychology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE3010",
+  "name": "加速器概论",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

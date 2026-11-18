@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "004074",
+  "name": "物理学专业基础实验",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

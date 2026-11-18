@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4007",
+  "name": "环境毒理学",
+  "kind": "professional",
+  "tags": [
+    "environment",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

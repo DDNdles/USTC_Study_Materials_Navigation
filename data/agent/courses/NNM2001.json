@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM2001",
+  "name": "媒介经济学",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "economics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "020125",
+  "name": "高分子物理",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

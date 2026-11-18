@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "005101",
+  "name": "计算力学基础",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

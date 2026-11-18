@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "025167",
+  "name": "艺术传播",
+  "kind": "professional",
+  "tags": [
+    "arts",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

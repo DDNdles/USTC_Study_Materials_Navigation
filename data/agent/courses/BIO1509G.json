@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "BIO1509G",
+  "name": "人体微生物与健康",
+  "kind": "general",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

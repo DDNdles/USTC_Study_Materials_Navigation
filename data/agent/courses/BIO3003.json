@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BIO3003",
+  "name": "生物化学研讨",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

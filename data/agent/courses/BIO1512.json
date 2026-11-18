@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "BIO1512",
+  "name": "生物学与生活",
+  "kind": "general",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

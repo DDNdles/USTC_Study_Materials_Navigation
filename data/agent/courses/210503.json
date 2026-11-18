@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "code": "210503",
+  "name": "数据结构与数据库",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-liqilin-210503-test",
+      "type": "exams",
+      "title": "数据结构与数据库 数据结构/数据库部分试卷",
+      "authors": [
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "PDF 正文分“数据结构部分”与“数据库部分”，对应课程 210503 数据结构与数据库；卷面无年份与期中/期末标识，故 years=[]、kind=unknown；未含答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/test.pdf",
+        "note": "卷面未标年份与期中/期末；不能因目录名挂 210070。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/test.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/test.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-web-210503",
+      "type": "study",
+      "title": "数据结构与数据库 课程网站（index.knit）",
+      "authors": [
+        "中国科学技术大学教师课程网站"
+      ],
+      "notes": "实际打开页面，标题「index.knit」，页面列出 23 个课件/讲义类文件（如 课件&amp;作业,zip格式、课件&amp;作业&amp;实验&amp;往年试卷,zip格式、课本和学习指南,zip格式）",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~lx20160727/",
+        "note": "年份取页面文件链接/路径中的四位年份；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://home.ustc.edu.cn/~lx20160727/",
+          "download_page": "http://home.ustc.edu.cn/~lx20160727/",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师课程网站公开页面；页面内课件权利归授课教师，未声明再分发许可",
+          "attribution": "home.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+  }
+}

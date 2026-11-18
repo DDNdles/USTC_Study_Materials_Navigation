@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4004",
+  "name": "自旋量子信息专业实验",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

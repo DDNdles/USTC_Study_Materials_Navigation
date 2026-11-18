@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "GEOP4011",
+  "name": "遥感技术",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

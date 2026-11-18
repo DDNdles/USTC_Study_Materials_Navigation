@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "048002",
+  "name": "核医学物理原理",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "medicine",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

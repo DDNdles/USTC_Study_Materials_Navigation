@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MED1501",
+  "name": "生物微机电系统概论",
+  "kind": "general",
+  "tags": [
+    "biomedical",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

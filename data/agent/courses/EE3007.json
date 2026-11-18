@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE3007",
+  "name": "机器人创新实践",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "innovation"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

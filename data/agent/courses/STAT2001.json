@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "STAT2001",
+  "name": "数据思维",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

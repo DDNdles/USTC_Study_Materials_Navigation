@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "009183",
+  "name": "机电传动及数控技术",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BIO1508G",
+  "name": "免疫系统与人体健康",
+  "kind": "general",
+  "tags": [
+    "biology",
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

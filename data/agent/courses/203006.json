@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "203006",
+  "name": "生物物理II",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

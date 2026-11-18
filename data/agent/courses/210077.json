@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "code": "210077",
+  "name": "非线性电子线路",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ly382965-210077-3fa-nonlinear-electronic-circuits",
+      "type": "study",
+      "title": "非线性电子线路 资料（USTC_learning_materials，排除教材扫描）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "21 个文件（tree 实际读取）；目录 3FA Nonlinear Electronic Circuits",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Nonlinear%20Electronic%20Circuits",
+        "note": "年份取文件名四位年份"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Nonlinear%20Electronic%20Circuits",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Nonlinear%20Electronic%20Circuits",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

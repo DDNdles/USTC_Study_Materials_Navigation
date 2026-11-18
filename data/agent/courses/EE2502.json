@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "code": "EE2502",
+  "name": "数字电路",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-ee2502-c6d6f56b",
+      "type": "exams",
+      "title": "数字电路 2025 期末（回忆版）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalCircuit2025F.md",
+        "note": "guch8017 README“数字电路（曹平）”链接icourse 21882，课程号EE250206，归属EE2502。 卷面证据：未提取到卷头/年份，仅题目正文；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalCircuit2025F.md",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "guch8017",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+  }
+}

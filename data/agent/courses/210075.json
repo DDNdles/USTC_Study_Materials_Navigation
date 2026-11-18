@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "code": "210075",
+  "name": "电子技术实验III",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ly382965-210075-3fa-electronic-technology-experiment-iii",
+      "type": "study",
+      "title": "电子技术实验 III 讲义与资料（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "161 个文件（tree 实际读取）；目录 3FA Electronic Technology Experiment III",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20Technology%20Experiment%20III",
+        "note": "年份取文件名四位年份"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20Technology%20Experiment%20III",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20Technology%20Experiment%20III",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

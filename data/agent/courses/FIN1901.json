@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "FIN1901",
+  "name": "Python 经济大数据分析",
+  "kind": "general",
+  "tags": [
+    "economics",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

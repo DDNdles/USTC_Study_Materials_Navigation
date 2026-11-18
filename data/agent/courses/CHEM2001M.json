@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CHEM2001M",
+  "name": "化学实验安全知识",
+  "kind": "professional",
+  "tags": [
+    "safety",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

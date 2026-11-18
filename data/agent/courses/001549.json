@@ -1,0 +1,456 @@
+{
+  "schema_version": 1,
+  "code": "001549",
+  "name": "数理方程B",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-gh-001549-exam-2017-35270a",
+      "type": "exams",
+      "title": "数理方程B 2017 试卷",
+      "authors": [],
+      "notes": "USTC-Resource-USTC-Course 目录 数理方程 下文件：数理方程B2017答案.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "USTC-Resource-USTC-Course 目录 数理方程 下文件：数理方程B2017答案.pdf；按文件名辨识年份/卷型；文本层编码不可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "USTC-Resource 组织",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-exams-1d9667",
+      "type": "exams",
+      "title": "数理方程历年真题1",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程历年真题1.pdf；文件页核验；42页 A/B 合集，第39—42页有参考答案；未逐卷拆条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2001-2002",
+          "2002-2003",
+          "2003-2004",
+          "2004-2005",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2013-2014",
+          "2014-2015",
+          "2015-2016",
+          "2016-2017",
+          "2018-2019",
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "共42页；第1页说明收录数理方程(A/B)试题；第2页起为2001学年以后各卷；第39—42页为参考答案；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%981.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-exams-9c1d9c",
+      "type": "exams",
+      "title": "数理方程历年真题2",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程历年真题2.pdf；文件页核验；50页 A/B 合集，第35页起有答案与解析；未逐卷拆条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2001-2002",
+          "2002-2003",
+          "2003-2004",
+          "2004-2005",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2013-2014",
+          "2014-2015",
+          "2015-2016",
+          "2016-2017",
+          "2018-2019",
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "共50页；第1页说明收录数理方程(A/B)试题；第35页起有参考答案与解析；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%982.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-exam-ny-05ef90",
+      "type": "exams",
+      "title": "数理方程B  试卷",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 数理方程B 下文件：数理方程 历年真题汇总.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "Kobe972-ustc_course_plus 目录 数理方程B 下文件：数理方程 历年真题汇总.pdf；按文件名辨识年份/卷型；无明确年份信息，年份留空；含多个年份/合集，未逐一确认年份；文本层可读；抽读前3页（共34页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/Kobe972/ustc_course_plus/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%20%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001549-exams-be295b",
+      "type": "exams",
+      "title": "数理方程B历年真题",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程B历年真题.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+        "note": "目录：数学类/数理方程；数理方程B历年真题.pdf；卷面/首页学期：2013—2014学年第二学期；无明确年份信息，年份留空；含多个年份/合集，未逐一确认年份；文本层可读；抽读前3页（共47页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001549-homework-0537b4",
+      "type": "homework",
+      "title": "数理方程B 课后习题解析",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程B 课后习题解析.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90.pdf",
+        "note": "文件：数理方程B 课后习题解析.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001549-homework-00dc73",
+      "type": "homework",
+      "title": "数理方程B 课后习题解析(20260122213731)",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程B 课后习题解析(20260122213731).pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf",
+        "note": "文件：数理方程B 课后习题解析(20260122213731).pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-homework-3be8d3",
+      "type": "homework",
+      "title": "数理方程B 数理方程B（homework）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 数理方程B，1 个文件，例：hw.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-homework-a44a32",
+      "type": "homework",
+      "title": "数理方程B 数理方程B（homework）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 数理方程B，3 个文件，例：hw3.4反馈.pdf；第一次作业反馈.pdf；第二次作业反馈.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-notes-f6757a",
+      "type": "study",
+      "title": "数理方程B 数理方程（notes）",
+      "authors": [],
+      "notes": "USTC-Resource-USTC-Course 目录 数理方程，8 个文件，例：README.md；数理方程B2017.pdf；pdeBreview-黄伟.pdf；第一章知识点总结.pdf；第三章勒让德多项式的相关性质与第四章重点内容.pdf；第二章及第三章Bessel部分知识点.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "USTC-Resource 组织",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-lectures-3be8d3",
+      "type": "study",
+      "title": "数理方程B 数理方程B（lectures）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 数理方程B，1 个文件，例：习题课讲义   .pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-lectures-a44a32",
+      "type": "study",
+      "title": "数理方程B 数理方程B（lectures）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 数理方程B，1 个文件，例：习题课一.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-notes-3be8d3",
+      "type": "study",
+      "title": "数理方程B 数理方程B（notes）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 数理方程B，5 个文件，例：README.md；review1.pdf；review2.pdf；数理方程复习参考手册.pdf；数理方程复习指导.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-001549-notes-a44a32",
+      "type": "study",
+      "title": "数理方程B 数理方程B（notes）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 数理方程B，7 个文件，例：readme.md；数理方程公式总结.pdf；第一章.pdf；第三章.pdf；第二章.pdf；第五章.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-kobe972": "Kobe972/ustc_course_plus",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource"
+  }
+}

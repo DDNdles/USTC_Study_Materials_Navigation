@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME3007",
+  "name": "动力学与控制",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

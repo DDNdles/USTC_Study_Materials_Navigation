@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CS4008",
+  "name": "软件工程实践",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

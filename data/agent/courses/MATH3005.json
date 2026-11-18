@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "code": "MATH3005",
+  "name": "数理统计",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3005-2025-final-e0336d",
+      "type": "exams",
+      "title": "数理统计（数院） 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2025秋；单元格：进阶期末；文件：2025MstatHfinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2025秋；单元格：进阶期末；文件：2025MstatHfinal.pdf；卷面/首页学期：2025秋；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025MstatHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3005-2025-final-f3bf4b",
+      "type": "exams",
+      "title": "数理统计（数院） 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2025秋；单元格：期末；文件：2025Mstatfinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2025秋；单元格：期末；文件：2025Mstatfinal.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025Mstatfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3005-2025-midterm-4d761a",
+      "type": "exams",
+      "title": "数理统计（数院） 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2025秋；单元格：期中；文件：2025Mstatmid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2025秋；单元格：期中；文件：2025Mstatmid.pdf；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025Mstatmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3005-2024-final-7d31f7",
+      "type": "exams",
+      "title": "数理统计（数院） 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2024秋；单元格：期末；文件：2024Mstatfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2024秋；单元格：期末；文件：2024Mstatfinal.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024Mstatfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3005-2024-midterm-8ca2fa",
+      "type": "exams",
+      "title": "数理统计（数院） 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2024秋；单元格：期中；文件：2024Mstatmid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2024秋；单元格：期中；文件：2024Mstatmid.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024Mstatmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3005-exams-1184d4",
+      "type": "exams",
+      "title": "2021期中",
+      "authors": [],
+      "notes": "目录：数学类/概率论与数理统计/数理统计（数学专业）；2021期中.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2021%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/概率论与数理统计/数理统计（数学专业）；2021期中.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2021%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3005-exams-d1792c",
+      "type": "exams",
+      "title": "2018期中",
+      "authors": [],
+      "notes": "目录：数学类/概率论与数理统计/数理统计（数学专业）；2018期中.pdf；课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2016-2023秋；单元格：2018；文件：2018Mstatmid.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2018%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/概率论与数理统计/数理统计（数学专业）；2018期中.pdf；文本层几无中文；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2018%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018Mstatmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

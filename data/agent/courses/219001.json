@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "219001",
+  "name": "量子物理B",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

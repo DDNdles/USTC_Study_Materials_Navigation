@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MARX1006",
+  "name": "形势与政策(讲座)",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "code": "001704",
+  "name": "近世代数(H)",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3001-2025-final-c67b76",
+      "type": "exams",
+      "title": "近世代数 2025 期末",
+      "authors": [
+        "陈小伍"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2025；单元格：陈小伍；文件：2025alg2Hfinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AlgNT/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2025；单元格：陈小伍；文件：2025alg2Hfinal.pdf；卷面/首页学期：2025春；文本层可读；已读全1页；卷面标注近世代数(H)，按H级别改挂官方代码 001704（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AlgNT/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025alg2Hfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3001-2024-final-f43e7b",
+      "type": "exams",
+      "title": "近世代数 2024 期末",
+      "authors": [
+        "陈小伍"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2024；单元格：陈小伍；文件：2024alg2Hfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AlgNT/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2024；单元格：陈小伍；文件：2024alg2Hfinal.pdf；首页可见日期 2024年5月；年份按首页考试日期 2024年5月；文本层可读；已读全2页；卷面标注近世代数(H)，按H级别改挂官方代码 001704（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AlgNT/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024alg2Hfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3001-2023-final-19a9b1",
+      "type": "exams",
+      "title": "近世代数 2023 期末",
+      "authors": [
+        "陈小伍"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2023；单元格：陈小伍；文件：2023alg2Hfinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AlgNT/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2023；单元格：陈小伍；文件：2023alg2Hfinal.pdf；卷面/首页学期：2023春；首页可见日期 2023年7月；年份按首页考试日期 2023年7月；文本层可读；已读全1页；卷面标注近世代数(H)，按H级别改挂官方代码 001704（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AlgNT/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023alg2Hfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3001-2021-midterm-405760",
+      "type": "exams",
+      "title": "近世代数 2021 期中",
+      "authors": [
+        "陈小伍"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期中考试；行年份：2021；单元格：陈小伍；文件：2021alg2Hmid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AlgNT/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期中考试；行年份：2021；单元格：陈小伍；文件：2021alg2Hmid.pdf；文本层可读；已读全2页；卷面标注近世代数(H)，按H级别改挂官方代码 001704（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AlgNT/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021alg2Hmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3001-2020-final-db85f1",
+      "type": "exams",
+      "title": "近世代数 2020 期末",
+      "authors": [
+        "陈小伍"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2020；单元格：陈小伍；文件：2020alg2Hfinal.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AlgNT/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AlgNT/；表头列：期末考试；行年份：2020；单元格：陈小伍；文件：2020alg2Hfinal.pdf；卷面/首页学期：2020春；首页可见日期 2020年8月；年份按首页考试日期 2020年8月；文本层可读；已读全1页；卷面标注近世代数(H)，按H级别改挂官方代码 001704（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AlgNT/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020alg2Hfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

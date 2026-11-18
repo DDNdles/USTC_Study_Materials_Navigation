@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MATH4003",
+  "name": "数学前沿课程",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

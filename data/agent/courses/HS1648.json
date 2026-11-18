@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "HS1648",
+  "name": "生活中的公共事务",
+  "kind": "general",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1648-homework-duxiaoyang",
+      "type": "homework",
+      "title": "生活中的公共事务课程作业与内参范文",
+      "authors": [],
+      "notes": "目录含期末作业、课程小作业、内参范文与课程脑图。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1",
+        "note": "目录名与官方课名一致；文件为该课作业。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

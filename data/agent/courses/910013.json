@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "910013",
+  "name": "卫生法学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

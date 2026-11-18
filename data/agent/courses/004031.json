@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "004031",
+  "name": "核电子学实验",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "nuclear",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

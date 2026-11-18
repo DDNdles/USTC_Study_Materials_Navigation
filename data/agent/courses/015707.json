@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "015707",
+  "name": "管理信息系统",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

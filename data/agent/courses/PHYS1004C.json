@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1004C",
+  "name": "电磁学C",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-phys1004c-exams-0ce5ce",
+      "type": "exams",
+      "title": "2023秋电磁学C期末试卷",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2023秋电磁学C期末试卷.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2023%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "目录：物理类/电磁学；2023秋电磁学C期末试卷.pdf；文本层可读；抽读前3页（共10页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2023%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004c-exams-1267ed",
+      "type": "exams",
+      "title": "2022秋电磁学C期末试卷",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2022秋电磁学C期末试卷.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2022%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "目录：物理类/电磁学；2022秋电磁学C期末试卷.pdf；卷面/首页学期：2022秋；文本层可读；抽读前3页（共13页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2022%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004c-exams-ca3286",
+      "type": "exams",
+      "title": "2021秋电磁学C期末试卷(只有公共题)",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2021秋电磁学C期末试卷(只有公共题).pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%28%E5%8F%AA%E6%9C%89%E5%85%AC%E5%85%B1%E9%A2%98%29.pdf",
+        "note": "目录：物理类/电磁学；2021秋电磁学C期末试卷(只有公共题).pdf；卷面/首页学期：2021秋；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%28%E5%8F%AA%E6%9C%89%E5%85%AC%E5%85%B1%E9%A2%98%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6%E5%85%AC%E5%85%B1%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004c-exams-279fa1",
+      "type": "exams",
+      "title": "2021秋电磁学C期中考试",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2021秋电磁学C期中考试.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：物理类/电磁学；2021秋电磁学C期中考试.pdf；无文本层（扫描件）；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-phys1004c-notes-3d0e05",
+      "type": "study",
+      "title": "电磁学C 电磁学C（notes）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 电磁学C，5 个文件，例：README.md；readme.md；1.jpg；2.jpg；readme.md",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%94%B5%E7%A3%81%E5%AD%A6C",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%94%B5%E7%A3%81%E5%AD%A6C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004c-lectures-7a9076",
+      "type": "study",
+      "title": "电磁学C第三次习题课",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；电磁学C第三次习题课.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf",
+        "note": "文件：电磁学C第三次习题课.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004c-notes-1b2e37",
+      "type": "study",
+      "title": "电磁学C期末考试知识总结",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；电磁学C期末考试知识总结.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf",
+        "note": "文件：电磁学C期末考试知识总结.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004c-notes-bb56c2",
+      "type": "study",
+      "title": "电磁学C期中考试知识总结",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；电磁学C期中考试知识总结.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf",
+        "note": "文件：电磁学C期中考试知识总结.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-phys1004c-projects-3d0e05",
+      "type": "projects",
+      "title": "电磁学C 电磁学C（projects）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 电磁学C，3 个文件，例：essay.pdf；report.pptx；电磁学小论文经验分享.pptx",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%94%B5%E7%A3%81%E5%AD%A6C",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%94%B5%E7%A3%81%E5%AD%A6C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

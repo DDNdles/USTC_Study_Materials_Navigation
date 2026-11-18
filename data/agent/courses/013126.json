@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "013126",
+  "name": "热工自动控制原理",
+  "kind": "professional",
+  "tags": [
+    "thermal",
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

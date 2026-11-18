@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4501",
+  "name": "理论力学C",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

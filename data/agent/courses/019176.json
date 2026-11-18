@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "code": "019176",
+  "name": "分析化学II",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019176-notes",
+      "type": "study",
+      "title": "分析化学II 提纲与仪器分析（光谱法）讲义",
+      "authors": [],
+      "notes": "评课社区课程页 20682（课程号 01917602，1 个 PDF）与 914（01917601，2 个 PDF）点评附件，共 3 份提纲/讲义。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20682/",
+        "note": "未标注年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20682/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 20682，文件“仪器分析——光谱法.pdf”）",
+          "page_kind": null
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/914/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 914，文件“分析化学II提纲.pdf、仪器分析提纲.pdf”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
+}

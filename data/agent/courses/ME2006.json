@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME2006",
+  "name": "理论力学B",
+  "kind": "professional",
+  "tags": [
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PLNT3007",
+  "name": "行星科学综合实习",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

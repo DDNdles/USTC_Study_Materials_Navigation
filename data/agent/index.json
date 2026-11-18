@@ -1,0 +1,5925 @@
+{
+  "schema_version": 1,
+  "courses": [
+    {
+      "code": "001046",
+      "name": "数值分析",
+      "has_resources": true
+    },
+    {
+      "code": "001065",
+      "name": "计算机图形学",
+      "has_resources": true
+    },
+    {
+      "code": "001101",
+      "name": "常微分方程",
+      "has_resources": true
+    },
+    {
+      "code": "001108",
+      "name": "数学实验",
+      "has_resources": false
+    },
+    {
+      "code": "001122",
+      "name": "偏微分方程",
+      "has_resources": true
+    },
+    {
+      "code": "001125",
+      "name": "数值代数",
+      "has_resources": false
+    },
+    {
+      "code": "001139",
+      "name": "数学建模",
+      "has_resources": true
+    },
+    {
+      "code": "001362",
+      "name": "小波分析",
+      "has_resources": false
+    },
+    {
+      "code": "001505",
+      "name": "复变函数A",
+      "has_resources": true
+    },
+    {
+      "code": "001506",
+      "name": "数理方程A",
+      "has_resources": true
+    },
+    {
+      "code": "001548",
+      "name": "复变函数B",
+      "has_resources": true
+    },
+    {
+      "code": "001549",
+      "name": "数理方程B",
+      "has_resources": true
+    },
+    {
+      "code": "001661",
+      "name": "代数I",
+      "has_resources": false
+    },
+    {
+      "code": "001661EX",
+      "name": "代数I(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001661KS",
+      "name": "代数I(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001662",
+      "name": "分析I",
+      "has_resources": false
+    },
+    {
+      "code": "001662EX",
+      "name": "分析I(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001662KS",
+      "name": "分析I(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001664",
+      "name": "代数II",
+      "has_resources": false
+    },
+    {
+      "code": "001664EX",
+      "name": "代数II(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001664KS",
+      "name": "代数II(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001665",
+      "name": "分析II",
+      "has_resources": false
+    },
+    {
+      "code": "001665EX",
+      "name": "分析II(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001665KS",
+      "name": "分析II(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001669",
+      "name": "综合法语",
+      "has_resources": false
+    },
+    {
+      "code": "001670f",
+      "name": "分析与代数基础(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001672",
+      "name": "分析IV",
+      "has_resources": false
+    },
+    {
+      "code": "001672EX",
+      "name": "分析IV(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001672KS",
+      "name": "分析IV(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001673",
+      "name": "代数IV",
+      "has_resources": false
+    },
+    {
+      "code": "001673EX",
+      "name": "代数IV(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001673KS",
+      "name": "代数IV(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001674",
+      "name": "法语Ⅴ",
+      "has_resources": false
+    },
+    {
+      "code": "001675EX",
+      "name": "泛函分析(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001675f",
+      "name": "泛函分析(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001676EX",
+      "name": "复分析(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001676f",
+      "name": "复分析(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001678",
+      "name": "法语I",
+      "has_resources": false
+    },
+    {
+      "code": "001679",
+      "name": "法语II",
+      "has_resources": false
+    },
+    {
+      "code": "001680",
+      "name": "法语III",
+      "has_resources": false
+    },
+    {
+      "code": "001681",
+      "name": "法语Ⅳ",
+      "has_resources": false
+    },
+    {
+      "code": "001682",
+      "name": "分析III",
+      "has_resources": false
+    },
+    {
+      "code": "001682EX",
+      "name": "分析III(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001682KS",
+      "name": "分析III(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001683",
+      "name": "代数III",
+      "has_resources": false
+    },
+    {
+      "code": "001683EX",
+      "name": "代数III(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001683KS",
+      "name": "代数III(口试)",
+      "has_resources": false
+    },
+    {
+      "code": "001685EX",
+      "name": "算术与代数(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001685f",
+      "name": "算术与代数(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001691f",
+      "name": "代数拓扑(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001692f",
+      "name": "动力系统(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001693f",
+      "name": "黎曼曲面(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001694EX",
+      "name": "分布理论(习题)",
+      "has_resources": false
+    },
+    {
+      "code": "001694f",
+      "name": "分布理论(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001695f",
+      "name": "代数几何(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001696",
+      "name": "中法班讨论班",
+      "has_resources": false
+    },
+    {
+      "code": "001697",
+      "name": "法语‌VII",
+      "has_resources": false
+    },
+    {
+      "code": "001698f",
+      "name": "科学计算(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001699f",
+      "name": "应用数学II(法)",
+      "has_resources": false
+    },
+    {
+      "code": "001702",
+      "name": "实分析(H)",
+      "has_resources": true
+    },
+    {
+      "code": "001704",
+      "name": "近世代数(H)",
+      "has_resources": true
+    },
+    {
+      "code": "001705",
+      "name": "微分几何(H)",
+      "has_resources": true
+    },
+    {
+      "code": "001706",
+      "name": "泛函分析(H)",
+      "has_resources": true
+    },
+    {
+      "code": "001707e",
+      "name": "拓扑学(H)(英)",
+      "has_resources": true
+    },
+    {
+      "code": "001M06",
+      "name": "计算机图形学前沿",
+      "has_resources": true
+    },
+    {
+      "code": "002001",
+      "name": "固体物理A",
+      "has_resources": true
+    },
+    {
+      "code": "002047",
+      "name": "凝聚态物理实验",
+      "has_resources": false
+    },
+    {
+      "code": "002075",
+      "name": "凝聚态物理基础",
+      "has_resources": false
+    },
+    {
+      "code": "002078",
+      "name": "集成电路设计",
+      "has_resources": false
+    },
+    {
+      "code": "002079",
+      "name": "微电子系列实验",
+      "has_resources": false
+    },
+    {
+      "code": "002122",
+      "name": "半导体器件原理",
+      "has_resources": false
+    },
+    {
+      "code": "003019",
+      "name": "化学物理实验",
+      "has_resources": false
+    },
+    {
+      "code": "003024",
+      "name": "统计力学",
+      "has_resources": false
+    },
+    {
+      "code": "003044",
+      "name": "物理化学实验",
+      "has_resources": true
+    },
+    {
+      "code": "003056",
+      "name": "物理化学B",
+      "has_resources": false
+    },
+    {
+      "code": "003142",
+      "name": "物理化学基础实验(上)",
+      "has_resources": true
+    },
+    {
+      "code": "003143",
+      "name": "物理化学基础实验(下)",
+      "has_resources": true
+    },
+    {
+      "code": "003143e",
+      "name": "物理化学基础实验(下)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "003145",
+      "name": "化学物理进展",
+      "has_resources": true
+    },
+    {
+      "code": "003151",
+      "name": "量子化学",
+      "has_resources": true
+    },
+    {
+      "code": "003154",
+      "name": "物理化学I",
+      "has_resources": true
+    },
+    {
+      "code": "003154e",
+      "name": "物理化学I(英)",
+      "has_resources": false
+    },
+    {
+      "code": "003155",
+      "name": "物理化学II",
+      "has_resources": false
+    },
+    {
+      "code": "003155e",
+      "name": "物理化学II(英)",
+      "has_resources": false
+    },
+    {
+      "code": "003156",
+      "name": "物理化学III",
+      "has_resources": true
+    },
+    {
+      "code": "003158",
+      "name": "量子物理",
+      "has_resources": false
+    },
+    {
+      "code": "003159",
+      "name": "化学物理仪器基础与实践",
+      "has_resources": false
+    },
+    {
+      "code": "004018e",
+      "name": "原子核物理(英)",
+      "has_resources": false
+    },
+    {
+      "code": "004031",
+      "name": "核电子学实验",
+      "has_resources": false
+    },
+    {
+      "code": "004033",
+      "name": "等离子体物理实验",
+      "has_resources": false
+    },
+    {
+      "code": "004040",
+      "name": "计算物理B",
+      "has_resources": true
+    },
+    {
+      "code": "004072",
+      "name": "实验物理中的信号采集处理",
+      "has_resources": false
+    },
+    {
+      "code": "004074",
+      "name": "物理学专业基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "004120",
+      "name": "气体放电原理",
+      "has_resources": false
+    },
+    {
+      "code": "004122",
+      "name": "等离子体诊断导论",
+      "has_resources": false
+    },
+    {
+      "code": "004137",
+      "name": "近代数学物理方法",
+      "has_resources": false
+    },
+    {
+      "code": "004139",
+      "name": "等离子体物理导论",
+      "has_resources": true
+    },
+    {
+      "code": "005006",
+      "name": "弹性力学",
+      "has_resources": false
+    },
+    {
+      "code": "005007",
+      "name": "流体力学基础",
+      "has_resources": false
+    },
+    {
+      "code": "005008e",
+      "name": "气体动力学基础(英)",
+      "has_resources": false
+    },
+    {
+      "code": "005018",
+      "name": "应力波基础",
+      "has_resources": false
+    },
+    {
+      "code": "005036",
+      "name": "复合材料力学",
+      "has_resources": false
+    },
+    {
+      "code": "005051",
+      "name": "工程材料",
+      "has_resources": false
+    },
+    {
+      "code": "005101",
+      "name": "计算力学基础",
+      "has_resources": false
+    },
+    {
+      "code": "005111e",
+      "name": "多相流体动力学(英)",
+      "has_resources": false
+    },
+    {
+      "code": "005124",
+      "name": "粘弹性力学",
+      "has_resources": false
+    },
+    {
+      "code": "005146",
+      "name": "粘性流体力学",
+      "has_resources": false
+    },
+    {
+      "code": "005151",
+      "name": "实验力学",
+      "has_resources": false
+    },
+    {
+      "code": "006125",
+      "name": "信息论A",
+      "has_resources": true
+    },
+    {
+      "code": "006174",
+      "name": "电磁场理论",
+      "has_resources": true
+    },
+    {
+      "code": "006196",
+      "name": "多媒体技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "006197",
+      "name": "通信网络与交换",
+      "has_resources": false
+    },
+    {
+      "code": "006198",
+      "name": "移动通信原理",
+      "has_resources": false
+    },
+    {
+      "code": "006200",
+      "name": "统计信号分析与处理",
+      "has_resources": true
+    },
+    {
+      "code": "006203",
+      "name": "天线技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "006204",
+      "name": "光通信网络基础",
+      "has_resources": false
+    },
+    {
+      "code": "006205",
+      "name": "信号建模与算法实践",
+      "has_resources": true
+    },
+    {
+      "code": "006502",
+      "name": "信号与系统B",
+      "has_resources": false
+    },
+    {
+      "code": "007001",
+      "name": "流体力学",
+      "has_resources": false
+    },
+    {
+      "code": "007016",
+      "name": "动力气象学",
+      "has_resources": false
+    },
+    {
+      "code": "007026",
+      "name": "大气物理学基础",
+      "has_resources": false
+    },
+    {
+      "code": "007108",
+      "name": "构造地质学",
+      "has_resources": false
+    },
+    {
+      "code": "007115",
+      "name": "同位素地球化学",
+      "has_resources": false
+    },
+    {
+      "code": "007165",
+      "name": "大气与海洋学",
+      "has_resources": false
+    },
+    {
+      "code": "007167",
+      "name": "普通天文学",
+      "has_resources": false
+    },
+    {
+      "code": "007168",
+      "name": "矿物学",
+      "has_resources": false
+    },
+    {
+      "code": "007185",
+      "name": "等离子体物理",
+      "has_resources": false
+    },
+    {
+      "code": "007225",
+      "name": "普通地质学",
+      "has_resources": false
+    },
+    {
+      "code": "007231",
+      "name": "气象统计学原理及应用",
+      "has_resources": false
+    },
+    {
+      "code": "007242",
+      "name": "地震学原理与应用",
+      "has_resources": false
+    },
+    {
+      "code": "007249",
+      "name": "地球化学",
+      "has_resources": false
+    },
+    {
+      "code": "007256",
+      "name": "大气科学专题讲座",
+      "has_resources": false
+    },
+    {
+      "code": "007271",
+      "name": "结晶学",
+      "has_resources": false
+    },
+    {
+      "code": "007277",
+      "name": "大气探测学",
+      "has_resources": false
+    },
+    {
+      "code": "007278",
+      "name": "信号分析与数据处理",
+      "has_resources": false
+    },
+    {
+      "code": "007279",
+      "name": "沉积岩石学",
+      "has_resources": false
+    },
+    {
+      "code": "007281",
+      "name": "遥感气象学",
+      "has_resources": false
+    },
+    {
+      "code": "007282",
+      "name": "空间探测仪器原理与方法",
+      "has_resources": false
+    },
+    {
+      "code": "007286",
+      "name": "天气学",
+      "has_resources": false
+    },
+    {
+      "code": "007290",
+      "name": "矿床学与矿相学",
+      "has_resources": false
+    },
+    {
+      "code": "007296",
+      "name": "大气电学",
+      "has_resources": false
+    },
+    {
+      "code": "007313",
+      "name": "大气物理实验",
+      "has_resources": false
+    },
+    {
+      "code": "007314",
+      "name": "科学计算与程序设计",
+      "has_resources": false
+    },
+    {
+      "code": "008007",
+      "name": "微生物学",
+      "has_resources": false
+    },
+    {
+      "code": "008062",
+      "name": "植物生理学",
+      "has_resources": true
+    },
+    {
+      "code": "008074",
+      "name": "遗传学",
+      "has_resources": true
+    },
+    {
+      "code": "008108",
+      "name": "生理学",
+      "has_resources": false
+    },
+    {
+      "code": "008119",
+      "name": "发育生物学",
+      "has_resources": false
+    },
+    {
+      "code": "008137",
+      "name": "药物化学",
+      "has_resources": true
+    },
+    {
+      "code": "008144",
+      "name": "普通生物学",
+      "has_resources": false
+    },
+    {
+      "code": "008158",
+      "name": "生物学野外实习",
+      "has_resources": false
+    },
+    {
+      "code": "008170",
+      "name": "生物技术制药实验",
+      "has_resources": false
+    },
+    {
+      "code": "008178",
+      "name": "生物系统数学建模",
+      "has_resources": false
+    },
+    {
+      "code": "008180",
+      "name": "免疫生物学实验",
+      "has_resources": false
+    },
+    {
+      "code": "008183",
+      "name": "普通生物学实验",
+      "has_resources": false
+    },
+    {
+      "code": "008184",
+      "name": "生物技术导论",
+      "has_resources": false
+    },
+    {
+      "code": "008185",
+      "name": "分子生物学I",
+      "has_resources": false
+    },
+    {
+      "code": "008187",
+      "name": "生物化学与分子生物学基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "008190",
+      "name": "免疫生物学I",
+      "has_resources": false
+    },
+    {
+      "code": "008191",
+      "name": "生理学实验",
+      "has_resources": false
+    },
+    {
+      "code": "008193",
+      "name": "免疫生物学II",
+      "has_resources": false
+    },
+    {
+      "code": "008194",
+      "name": "系统与控制导论",
+      "has_resources": false
+    },
+    {
+      "code": "008197",
+      "name": "合成生物学导论",
+      "has_resources": false
+    },
+    {
+      "code": "008198",
+      "name": "基础生态学",
+      "has_resources": false
+    },
+    {
+      "code": "008204",
+      "name": "生理学与神经生物学综合实验",
+      "has_resources": false
+    },
+    {
+      "code": "008205",
+      "name": "生物医学中的核技术",
+      "has_resources": false
+    },
+    {
+      "code": "008206",
+      "name": "细胞生物学基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "008208",
+      "name": "微生物学实验",
+      "has_resources": false
+    },
+    {
+      "code": "008209",
+      "name": "遗传学实验",
+      "has_resources": false
+    },
+    {
+      "code": "008508",
+      "name": "分子生物学",
+      "has_resources": false
+    },
+    {
+      "code": "008704",
+      "name": "细胞生物学I",
+      "has_resources": false
+    },
+    {
+      "code": "008711",
+      "name": "科研实习",
+      "has_resources": false
+    },
+    {
+      "code": "008714",
+      "name": "生物科技文献阅读",
+      "has_resources": false
+    },
+    {
+      "code": "009055",
+      "name": "机电系统设计",
+      "has_resources": false
+    },
+    {
+      "code": "009103",
+      "name": "自动控制原理",
+      "has_resources": false
+    },
+    {
+      "code": "009117",
+      "name": "精密仪器设计",
+      "has_resources": false
+    },
+    {
+      "code": "009171",
+      "name": "机械制图及CAD(B)",
+      "has_resources": false
+    },
+    {
+      "code": "009175",
+      "name": "传感器及测试技术",
+      "has_resources": false
+    },
+    {
+      "code": "009177",
+      "name": "精密测量技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "009183",
+      "name": "机电传动及数控技术",
+      "has_resources": false
+    },
+    {
+      "code": "009184",
+      "name": "现代制造技术",
+      "has_resources": false
+    },
+    {
+      "code": "009191",
+      "name": "工程光学II",
+      "has_resources": false
+    },
+    {
+      "code": "009501",
+      "name": "机械制图及CAD基础",
+      "has_resources": false
+    },
+    {
+      "code": "010009",
+      "name": "模式识别导论",
+      "has_resources": false
+    },
+    {
+      "code": "010159",
+      "name": "自动控制原理",
+      "has_resources": true
+    },
+    {
+      "code": "010177",
+      "name": "现代控制理论",
+      "has_resources": true
+    },
+    {
+      "code": "010190",
+      "name": "系统与控制实验(2)",
+      "has_resources": false
+    },
+    {
+      "code": "010196",
+      "name": "传感器原理与技术",
+      "has_resources": true
+    },
+    {
+      "code": "010197",
+      "name": "执行器技术",
+      "has_resources": true
+    },
+    {
+      "code": "010205",
+      "name": "运动控制",
+      "has_resources": true
+    },
+    {
+      "code": "010209",
+      "name": "系统工程概论",
+      "has_resources": false
+    },
+    {
+      "code": "010210",
+      "name": "操作系统与数据库",
+      "has_resources": false
+    },
+    {
+      "code": "010214",
+      "name": "计算机控制",
+      "has_resources": true
+    },
+    {
+      "code": "010216",
+      "name": "面向对象技术",
+      "has_resources": false
+    },
+    {
+      "code": "010217",
+      "name": "系统与控制实验(1)",
+      "has_resources": false
+    },
+    {
+      "code": "011040",
+      "name": "图论",
+      "has_resources": true
+    },
+    {
+      "code": "011044",
+      "name": "计算机导论",
+      "has_resources": true
+    },
+    {
+      "code": "011103",
+      "name": "代数结构",
+      "has_resources": true
+    },
+    {
+      "code": "011119",
+      "name": "人工智能基础",
+      "has_resources": true
+    },
+    {
+      "code": "011144",
+      "name": "计算机网络",
+      "has_resources": true
+    },
+    {
+      "code": "011145",
+      "name": "计算机组成原理",
+      "has_resources": true
+    },
+    {
+      "code": "011146",
+      "name": "算法基础",
+      "has_resources": true
+    },
+    {
+      "code": "011147",
+      "name": "数据库系统及应用",
+      "has_resources": true
+    },
+    {
+      "code": "011152",
+      "name": "模拟与数字电路实验",
+      "has_resources": false
+    },
+    {
+      "code": "011163",
+      "name": "编译原理和技术",
+      "has_resources": true
+    },
+    {
+      "code": "011174",
+      "name": "操作系统原理与设计",
+      "has_resources": true
+    },
+    {
+      "code": "011179",
+      "name": "Web信息处理与应用",
+      "has_resources": true
+    },
+    {
+      "code": "011186",
+      "name": "大数据算法",
+      "has_resources": true
+    },
+    {
+      "code": "011187",
+      "name": "数据隐私的方法伦理和实践",
+      "has_resources": false
+    },
+    {
+      "code": "011703",
+      "name": "编译原理和技术(H)",
+      "has_resources": true
+    },
+    {
+      "code": "011704",
+      "name": "计算机系统概论(H)",
+      "has_resources": true
+    },
+    {
+      "code": "011705",
+      "name": "操作系统原理与设计(H)",
+      "has_resources": true
+    },
+    {
+      "code": "013002",
+      "name": "流体力学基础",
+      "has_resources": false
+    },
+    {
+      "code": "013004",
+      "name": "传热的基本原理",
+      "has_resources": false
+    },
+    {
+      "code": "013090",
+      "name": "热物理基础实验(1)",
+      "has_resources": false
+    },
+    {
+      "code": "013099",
+      "name": "热力设备原理",
+      "has_resources": false
+    },
+    {
+      "code": "013126",
+      "name": "热工自动控制原理",
+      "has_resources": false
+    },
+    {
+      "code": "013140",
+      "name": "生物质热解转化原理与应用",
+      "has_resources": false
+    },
+    {
+      "code": "013148",
+      "name": "工程热力学A",
+      "has_resources": false
+    },
+    {
+      "code": "013149",
+      "name": "工程热力学B",
+      "has_resources": false
+    },
+    {
+      "code": "013J01",
+      "name": "新能源利用技术前沿",
+      "has_resources": false
+    },
+    {
+      "code": "013X08",
+      "name": "张量初步",
+      "has_resources": false
+    },
+    {
+      "code": "014007",
+      "name": "固体材料结构基础",
+      "has_resources": true
+    },
+    {
+      "code": "014014",
+      "name": "固体物理",
+      "has_resources": false
+    },
+    {
+      "code": "014066",
+      "name": "材料科学基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "014127",
+      "name": "材料物性",
+      "has_resources": true
+    },
+    {
+      "code": "014131",
+      "name": "纳米材料导论",
+      "has_resources": false
+    },
+    {
+      "code": "014143",
+      "name": "材料研究方法",
+      "has_resources": false
+    },
+    {
+      "code": "014145",
+      "name": "材料制备与加工",
+      "has_resources": true
+    },
+    {
+      "code": "015005",
+      "name": "微观经济学",
+      "has_resources": true
+    },
+    {
+      "code": "015006",
+      "name": "宏观经济学",
+      "has_resources": false
+    },
+    {
+      "code": "015039",
+      "name": "市场营销学",
+      "has_resources": true
+    },
+    {
+      "code": "015099",
+      "name": "生产实习",
+      "has_resources": false
+    },
+    {
+      "code": "015123",
+      "name": "数据库技术及应用",
+      "has_resources": false
+    },
+    {
+      "code": "015141",
+      "name": "决策技术及应用",
+      "has_resources": false
+    },
+    {
+      "code": "015146",
+      "name": "会计学",
+      "has_resources": false
+    },
+    {
+      "code": "015701",
+      "name": "管理沟通",
+      "has_resources": false
+    },
+    {
+      "code": "015704",
+      "name": "产业经济学",
+      "has_resources": false
+    },
+    {
+      "code": "015707",
+      "name": "管理信息系统",
+      "has_resources": false
+    },
+    {
+      "code": "015708",
+      "name": "财务分析",
+      "has_resources": false
+    },
+    {
+      "code": "015709",
+      "name": "应用统计方法",
+      "has_resources": false
+    },
+    {
+      "code": "015722",
+      "name": "人力资源管理",
+      "has_resources": false
+    },
+    {
+      "code": "015723",
+      "name": "商业模式",
+      "has_resources": false
+    },
+    {
+      "code": "015724",
+      "name": "商业写作与演讲",
+      "has_resources": false
+    },
+    {
+      "code": "016003",
+      "name": "管理学概论",
+      "has_resources": false
+    },
+    {
+      "code": "016100",
+      "name": "战略管理",
+      "has_resources": false
+    },
+    {
+      "code": "016113",
+      "name": "投资理论",
+      "has_resources": false
+    },
+    {
+      "code": "016116",
+      "name": "财务管理",
+      "has_resources": false
+    },
+    {
+      "code": "016117",
+      "name": "组织行为学",
+      "has_resources": false
+    },
+    {
+      "code": "017046e",
+      "name": "国际金融(英)",
+      "has_resources": false
+    },
+    {
+      "code": "017048",
+      "name": "概率论",
+      "has_resources": false
+    },
+    {
+      "code": "017063",
+      "name": "数理统计",
+      "has_resources": true
+    },
+    {
+      "code": "017123",
+      "name": "计量经济学",
+      "has_resources": false
+    },
+    {
+      "code": "017124",
+      "name": "金融机构与金融市场",
+      "has_resources": false
+    },
+    {
+      "code": "017129",
+      "name": "实用随机过程",
+      "has_resources": false
+    },
+    {
+      "code": "017131",
+      "name": "随机过程A",
+      "has_resources": true
+    },
+    {
+      "code": "017134",
+      "name": "公司金融",
+      "has_resources": false
+    },
+    {
+      "code": "017137",
+      "name": "金融学导论",
+      "has_resources": false
+    },
+    {
+      "code": "017139",
+      "name": "金融经济学基础",
+      "has_resources": true
+    },
+    {
+      "code": "017144",
+      "name": "随机过程B",
+      "has_resources": true
+    },
+    {
+      "code": "017146",
+      "name": "回归分析",
+      "has_resources": true
+    },
+    {
+      "code": "017153",
+      "name": "金融风险管理",
+      "has_resources": false
+    },
+    {
+      "code": "017156",
+      "name": "非参数统计",
+      "has_resources": false
+    },
+    {
+      "code": "017158",
+      "name": "实习",
+      "has_resources": false
+    },
+    {
+      "code": "017162",
+      "name": "多元统计分析A",
+      "has_resources": false
+    },
+    {
+      "code": "017164",
+      "name": "时间序列分析A",
+      "has_resources": false
+    },
+    {
+      "code": "017165",
+      "name": "时间序列分析B",
+      "has_resources": true
+    },
+    {
+      "code": "017166",
+      "name": "凸优化",
+      "has_resources": false
+    },
+    {
+      "code": "017168",
+      "name": "抽样调查与试验设计",
+      "has_resources": false
+    },
+    {
+      "code": "017703",
+      "name": "金融衍生品",
+      "has_resources": false
+    },
+    {
+      "code": "019011",
+      "name": "有机化学(A1)",
+      "has_resources": true
+    },
+    {
+      "code": "019011e",
+      "name": "有机化学(A1)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "019012",
+      "name": "有机化学(A2)",
+      "has_resources": true
+    },
+    {
+      "code": "019012e",
+      "name": "有机化学(A2)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "019029",
+      "name": "仪器分析实验",
+      "has_resources": false
+    },
+    {
+      "code": "019040",
+      "name": "环境化学",
+      "has_resources": false
+    },
+    {
+      "code": "019047",
+      "name": "有机化学B",
+      "has_resources": false
+    },
+    {
+      "code": "019060",
+      "name": "物理有机化学",
+      "has_resources": false
+    },
+    {
+      "code": "019064e",
+      "name": "有机合成化学(英)",
+      "has_resources": false
+    },
+    {
+      "code": "019080",
+      "name": "普通化学实验",
+      "has_resources": false
+    },
+    {
+      "code": "019101",
+      "name": "配位化学",
+      "has_resources": false
+    },
+    {
+      "code": "019103",
+      "name": "固体化学导论",
+      "has_resources": false
+    },
+    {
+      "code": "019104",
+      "name": "高等无机合成",
+      "has_resources": false
+    },
+    {
+      "code": "019128",
+      "name": "化工原理",
+      "has_resources": false
+    },
+    {
+      "code": "019136",
+      "name": "分离科学与技术",
+      "has_resources": false
+    },
+    {
+      "code": "019145",
+      "name": "结晶化学",
+      "has_resources": false
+    },
+    {
+      "code": "019146",
+      "name": "化工实验",
+      "has_resources": false
+    },
+    {
+      "code": "019147",
+      "name": "无机化学基础实验(上)",
+      "has_resources": true
+    },
+    {
+      "code": "019147e",
+      "name": "无机化学基础实验(上)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "019148",
+      "name": "无机化学基础实验(下)",
+      "has_resources": false
+    },
+    {
+      "code": "019149",
+      "name": "分析化学基础实验(上)",
+      "has_resources": false
+    },
+    {
+      "code": "019149e",
+      "name": "分析化学基础实验(上)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "019150",
+      "name": "分析化学基础实验(下)",
+      "has_resources": false
+    },
+    {
+      "code": "019151",
+      "name": "有机化学基础实验(上)",
+      "has_resources": false
+    },
+    {
+      "code": "019151e",
+      "name": "有机化学基础实验(上)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "019152",
+      "name": "有机化学基础实验(下)",
+      "has_resources": false
+    },
+    {
+      "code": "019161",
+      "name": "化学原理A",
+      "has_resources": true
+    },
+    {
+      "code": "019163",
+      "name": "化学原理B",
+      "has_resources": true
+    },
+    {
+      "code": "019165",
+      "name": "普通化学",
+      "has_resources": true
+    },
+    {
+      "code": "019166",
+      "name": "无机化学I",
+      "has_resources": true
+    },
+    {
+      "code": "019167",
+      "name": "合成化学",
+      "has_resources": false
+    },
+    {
+      "code": "019169",
+      "name": "化学计量学",
+      "has_resources": false
+    },
+    {
+      "code": "019170",
+      "name": "能源化学",
+      "has_resources": false
+    },
+    {
+      "code": "019172",
+      "name": "应用量子化学",
+      "has_resources": true
+    },
+    {
+      "code": "019173",
+      "name": "有机结构分析",
+      "has_resources": true
+    },
+    {
+      "code": "019174",
+      "name": "无机与分析化学实验",
+      "has_resources": true
+    },
+    {
+      "code": "019175",
+      "name": "分析化学I",
+      "has_resources": true
+    },
+    {
+      "code": "019176",
+      "name": "分析化学II",
+      "has_resources": true
+    },
+    {
+      "code": "019177",
+      "name": "化学生物学实验",
+      "has_resources": false
+    },
+    {
+      "code": "019178",
+      "name": "化学生物学",
+      "has_resources": false
+    },
+    {
+      "code": "020011",
+      "name": "高分子化学",
+      "has_resources": false
+    },
+    {
+      "code": "020014",
+      "name": "高分子化学实验",
+      "has_resources": false
+    },
+    {
+      "code": "020015",
+      "name": "高分子物理实验",
+      "has_resources": false
+    },
+    {
+      "code": "020019",
+      "name": "高分子加工",
+      "has_resources": false
+    },
+    {
+      "code": "020125",
+      "name": "高分子物理",
+      "has_resources": false
+    },
+    {
+      "code": "020146",
+      "name": "高分子复合材料",
+      "has_resources": false
+    },
+    {
+      "code": "020147",
+      "name": "高分子生物材料",
+      "has_resources": false
+    },
+    {
+      "code": "022007",
+      "name": "实测天体物理学",
+      "has_resources": true
+    },
+    {
+      "code": "022010",
+      "name": "天体物理前沿系列讲座",
+      "has_resources": false
+    },
+    {
+      "code": "022012",
+      "name": "计算物理A",
+      "has_resources": true
+    },
+    {
+      "code": "022056",
+      "name": "理论力学B",
+      "has_resources": false
+    },
+    {
+      "code": "022057",
+      "name": "电动力学",
+      "has_resources": true
+    },
+    {
+      "code": "022059",
+      "name": "量子力学B",
+      "has_resources": true
+    },
+    {
+      "code": "022062",
+      "name": "热力学与统计物理A",
+      "has_resources": true
+    },
+    {
+      "code": "022063",
+      "name": "热力学与统计物理B",
+      "has_resources": true
+    },
+    {
+      "code": "022075",
+      "name": "天体物理概论",
+      "has_resources": true
+    },
+    {
+      "code": "022095",
+      "name": "量子力学C",
+      "has_resources": false
+    },
+    {
+      "code": "022118",
+      "name": "固体物理B",
+      "has_resources": true
+    },
+    {
+      "code": "022148",
+      "name": "量子力学A",
+      "has_resources": true
+    },
+    {
+      "code": "022164",
+      "name": "大学物理-现代技术实验",
+      "has_resources": false
+    },
+    {
+      "code": "022165",
+      "name": "大学物理-研究性实验",
+      "has_resources": false
+    },
+    {
+      "code": "022166",
+      "name": "天文学导论",
+      "has_resources": false
+    },
+    {
+      "code": "022167",
+      "name": "天文学观测实践",
+      "has_resources": false
+    },
+    {
+      "code": "022169",
+      "name": "天体力学与天体测量基础",
+      "has_resources": true
+    },
+    {
+      "code": "022170",
+      "name": "天文学实验",
+      "has_resources": false
+    },
+    {
+      "code": "022171",
+      "name": "恒星物理基础",
+      "has_resources": true
+    },
+    {
+      "code": "022172",
+      "name": "时间和空间",
+      "has_resources": true
+    },
+    {
+      "code": "022392",
+      "name": "理论力学A",
+      "has_resources": true
+    },
+    {
+      "code": "022506",
+      "name": "电动力学B",
+      "has_resources": false
+    },
+    {
+      "code": "023150",
+      "name": "半导体器件物理",
+      "has_resources": false
+    },
+    {
+      "code": "023181",
+      "name": "线性电子线路",
+      "has_resources": true
+    },
+    {
+      "code": "023246",
+      "name": "数字系统工程",
+      "has_resources": false
+    },
+    {
+      "code": "023314",
+      "name": "射频电路设计基础",
+      "has_resources": false
+    },
+    {
+      "code": "023317",
+      "name": "电磁场与波",
+      "has_resources": false
+    },
+    {
+      "code": "025142",
+      "name": "影视艺术导论",
+      "has_resources": false
+    },
+    {
+      "code": "025148",
+      "name": "新闻学概论",
+      "has_resources": true
+    },
+    {
+      "code": "025150",
+      "name": "现代心理学",
+      "has_resources": false
+    },
+    {
+      "code": "025166",
+      "name": "传媒管理",
+      "has_resources": false
+    },
+    {
+      "code": "025167",
+      "name": "艺术传播",
+      "has_resources": false
+    },
+    {
+      "code": "025175",
+      "name": "三维动画与特效",
+      "has_resources": false
+    },
+    {
+      "code": "033001",
+      "name": "编译原理B",
+      "has_resources": false
+    },
+    {
+      "code": "033002",
+      "name": "信息论B",
+      "has_resources": true
+    },
+    {
+      "code": "038007",
+      "name": "量子信息技术",
+      "has_resources": false
+    },
+    {
+      "code": "038008",
+      "name": "近代光学基础",
+      "has_resources": false
+    },
+    {
+      "code": "038011",
+      "name": "量子信息导论",
+      "has_resources": false
+    },
+    {
+      "code": "038014",
+      "name": "光信息科学与技术实验",
+      "has_resources": false
+    },
+    {
+      "code": "048002",
+      "name": "核医学物理原理",
+      "has_resources": false
+    },
+    {
+      "code": "048003",
+      "name": "反应堆热工与安全",
+      "has_resources": false
+    },
+    {
+      "code": "048004",
+      "name": "核燃料循环与材料",
+      "has_resources": false
+    },
+    {
+      "code": "203001",
+      "name": "先进光子物理",
+      "has_resources": false
+    },
+    {
+      "code": "203006",
+      "name": "生物物理II",
+      "has_resources": false
+    },
+    {
+      "code": "206501",
+      "name": "有机化学C",
+      "has_resources": false
+    },
+    {
+      "code": "206708",
+      "name": "材料科学专业实验",
+      "has_resources": false
+    },
+    {
+      "code": "206709",
+      "name": "无机化学II(H)",
+      "has_resources": false
+    },
+    {
+      "code": "206710",
+      "name": "化学生物学(H)",
+      "has_resources": false
+    },
+    {
+      "code": "206711",
+      "name": "固体物理I(H)",
+      "has_resources": false
+    },
+    {
+      "code": "206M05e",
+      "name": "材料科学导论(英)",
+      "has_resources": false
+    },
+    {
+      "code": "206M07",
+      "name": "CASTEP/Materials Studio计算材料学",
+      "has_resources": false
+    },
+    {
+      "code": "208701",
+      "name": "交叉研究实践",
+      "has_resources": false
+    },
+    {
+      "code": "208702",
+      "name": "地球系统科学讲座",
+      "has_resources": false
+    },
+    {
+      "code": "208703",
+      "name": "野外与实践",
+      "has_resources": false
+    },
+    {
+      "code": "209002",
+      "name": "生产实习B",
+      "has_resources": false
+    },
+    {
+      "code": "209005",
+      "name": "工程科学前沿",
+      "has_resources": false
+    },
+    {
+      "code": "209011",
+      "name": "工程科学实践",
+      "has_resources": false
+    },
+    {
+      "code": "210002",
+      "name": "操作系统",
+      "has_resources": false
+    },
+    {
+      "code": "210004",
+      "name": "密码学导论",
+      "has_resources": false
+    },
+    {
+      "code": "210008",
+      "name": "计算机安全",
+      "has_resources": false
+    },
+    {
+      "code": "210031",
+      "name": "网络安全协议",
+      "has_resources": true
+    },
+    {
+      "code": "210036",
+      "name": "软件安全与测试",
+      "has_resources": false
+    },
+    {
+      "code": "210037",
+      "name": "数理逻辑与图论",
+      "has_resources": true
+    },
+    {
+      "code": "210038",
+      "name": "无线网络及其安全",
+      "has_resources": false
+    },
+    {
+      "code": "210045",
+      "name": "电路基本理论",
+      "has_resources": true
+    },
+    {
+      "code": "210050",
+      "name": "数字逻辑电路",
+      "has_resources": true
+    },
+    {
+      "code": "210060",
+      "name": "计算机网络",
+      "has_resources": false
+    },
+    {
+      "code": "210067",
+      "name": "近世代数与数论",
+      "has_resources": true
+    },
+    {
+      "code": "210070",
+      "name": "数据结构及其算法",
+      "has_resources": true
+    },
+    {
+      "code": "210072",
+      "name": "算法分析与设计",
+      "has_resources": false
+    },
+    {
+      "code": "210073",
+      "name": "电子技术实验I",
+      "has_resources": true
+    },
+    {
+      "code": "210074",
+      "name": "电子技术实验II",
+      "has_resources": true
+    },
+    {
+      "code": "210075",
+      "name": "电子技术实验III",
+      "has_resources": true
+    },
+    {
+      "code": "210077",
+      "name": "非线性电子线路",
+      "has_resources": true
+    },
+    {
+      "code": "210078",
+      "name": "电子系统设计",
+      "has_resources": true
+    },
+    {
+      "code": "210503",
+      "name": "数据结构与数据库",
+      "has_resources": true
+    },
+    {
+      "code": "210514",
+      "name": "数据库基础",
+      "has_resources": true
+    },
+    {
+      "code": "210515",
+      "name": "电子线路",
+      "has_resources": false
+    },
+    {
+      "code": "210702",
+      "name": "光机电科研前沿",
+      "has_resources": false
+    },
+    {
+      "code": "210703",
+      "name": "电子设计实践I",
+      "has_resources": false
+    },
+    {
+      "code": "210704",
+      "name": "电子设计实践II",
+      "has_resources": false
+    },
+    {
+      "code": "210706",
+      "name": "脑与认知科学导论",
+      "has_resources": false
+    },
+    {
+      "code": "210708",
+      "name": "数字图像处理B",
+      "has_resources": false
+    },
+    {
+      "code": "210710",
+      "name": "计算机视觉",
+      "has_resources": false
+    },
+    {
+      "code": "210712",
+      "name": "自然语言处理",
+      "has_resources": true
+    },
+    {
+      "code": "210716",
+      "name": "深度学习实践",
+      "has_resources": true
+    },
+    {
+      "code": "210M10",
+      "name": "信息科技前沿",
+      "has_resources": false
+    },
+    {
+      "code": "219001",
+      "name": "量子物理B",
+      "has_resources": false
+    },
+    {
+      "code": "219002",
+      "name": "数字信号处理B",
+      "has_resources": false
+    },
+    {
+      "code": "219003",
+      "name": "模拟集成电路设计",
+      "has_resources": false
+    },
+    {
+      "code": "219004",
+      "name": "微电子专业基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "219005",
+      "name": "数字集成电路设计",
+      "has_resources": false
+    },
+    {
+      "code": "219006",
+      "name": "集成电路工艺原理",
+      "has_resources": false
+    },
+    {
+      "code": "221001",
+      "name": "网络空间安全导论",
+      "has_resources": false
+    },
+    {
+      "code": "221002",
+      "name": "量子信息与安全",
+      "has_resources": false
+    },
+    {
+      "code": "229001",
+      "name": "离散数学",
+      "has_resources": true
+    },
+    {
+      "code": "232066",
+      "name": "安全工程专业英语",
+      "has_resources": false
+    },
+    {
+      "code": "232084",
+      "name": "安全系统工程",
+      "has_resources": false
+    },
+    {
+      "code": "232085",
+      "name": "火灾控制技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "232087",
+      "name": "建筑防火设计",
+      "has_resources": false
+    },
+    {
+      "code": "232088",
+      "name": "建筑火灾安全工程",
+      "has_resources": false
+    },
+    {
+      "code": "504002",
+      "name": "科技汉语",
+      "has_resources": false
+    },
+    {
+      "code": "910001",
+      "name": "医学伦理学",
+      "has_resources": false
+    },
+    {
+      "code": "910002",
+      "name": "医学心理学",
+      "has_resources": false
+    },
+    {
+      "code": "910004",
+      "name": "医学遗传学",
+      "has_resources": false
+    },
+    {
+      "code": "910006",
+      "name": "医学免疫学",
+      "has_resources": false
+    },
+    {
+      "code": "910007",
+      "name": "医学免疫学实验",
+      "has_resources": false
+    },
+    {
+      "code": "910008",
+      "name": "病原生物学",
+      "has_resources": false
+    },
+    {
+      "code": "910011",
+      "name": "人体机能学实验",
+      "has_resources": false
+    },
+    {
+      "code": "910013",
+      "name": "卫生法学",
+      "has_resources": false
+    },
+    {
+      "code": "910016",
+      "name": "医学细胞生物学",
+      "has_resources": false
+    },
+    {
+      "code": "910020",
+      "name": "病理学",
+      "has_resources": false
+    },
+    {
+      "code": "910029",
+      "name": "系统解剖学",
+      "has_resources": false
+    },
+    {
+      "code": "910030",
+      "name": "局部解剖学",
+      "has_resources": false
+    },
+    {
+      "code": "910031",
+      "name": "组织学与胚胎学",
+      "has_resources": false
+    },
+    {
+      "code": "AI1001A",
+      "name": "人工智能数学原理与算法A",
+      "has_resources": true
+    },
+    {
+      "code": "AI1001B",
+      "name": "人工智能数学原理与算法B",
+      "has_resources": true
+    },
+    {
+      "code": "AI1501",
+      "name": "生成式人工智能概述",
+      "has_resources": false
+    },
+    {
+      "code": "AI1502M",
+      "name": "动手学 AI：人工智能通识与实践",
+      "has_resources": false
+    },
+    {
+      "code": "AI2001A",
+      "name": "人工智能导论A",
+      "has_resources": true
+    },
+    {
+      "code": "AI2001B",
+      "name": "人工智能导论B",
+      "has_resources": true
+    },
+    {
+      "code": "AI3001",
+      "name": "机器学习A",
+      "has_resources": false
+    },
+    {
+      "code": "AI3002",
+      "name": "人工智能与机器学习基础",
+      "has_resources": false
+    },
+    {
+      "code": "AI3003",
+      "name": "深度学习基础",
+      "has_resources": false
+    },
+    {
+      "code": "AI3004",
+      "name": "优化理论基础",
+      "has_resources": false
+    },
+    {
+      "code": "ASTRON1501",
+      "name": "天体物理概观",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4001",
+      "name": "计算机语言和科学建模",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4002",
+      "name": "大气科学基础实习",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4003",
+      "name": "Python数据可视化及地球科学应用",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4004",
+      "name": "全球变化I",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4005",
+      "name": "全球变化II",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4006",
+      "name": "古气候学原理",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4009",
+      "name": "气候学概论",
+      "has_resources": false
+    },
+    {
+      "code": "ATMS4010",
+      "name": "大气科学综合实习",
+      "has_resources": false
+    },
+    {
+      "code": "BADM1501",
+      "name": "大学生科研团队管理沟通",
+      "has_resources": false
+    },
+    {
+      "code": "BADM1502",
+      "name": "知识产权管理概论",
+      "has_resources": false
+    },
+    {
+      "code": "BADM1901",
+      "name": "科学计量学导论",
+      "has_resources": false
+    },
+    {
+      "code": "BADM2001",
+      "name": "人类行为的管理学原理",
+      "has_resources": false
+    },
+    {
+      "code": "BADM2002",
+      "name": "人类行为的管理学原理",
+      "has_resources": false
+    },
+    {
+      "code": "BADM2003",
+      "name": "会计学原理",
+      "has_resources": true
+    },
+    {
+      "code": "BADM2004",
+      "name": "商业人工智能导论",
+      "has_resources": false
+    },
+    {
+      "code": "BADM2007",
+      "name": "宏观经济学",
+      "has_resources": false
+    },
+    {
+      "code": "BADM2008",
+      "name": "管理学概论",
+      "has_resources": false
+    },
+    {
+      "code": "BADM3001",
+      "name": "消费者心理与行为",
+      "has_resources": false
+    },
+    {
+      "code": "BADM3002",
+      "name": "技术创新管理",
+      "has_resources": false
+    },
+    {
+      "code": "BADM3003",
+      "name": "创业管理",
+      "has_resources": false
+    },
+    {
+      "code": "BADM4001",
+      "name": "创业融资与股权设计",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1501",
+      "name": "生命科学导论实验",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1502",
+      "name": "生命科学与医学导论",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1503",
+      "name": "基础生命支持",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1504G",
+      "name": "人体健康与疾病",
+      "has_resources": true
+    },
+    {
+      "code": "BIO1505G",
+      "name": "生物技术与生命科学",
+      "has_resources": true
+    },
+    {
+      "code": "BIO1506G",
+      "name": "脑科学与认知科学导论",
+      "has_resources": true
+    },
+    {
+      "code": "BIO1508G",
+      "name": "免疫系统与人体健康",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1509G",
+      "name": "人体微生物与健康",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1510",
+      "name": "解码生命信息",
+      "has_resources": true
+    },
+    {
+      "code": "BIO1511G",
+      "name": "生命的化学基础",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1512",
+      "name": "生物学与生活",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1514G",
+      "name": "生物进化论的历史由来、基本概念及未来发展",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1516",
+      "name": "生命侦探：用化学解密免疫与疾病",
+      "has_resources": false
+    },
+    {
+      "code": "BIO1517",
+      "name": "地球生命演化",
+      "has_resources": false
+    },
+    {
+      "code": "BIO2001",
+      "name": "生物实验安全与防护",
+      "has_resources": false
+    },
+    {
+      "code": "BIO2701",
+      "name": "生命科学前沿I",
+      "has_resources": false
+    },
+    {
+      "code": "BIO2702",
+      "name": "生命科学前沿II",
+      "has_resources": false
+    },
+    {
+      "code": "BIO3001",
+      "name": "生物化学A1",
+      "has_resources": false
+    },
+    {
+      "code": "BIO3002",
+      "name": "生物化学A2",
+      "has_resources": true
+    },
+    {
+      "code": "BIO3003",
+      "name": "生物化学研讨",
+      "has_resources": false
+    },
+    {
+      "code": "BIO3004",
+      "name": "分子生物学研讨",
+      "has_resources": false
+    },
+    {
+      "code": "BIO3005",
+      "name": "细胞生物学研讨",
+      "has_resources": false
+    },
+    {
+      "code": "BIO3501",
+      "name": "生物化学C",
+      "has_resources": false
+    },
+    {
+      "code": "BIO3701",
+      "name": "生物医学论文写作",
+      "has_resources": false
+    },
+    {
+      "code": "BIO4001",
+      "name": "结构生物学导论",
+      "has_resources": false
+    },
+    {
+      "code": "BIO4002",
+      "name": "化学生物学基础",
+      "has_resources": false
+    },
+    {
+      "code": "BIO4501",
+      "name": "生物物理I",
+      "has_resources": false
+    },
+    {
+      "code": "BIO4502e",
+      "name": "计算神经科学(英)",
+      "has_resources": false
+    },
+    {
+      "code": "BIO4503",
+      "name": "生物化学B",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM1501",
+      "name": "生活中的化学科普实验",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM1502",
+      "name": "化学与健康",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM1505",
+      "name": "厨房化学",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM2001M",
+      "name": "化学实验安全知识",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM2501",
+      "name": "工程化学",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM2801",
+      "name": "科技写作与学术表达",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM2802",
+      "name": "学科文献阅读与分析",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM3001",
+      "name": "催化化学",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM3002",
+      "name": "分子光谱学基础",
+      "has_resources": true
+    },
+    {
+      "code": "CHEM3003",
+      "name": "化学动力学基础",
+      "has_resources": true
+    },
+    {
+      "code": "CHEM3004",
+      "name": "应用电化学",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM4001",
+      "name": "生物无机化学原理",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM4004",
+      "name": "金属有机化学导论",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM4006",
+      "name": "物理化学III(A)",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM4007",
+      "name": "量子计算化学",
+      "has_resources": false
+    },
+    {
+      "code": "CHEM4008",
+      "name": "智能谱学与物质科学研究",
+      "has_resources": false
+    },
+    {
+      "code": "COMM1503",
+      "name": "人际沟通与公共表达",
+      "has_resources": false
+    },
+    {
+      "code": "COMM1507",
+      "name": "电子信息检索",
+      "has_resources": false
+    },
+    {
+      "code": "CS1002A",
+      "name": "计算系统概论A",
+      "has_resources": true
+    },
+    {
+      "code": "CS1003",
+      "name": "计算机程序设计",
+      "has_resources": true
+    },
+    {
+      "code": "CS1003L",
+      "name": "计算机程序设计(L)",
+      "has_resources": true
+    },
+    {
+      "code": "CS1502",
+      "name": "计算机系统详解",
+      "has_resources": true
+    },
+    {
+      "code": "CS1504",
+      "name": "量化金融工程：从理论到实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS1505",
+      "name": "Java软件开发基础",
+      "has_resources": true
+    },
+    {
+      "code": "CS1507",
+      "name": "Python与深度学习基础",
+      "has_resources": false
+    },
+    {
+      "code": "CS1508",
+      "name": "Matlab编程及其应用",
+      "has_resources": false
+    },
+    {
+      "code": "CS1514",
+      "name": "面向交叉学科的Python程序设计与跨学科实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS1515",
+      "name": "Python科学计算基础",
+      "has_resources": true
+    },
+    {
+      "code": "CS1519",
+      "name": "程序调试方法",
+      "has_resources": false
+    },
+    {
+      "code": "CS2002",
+      "name": "数理逻辑基础",
+      "has_resources": true
+    },
+    {
+      "code": "CS2003",
+      "name": "系统程序设计基础",
+      "has_resources": true
+    },
+    {
+      "code": "CS2502A",
+      "name": "数据结构A",
+      "has_resources": true
+    },
+    {
+      "code": "CS2502B",
+      "name": "数据结构B",
+      "has_resources": true
+    },
+    {
+      "code": "CS2701",
+      "name": "图论(H)",
+      "has_resources": false
+    },
+    {
+      "code": "CS3001H",
+      "name": "计算机组成原理(H)",
+      "has_resources": true
+    },
+    {
+      "code": "CS3002H",
+      "name": "计算机体系结构(H)",
+      "has_resources": false
+    },
+    {
+      "code": "CS3003H",
+      "name": "编译原理(H)",
+      "has_resources": false
+    },
+    {
+      "code": "CS3701",
+      "name": "算法基础(H)",
+      "has_resources": true
+    },
+    {
+      "code": "CS4001",
+      "name": "数字图像处理与分析",
+      "has_resources": true
+    },
+    {
+      "code": "CS4002",
+      "name": "计算机图形学理论和应用",
+      "has_resources": false
+    },
+    {
+      "code": "CS4004",
+      "name": "区块链技术与应用",
+      "has_resources": false
+    },
+    {
+      "code": "CS4005",
+      "name": "形式化方法导引",
+      "has_resources": true
+    },
+    {
+      "code": "CS4008",
+      "name": "软件工程实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS4009",
+      "name": "程序设计进阶与实践",
+      "has_resources": true
+    },
+    {
+      "code": "CS4010",
+      "name": "数理逻辑进阶与应用",
+      "has_resources": false
+    },
+    {
+      "code": "CS4011",
+      "name": "算法博弈论",
+      "has_resources": false
+    },
+    {
+      "code": "CS4012",
+      "name": "运筹学基础",
+      "has_resources": true
+    },
+    {
+      "code": "CS4014",
+      "name": "计算机体系结构",
+      "has_resources": true
+    },
+    {
+      "code": "CS4017e",
+      "name": "最优化导论(英)",
+      "has_resources": false
+    },
+    {
+      "code": "CS4018",
+      "name": "量子计算与机器学习",
+      "has_resources": false
+    },
+    {
+      "code": "CS4019",
+      "name": "计算系统综合实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS4023",
+      "name": "数据科学导论",
+      "has_resources": false
+    },
+    {
+      "code": "CS4024",
+      "name": "面向科学问题求解的编程实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS4025",
+      "name": "并行计算A",
+      "has_resources": true
+    },
+    {
+      "code": "CS4026",
+      "name": "计算机安全原理与实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS4027",
+      "name": "人工智能安全",
+      "has_resources": false
+    },
+    {
+      "code": "CS4028",
+      "name": "深度学习原理与实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS4029",
+      "name": "国产算力平台创新实践",
+      "has_resources": false
+    },
+    {
+      "code": "CS4030",
+      "name": "智能计算系统导论",
+      "has_resources": false
+    },
+    {
+      "code": "CS4031",
+      "name": "智能计算软件优化",
+      "has_resources": false
+    },
+    {
+      "code": "CS4032",
+      "name": "面向对象程序设计",
+      "has_resources": false
+    },
+    {
+      "code": "CS4033",
+      "name": "网络系统实验",
+      "has_resources": true
+    },
+    {
+      "code": "CS4501",
+      "name": "微型计算机原理",
+      "has_resources": false
+    },
+    {
+      "code": "CS4502",
+      "name": "微型计算机原理实验",
+      "has_resources": false
+    },
+    {
+      "code": "DS2002",
+      "name": "数据库系统概论",
+      "has_resources": false
+    },
+    {
+      "code": "DS3001",
+      "name": "数据分析及实践",
+      "has_resources": true
+    },
+    {
+      "code": "DS3002",
+      "name": "大数据系统及综合实验",
+      "has_resources": false
+    },
+    {
+      "code": "EDUS1001",
+      "name": "劳动教育",
+      "has_resources": false
+    },
+    {
+      "code": "EE1501",
+      "name": "物联网导论",
+      "has_resources": true
+    },
+    {
+      "code": "EE1504",
+      "name": "机器人DIY",
+      "has_resources": false
+    },
+    {
+      "code": "EE1506",
+      "name": "单片机应用",
+      "has_resources": false
+    },
+    {
+      "code": "EE1508",
+      "name": "电子设计实践基础",
+      "has_resources": true
+    },
+    {
+      "code": "EE1509",
+      "name": "多媒体内容智能分析导论",
+      "has_resources": false
+    },
+    {
+      "code": "EE1510",
+      "name": "嵌入式应用设计基础",
+      "has_resources": false
+    },
+    {
+      "code": "EE1512",
+      "name": "AI博弈方法实践",
+      "has_resources": false
+    },
+    {
+      "code": "EE1513",
+      "name": "文本表征学习",
+      "has_resources": false
+    },
+    {
+      "code": "EE2003",
+      "name": "计算机原理与嵌入式系统",
+      "has_resources": true
+    },
+    {
+      "code": "EE2004",
+      "name": "计算机网络B",
+      "has_resources": true
+    },
+    {
+      "code": "EE2005A",
+      "name": "数字信号处理A",
+      "has_resources": false
+    },
+    {
+      "code": "EE2006A",
+      "name": "信号与系统A",
+      "has_resources": true
+    },
+    {
+      "code": "EE2007",
+      "name": "运筹学A",
+      "has_resources": true
+    },
+    {
+      "code": "EE2009",
+      "name": "数字信号处理A",
+      "has_resources": false
+    },
+    {
+      "code": "EE2501",
+      "name": "电子技术基础",
+      "has_resources": true
+    },
+    {
+      "code": "EE2502",
+      "name": "数字电路",
+      "has_resources": true
+    },
+    {
+      "code": "EE2503",
+      "name": "电子线路实验",
+      "has_resources": false
+    },
+    {
+      "code": "EE2505",
+      "name": "电子线路B",
+      "has_resources": false
+    },
+    {
+      "code": "EE2506A",
+      "name": "模拟与数字电路A",
+      "has_resources": false
+    },
+    {
+      "code": "EE2506B",
+      "name": "模拟与数字电路B",
+      "has_resources": false
+    },
+    {
+      "code": "EE3003",
+      "name": "微波技术基础",
+      "has_resources": true
+    },
+    {
+      "code": "EE3004",
+      "name": "人工智能实践",
+      "has_resources": false
+    },
+    {
+      "code": "EE3005",
+      "name": "现代通信原理",
+      "has_resources": true
+    },
+    {
+      "code": "EE3006",
+      "name": "计算机控制基础",
+      "has_resources": true
+    },
+    {
+      "code": "EE3007",
+      "name": "机器人创新实践",
+      "has_resources": false
+    },
+    {
+      "code": "EE3501",
+      "name": "运筹学B",
+      "has_resources": false
+    },
+    {
+      "code": "EE3502",
+      "name": "机器学习B",
+      "has_resources": false
+    },
+    {
+      "code": "EE4001",
+      "name": "芯片设计实践",
+      "has_resources": true
+    },
+    {
+      "code": "EE4002",
+      "name": "现代信息技术概览",
+      "has_resources": false
+    },
+    {
+      "code": "EE4003",
+      "name": "并行计算B",
+      "has_resources": false
+    },
+    {
+      "code": "EE4004",
+      "name": "语音信号处理基础",
+      "has_resources": false
+    },
+    {
+      "code": "EE4005",
+      "name": "知识工程",
+      "has_resources": false
+    },
+    {
+      "code": "EE4006",
+      "name": "工业计算机网络",
+      "has_resources": false
+    },
+    {
+      "code": "EE4007",
+      "name": "系统与控制实验(3)",
+      "has_resources": false
+    },
+    {
+      "code": "EE4008",
+      "name": "机器学习C",
+      "has_resources": false
+    },
+    {
+      "code": "EE4009",
+      "name": "量子信息与控制",
+      "has_resources": false
+    },
+    {
+      "code": "EE4010",
+      "name": "无线系统设计",
+      "has_resources": false
+    },
+    {
+      "code": "EE4011A",
+      "name": "数字图像处理A",
+      "has_resources": true
+    },
+    {
+      "code": "EE4013",
+      "name": "具身多模态智能导论",
+      "has_resources": false
+    },
+    {
+      "code": "EE4014",
+      "name": "医学成像原理与信号系统分析",
+      "has_resources": false
+    },
+    {
+      "code": "EE4501",
+      "name": "脑机接口",
+      "has_resources": false
+    },
+    {
+      "code": "EE4701",
+      "name": "信息科研创新实践(H)",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS1501",
+      "name": "漫谈双碳科技",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3001",
+      "name": "环境科学与工程导论",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3002",
+      "name": "环境微生物学",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3003",
+      "name": "环境化学原理",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3004",
+      "name": "环境地学",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3005",
+      "name": "环境监测",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3007",
+      "name": "环境综合实验(上)",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3008",
+      "name": "环境综合实验(下)",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3009",
+      "name": "环境科学与工程讲座",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS3010",
+      "name": "环境创新实践",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4001",
+      "name": "环境认知实习",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4002",
+      "name": "环境专业实习",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4003",
+      "name": "环境遥感",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4004",
+      "name": "水处理工程",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4005",
+      "name": "环境生态学原理",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4006",
+      "name": "大气污染控制工程",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4007",
+      "name": "环境毒理学",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4008",
+      "name": "环境影响评价",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4010",
+      "name": "固废处理与处置工程",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4012",
+      "name": "环境工程设计基础",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4013",
+      "name": "土壤污染与修复技术",
+      "has_resources": false
+    },
+    {
+      "code": "ENVS4014",
+      "name": "环境工程制图",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1503",
+      "name": "太阳系的形成和演化",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1504G",
+      "name": "极端自然条件下的自我保护",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1505",
+      "name": "珠宝玉石鉴赏",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1506",
+      "name": "地球探索与野外考察I",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1507",
+      "name": "地球探索与野外考察II",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1509",
+      "name": "地球物理与地球演化",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1510",
+      "name": "宇宙宜居性：行星揭秘",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1511",
+      "name": "最美的焰火：火山解密",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1512",
+      "name": "南极：从探险到科学研究",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1513",
+      "name": "气象与摄影",
+      "has_resources": false
+    },
+    {
+      "code": "ESS1515",
+      "name": "探秘华夏名山",
+      "has_resources": false
+    },
+    {
+      "code": "ESS2006",
+      "name": "地球和空间科学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ESS2008",
+      "name": "地球科学概论-大气海洋",
+      "has_resources": false
+    },
+    {
+      "code": "ESS2009",
+      "name": "地球科学概论-空间科学",
+      "has_resources": false
+    },
+    {
+      "code": "ESS2010",
+      "name": "地球科学概论-地球系统",
+      "has_resources": false
+    },
+    {
+      "code": "ESS3002",
+      "name": "空间等离子体探测技术",
+      "has_resources": false
+    },
+    {
+      "code": "ESS3003",
+      "name": "地球系统基础实习",
+      "has_resources": false
+    },
+    {
+      "code": "ESS3004",
+      "name": "地球物理基础实习",
+      "has_resources": false
+    },
+    {
+      "code": "ESS4001",
+      "name": "空间探测自主性设计实验",
+      "has_resources": false
+    },
+    {
+      "code": "ESS4002",
+      "name": "航天电子电路设计",
+      "has_resources": false
+    },
+    {
+      "code": "ESS4004",
+      "name": "航天器轨道动力学",
+      "has_resources": false
+    },
+    {
+      "code": "ESS4005",
+      "name": "普通地质学野外实习",
+      "has_resources": false
+    },
+    {
+      "code": "ESS4702",
+      "name": "地球系统野外综合实习",
+      "has_resources": false
+    },
+    {
+      "code": "FIN1501G",
+      "name": "经济学导论",
+      "has_resources": false
+    },
+    {
+      "code": "FIN1502",
+      "name": "诺贝尔经济学经典选读",
+      "has_resources": false
+    },
+    {
+      "code": "FIN1503",
+      "name": "证券理论与实务",
+      "has_resources": false
+    },
+    {
+      "code": "FIN1506",
+      "name": "微观经济学原理",
+      "has_resources": false
+    },
+    {
+      "code": "FIN1901",
+      "name": "Python 经济大数据分析",
+      "has_resources": false
+    },
+    {
+      "code": "FIN2001",
+      "name": "经济学基础",
+      "has_resources": false
+    },
+    {
+      "code": "FIN3001",
+      "name": "金融建模",
+      "has_resources": false
+    },
+    {
+      "code": "FIN3002",
+      "name": "货币金融学",
+      "has_resources": false
+    },
+    {
+      "code": "FL1001",
+      "name": "基础英语I",
+      "has_resources": false
+    },
+    {
+      "code": "FL1002",
+      "name": "基础英语II",
+      "has_resources": false
+    },
+    {
+      "code": "FL1003",
+      "name": "英语交流I",
+      "has_resources": false
+    },
+    {
+      "code": "FL1004",
+      "name": "英语交流II",
+      "has_resources": false
+    },
+    {
+      "code": "FL1005",
+      "name": "英语读写I",
+      "has_resources": false
+    },
+    {
+      "code": "FL1006",
+      "name": "英语读写II",
+      "has_resources": true
+    },
+    {
+      "code": "FL1007",
+      "name": "英语交流进阶I",
+      "has_resources": false
+    },
+    {
+      "code": "FL1008",
+      "name": "英语交流进阶II",
+      "has_resources": false
+    },
+    {
+      "code": "FL1009",
+      "name": "英语交流进阶III",
+      "has_resources": false
+    },
+    {
+      "code": "FL1010",
+      "name": "英语读写进阶I",
+      "has_resources": true
+    },
+    {
+      "code": "FL1011",
+      "name": "英语读写进阶II",
+      "has_resources": true
+    },
+    {
+      "code": "FL1012",
+      "name": "大学综合英语（免修）",
+      "has_resources": false
+    },
+    {
+      "code": "FL1013",
+      "name": "大学英语交流",
+      "has_resources": false
+    },
+    {
+      "code": "FL1014",
+      "name": "大学英语交流进阶",
+      "has_resources": false
+    },
+    {
+      "code": "FL1015",
+      "name": "大学英语读写",
+      "has_resources": false
+    },
+    {
+      "code": "FL1016",
+      "name": "大学英语读写进阶",
+      "has_resources": false
+    },
+    {
+      "code": "FL1017",
+      "name": "科普英语交流",
+      "has_resources": false
+    },
+    {
+      "code": "FL1100",
+      "name": "大学英语",
+      "has_resources": false
+    },
+    {
+      "code": "FL1102A",
+      "name": "科普英语交流A",
+      "has_resources": false
+    },
+    {
+      "code": "FL1102B",
+      "name": "科普英语交流B",
+      "has_resources": false
+    },
+    {
+      "code": "FL1103A",
+      "name": "跨文化交流",
+      "has_resources": true
+    },
+    {
+      "code": "FL1105A",
+      "name": "学术英语读写",
+      "has_resources": false
+    },
+    {
+      "code": "FL1106A",
+      "name": "批判性思维与英语沟通",
+      "has_resources": false
+    },
+    {
+      "code": "FL1110A",
+      "name": "英语文化与沟通",
+      "has_resources": false
+    },
+    {
+      "code": "FL1115A",
+      "name": "高级英语口语",
+      "has_resources": false
+    },
+    {
+      "code": "FL1117",
+      "name": "科普英语交流进阶",
+      "has_resources": false
+    },
+    {
+      "code": "FL1501",
+      "name": "西南联大英文导读",
+      "has_resources": false
+    },
+    {
+      "code": "FL1502",
+      "name": "英语口语沟通(基础)",
+      "has_resources": false
+    },
+    {
+      "code": "FL1503",
+      "name": "英语口语沟通(中级)",
+      "has_resources": false
+    },
+    {
+      "code": "FL1506",
+      "name": "德国语言与文化(初级)",
+      "has_resources": true
+    },
+    {
+      "code": "FL1507",
+      "name": "德国语言与文化(中级)",
+      "has_resources": false
+    },
+    {
+      "code": "FL1508",
+      "name": "现代日本语言与文化(初级)",
+      "has_resources": false
+    },
+    {
+      "code": "FL1514",
+      "name": "你好日本语",
+      "has_resources": false
+    },
+    {
+      "code": "FS1001",
+      "name": "“科学与社会”研讨课",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL3001",
+      "name": "仪器分析方法",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL3002",
+      "name": "仪器分析实验",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL3003",
+      "name": "岩石学",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL3004",
+      "name": "岩相学实验",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL4002",
+      "name": "地球化学野外综合实习",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL4003",
+      "name": "地球化学野外创新实习",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL4004",
+      "name": "宝石学基础",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL4005",
+      "name": "环境地球化学原理",
+      "has_resources": false
+    },
+    {
+      "code": "GEOL4006",
+      "name": "地球化学分析",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP2701",
+      "name": "地质学基础",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP2702",
+      "name": "地球与行星物理导论",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3001",
+      "name": "连续介质力学基础",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3002",
+      "name": "地电地磁学理论与应用",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3003",
+      "name": "重力与固体潮",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3004",
+      "name": "地球物理基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3005",
+      "name": "空间探测基础实习",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3006",
+      "name": "空间探测综合实验",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3007",
+      "name": "流体力学",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3008",
+      "name": "磁流体力学",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP3009",
+      "name": "空间物理学导论",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4002",
+      "name": "地球物理数据处理和分析",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4003",
+      "name": "地震勘探引论",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4004",
+      "name": "人工智能与地球物理",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4005",
+      "name": "地球物理成像",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4008",
+      "name": "地球物理创新实验",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4010",
+      "name": "空间环境与航天工程",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4011",
+      "name": "遥感技术",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4013",
+      "name": "行星大气",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4015",
+      "name": "地球物理综合实验",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4016",
+      "name": "地球物理程序设计",
+      "has_resources": false
+    },
+    {
+      "code": "GEOP4017",
+      "name": "地质学与大地构造概论",
+      "has_resources": false
+    },
+    {
+      "code": "HS1003",
+      "name": "艺术实践",
+      "has_resources": false
+    },
+    {
+      "code": "HS1504",
+      "name": "科技考古概论",
+      "has_resources": false
+    },
+    {
+      "code": "HS1505",
+      "name": "科学精神与科学方法的起源",
+      "has_resources": false
+    },
+    {
+      "code": "HS1509M",
+      "name": "经济与社会：如何用决策思维洞察生活",
+      "has_resources": false
+    },
+    {
+      "code": "HS1514M",
+      "name": "逻辑学导论",
+      "has_resources": false
+    },
+    {
+      "code": "HS1517",
+      "name": "表达技巧与朗诵艺术",
+      "has_resources": false
+    },
+    {
+      "code": "HS1519",
+      "name": "中国文化史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1520",
+      "name": "生命科学简史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1521",
+      "name": "天文学史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1523",
+      "name": "科学之美",
+      "has_resources": false
+    },
+    {
+      "code": "HS1524",
+      "name": "物理学思想史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1528",
+      "name": "日本社会文化解读(双语课程)",
+      "has_resources": true
+    },
+    {
+      "code": "HS1531",
+      "name": "大学生心理学",
+      "has_resources": false
+    },
+    {
+      "code": "HS1532",
+      "name": "大学生交往训练",
+      "has_resources": false
+    },
+    {
+      "code": "HS1534",
+      "name": "社会心理学",
+      "has_resources": true
+    },
+    {
+      "code": "HS1536",
+      "name": "大学生健康教育",
+      "has_resources": false
+    },
+    {
+      "code": "HS1538",
+      "name": "西方社会思想简史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1540M",
+      "name": "城市与文化遗产",
+      "has_resources": false
+    },
+    {
+      "code": "HS1547",
+      "name": "日本美术导览",
+      "has_resources": false
+    },
+    {
+      "code": "HS1548",
+      "name": "西方油画艺术赏析",
+      "has_resources": false
+    },
+    {
+      "code": "HS1549",
+      "name": "中国审美文化",
+      "has_resources": false
+    },
+    {
+      "code": "HS1550",
+      "name": "绘画基础(素描)",
+      "has_resources": false
+    },
+    {
+      "code": "HS1551",
+      "name": "交响乐赏析",
+      "has_resources": true
+    },
+    {
+      "code": "HS1553G",
+      "name": "色彩基础",
+      "has_resources": false
+    },
+    {
+      "code": "HS1554",
+      "name": "歌唱艺术",
+      "has_resources": false
+    },
+    {
+      "code": "HS1557",
+      "name": "明末清初的天文学革命",
+      "has_resources": false
+    },
+    {
+      "code": "HS1559",
+      "name": "大学生情绪管理",
+      "has_resources": false
+    },
+    {
+      "code": "HS1560",
+      "name": "电影音乐艺术",
+      "has_resources": true
+    },
+    {
+      "code": "HS1561",
+      "name": "油画技法",
+      "has_resources": false
+    },
+    {
+      "code": "HS1566",
+      "name": "人工智能与技术伦理",
+      "has_resources": false
+    },
+    {
+      "code": "HS1568",
+      "name": "生命伦理学",
+      "has_resources": false
+    },
+    {
+      "code": "HS1577M",
+      "name": "欧洲文明的现代历程",
+      "has_resources": false
+    },
+    {
+      "code": "HS1580M",
+      "name": "大学生国家安全教育",
+      "has_resources": false
+    },
+    {
+      "code": "HS1581",
+      "name": "中国传统医学思想与文化",
+      "has_resources": true
+    },
+    {
+      "code": "HS1583",
+      "name": "陶瓷文化史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1584",
+      "name": "当代科技艺术",
+      "has_resources": true
+    },
+    {
+      "code": "HS1585M",
+      "name": "新青年·习党史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1587",
+      "name": "馆窥世界史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1589",
+      "name": "元宇宙导论",
+      "has_resources": true
+    },
+    {
+      "code": "HS1590",
+      "name": "中国纸墨笔砚",
+      "has_resources": false
+    },
+    {
+      "code": "HS1591",
+      "name": "科学精神",
+      "has_resources": false
+    },
+    {
+      "code": "HS1592",
+      "name": "科学与哲学史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1593",
+      "name": "西方文明史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1594",
+      "name": "物理学简史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1595",
+      "name": "例说知识产权",
+      "has_resources": false
+    },
+    {
+      "code": "HS1597",
+      "name": "戏剧游戏与表演体验",
+      "has_resources": false
+    },
+    {
+      "code": "HS1605",
+      "name": "科学摄影",
+      "has_resources": false
+    },
+    {
+      "code": "HS1606",
+      "name": "化学与艺术-手工印染",
+      "has_resources": false
+    },
+    {
+      "code": "HS1608",
+      "name": "合唱指挥基础",
+      "has_resources": false
+    },
+    {
+      "code": "HS1610M",
+      "name": "中国古典诗词中的品格与修养",
+      "has_resources": false
+    },
+    {
+      "code": "HS1611",
+      "name": "当我们谈论科学时",
+      "has_resources": false
+    },
+    {
+      "code": "HS1612",
+      "name": "欧阳询楷书技法训练",
+      "has_resources": false
+    },
+    {
+      "code": "HS1616",
+      "name": "生物之美—视觉设计背后的生物学逻辑",
+      "has_resources": false
+    },
+    {
+      "code": "HS1620",
+      "name": "钢琴演奏入门",
+      "has_resources": false
+    },
+    {
+      "code": "HS1621",
+      "name": "《论语》导读",
+      "has_resources": false
+    },
+    {
+      "code": "HS1623",
+      "name": "元素周期表里的考古学",
+      "has_resources": false
+    },
+    {
+      "code": "HS1624",
+      "name": "化学简史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1625",
+      "name": "点亮科技树两千年",
+      "has_resources": false
+    },
+    {
+      "code": "HS1626",
+      "name": "中国技术史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1629",
+      "name": "王羲之行书技法训练",
+      "has_resources": false
+    },
+    {
+      "code": "HS1632",
+      "name": "声乐演唱基础",
+      "has_resources": false
+    },
+    {
+      "code": "HS1633",
+      "name": "民族管弦乐艺术的科学、文化与实践",
+      "has_resources": false
+    },
+    {
+      "code": "HS1634",
+      "name": "宋代美学",
+      "has_resources": false
+    },
+    {
+      "code": "HS1635",
+      "name": "当代艺术展览与策展",
+      "has_resources": false
+    },
+    {
+      "code": "HS1636",
+      "name": "现代舞基础训练",
+      "has_resources": false
+    },
+    {
+      "code": "HS1637",
+      "name": "先秦儒家的思想世界",
+      "has_resources": false
+    },
+    {
+      "code": "HS1638",
+      "name": "考古与文物",
+      "has_resources": false
+    },
+    {
+      "code": "HS1639",
+      "name": "语言科学",
+      "has_resources": false
+    },
+    {
+      "code": "HS1641M",
+      "name": "《红楼梦》的空间艺术",
+      "has_resources": false
+    },
+    {
+      "code": "HS1647",
+      "name": "速写技法",
+      "has_resources": false
+    },
+    {
+      "code": "HS1648",
+      "name": "生活中的公共事务",
+      "has_resources": true
+    },
+    {
+      "code": "HS1649",
+      "name": "中国书法",
+      "has_resources": false
+    },
+    {
+      "code": "HS1650",
+      "name": "视觉沟通",
+      "has_resources": false
+    },
+    {
+      "code": "HS1651",
+      "name": "西方音乐通史",
+      "has_resources": false
+    },
+    {
+      "code": "HS1652",
+      "name": "造物体验与创新",
+      "has_resources": false
+    },
+    {
+      "code": "HS1653",
+      "name": "音乐来信——走进交响世界",
+      "has_resources": false
+    },
+    {
+      "code": "HS1654",
+      "name": "科技伦理问题初探",
+      "has_resources": false
+    },
+    {
+      "code": "HS1657",
+      "name": "工程伦理导论",
+      "has_resources": false
+    },
+    {
+      "code": "HS1658",
+      "name": "硬笔楷书技法训练",
+      "has_resources": false
+    },
+    {
+      "code": "HS1660M",
+      "name": "古希腊文明",
+      "has_resources": false
+    },
+    {
+      "code": "HS1662M",
+      "name": "中华传统文化与人生修养",
+      "has_resources": false
+    },
+    {
+      "code": "HS1664",
+      "name": "文物与科技",
+      "has_resources": false
+    },
+    {
+      "code": "HS1665",
+      "name": "生物学之美",
+      "has_resources": false
+    },
+    {
+      "code": "HS1666",
+      "name": "人工智能艺术与设计",
+      "has_resources": false
+    },
+    {
+      "code": "HS1667",
+      "name": "钢琴零基础入门",
+      "has_resources": false
+    },
+    {
+      "code": "HS1668",
+      "name": "音乐基础理论",
+      "has_resources": false
+    },
+    {
+      "code": "HS1669",
+      "name": "拉班舞谱实践入门",
+      "has_resources": false
+    },
+    {
+      "code": "HS1670",
+      "name": "现当代舞理论与实践",
+      "has_resources": false
+    },
+    {
+      "code": "HS1671",
+      "name": "中国古典舞经典作品鉴赏",
+      "has_resources": false
+    },
+    {
+      "code": "HS1672",
+      "name": "电影中的科学",
+      "has_resources": false
+    },
+    {
+      "code": "HS1673",
+      "name": "中国科学家的信念与征程",
+      "has_resources": false
+    },
+    {
+      "code": "HS1674",
+      "name": "数字公共治理与公共政策常识",
+      "has_resources": false
+    },
+    {
+      "code": "HS1675",
+      "name": "公文写作与处理",
+      "has_resources": false
+    },
+    {
+      "code": "HS1676",
+      "name": "AI与未来音乐实验室",
+      "has_resources": false
+    },
+    {
+      "code": "HS2001",
+      "name": "科学、技术与工程导论",
+      "has_resources": true
+    },
+    {
+      "code": "HS2002",
+      "name": "科技写作与表达",
+      "has_resources": false
+    },
+    {
+      "code": "IC1901",
+      "name": "芯片科技概论",
+      "has_resources": false
+    },
+    {
+      "code": "IC2701",
+      "name": "集成电路科技导论",
+      "has_resources": false
+    },
+    {
+      "code": "IC3001",
+      "name": "半导体材料与物理",
+      "has_resources": false
+    },
+    {
+      "code": "IC4001",
+      "name": "集成电路自动化设计",
+      "has_resources": false
+    },
+    {
+      "code": "IC4002",
+      "name": "智能系统与接口技术",
+      "has_resources": false
+    },
+    {
+      "code": "IC4003",
+      "name": "集成电路制造设备导论",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1501",
+      "name": "商业计划与创业实战",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1505",
+      "name": "设计创新思维",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1506",
+      "name": "设计创新实践 I",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1507",
+      "name": "设计创新实践 II",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1509",
+      "name": "创业会计与财务",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1510",
+      "name": "创新创业法律实务",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1512",
+      "name": "创新创业团队管理",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1513",
+      "name": "职业生涯发展与规划",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1515",
+      "name": "双创表达与沟通",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1516",
+      "name": "从科技创新到创业",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1517",
+      "name": "技术商业化常识",
+      "has_resources": false
+    },
+    {
+      "code": "INEE1518",
+      "name": "科创起步--从创意到创业",
+      "has_resources": false
+    },
+    {
+      "code": "IS1901",
+      "name": "信息安全的艺术",
+      "has_resources": false
+    },
+    {
+      "code": "IS3001",
+      "name": "机器学习及其安全应用",
+      "has_resources": false
+    },
+    {
+      "code": "IS3002",
+      "name": "复杂系统分析",
+      "has_resources": false
+    },
+    {
+      "code": "IS3003",
+      "name": "密码工程原理与实践",
+      "has_resources": true
+    },
+    {
+      "code": "IS3004",
+      "name": "数据建模与分析基础",
+      "has_resources": false
+    },
+    {
+      "code": "IS3005",
+      "name": "网络安全设计与实践",
+      "has_resources": false
+    },
+    {
+      "code": "IS3006",
+      "name": "信息安全设计与实践",
+      "has_resources": false
+    },
+    {
+      "code": "IS4006",
+      "name": "网络安全基础实践",
+      "has_resources": false
+    },
+    {
+      "code": "LAW1501",
+      "name": "例说民法",
+      "has_resources": false
+    },
+    {
+      "code": "MARX1005",
+      "name": "思想政治理论课实践",
+      "has_resources": false
+    },
+    {
+      "code": "MARX1006",
+      "name": "形势与政策(讲座)",
+      "has_resources": false
+    },
+    {
+      "code": "MARX1010",
+      "name": "中国近现代史纲要",
+      "has_resources": true
+    },
+    {
+      "code": "MARX1011",
+      "name": "马克思主义基本原理",
+      "has_resources": true
+    },
+    {
+      "code": "MARX1012",
+      "name": "思想道德与法治",
+      "has_resources": true
+    },
+    {
+      "code": "MARX1013",
+      "name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "has_resources": true
+    },
+    {
+      "code": "MARX1014",
+      "name": "习近平新时代中国特色社会主义思想概论",
+      "has_resources": true
+    },
+    {
+      "code": "MARX1501M",
+      "name": "社会主义发展史",
+      "has_resources": false
+    },
+    {
+      "code": "MARX1502M",
+      "name": "新中国史",
+      "has_resources": false
+    },
+    {
+      "code": "MARX1503",
+      "name": "改革开放史",
+      "has_resources": false
+    },
+    {
+      "code": "MATH1001",
+      "name": "数学分析(A1)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1002",
+      "name": "数学分析(A2)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1003",
+      "name": "数学分析(A3)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1004",
+      "name": "线性代数(A1)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1005",
+      "name": "线性代数(A2)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1006",
+      "name": "数学分析(B1)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1007",
+      "name": "数学分析(B2)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1008",
+      "name": "数学分析(B3)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1009",
+      "name": "线性代数(B1)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1010",
+      "name": "线性代数(B2)",
+      "has_resources": true
+    },
+    {
+      "code": "MATH1011",
+      "name": "微积分I",
+      "has_resources": false
+    },
+    {
+      "code": "MATH1012",
+      "name": "微积分II",
+      "has_resources": false
+    },
+    {
+      "code": "MATH1013",
+      "name": "微积分III",
+      "has_resources": false
+    },
+    {
+      "code": "MATH2001",
+      "name": "计算方法",
+      "has_resources": true
+    },
+    {
+      "code": "MATH2003",
+      "name": "几何学基础",
+      "has_resources": true
+    },
+    {
+      "code": "MATH2004",
+      "name": "代数学基础",
+      "has_resources": true
+    },
+    {
+      "code": "MATH2501",
+      "name": "复变函数(化学)",
+      "has_resources": false
+    },
+    {
+      "code": "MATH2502",
+      "name": "微分方程概论",
+      "has_resources": false
+    },
+    {
+      "code": "MATH2801",
+      "name": "数学强基讨论班I",
+      "has_resources": false
+    },
+    {
+      "code": "MATH2802",
+      "name": "数学强基讨论班II",
+      "has_resources": false
+    },
+    {
+      "code": "MATH3001",
+      "name": "近世代数",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3002",
+      "name": "实分析",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3003",
+      "name": "拓扑学",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3004",
+      "name": "泛函分析",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3005",
+      "name": "数理统计",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3006",
+      "name": "应用随机过程",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3007",
+      "name": "概率论",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3008",
+      "name": "复分析",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3009",
+      "name": "微分几何",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3010",
+      "name": "组合学",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3011",
+      "name": "运筹学",
+      "has_resources": true
+    },
+    {
+      "code": "MATH3013",
+      "name": "概率论进阶",
+      "has_resources": false
+    },
+    {
+      "code": "MATH3014",
+      "name": "数值分析进阶",
+      "has_resources": false
+    },
+    {
+      "code": "MATH3015",
+      "name": "组合学进阶",
+      "has_resources": false
+    },
+    {
+      "code": "MATH3016",
+      "name": "数理统计进阶",
+      "has_resources": false
+    },
+    {
+      "code": "MATH3701",
+      "name": "华罗庚讨论班(H)",
+      "has_resources": false
+    },
+    {
+      "code": "MATH3702e",
+      "name": "复分析(H)(英)",
+      "has_resources": false
+    },
+    {
+      "code": "MATH4001",
+      "name": "回归分析",
+      "has_resources": true
+    },
+    {
+      "code": "MATH4002",
+      "name": "算法基础",
+      "has_resources": true
+    },
+    {
+      "code": "MATH4003",
+      "name": "数学前沿课程",
+      "has_resources": false
+    },
+    {
+      "code": "MATH4004",
+      "name": "现代概率方法导论",
+      "has_resources": false
+    },
+    {
+      "code": "ME1501",
+      "name": "机器人设计与制作",
+      "has_resources": false
+    },
+    {
+      "code": "ME1504",
+      "name": "现代汽车与文化",
+      "has_resources": false
+    },
+    {
+      "code": "ME1901",
+      "name": "节能减排创新实践",
+      "has_resources": false
+    },
+    {
+      "code": "ME2001",
+      "name": "机械设计与制造综合实验I",
+      "has_resources": false
+    },
+    {
+      "code": "ME2002",
+      "name": "机械设计与制造综合实验II",
+      "has_resources": false
+    },
+    {
+      "code": "ME2003",
+      "name": "测控技术及仪器综合实验I",
+      "has_resources": false
+    },
+    {
+      "code": "ME2004",
+      "name": "测控技术及仪器综合实验II",
+      "has_resources": false
+    },
+    {
+      "code": "ME2005",
+      "name": "机械设计基础I",
+      "has_resources": false
+    },
+    {
+      "code": "ME2006",
+      "name": "理论力学B",
+      "has_resources": false
+    },
+    {
+      "code": "ME2007",
+      "name": "工程力学实验",
+      "has_resources": false
+    },
+    {
+      "code": "ME2008",
+      "name": "应用化学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME2009",
+      "name": "实验力学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME2010",
+      "name": "材料力学A",
+      "has_resources": false
+    },
+    {
+      "code": "ME2011",
+      "name": "电工电子技术基础I",
+      "has_resources": false
+    },
+    {
+      "code": "ME2012",
+      "name": "工程计算方法",
+      "has_resources": false
+    },
+    {
+      "code": "ME2013",
+      "name": "统计热力学",
+      "has_resources": false
+    },
+    {
+      "code": "ME2014",
+      "name": "电工电子技术基础II",
+      "has_resources": false
+    },
+    {
+      "code": "ME2015",
+      "name": "工程材料及成型技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME2016",
+      "name": "生产实习A",
+      "has_resources": false
+    },
+    {
+      "code": "ME2017",
+      "name": "机器人学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME2501",
+      "name": "材料力学B",
+      "has_resources": false
+    },
+    {
+      "code": "ME2503",
+      "name": "先进制造实践",
+      "has_resources": false
+    },
+    {
+      "code": "ME3001",
+      "name": "传热学A",
+      "has_resources": false
+    },
+    {
+      "code": "ME3002",
+      "name": "燃烧学A",
+      "has_resources": false
+    },
+    {
+      "code": "ME3003",
+      "name": "火灾学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME3004",
+      "name": "计算热物理(1)",
+      "has_resources": false
+    },
+    {
+      "code": "ME3005",
+      "name": "燃烧学B",
+      "has_resources": false
+    },
+    {
+      "code": "ME3006",
+      "name": "工程光学I",
+      "has_resources": false
+    },
+    {
+      "code": "ME3007",
+      "name": "动力学与控制",
+      "has_resources": false
+    },
+    {
+      "code": "ME3008",
+      "name": "机械设计基础II",
+      "has_resources": false
+    },
+    {
+      "code": "ME3009",
+      "name": "机械设计基础III",
+      "has_resources": false
+    },
+    {
+      "code": "ME3010",
+      "name": "仪器电路及系统",
+      "has_resources": false
+    },
+    {
+      "code": "ME3011",
+      "name": "机械制造技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME3013",
+      "name": "机器人传感与控制综合实验I",
+      "has_resources": false
+    },
+    {
+      "code": "ME4001",
+      "name": "湍流基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME4002",
+      "name": "航空航天概论",
+      "has_resources": false
+    },
+    {
+      "code": "ME4003",
+      "name": "连续介质力学概论",
+      "has_resources": false
+    },
+    {
+      "code": "ME4004",
+      "name": "应急管理概论",
+      "has_resources": false
+    },
+    {
+      "code": "ME4005",
+      "name": "工业防火与防爆",
+      "has_resources": false
+    },
+    {
+      "code": "ME4006",
+      "name": "火灾调查与事故分析",
+      "has_resources": false
+    },
+    {
+      "code": "ME4007",
+      "name": "热灾害实验诊断方法",
+      "has_resources": false
+    },
+    {
+      "code": "ME4008",
+      "name": "安全检测技术",
+      "has_resources": false
+    },
+    {
+      "code": "ME4009",
+      "name": "基础力学进阶",
+      "has_resources": false
+    },
+    {
+      "code": "ME4011",
+      "name": "振动理论",
+      "has_resources": false
+    },
+    {
+      "code": "ME4012",
+      "name": "材料科学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME4013",
+      "name": "渗流力学",
+      "has_resources": false
+    },
+    {
+      "code": "ME4014",
+      "name": "爆炸力学基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME4016",
+      "name": "机电控制系统设计及实践",
+      "has_resources": false
+    },
+    {
+      "code": "ME4017",
+      "name": "制冷原理与设备",
+      "has_resources": false
+    },
+    {
+      "code": "ME4019",
+      "name": "新能源材料与器件",
+      "has_resources": false
+    },
+    {
+      "code": "ME4020",
+      "name": "黏性流体力学",
+      "has_resources": false
+    },
+    {
+      "code": "ME4021",
+      "name": "测控系统设计及实践",
+      "has_resources": false
+    },
+    {
+      "code": "ME4022",
+      "name": "太阳能热利用技术原理",
+      "has_resources": false
+    },
+    {
+      "code": "ME4024",
+      "name": "热超材料基础",
+      "has_resources": false
+    },
+    {
+      "code": "ME4025",
+      "name": "航空发动机原理",
+      "has_resources": false
+    },
+    {
+      "code": "ME4031",
+      "name": "数智力学",
+      "has_resources": false
+    },
+    {
+      "code": "ME4034",
+      "name": "航空航天热物理基础与应用",
+      "has_resources": false
+    },
+    {
+      "code": "ME4502",
+      "name": "工程流体力学",
+      "has_resources": false
+    },
+    {
+      "code": "ME4701",
+      "name": "力学工程问题",
+      "has_resources": false
+    },
+    {
+      "code": "MED1501",
+      "name": "生物微机电系统概论",
+      "has_resources": false
+    },
+    {
+      "code": "MED1502",
+      "name": "人体结构、功能与疾病",
+      "has_resources": true
+    },
+    {
+      "code": "MED1503G",
+      "name": "源于动物的人类疫病",
+      "has_resources": false
+    },
+    {
+      "code": "MED1504",
+      "name": "工作器官-人体生理实验",
+      "has_resources": false
+    },
+    {
+      "code": "MED1505",
+      "name": "生理与健康",
+      "has_resources": false
+    },
+    {
+      "code": "MED1506",
+      "name": "美食时代的代价：肥胖、免疫与现代健康",
+      "has_resources": false
+    },
+    {
+      "code": "MED2001",
+      "name": "病理生理学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2002",
+      "name": "药理学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2003",
+      "name": "生理学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2004",
+      "name": "医学生物化学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2005",
+      "name": "医学分子生物学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2006",
+      "name": "预防医学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2007",
+      "name": "医学统计学",
+      "has_resources": false
+    },
+    {
+      "code": "MED2008",
+      "name": "医患沟通",
+      "has_resources": false
+    },
+    {
+      "code": "MED3009",
+      "name": "麻醉学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3010",
+      "name": "急诊医学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3011",
+      "name": "神经系统疾病",
+      "has_resources": false
+    },
+    {
+      "code": "MED3012",
+      "name": "泌尿系统疾病",
+      "has_resources": false
+    },
+    {
+      "code": "MED3013",
+      "name": "妇产科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3014",
+      "name": "口腔科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3015",
+      "name": "眼科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3016",
+      "name": "耳鼻咽喉头颈外科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3017",
+      "name": "皮肤性病学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3019",
+      "name": "诊断学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3020",
+      "name": "外科学总论",
+      "has_resources": false
+    },
+    {
+      "code": "MED3022",
+      "name": "儿科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3024",
+      "name": "精神病学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3025",
+      "name": "临床实习",
+      "has_resources": false
+    },
+    {
+      "code": "MED3026",
+      "name": "内科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3027",
+      "name": "外科学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3028",
+      "name": "传染病学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3029",
+      "name": "医学影像学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3030",
+      "name": "中医学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3031",
+      "name": "全科医学",
+      "has_resources": false
+    },
+    {
+      "code": "MED3032",
+      "name": "早期临床接触Ⅰ",
+      "has_resources": false
+    },
+    {
+      "code": "MED3033",
+      "name": "早期临床接触Ⅱ",
+      "has_resources": false
+    },
+    {
+      "code": "MIL1001",
+      "name": "军事理论",
+      "has_resources": true
+    },
+    {
+      "code": "MIL1002",
+      "name": "军事技能",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC1502",
+      "name": "数据之美：数据驱动的决策与创新",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC1503",
+      "name": "管理逻辑",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC1504",
+      "name": "未来城市",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC1505",
+      "name": "社会系统运作：组织与博弈",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC1506",
+      "name": "数智时代的批判性思维",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC1901",
+      "name": "应急管理与运作",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC2001",
+      "name": "博弈论基础",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC2002",
+      "name": "运筹学I：基础",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC2003",
+      "name": "运筹学II：应用模型与方法",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3001",
+      "name": "运营管理",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3002",
+      "name": "管理学导论",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3003",
+      "name": "运筹学III：高级算法",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3004",
+      "name": "行为经济学",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3006",
+      "name": "系统分析、设计与实践",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3007",
+      "name": "商业实验与策略模拟",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3008",
+      "name": "数据分析编程基础",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3009",
+      "name": "大数据智能分析理论与方法",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3010",
+      "name": "智能优化系统分析",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3011",
+      "name": "大数据管理方法与应用",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC3014",
+      "name": "数字经济",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4002",
+      "name": "信息系统项目管理",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4004",
+      "name": "社交媒体分析",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4005",
+      "name": "数字化战略与创新",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4006",
+      "name": "商务数据分析与应用",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4007",
+      "name": "供应链金融A",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4008",
+      "name": "AI大模型原理与应用",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4009",
+      "name": "数据安全",
+      "has_resources": false
+    },
+    {
+      "code": "MNSC4010",
+      "name": "市场分析与决策",
+      "has_resources": false
+    },
+    {
+      "code": "MSE4000",
+      "name": "计算材料学实验",
+      "has_resources": false
+    },
+    {
+      "code": "NNM1501",
+      "name": "VR/AR/MR技术创意设计与应用",
+      "has_resources": false
+    },
+    {
+      "code": "NNM1503",
+      "name": "网络直播理论与实践",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2001",
+      "name": "媒介经济学",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2002",
+      "name": "人际传播学",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2003",
+      "name": "新媒体与网络传播",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2004",
+      "name": "人机交互传播",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2005",
+      "name": "传播学研究方法",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2006",
+      "name": "网络社会学",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2007",
+      "name": "网络编辑",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2008",
+      "name": "新媒体广告",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2009",
+      "name": "专业写作",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2010",
+      "name": "大众传播理论",
+      "has_resources": false
+    },
+    {
+      "code": "NNM2012",
+      "name": "新媒体大数据分析",
+      "has_resources": false
+    },
+    {
+      "code": "NNM3001",
+      "name": "沉浸式媒体：VR/AR/MR",
+      "has_resources": false
+    },
+    {
+      "code": "NNM3002",
+      "name": "创新媒体设计",
+      "has_resources": false
+    },
+    {
+      "code": "NNM3003",
+      "name": "计算传播学",
+      "has_resources": false
+    },
+    {
+      "code": "NNM3004",
+      "name": "科学传播导论",
+      "has_resources": false
+    },
+    {
+      "code": "NNM3005",
+      "name": "数字创意设计与经营",
+      "has_resources": false
+    },
+    {
+      "code": "NNM4001",
+      "name": "微电影创意与制作",
+      "has_resources": false
+    },
+    {
+      "code": "NNM4002",
+      "name": "可视化设计与开发",
+      "has_resources": false
+    },
+    {
+      "code": "NNM4003",
+      "name": "网络公共关系",
+      "has_resources": false
+    },
+    {
+      "code": "NNM4005",
+      "name": "交互式叙事",
+      "has_resources": false
+    },
+    {
+      "code": "NSE2001",
+      "name": "大科学工程前沿讲坛",
+      "has_resources": false
+    },
+    {
+      "code": "NSE2002",
+      "name": "传热学B",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3001",
+      "name": "辐射防护",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3002",
+      "name": "工程物理及其方法概论",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3006",
+      "name": "反应堆物理",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3007",
+      "name": "嵌入式系统与接口",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3008",
+      "name": "嵌入式系统与接口实验",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3009",
+      "name": "工程物理专业基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3010",
+      "name": "加速器概论",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3011",
+      "name": "核工程基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "NSE3013",
+      "name": "辐射与放射分析化学",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4003",
+      "name": "核工程与技术前沿",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4006",
+      "name": "现代X光物理原理",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4007",
+      "name": "等离子体数值模拟",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4008",
+      "name": "光子科学前沿进展",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4009",
+      "name": "加速器理论基础",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4010",
+      "name": "纳米科学与技术",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4011",
+      "name": "探测器原理",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4014",
+      "name": "放射分析化学",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4015",
+      "name": "放射与辐射化学实验",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4018",
+      "name": "放射性药物化学",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4019",
+      "name": "科学仪器实验",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4020",
+      "name": "射频技术基础",
+      "has_resources": false
+    },
+    {
+      "code": "NSE4021",
+      "name": "先进光源实验方法",
+      "has_resources": false
+    },
+    {
+      "code": "PE00001",
+      "name": "基础体育",
+      "has_resources": false
+    },
+    {
+      "code": "PE00101",
+      "name": "篮球I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00102",
+      "name": "篮球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00103",
+      "name": "排球I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00104",
+      "name": "排球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00105",
+      "name": "足球I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00106",
+      "name": "足球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00107",
+      "name": "乒乓球I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00108",
+      "name": "乒乓球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00109",
+      "name": "羽毛球I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00110",
+      "name": "羽毛球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00111",
+      "name": "健美I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00112",
+      "name": "健美II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00113",
+      "name": "健美操I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00114",
+      "name": "健美操II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00115",
+      "name": "网球I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00116",
+      "name": "网球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00117",
+      "name": "养生(1)",
+      "has_resources": false
+    },
+    {
+      "code": "PE00118",
+      "name": "养生(2)",
+      "has_resources": false
+    },
+    {
+      "code": "PE00119",
+      "name": "体适能I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00120",
+      "name": "体适能II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00122",
+      "name": "手球II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00124",
+      "name": "野外生存II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00125w",
+      "name": "跆拳道I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00126w",
+      "name": "跆拳道II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00127",
+      "name": "游泳",
+      "has_resources": false
+    },
+    {
+      "code": "PE00128w",
+      "name": "拳击I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00129w",
+      "name": "拳击II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00130w",
+      "name": "散打I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00131w",
+      "name": "散打II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00132",
+      "name": "瑜伽I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00133",
+      "name": "瑜伽II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00139",
+      "name": "拓展训练II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00140",
+      "name": "武术I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00141",
+      "name": "武术II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00145",
+      "name": "自卫防身术I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00146",
+      "name": "自卫防身术II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00148",
+      "name": "龙狮运动I",
+      "has_resources": false
+    },
+    {
+      "code": "PE00149",
+      "name": "龙狮运动II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00155",
+      "name": "花样滑冰II",
+      "has_resources": false
+    },
+    {
+      "code": "PE00157",
+      "name": "匹克球ll",
+      "has_resources": false
+    },
+    {
+      "code": "PE00527",
+      "name": "极限飞盘(专训)",
+      "has_resources": false
+    },
+    {
+      "code": "PE00528",
+      "name": "野战运动(专训)",
+      "has_resources": false
+    },
+    {
+      "code": "PE00530",
+      "name": "自行车(专训)",
+      "has_resources": false
+    },
+    {
+      "code": "PE00531",
+      "name": "台球(专训)",
+      "has_resources": false
+    },
+    {
+      "code": "PE00532",
+      "name": "越野滑雪（专训）",
+      "has_resources": false
+    },
+    {
+      "code": "PE1501",
+      "name": "传统健身",
+      "has_resources": false
+    },
+    {
+      "code": "PE1502",
+      "name": "桥牌基础讲座与技巧",
+      "has_resources": false
+    },
+    {
+      "code": "PE1901",
+      "name": "篮球文化与经典比赛赏析",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1001A",
+      "name": "力学A",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1001AL",
+      "name": "力学A(L)",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1001B",
+      "name": "力学B",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1001H",
+      "name": "力学(H)",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1002A",
+      "name": "热学A",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1002B",
+      "name": "热学B",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1003A",
+      "name": "光学A",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1003B",
+      "name": "光学B",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1004A",
+      "name": "电磁学A",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1004B",
+      "name": "电磁学B",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1004C",
+      "name": "电磁学C",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1004H",
+      "name": "电磁学(H)",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1005A",
+      "name": "原子物理A",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1005B",
+      "name": "原子物理B",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1006",
+      "name": "大学物理I",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1007",
+      "name": "大学物理II",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1008A",
+      "name": "大学物理-基础实验A",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1008B",
+      "name": "大学物理-基础实验B",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS1008B+",
+      "name": "大学物理-基础实验B进阶",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1009A",
+      "name": "大学物理-综合实验A",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1009B",
+      "name": "大学物理-综合实验B",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS1010",
+      "name": "量子物理",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS2501",
+      "name": "电动力学C",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS2701",
+      "name": "物理创新能力提升实验I",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS2702",
+      "name": "物理创新能力提升实验II",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS3001",
+      "name": "激光原理与技术",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS3002",
+      "name": "量子信息科学专业基础实验",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS3003",
+      "name": "量子精密测量",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS3005",
+      "name": "受控热核聚变导论",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4001",
+      "name": "理论物理前沿",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4002",
+      "name": "核与粒子物理导论",
+      "has_resources": true
+    },
+    {
+      "code": "PHYS4003",
+      "name": "粒子物理与原子核物理专业实验",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4004",
+      "name": "自旋量子信息专业实验",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4006",
+      "name": "量子材料与器件",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4007",
+      "name": "物理中的几何相位",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4008",
+      "name": "生物医学光学显微成像",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4009",
+      "name": "量子物理前沿介绍",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4010",
+      "name": "量子计算前沿",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4011",
+      "name": "光量子信息理论与实践",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4012",
+      "name": "量子材料物理导论",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4501",
+      "name": "理论力学C",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4502",
+      "name": "低温等离子体技术与应用",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4701",
+      "name": "物理科研创新实践",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4702",
+      "name": "物理创新能力导引",
+      "has_resources": false
+    },
+    {
+      "code": "PHYS4703",
+      "name": "百年诺奖技术重现及超越",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3001",
+      "name": "行星地质学",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3002",
+      "name": "行星地质学实验",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3003",
+      "name": "行星大气演化",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3004",
+      "name": "行星物质科学",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3005",
+      "name": "行星内部物理",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3006",
+      "name": "天体生物学",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT3007",
+      "name": "行星科学综合实习",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT4001",
+      "name": "系外行星",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT4002",
+      "name": "行星遥感",
+      "has_resources": false
+    },
+    {
+      "code": "PLNT4003",
+      "name": "行星科学研讨课",
+      "has_resources": false
+    },
+    {
+      "code": "STAT2001",
+      "name": "数据思维",
+      "has_resources": false
+    },
+    {
+      "code": "STAT2002",
+      "name": "概率论与数理统计",
+      "has_resources": true
+    },
+    {
+      "code": "STAT3001",
+      "name": "机器学习方法",
+      "has_resources": false
+    },
+    {
+      "code": "STAT3002",
+      "name": "实用统计软件",
+      "has_resources": false
+    },
+    {
+      "code": "STAT3003",
+      "name": "统计算法基础",
+      "has_resources": false
+    },
+    {
+      "code": "STAT4001",
+      "name": "属性数据分析",
+      "has_resources": false
+    },
+    {
+      "code": "STAT4002",
+      "name": "统计研究实践",
+      "has_resources": false
+    },
+    {
+      "code": "WZ003001",
+      "name": "密度泛函理论与实践",
+      "has_resources": false
+    },
+    {
+      "code": "WZ003002",
+      "name": "时间分辨成像方法及其应用",
+      "has_resources": false
+    },
+    {
+      "code": "WZ003003",
+      "name": "谱学理论与方法",
+      "has_resources": false
+    },
+    {
+      "code": "WZ014001",
+      "name": "基于同步辐射的材料表界面分析",
+      "has_resources": false
+    },
+    {
+      "code": "WZ206001M",
+      "name": "人工智能原理与算法",
+      "has_resources": true
+    },
+    {
+      "code": "WZ206002",
+      "name": "数据智能驱动的机器化学家探索",
+      "has_resources": false
+    }
+  ]
+}

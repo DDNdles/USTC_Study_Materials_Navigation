@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "AI1501",
+  "name": "生成式人工智能概述",
+  "kind": "general",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOL4004",
+  "name": "宝石学基础",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

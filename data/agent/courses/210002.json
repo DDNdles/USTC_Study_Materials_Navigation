@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "210002",
+  "name": "操作系统",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

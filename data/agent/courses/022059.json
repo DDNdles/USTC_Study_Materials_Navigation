@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "code": "022059",
+  "name": "量子力学B",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-022059-2026-midterm-c10c8b",
+      "type": "exams",
+      "title": "量子力学 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026秋；单元格：易为 (B)；文件：26FaQMBMidYW.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026秋；单元格：易为 (B)；文件：26FaQMBMidYW.pdf；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26FaQMBMidYW.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022059-2025-final-ed4c21",
+      "type": "exams",
+      "title": "量子力学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：易为 (B)；文件：25FaQMBFinalYW.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：易为 (B)；文件：25FaQMBFinalYW.pdf；卷面/首页学期：2025秋；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaQMBFinalYW.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022059-2025-midterm-afa7b7",
+      "type": "exams",
+      "title": "量子力学 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2025秋；单元格：易为 (B)；文件：25FaQMBMidYW.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2025秋；单元格：易为 (B)；文件：25FaQMBMidYW.pdf；卷面/首页学期：2025秋；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaQMBMidYW.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷"
+  }
+}

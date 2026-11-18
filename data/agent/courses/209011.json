@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "209011",
+  "name": "工程科学实践",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "innovation"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

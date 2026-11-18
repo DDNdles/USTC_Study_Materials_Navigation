@@ -1,0 +1,995 @@
+{
+  "schema_version": 1,
+  "code": "MATH1006",
+  "name": "数学分析(B1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-math1006-exams-379dc1",
+      "type": "exams",
+      "title": "2025数学分析B1期末考试参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2025数学分析B1期末考试参考答案.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025MAB1final.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2025%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2025数学分析B1期末考试参考答案.pdf；文本层编码不可读；抽读前3页（共4页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2025%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025MAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-c6d040",
+      "type": "exams",
+      "title": "2025数学分析B1期中考试参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2025数学分析B1期中考试参考答案.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：期中；文件：2025MAB1mid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2025%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2025数学分析B1期中考试参考答案.pdf；文本层编码不可读；抽读前3页（共4页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2025%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025MAB1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-776a65",
+      "type": "exams",
+      "title": "数分B真题集2025版",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；数分B真题集2025版.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%88%86B%E7%9C%9F%E9%A2%98%E9%9B%862025%E7%89%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；数分B真题集2025版.pdf；文本层可读；抽读前3页（共101页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%88%86B%E7%9C%9F%E9%A2%98%E9%9B%862025%E7%89%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-e7883d",
+      "type": "exams",
+      "title": "2024数学分析B1期末考试参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2024数学分析B1期末考试参考答案.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2024%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2024数学分析B1期末考试参考答案.pdf；文本层编码不可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2024%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-4debfc",
+      "type": "exams",
+      "title": "2024数学分析B1期中考试参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2024数学分析B1期中考试参考答案.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：期中；文件：2024MAB1mid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2024%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2024数学分析B1期中考试参考答案.pdf；文本层编码不可读；抽读前3页（共4页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2024%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024MAB1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1006-2024-final-5790a2",
+      "type": "exams",
+      "title": "数学分析B1 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：期末；文件：2024MAB1final.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：期末；文件：2024MAB1final.pdf；文本层编码不可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024MAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-ef8c66",
+      "type": "exams",
+      "title": "2023秋数学分析B1期末参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2023秋数学分析B1期末参考答案.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：期末；文件：2023MAB1final.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2023%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2023秋数学分析B1期末参考答案.pdf；文本层编码不可读；抽读前3页（共4页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2023%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023MAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-41825e",
+      "type": "exams",
+      "title": "2023秋数学分析B1期中参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2023秋数学分析B1期中参考答案.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2023%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2023秋数学分析B1期中参考答案.pdf；文本层编码不可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2023%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90B1%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1006-2023-midterm-113679",
+      "type": "exams",
+      "title": "数学分析B1 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：期中；文件：2023MAB1mid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：期中；文件：2023MAB1mid.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023MAB1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-0f2f72",
+      "type": "exams",
+      "title": "2022秋数学分析(B1)期末考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2022秋数学分析(B1)期末考试解析与评分细则.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2022%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2022秋数学分析(B1)期末考试解析与评分细则.pdf；卷面/首页学期：2022—2023学年第一学期；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2022%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-0b49a0",
+      "type": "exams",
+      "title": "2022秋数学分析(B1)期中考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2022秋数学分析(B1)期中考试解析与评分细则.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2022%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2022秋数学分析(B1)期中考试解析与评分细则.pdf；首页可见日期 2022年11月；年份按首页考试日期 2022年11月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2022%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-2d6c5f",
+      "type": "exams",
+      "title": "2021秋数学分析(B1)期末参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2021秋数学分析(B1)期末参考答案.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2021秋数学分析(B1)期末参考答案.pdf；文本层编码不可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-cc8ebb",
+      "type": "exams",
+      "title": "2021秋数学分析(B1)期中参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2021秋数学分析(B1)期中参考答案.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2021秋数学分析(B1)期中参考答案.pdf；文本层编码不可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-132f26",
+      "type": "exams",
+      "title": "2020秋数学分析(B1)期末参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2020秋数学分析(B1)期末参考答案.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2020秋数学分析(B1)期末参考答案.pdf；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-3a562b",
+      "type": "exams",
+      "title": "2019 秋数学分析(B1)期中考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2020秋数学分析(B1)期中考试解析与评分细则.pdf；文件页核验；卷面考试日期2019-11-16，学年2019—2020第一学期；文件名“2020秋”为上传标注，不按其填年份；含解析。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88",
+        "note": "共9页；第1页封面写明“中国科学技术大学2019~2020学年第一学期 数学分析(B1) 期中考试 2019年11月16日”；文件名“2020秋”与卷面日期不一致，按卷面记2019；含解析与评分细则。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-9f734c",
+      "type": "exams",
+      "title": "2019秋数学分析(B1)期末考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2019秋数学分析(B1)期末考试解析与评分细则.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2019秋数学分析(B1)期末考试解析与评分细则.pdf；无文本层（扫描件）；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-68c10c",
+      "type": "exams",
+      "title": "2018秋数学分析(B1)期末参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2018秋数学分析(B1)期末参考答案.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2018秋数学分析(B1)期末参考答案.pdf；文本层编码不可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-aa15a9",
+      "type": "exams",
+      "title": "2018秋数学分析(B1)期中考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2018秋数学分析(B1)期中考试解析与评分细则.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2018秋数学分析(B1)期中考试解析与评分细则.pdf；卷面/首页学期：2018—2019学年第一学期；首页可见日期 2018年11月；年份按首页考试日期 2018年11月；文本层编码不可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-252768",
+      "type": "exams",
+      "title": "2017秋数学分析(B1)期末考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2017秋数学分析(B1)期末考试解析与评分细则.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2017-2022；单元格：17期末；文件：2017MAB1final.pdf",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2017%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2017秋数学分析(B1)期末考试解析与评分细则.pdf；文本层编码不可读；抽读前3页（共6页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2017%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2017MAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-1f40ce",
+      "type": "exams",
+      "title": "2017秋数学分析(B1)期中参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2017秋数学分析(B1)期中参考答案.pdf",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2017%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2017秋数学分析(B1)期中参考答案.pdf；文本层编码不可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2017%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-21a6ec",
+      "type": "exams",
+      "title": "2019秋数学分析(B1)期中考试解析与评分细则",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；2019秋数学分析(B1)期中考试解析与评分细则.pdf；目录：数学类/数学分析/数学分析(B1)真题答案；2020秋数学分析(B1)期中考试解析与评分细则.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；2019秋数学分析(B1)期中考试解析与评分细则.pdf；卷面/首页学期：2019—2020学年第一学期；来源标注年份不一致且无公历考试日期，年份留空；文本层可读；抽读前3页（共9页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-b933f7",
+      "type": "exams",
+      "title": "数学分析(B)历年真题",
+      "authors": [],
+      "notes": "目录：数学类/数学分析；数学分析(B)历年真题.pdf；文件页核验；77页合集，B1/B2/B3 多套试题；按合集记多课、mixed；无答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2003-2004",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2011-2012",
+          "2012-2013",
+          "2013-2014",
+          "2015-2016",
+          "2016-2017",
+          "2017-2018",
+          "2018-2019",
+          "2019-2020",
+          "2020-2021"
+        ],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90",
+        "note": "共77页；抽读封面、目录第v—vi页与B1第1部分；目录分 B1/B2，并注明另提供一套 B3 期中；含测试/期中/期末，无答案；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-1da05d",
+      "type": "exams",
+      "title": "数学分析(B1)历年真题压轴题及答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；数学分析(B1)历年真题压轴题及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8E%8B%E8%BD%B4%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；数学分析(B1)历年真题压轴题及答案.pdf；无明确年份信息，年份留空；含多个年份/合集，未逐一确认年份；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8E%8B%E8%BD%B4%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-exams-3bf400",
+      "type": "exams",
+      "title": "数学分析(B1)历年真题sxl答案",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B1)真题答案；数学分析(B1)历年真题sxl答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数学分析/数学分析(B1)真题答案；数学分析(B1)历年真题sxl答案.pdf；无明确年份信息，年份留空；含多个年份/合集，未逐一确认年份；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1006-ny-final-2fcdad",
+      "type": "exams",
+      "title": "数学分析B1  期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2017-2022；单元格：17-22压缩包；文件：MAB1exams.zip",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2017-2022；单元格：17-22压缩包；文件：MAB1exams.zip；无明确年份信息，年份留空；含多个年份/合集，未逐一确认年份；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/MAB1exams.zip",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1006-2016-quiz-c5b293",
+      "type": "homework",
+      "title": "数学分析B1 2016 小测",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2016；单元格：小测；文件：2016MAB1test.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2016；单元格：小测；文件：2016MAB1test.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2016MAB1test.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-study-13fa9d",
+      "type": "study",
+      "title": "第1-3章复习提纲",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B)提纲及习题课讲义；第1-3章复习提纲.pdf；文件页核验；第1—3章提纲；章号与同目录 B1（1—7章）/B2（11—13章）范围对应；正文编码不可读，未逐字校对。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89",
+        "note": "第1—3章复习提纲；共读首页及目录行；正文为繁/编码字体，未逐字校对；按章号与同目录 B1/B2 讲义范围对应。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC1-3%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-study-4d36b8",
+      "type": "study",
+      "title": "第4-7章复习提纲",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B)提纲及习题课讲义；第4-7章复习提纲.pdf；文件页核验；第4—7章提纲；章号与同目录 B1（1—7章）/B2（11—13章）范围对应；正文编码不可读，未逐字校对。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89",
+        "note": "第4—7章复习提纲；共读首页及目录行；正文为繁/编码字体，未逐字校对；按章号与同目录 B1/B2 讲义范围对应。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC4-7%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-study-4fbb75",
+      "type": "study",
+      "title": "数学分析(B1)笔记",
+      "authors": [],
+      "notes": "目录：数学类/数学分析；数学分析(B1)笔记.pdf；文件页核验；共22页；首页水印为“我的科大 2021级 少年班学院 孙旭磊”；文件名/目录确认 B1 笔记；正文为图片层，未 OCR。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90",
+        "note": "PDF 共22页；前3页仅“资料来源：我的科大 2021级 少年班学院 孙旭磊”水印与页码，无文字层正文；文件名/目录明确为 B1 笔记，正文未 OCR。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1006-lectures-d6981d",
+      "type": "study",
+      "title": "数学分析(B1)习题课讲义",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(B)提纲及习题课讲义；数学分析(B1)习题课讲义.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf",
+        "note": "文件：数学分析(B1)习题课讲义.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

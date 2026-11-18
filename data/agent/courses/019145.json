@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "019145",
+  "name": "结晶化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

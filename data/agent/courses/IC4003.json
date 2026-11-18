@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "IC4003",
+  "name": "集成电路制造设备导论",
+  "kind": "professional",
+  "tags": [
+    "ic",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE3502",
+  "name": "机器学习B",
+  "kind": "professional",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "code": "CS4012",
+  "name": "运筹学基础",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "management",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-cs4012-operationsresearch2026s-md",
+      "type": "exams",
+      "title": "运筹学基础 2026 春回忆版（顾乃杰、黄章进班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OperationsResearch2026S.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OperationsResearch2026S.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OperationsResearch2026S.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs4012-operationsresearch2025s-md",
+      "type": "exams",
+      "title": "运筹学基础 2025 春回忆版（顾乃杰、黄章进班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OperationsResearch2025S.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OperationsResearch2025S.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OperationsResearch2025S.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-cs4012-exams-5d6354",
+      "type": "exams",
+      "title": "运筹学基础2025期末（3页图片）",
+      "authors": [],
+      "notes": "目录：数学类/运筹学基础；运筹学基础2025期末-1/2/3.jpg；文件页核验；3张图片为同一套试卷，卷头确认2024—2025学年第2学期运筹学基础；无答案。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+        "note": "3张图片同一套试卷；第1页卷头“2024—2025学年第2学期考试试卷 考试科目：运筹学基础”，共3页；第3页版式为横向；无答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%802025%E6%9C%9F%E6%9C%AB-1.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%802025%E6%9C%9F%E6%9C%AB-2.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%802025%E6%9C%9F%E6%9C%AB-3.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-cs-resources-cs4012-2020",
+      "type": "exams",
+      "title": "运筹学基础 2020 春期末试卷（回忆）",
+      "authors": [
+        "Hank Wang",
+        "USTC-CS-Course-Resource/USTC-CS-Resources"
+      ],
+      "notes": "PDF 首页“2020年春运筹学基础期末试卷／Hank Wang 回忆”，故 form=recollection；课程名与目录一致，归 CS4012。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/2020%E6%98%A5%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面明确期末与回忆来源；未含答案。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-cs-resources",
+          "page_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/2020%E6%98%A5%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80/2020%E6%98%A5%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭",
+          "attribution": "USTC-CS-Course-Resource/USTC-CS-Resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-gh-ustc-course-plus-cs4012",
+      "type": "homework",
+      "title": "运筹学基础 作业与实验（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "36 个文件（tree 实际读取）；目录 运筹学基础",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-cs4012",
+      "type": "study",
+      "title": "运筹学基础 课件（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "26 个文件（tree 实际读取）；目录 大二下/运筹学基础",
+      "coverage": {
+        "years": [
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "gh-kobe972": "Kobe972/ustc_course_plus",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

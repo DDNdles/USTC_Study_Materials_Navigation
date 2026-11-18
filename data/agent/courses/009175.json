@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "009175",
+  "name": "传感器及测试技术",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

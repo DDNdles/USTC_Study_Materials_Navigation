@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "code": "019173",
+  "name": "有机结构分析",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "instruments"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019173-openbook",
+      "type": "study",
+      "title": "有机结构分析 开卷考试资料",
+      "authors": [],
+      "notes": "评课社区课程页点评附件，供开卷考试使用的整理资料；未标注年份。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13562/",
+        "note": "未标注适用学期。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13562/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 13562，文件“有机结构分析开卷资料.pdf”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
+}

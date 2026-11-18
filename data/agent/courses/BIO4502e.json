@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BIO4502e",
+  "name": "计算神经科学(英)",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

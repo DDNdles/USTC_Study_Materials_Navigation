@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MNSC3002",
+  "name": "管理学导论",
+  "kind": "professional",
+  "tags": [
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

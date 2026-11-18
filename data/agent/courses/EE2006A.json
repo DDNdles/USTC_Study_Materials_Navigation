@@ -1,0 +1,1201 @@
+{
+  "schema_version": 1,
+  "code": "EE2006A",
+  "name": "信号与系统A",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-ee2006a-7e7c8b3f",
+      "type": "exams",
+      "title": "信号与系统A 2011—2012学年（公历年份未确认） 期末",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（611336 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2011-2012%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 611336 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2011-2012%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2011-2012%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2011-2012%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2011-2012%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-963eafe2",
+      "type": "exams",
+      "title": "信号与系统A 2015—2016学年（公历年份未确认） 期末",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（228030 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 228030 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-b449d31d",
+      "type": "exams",
+      "title": "信号与系统A 2015—2016学年（公历年份未确认） 期末（答案）",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（798296 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：有。 feixu 同名文件 798296 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-2385aac6",
+      "type": "exams",
+      "title": "信号与系统A 2015—2016学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 卷面证据：学年2015-2016；期末；科目信号与系统；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-f4523186",
+      "type": "exams",
+      "title": "信号与系统A 2015—2016学年（公历年份未确认） 期末（原卷）（答案）",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 卷面证据：学年2015-2016；期末；科目信号与系统；解答：有。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-3b8121c8",
+      "type": "exams",
+      "title": "信号与系统A 2015—2016学年（公历年份未确认） 期中",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（588631 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 588631 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-67f137bb",
+      "type": "exams",
+      "title": "信号与系统A 2016—2017学年（公历年份未确认） 期末",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（203350 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 203350 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-d0720d32",
+      "type": "exams",
+      "title": "信号与系统A 2016—2017学年（公历年份未确认） 期中",
+      "authors": [
+        "Mr-Philo",
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。 feixu 同名文件（768031 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 768031 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952017.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-03c6342f",
+      "type": "exams",
+      "title": "信号与系统A 2016—2017学年（公历年份未确认） 期中（答案）",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（861813 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：有。 feixu 同名文件 861813 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-90d667c3",
+      "type": "exams",
+      "title": "信号与系统A 2017—2018学年（公历年份未确认） 期末",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（305081 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 305081 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-a981e507",
+      "type": "exams",
+      "title": "信号与系统A 2017—2018学年（公历年份未确认） 期末（答案）",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（829391 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88_%E9%99%88%E9%95%9C%E8%88%9F.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：有。 feixu 同名文件 829391 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88_%E9%99%88%E9%95%9C%E8%88%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88_%E9%99%88%E9%95%9C%E8%88%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88_%E9%99%88%E9%95%9C%E8%88%9F.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88_%E9%99%88%E9%95%9C%E8%88%9F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-1d0e21c1",
+      "type": "exams",
+      "title": "信号与系统A 2017—2018学年（公历年份未确认） 期中",
+      "authors": [
+        "Mr-Philo",
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。 feixu 同名文件（1544644 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 1544644 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952018.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-ac34a917",
+      "type": "exams",
+      "title": "信号与系统A 2017—2018学年（公历年份未确认） 期中（答案）",
+      "authors": [
+        "Mr-Philo",
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。 feixu 同名文件（1457409 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：有。 feixu 同名文件 1457409 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952018-%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-cc8eefba",
+      "type": "exams",
+      "title": "信号与系统A 2020—2021学年（公历年份未确认） 期末",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（101945 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 101945 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-677f70a5",
+      "type": "exams",
+      "title": "信号与系统A 2020—2021学年（公历年份未确认） 期中（原卷）",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/2020-2021%E6%9C%9F%E4%B8%AD%E8%80%83.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/2020-2021%E6%9C%9F%E4%B8%AD%E8%80%83.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-a5c18d7c",
+      "type": "exams",
+      "title": "信号与系统A 2021—2022学年（公历年份未确认） 期末",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（707203 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/2021-2022%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。 feixu 同名文件 707203 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E6%9C%AB/2021-2022%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E6%9C%AB/2021-2022%E6%9C%9F%E6%9C%AB%E8%80%83.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/2021-2022%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/2021-2022%E6%9C%9F%E6%9C%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-84aada71",
+      "type": "exams",
+      "title": "信号与系统A 2021—2022学年（公历年份未确认） 期中（原卷）",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（150096 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 卷面证据：年份2022；期中；解答：未见/未标。 feixu 同名文件 150096 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-6f722306",
+      "type": "exams",
+      "title": "信号与系统A 2022—2023学年（公历年份未确认） 期中（答案）",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 feixu 同名文件（1953389 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：有。 feixu 同名文件 1953389 字节，与现有来源同大小。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9C%9F%E9%A2%98/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F2022-2023%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%92%8C%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-639269d0",
+      "type": "exams",
+      "title": "信号与系统A 年份未标 试卷",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "ly382965 README明确“信号与系统 A”；同SHA镜像来自6系仓库，归属EE2006A，不挂006502。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-ee2006a-mid-answers",
+      "type": "exams",
+      "title": "信号与系统A 期中考试参考答案（多年份汇编，陈镜舟）",
+      "authors": [
+        "陈镜舟"
+      ],
+      "notes": "Markdown，2023-04-17 最后更新；含未知年份部分答案与 2015—2016 期中答案；作者陈镜舟，说明可结合扫描版答案使用。现有 EE2006A 资源未覆盖 2015—2016 期中答案，故单列答案汇编。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.md",
+        "note": "正文含“未知年份期中试卷答案（部分）”与“2015—2016 期中试卷答案”；非完整单卷，年份不全，未补造。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.md",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E4%B8%AD/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2006a-25016d6e",
+      "type": "exams",
+      "title": "信号与系统A 往年期末试卷合集（8 页）",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。 feixu 同名文件（2027576 字节）与现有来源同大小，合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "feixu 文件 2027576 字节与现有来源同大小；8 页，至少 4 套期末题拼接，首套与 2015—2016 期末卷相同，其余卷头缺学年，不补造年份。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%90%88%E9%9B%86.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%90%88%E9%9B%86.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2006a-a55766fa",
+      "type": "homework",
+      "title": "信号与系统教材习题答案（奥本海姆/徐守时）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "README明确信号与系统A；教材答案PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/Signals%20and%20Systems%20Solutions%EF%BC%88%E5%A5%A5%E6%9C%AC%E6%B5%B7%E5%A7%86%EF%BC%89.pdf",
+        "note": "README明确信号与系统A；教材答案PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Signals%20and%20Systems%20A/Signals%20and%20Systems%20Solutions%EF%BC%88%E5%A5%A5%E6%9C%AC%E6%B5%B7%E5%A7%86%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-study-feixu-ee2006a-final-review",
+      "type": "study",
+      "title": "信号与系统A 期末习题课讲解（2020-06-04）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "32 页习题课讲义，逐题讲解期末题型；两处副本（根目录与「期末」子目录）字节相同（2278062），合并为两个文件入口。现有 EE2006A 正式资源已覆盖同批 6 系试卷；本文件为习题课资料，未印课程代码。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf",
+        "note": "首页“习题课 2020.6.4”；32 页；两处副本字节一致；按现有 EE2006A 6 系资料线归档。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E6%9C%9F%E6%9C%AB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%AE%B2%E8%A7%A3.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-feixu-ee2006a-handwritten",
+      "type": "study",
+      "title": "信号与系统A 手写笔记（第 1、2 册）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "两册手写公式与例题（65 页、64 页）；首页为第 7 周 CFT/DTFT/z 变换公式；无课程代码，按现有 6 系 EE2006A 资料线归档。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%AC%94%E8%AE%B01.pdf",
+        "note": "第 1 册 65 页、第 2 册 64 页；手写公式与例题；无课程代码。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%AC%94%E8%AE%B01.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%AC%94%E8%AE%B01.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%AC%94%E8%AE%B02.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%AC%94%E8%AE%B02.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
+  }
+}

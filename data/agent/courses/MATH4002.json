@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "code": "MATH4002",
+  "name": "算法基础",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-ghweb-math4002-5abeab",
+      "type": "projects",
+      "title": "算法基础 2022SP 实验（陈雪）",
+      "authors": [],
+      "notes": "txtxj/USTC-Algorithm：README 明示“USTC 算法基础 2022SP（陈雪）实验”",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/txtxj/USTC-Algorithm",
+        "note": "README 明示“USTC 算法基础 2022SP（陈雪）实验”"
+      },
+      "locations": [
+        {
+          "source_id": "gh-txtxj-alg",
+          "page_url": "https://github.com/txtxj/USTC-Algorithm",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库许可仅覆盖原创内容；第三方资料权利归原作者",
+          "attribution": "txtxj",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-txtxj-alg": "txtxj/USTC-Algorithm"
+  }
+}

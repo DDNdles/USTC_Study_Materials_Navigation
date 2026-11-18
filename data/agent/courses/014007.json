@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "code": "014007",
+  "name": "固体材料结构基础",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-014007-lectures-2023",
+      "type": "study",
+      "title": "固体材料结构基础 2023 秋季课程讲义（014007.01）",
+      "authors": [
+        "YIXUAN CHE（个人主页整理上传）"
+      ],
+      "notes": "个人主页 StrucMater.html 页头标注 Basic Structures of Solid Materials、014007.01、Fall 2023，并提供 MatStruct.pdf 与 GuideMatStruct.pdf 两份讲义。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~zz0312/StrucMater.html",
+        "note": "页面自标课程号 014007.01 与 Fall 2023。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-yixuanche-home",
+          "page_url": "http://home.ustc.edu.cn/~zz0312/StrucMater.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "学生个人主页公开上传；未声明再分发许可，仅导航原页面，不转存 PDF。",
+          "attribution": "YIXUAN CHE 个人主页：Basic Structures of Solid Materials（014007.01）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-014007-notes",
+      "type": "study",
+      "title": "固体材料结构基础：固体空间群参考资料（space groups for solid）",
+      "authors": [
+        "flimmernz"
+      ],
+      "notes": "README 本科阶段第 2 条明确“固体材料结构基础：space group of solid”，对应根目录 space groups for solid.pdf。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/flimmernz/course-note/blob/main/README.md",
+        "note": "课程归属由 README 明列确认。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-flimmernz",
+          "page_url": "https://github.com/flimmernz/course-note/blob/main/space%20groups%20for%20solid.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @flimmernz：space groups for solid.pdf",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-yixuanche-home": "YIXUAN CHE 个人主页课程页（home.ustc.edu.cn/~zz0312）",
+    "chembio-flimmernz": "flimmernz/course-note（材料系课程笔记与报告）"
+  }
+}

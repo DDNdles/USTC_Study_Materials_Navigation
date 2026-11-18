@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "code": "011119",
+  "name": "人工智能基础",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-011119-artificialintelligence-2023-spring-pdf",
+      "type": "exams",
+      "title": "人工智能基础 2023 春试卷（吉建民班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202023%20Spring.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202023%20Spring.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202023%20Spring.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011119-artificialintelligence-2021-spring-pdf",
+      "type": "exams",
+      "title": "人工智能基础 2021 春试卷（吉建民班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202021%20Spring.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202021%20Spring.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202021%20Spring.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011119-2021",
+      "type": "exams",
+      "title": "人工智能基础 2021 期末试题及参考答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（3个文件）",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.md",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011119-artificialintelligence-2020-spring-pdf",
+      "type": "exams",
+      "title": "人工智能基础 2020 春期末试题（011119，A 卷）",
+      "authors": [
+        "guch8017",
+        "share.feixu.site 投稿者",
+        "USTC-CS-Course-Resource/USTC-CS-Resources"
+      ],
+      "notes": "三处试题文件同为 blob 5da23e3c；已移出 0 个 feixu 参考答案 location，答案另建独立 exams 条目（非官方）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/Artificial-Intelligence/test_paper/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "PDF 卷头：中国科学技术大学 2019～2020 学年第2学期考试试卷，课程名称 人工智能基础，课程代码 011119，A 卷；卷面无公历考试日期，故 years=[]，不把学年猜成 2020；三处试题字节摘要相同。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202020%20Spring.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202020%20Spring.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-cs-resources",
+          "page_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/Artificial-Intelligence/test_paper/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/blob/master/CS/Artificial-Intelligence/test_paper/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭",
+          "attribution": "USTC-CS-Course-Resource/USTC-CS-Resources",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011119-2020-answers",
+      "type": "exams",
+      "title": "人工智能基础 2020 期末试题参考答案（sxl，非官方）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "feixu 独立答案文件，作者自述“不一定对”，非官方；对应 2019～2020 学年第2学期 011119 A 卷；答案文件无公历日期，years=[]。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.pdf",
+        "note": "feixu 独立答案文件，作者自述“不一定对”，非官方；对应 2019～2020 学年第2学期 011119 A 卷；答案文件无公历日期，years=[]。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.md",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1520",
+  "name": "生命科学简史",
+  "kind": "general",
+  "tags": [
+    "biology",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

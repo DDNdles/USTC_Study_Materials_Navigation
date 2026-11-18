@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM4003",
+  "name": "网络公共关系",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

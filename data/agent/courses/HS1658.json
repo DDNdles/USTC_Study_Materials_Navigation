@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1658",
+  "name": "硬笔楷书技法训练",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

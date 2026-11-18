@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "code": "EE2007",
+  "name": "运筹学A",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-ee2007-5831e40b",
+      "type": "exams",
+      "title": "运筹学A 2025 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/2025%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98/%E8%BF%90%E7%AD%B9%E5%AD%A625-26%E5%AD%A6%E5%B9%B4%E8%AF%95%E9%A2%98.pdf",
+        "note": "EpiHio README明确“运筹学A”；duxiaoyang试卷正文写自动化系《运筹学A》，归属EE2007。 卷面证据：年份2025；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/2025%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98/%E8%BF%90%E7%AD%B9%E5%AD%A625-26%E5%AD%A6%E5%B9%B4%E8%AF%95%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2007-997e5fac",
+      "type": "homework",
+      "title": "运筹学作业习题答案",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "1-9章作业答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%BD%9C%E4%B8%9A%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88",
+        "note": "1-9章作业答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%BD%9C%E4%B8%9A%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2007-1cc5fc53",
+      "type": "homework",
+      "title": "运筹学A作业答案",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "README明确运筹学A；归属EE2007。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88",
+        "note": "README明确运筹学A；归属EE2007。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2007-4298a94c",
+      "type": "study",
+      "title": "运筹学复习资料",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "复习PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%A4%8D%E4%B9%A0.pdf",
+        "note": "复习PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%A4%8D%E4%B9%A0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee2007-9096d660",
+      "type": "study",
+      "title": "运筹学基础讲义与专题（线性/非线性规划）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "讲义PDF；同目录有线性规划/非线性规划/动态规划。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf",
+        "note": "讲义PDF；同目录有线性规划/非线性规划/动态规划。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2007-4ef9bb41",
+      "type": "study",
+      "title": "运筹学A复习资料",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "复习目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E5%A4%8D%E4%B9%A0",
+        "note": "复习目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E5%A4%8D%E4%B9%A0",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "005124",
+  "name": "粘弹性力学",
+  "kind": "professional",
+  "tags": [
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

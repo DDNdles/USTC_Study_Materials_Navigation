@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "020146",
+  "name": "高分子复合材料",
+  "kind": "professional",
+  "tags": [
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

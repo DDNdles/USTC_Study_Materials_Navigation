@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE4003",
+  "name": "并行计算B",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

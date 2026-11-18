@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1553G",
+  "name": "色彩基础",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1675",
+  "name": "公文写作与处理",
+  "kind": "general",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

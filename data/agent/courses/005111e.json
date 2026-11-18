@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "005111e",
+  "name": "多相流体动力学(英)",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

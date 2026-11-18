@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1514M",
+  "name": "逻辑学导论",
+  "kind": "general",
+  "tags": [
+    "philosophy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

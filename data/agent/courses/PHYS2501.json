@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS2501",
+  "name": "电动力学C",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

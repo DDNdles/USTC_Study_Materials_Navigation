@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "210716",
+  "name": "深度学习实践",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-learning-mate-210716-3sp-deep-learning-practice",
+      "type": "study",
+      "title": "深度学习实践 课件（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "63 个文件（tree 实际读取）；目录 3SP Deep Learning Practice",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Deep%20Learning%20Practice",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Deep%20Learning%20Practice",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Deep%20Learning%20Practice",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

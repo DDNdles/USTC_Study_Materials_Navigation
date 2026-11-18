@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MED2007",
+  "name": "医学统计学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

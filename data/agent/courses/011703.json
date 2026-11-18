@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "code": "011703",
+  "name": "编译原理和技术(H)",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-011703-h",
+      "type": "study",
+      "title": "编译原理和技术(H) 课件与实验（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "208 个文件（tree 实际读取）；目录 大三上/编译原理和技术(H)",
+      "coverage": {
+        "years": [
+          2017,
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF(H)",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF(H)",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF(H)",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

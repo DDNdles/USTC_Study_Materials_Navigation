@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "HS1581",
+  "name": "中国传统医学思想与文化",
+  "kind": "general",
+  "tags": [
+    "medicine",
+    "history"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1581-lectures-mooc",
+      "type": "study",
+      "title": "中国传统医学思想与文化（USTC 慕课，柯资能）",
+      "authors": [
+        "柯资能"
+      ],
+      "notes": "官方慕课页，编号HS1581，科技史与科技考古系，2学分40课时；视频需登录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000001684.html?edit=false",
+        "note": "页面编号HS1581、学分、课时、院系与官方课程信息一致。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-mooc",
+          "page_url": "https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000001684.html?edit=false",
+          "download_page": "https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000001684.html?edit=false",
+          "download_url": null,
+          "access": "login",
+          "license_note": "官方慕课；版权归中国科大/主讲教师，仅原页导航，不抓取受限视频",
+          "attribution": "中国科学技术大学慕课平台",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-mooc": "中国科学技术大学慕课平台"
+  }
+}

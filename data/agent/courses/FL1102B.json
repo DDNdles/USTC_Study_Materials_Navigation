@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1102B",
+  "name": "科普英语交流B",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

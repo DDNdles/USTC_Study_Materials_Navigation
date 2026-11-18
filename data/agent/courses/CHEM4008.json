@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CHEM4008",
+  "name": "智能谱学与物质科学研究",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

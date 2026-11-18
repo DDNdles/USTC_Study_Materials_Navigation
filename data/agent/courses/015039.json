@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "015039",
+  "name": "市场营销学",
+  "kind": "professional",
+  "tags": [
+    "management"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-015039-lectures-blog",
+      "type": "study",
+      "title": "市场营销学讲课幻灯片",
+      "authors": [],
+      "notes": "仓库 经管类/市场营销 目录，含导论、环境、目标市场、消费者行为、产品/价格/分销等讲次 PPT。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80",
+        "note": "目录名与课程主题一致；文件为分讲课件。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-15172658790-blog",
+          "page_url": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80",
+          "download_page": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明无特别声明资料 CC BY-NC-SA 4.0；课件/试卷版权归原作者，仅原页导航",
+          "attribution": "GitHub @15172658790/Blog（学生投稿镜像）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-15172658790-blog": "15172658790/Blog"
+  }
+}

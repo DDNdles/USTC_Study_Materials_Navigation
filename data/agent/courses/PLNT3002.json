@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PLNT3002",
+  "name": "行星地质学实验",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

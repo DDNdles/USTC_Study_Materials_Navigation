@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BADM3001",
+  "name": "消费者心理与行为",
+  "kind": "professional",
+  "tags": [
+    "psychology",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

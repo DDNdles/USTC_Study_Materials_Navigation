@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED3030",
+  "name": "中医学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

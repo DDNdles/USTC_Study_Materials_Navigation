@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1008A",
+  "name": "大学物理-基础实验A",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-phys1008a-study-d5f53e87",
+      "type": "study",
+      "title": "大学物理·基础实验讲义与指导（含绪论与实验指导）",
+      "authors": [],
+      "notes": "目录：物理类/大学物理实验；压缩包含绪论、实验讲义与实验指导。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%C2%B7%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89%E4%B8%8E%E6%8C%87%E5%AF%BC.zip",
+        "note": "压缩包列出 40 项：2022/2023 绪论、实验讲义与实验指导 PDF；文件页匿名访问 200，压缩包实际下载并列出目录；目录/文件均未标注 A/B，同时关联大学物理-基础实验 A、B"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%C2%B7%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89%E4%B8%8E%E6%8C%87%E5%AF%BC.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1008a-study-63b2841f",
+      "type": "study",
+      "title": "大学物理实验报告 LaTeX 模板",
+      "authors": [],
+      "notes": "目录：物理类/大学物理实验；压缩包内为 USTC 大学物理实验报告模板（PDF/TeX）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8ALatex%E6%A8%A1%E6%9D%BF.zip",
+        "note": "压缩包目录含模板 PDF/TeX、图片、bst 与使用说明；文件页匿名访问 200，压缩包实际下载并列出 10 项；目录/文件均未标注 A/B，同时关联大学物理-基础实验 A、B"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8ALatex%E6%A8%A1%E6%9D%BF.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1008a-homework-2b78a0e0",
+      "type": "projects",
+      "title": "大物实验报告·一级（实验报告合集）",
+      "authors": [],
+      "notes": "目录：物理类/大学物理实验；一级实验报告合集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%C2%B7%E4%B8%80%E7%BA%A7.zip",
+        "note": "压缩包列出 362 项（含 __MACOSX 元数据），正文为一级实验报告与数据；文件页匿名访问 200，压缩包实际下载并列出目录；未标注 A/B，同时关联 A、B"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%C2%B7%E4%B8%80%E7%BA%A7.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1008a-homework-c9824cd2",
+      "type": "projects",
+      "title": "大学物理-基础实验数据与报告（孙旭磊）",
+      "authors": [],
+      "notes": "目录：物理类/大学物理实验；含实验方案、数据与报告。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%8A%A5%E5%91%8A.zip",
+        "note": "压缩包列出 264 项，含“大学物理-基础实验/1.重力加速度的测量”等实验方案、数据 CSV 与报告；文件页匿名访问 200，压缩包实际下载并列出目录；课程名未标注 A/B，同时关联 A、B"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%8A%A5%E5%91%8A.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

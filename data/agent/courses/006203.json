@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "006203",
+  "name": "天线技术基础",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

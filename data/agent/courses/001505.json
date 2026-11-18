@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "code": "001505",
+  "name": "复变函数A",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-001505-exams-046150",
+      "type": "exams",
+      "title": "2019-2020学年第一学期复变函数(A)期末试卷及答案",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2019-2020学年第一学期复变函数(A)期末试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/复变函数；2019-2020学年第一学期复变函数(A)期末试卷及答案.pdf；卷面/首页学期：2019—2020学年第一学期；仅有学年/学期标注，无公历考试日期，年份留空；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001505-exams-34c9f0",
+      "type": "exams",
+      "title": "2021-2022学年第一学期复变函数(A)期末试卷",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2021-2022学年第一学期复变函数(A)期末试卷.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "目录：数学类/复变函数；2021-2022学年第一学期复变函数(A)期末试卷.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001505-exams-58aaf2",
+      "type": "exams",
+      "title": "复变函数历年真题",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；复变函数历年真题.pdf；文件页核验；27页合集，仅复变函数A/B 期末；更新说明已删除复分析题，故不挂 MATH3008；无答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2003-2004",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2009-2010",
+          "2017-2018",
+          "2019-2020",
+          "2020-2021",
+          "2021-2022",
+          "2022-2023",
+          "2023-2024",
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0",
+        "note": "共27页；目录第3页列复变函数 A/B 期末试题，2003—2025 各学年；说明第2页称新版已删除复分析往年试题；无答案；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001505-study-d99c14",
+      "type": "study",
+      "title": "复变函数A笔记",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；复变函数A笔记.pdf；文件页核验；共12页；首页水印“我的科大 2021级 少年班学院 孙旭磊”；文件名明确 A；正文图片层未 OCR。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0",
+        "note": "PDF 共12页；前3页仅“资料来源：我的科大 2021级 少年班学院 孙旭磊”水印与页码，无文字层正文；文件名/目录明确为复变函数A笔记。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0A%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

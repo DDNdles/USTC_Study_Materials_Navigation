@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE4010",
+  "name": "无线系统设计",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

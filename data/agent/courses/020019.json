@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "020019",
+  "name": "高分子加工",
+  "kind": "professional",
+  "tags": [
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,651 @@
+{
+  "schema_version": 1,
+  "code": "MATH1004",
+  "name": "线性代数(A1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math1004-2026-final-c58152",
+      "type": "exams",
+      "title": "线性代数A1 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2026；单元格：期末统考；文件：2026LAA1final.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2026；单元格：期末统考；文件：2026LAA1final.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026LAA1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2026-midterm-5a8509",
+      "type": "exams",
+      "title": "线性代数A1 2026 期中",
+      "authors": [
+        "王新茂"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2026；单元格：王新茂；文件：2026LAA1mid1.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2026；单元格：王新茂；文件：2026LAA1mid1.pdf；首页可见日期 2026年4月；年份按首页考试日期 2026年4月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026LAA1mid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2025-final-6ba251",
+      "type": "exams",
+      "title": "线性代数A1 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：AB题；文件：2025LAA1final.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：AB题；文件：2025LAA1final.pdf；卷面/首页学期：2025春；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025LAA1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2025-final-f73ee1",
+      "type": "exams",
+      "title": "线性代数A1 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：答案；文件：2025LAA1finalsol.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：答案；文件：2025LAA1finalsol.pdf；首页可见日期 2025年7月；年份按首页考试日期 2025年7月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025LAA1finalsol.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2025-midterm-b5faab",
+      "type": "exams",
+      "title": "线性代数A1 2025 期中",
+      "authors": [
+        "王新茂"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：王新茂；文件：2025LAA1mid1.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：王新茂；文件：2025LAA1mid1.pdf；首页可见日期 2025年5月；年份按首页考试日期 2025年5月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025LAA1mid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2024-final-c3b235",
+      "type": "exams",
+      "title": "线性代数A1 2024 期末",
+      "authors": [
+        "陈发来"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：陈发来；文件：2024LAA1final1.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：陈发来；文件：2024LAA1final1.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024LAA1final1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2024-final-fff2d8",
+      "type": "exams",
+      "title": "线性代数A1 2024 期末",
+      "authors": [
+        "王新茂"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：王新茂；文件：2024LAA1final.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：王新茂；文件：2024LAA1final.pdf；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024LAA1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2024-midterm-062290",
+      "type": "exams",
+      "title": "线性代数A1 2024 期中",
+      "authors": [
+        "陈发来"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：陈发来；文件：2024LAA1mid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：陈发来；文件：2024LAA1mid.pdf；文本层编码不可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024LAA1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2023-final-459e47",
+      "type": "exams",
+      "title": "线性代数A1 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：答案；文件：2023LAA1finalsol.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：答案；文件：2023LAA1finalsol.pdf；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023LAA1finalsol.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2023-final-677391",
+      "type": "exams",
+      "title": "线性代数A1 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：AB题；文件：2023LAA1final.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：AB题；文件：2023LAA1final.pdf；卷面/首页学期：2023春；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023LAA1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2023-midterm-39d61a",
+      "type": "exams",
+      "title": "线性代数A1 2023 期中",
+      "authors": [
+        "欧阳毅"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：欧阳毅；文件：2023LAA1mid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：欧阳毅；文件：2023LAA1mid.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023LAA1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1004-exams-d7938a",
+      "type": "exams",
+      "title": "2021线性代数(A1)期末",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(A)历年真题；2021线性代数(A1)期末.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：AB题；文件：2021LAA1final.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/线性代数/线性代数(A)历年真题；2021线性代数(A1)期末.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021LAA1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1004-exams-517df8",
+      "type": "exams",
+      "title": "2021线性代数(A1)期中",
+      "authors": [
+        "王新茂"
+      ],
+      "notes": "目录：数学类/线性代数/线性代数(A)历年真题；2021线性代数(A1)期中.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：王新茂；文件：2021LAA1mid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/线性代数/线性代数(A)历年真题；2021线性代数(A1)期中.pdf；首页可见日期 2021年5月；年份按首页考试日期 2021年5月；文本层可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021LAA1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1004-exams-36d555",
+      "type": "exams",
+      "title": "2019线性代数(A1)期末",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(A)历年真题；2019线性代数(A1)期末.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/线性代数/线性代数(A)历年真题；2019线性代数(A1)期末.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1004-exams-1d6cd4",
+      "type": "exams",
+      "title": "2019线性代数(A1)期中",
+      "authors": [
+        "王新茂"
+      ],
+      "notes": "目录：数学类/线性代数/线性代数(A)历年真题；2019线性代数(A1)期中.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2019；单元格：王新茂；文件：2019LA1mid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/线性代数/线性代数(A)历年真题；2019线性代数(A1)期中.pdf；首页可见日期 2019年4月；年份按首页考试日期 2019年4月；文本层可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019LA1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1004-2014-midterm-adeaa6",
+      "type": "exams",
+      "title": "线性代数A1 2014 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2014；单元格：期中；文件：2014LAA1mid.pdf",
+      "coverage": {
+        "years": [
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2014；单元格：期中；文件：2014LAA1mid.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2014LAA1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1004-exams-83aede",
+      "type": "exams",
+      "title": "线性代数(A)历年真题",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(A)历年真题；线性代数(A)历年真题.pdf；文件页核验；7页合集，A1/A2 期中期末；无答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2013-2014",
+          "2014-2015",
+          "2017-2018",
+          "2018-2019",
+          "2020-2021"
+        ],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98",
+        "note": "共7页；页首分别见线性代数(A1)/(A2) 期中/期末，2013—2021 学年；无答案；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-05d8",
+      "type": "exams",
+      "title": "线性代数(B) 历年真题（B1/B2/A 合集）",
+      "authors": [],
+      "notes": "不将合集内分卷计为独立文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+        "note": "共 55 页，以 B1、B2 为主，第 49—55 页附 A1、A2 的试卷；含期中、期末，无统一卷头年份。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1004-study-731453",
+      "type": "homework",
+      "title": "线性代数习题解答（配套王新茂讲义）",
+      "authors": [],
+      "notes": "目录：数学类/线性代数；线性代数（王新茂）习题解答.pdf；文件页核验；封面注明对应王新茂讲义；按王新茂授课的线性代数(A1/A2)挂两码；解答非课程作业，归 study。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0",
+        "note": "共87页；第1页题名“线性代数习题解答”，注明“对应讲义：王新茂老师讲义”，2021-09-06版；目录含线性方程组、矩阵等；有文字层，抽读前3页。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%8E%8B%E6%96%B0%E8%8C%82%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

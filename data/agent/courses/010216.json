@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "010216",
+  "name": "面向对象技术",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

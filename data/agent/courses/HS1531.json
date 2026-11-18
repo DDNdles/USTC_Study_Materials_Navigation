@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1531",
+  "name": "大学生心理学",
+  "kind": "general",
+  "tags": [
+    "psychology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

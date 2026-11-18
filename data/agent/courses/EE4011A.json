@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "code": "EE4011A",
+  "name": "数字图像处理A",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-ee4011a-f118c038",
+      "type": "exams",
+      "title": "数字图像处理A 2025 试卷",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DIP-A2025S.md",
+        "note": "guch8017 README“数字图像处理A（张荣）”链接icourse 25210，课程号EE4011A01，归属EE4011A。 卷面证据：未提取到卷头/年份，仅题目正文；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DIP-A2025S.md",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "guch8017",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee4011a-18e8a801",
+      "type": "homework",
+      "title": "数字图像处理A作业1-7与习题答案",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "hw1-hw7与祖传习题答案；目录页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A",
+        "note": "hw1-hw7与祖传习题答案；目录页。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee4011a-3ecff1b6",
+      "type": "study",
+      "title": "数字图像处理A复习纲要与习题课",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "复习纲要PDF；同目录有习题课250606。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E5%A4%8D%E4%B9%A0%E7%BA%B2%E8%A6%81.pdf",
+        "note": "复习纲要PDF；同目录有习题课250606。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E5%A4%8D%E4%B9%A0%E7%BA%B2%E8%A6%81.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee4011a-18e8a801",
+      "type": "study",
+      "title": "数字图像处理A课件（2025，第1-7章）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "DIP-ch1至ch7 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A",
+        "note": "DIP-ch1至ch7 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee4011a-7107eb26",
+      "type": "projects",
+      "title": "数字图像处理项目一/二源码与结果",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "project_1/2 zip与汇总结果。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86",
+        "note": "project_1/2 zip与汇总结果。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee4011a-e71ee9c7",
+      "type": "projects",
+      "title": "数字图像处理A实验源码（Python）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "hw2-hw5 Python源码与Lena图。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A/%E5%AE%9E%E9%AA%8C%E6%BA%90%E7%A0%81",
+        "note": "hw2-hw5 Python源码与Lena图。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A/%E5%AE%9E%E9%AA%8C%E6%BA%90%E7%A0%81",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

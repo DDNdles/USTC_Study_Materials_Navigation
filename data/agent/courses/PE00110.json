@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00110",
+  "name": "羽毛球II",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00528",
+  "name": "野战运动(专训)",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

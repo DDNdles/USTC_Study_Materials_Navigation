@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME4004",
+  "name": "应急管理概论",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "safety"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

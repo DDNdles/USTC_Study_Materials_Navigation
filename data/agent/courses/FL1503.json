@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1503",
+  "name": "英语口语沟通(中级)",
+  "kind": "general",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

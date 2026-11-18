@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007271",
+  "name": "结晶学",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,882 @@
+{
+  "schema_version": 1,
+  "code": "010214",
+  "name": "计算机控制",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-010214-8596dad4",
+      "type": "exams",
+      "title": "计算机控制 2001级（考试年份未标） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2001%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：年份2001；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2001%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-0dace6b2",
+      "type": "exams",
+      "title": "计算机控制 2002级（考试年份未标） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2002%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：未提取到卷头/年份，仅题目正文；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2002%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-8603b21c",
+      "type": "exams",
+      "title": "计算机控制 2003级（考试年份未标） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2003%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：科目计算机控制基础(0310)；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2003%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-b99ee471",
+      "type": "exams",
+      "title": "计算机控制 2007—2008学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2007-2008"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2004%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2007-2008；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2004%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-d83b81cd",
+      "type": "exams",
+      "title": "计算机控制 2008—2009学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2008-2009"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2005%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2008-2009；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2005%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-db28697b",
+      "type": "exams",
+      "title": "计算机控制 2009—2010学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2006%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2009-2010；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2006%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-49694f76",
+      "type": "exams",
+      "title": "计算机控制 2010—2011学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2007%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2010-2011；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2007%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-afe83413",
+      "type": "exams",
+      "title": "计算机控制 2011—2012学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2008%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2011-2012；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2008%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-d58f3262",
+      "type": "exams",
+      "title": "计算机控制 2012—2013学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2012-2013"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2009%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2012-2013；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2009%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-7ef4bacb",
+      "type": "exams",
+      "title": "计算机控制 2013—2014学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2013-2014"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2010%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2013-2014；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2010%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-d2e001b3",
+      "type": "exams",
+      "title": "计算机控制 2014—2015学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2011%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2014-2015；科目计算机控制基础；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2011%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-b24d5813",
+      "type": "exams",
+      "title": "计算机控制 2014—2015学年（公历年份未确认） 期末（原卷）（2）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2012%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2014-2015；科目计算机控制基础；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2012%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-d6d1a453",
+      "type": "exams",
+      "title": "计算机控制 2015—2016学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2013%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2015-2016；科目计算机控制基础；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2013%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-cfd4419b",
+      "type": "exams",
+      "title": "计算机控制 2015—2016学年（公历年份未确认） 期末（原卷）（2）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2014%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2015-2016；科目计算机控制基础；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2014%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-e37a3936",
+      "type": "exams",
+      "title": "计算机控制 2015级（考试年份未标） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2015%E7%BA%A7%E8%AF%95%E9%A2%98_%E8%AF%95%E9%A2%98%E4%B8%8D%E5%85%A8_.pdf",
+        "note": "卷面证据：年份2015；期末；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2015%E7%BA%A7%E8%AF%95%E9%A2%98_%E8%AF%95%E9%A2%98%E4%B8%8D%E5%85%A8_.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-87c3b33c",
+      "type": "exams",
+      "title": "计算机控制 2016级（考试年份未标） 期末",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2016%E7%BA%A7%E8%AF%95%E9%A2%98%EF%BC%88%E9%A2%98%E7%9B%AE%E6%AE%8B%E7%BC%BA%EF%BC%89.pdf",
+        "note": "扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2016%E7%BA%A7%E8%AF%95%E9%A2%98%EF%BC%88%E9%A2%98%E7%9B%AE%E6%AE%8B%E7%BC%BA%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-a937127f",
+      "type": "exams",
+      "title": "计算机控制 2017级（考试年份未标） 期末",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2017%E7%BA%A7%E8%AF%95%E5%8D%B7%EF%BC%88%E8%AF%95%E9%A2%98%E6%AE%8B%E7%BC%BA%EF%BC%89.pdf",
+        "note": "扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2017%E7%BA%A7%E8%AF%95%E5%8D%B7%EF%BC%88%E8%AF%95%E9%A2%98%E6%AE%8B%E7%BC%BA%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-655a11d2",
+      "type": "exams",
+      "title": "计算机控制 2018级（考试年份未标） 期末",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2018%E7%BA%A7%E8%AF%95%E9%A2%98%EF%BC%88%E8%AF%95%E9%A2%98%E6%AE%8B%E7%BC%BA%EF%BC%89.pdf",
+        "note": "扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2018%E7%BA%A7%E8%AF%95%E9%A2%98%EF%BC%88%E8%AF%95%E9%A2%98%E6%AE%8B%E7%BC%BA%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-1bfe1694",
+      "type": "exams",
+      "title": "计算机控制 2019级（考试年份未标） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2019%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：年份2019；期末；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2019%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-d8cfa71a",
+      "type": "exams",
+      "title": "计算机控制 2022—2023学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2020%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2022-2023；期末；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2020%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-ab84df19",
+      "type": "exams",
+      "title": "计算机控制 2023—2024学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2021%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2023-2024；期末；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2021%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-010214-180a578a",
+      "type": "exams",
+      "title": "计算机控制 2024—2025学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2022%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面证据：学年2024-2025；科目计算机控制；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2022%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-010214-373ad89d",
+      "type": "homework",
+      "title": "计算机控制课后习题答案",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "课后习题答案PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "note": "课后习题答案PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-010214-53cf2c38",
+      "type": "homework",
+      "title": "计算机控制习题答案（李嗣福教材）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "教材习题答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88",
+        "note": "教材习题答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-open_book-010214-1fad3ed1",
+      "type": "study",
+      "title": "计算机控制大抄",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "半开卷大抄；公开目录页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E5%A4%A7%E6%8A%84",
+        "note": "半开卷大抄；公开目录页。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E5%A4%A7%E6%8A%84",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-open_book-010214-e235636a",
+      "type": "study",
+      "title": "计算机控制大抄",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "半开卷大抄目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%8A%84",
+        "note": "半开卷大抄目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%8A%84",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-010214-e7dbfeaf",
+      "type": "study",
+      "title": "计算机控制课堂PPT与例程",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "含动力锅炉等控制系统PPT与组态文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/06%20CC-6-00%2B8%2B49",
+        "note": "含动力锅炉等控制系统PPT与组态文件。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/06%20CC-6-00%2B8%2B49",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）"
+  }
+}

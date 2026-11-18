@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "019165",
+  "name": "普通化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019165-notes",
+      "type": "study",
+      "title": "普通化学 2024秋 课程笔记",
+      "authors": [],
+      "notes": "评课社区课程页点评附件；同页另有《普通化学原理（第4版）习题解析》出版书扫描件，按教材类排除。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13429/",
+        "note": "文件名标注 2024秋。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13429/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 13429，文件“普通化学笔记2024秋.pdf”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
+}

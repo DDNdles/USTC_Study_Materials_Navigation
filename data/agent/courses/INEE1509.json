@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "INEE1509",
+  "name": "创业会计与财务",
+  "kind": "general",
+  "tags": [
+    "innovation",
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

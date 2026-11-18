@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "008183",
+  "name": "普通生物学实验",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

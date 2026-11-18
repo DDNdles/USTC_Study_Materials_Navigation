@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00101",
+  "name": "篮球I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "AI3004",
+  "name": "优化理论基础",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "code": "006174",
+  "name": "电磁场理论",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-006174-bf842f79",
+      "type": "exams",
+      "title": "电磁场理论 2024 期末（回忆版）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/24%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "卷面证据：回忆版；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/24%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-006174-a152accf",
+      "type": "exams",
+      "title": "电磁场理论 2023 期末（回忆版）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/23%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "卷面证据：回忆版；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/23%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-006174-84e0a7ed",
+      "type": "exams",
+      "title": "电磁场理论 2022 期末（回忆版）",
+      "authors": [
+        "li-qi-lin",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/22%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "卷面证据：回忆版；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/22%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86%E7%89%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-006174-5e4c8af6",
+      "type": "homework",
+      "title": "电磁场理论基础课后答案与习题课",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "课后答案/习题课PDF；与lectures同目录，按内容分项。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA",
+        "note": "课后答案/习题课PDF；与lectures同目录，按内容分项。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-006174-5e4c8af6",
+      "type": "study",
+      "title": "电磁场理论习题课课件",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "第一章/第七章习题PPT与复习大纲。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA",
+        "note": "第一章/第七章习题PPT与复习大纲。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA/%E7%94%B5%E7%A3%81%E5%9C%BA%E7%90%86%E8%AE%BA",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "code": "210074",
+  "name": "电子技术实验II",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-learning-mate-210074-2sp-electronic-technology-experiment-ii",
+      "type": "study",
+      "title": "电子技术实验 II 讲义与资料（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "96 个文件（tree 实际读取）；目录 2SP Electronic Technology Experiment II",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Electronic%20Technology%20Experiment%20II",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Electronic%20Technology%20Experiment%20II",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Electronic%20Technology%20Experiment%20II",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-study-feixu-210073-210074-lab-manuals",
+      "type": "study",
+      "title": "电子技术实验讲义（101、112 实验室，实验一 常用电子仪器）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "101 与 112 为实验室房间号，不是课程号；两份均为实验一“常用电子仪器使用”讲义（101：32 页；112：16 页）。电子技术实验 I/II 共用，故同时列 210073、210074。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+        "note": "101 室 32 页、112 室 16 页；均为实验一常用电子仪器；房间号不是课程号。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/112%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/112%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-feixu-210074-reports-2024",
+      "type": "projects",
+      "title": "电子技术实验 II 实验报告（2024 秋，门电路／抢答器）",
+      "authors": [
+        "杨景添",
+        "曾昱嘉"
+      ],
+      "notes": "数字部分实验：门电路测试与应用（2024-12-05）、四路抢答器（2024-12-19）；icourse 电子技术实验 II 实验列表含门电路测试与应用、抢答器，归 210074。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E9%97%A8%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf",
+        "note": "2 份实验报告；数字逻辑实验内容；日期 2024-12-05、2024-12-19。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E9%97%A8%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E9%97%A8%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E6%8A%A2%E7%AD%94%E5%99%A8.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E6%8A%A2%E7%AD%94%E5%99%A8.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

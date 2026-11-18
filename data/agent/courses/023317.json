@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "023317",
+  "name": "电磁场与波",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

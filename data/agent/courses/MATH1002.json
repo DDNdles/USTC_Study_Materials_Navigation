@@ -1,0 +1,923 @@
+{
+  "schema_version": 1,
+  "code": "MATH1002",
+  "name": "数学分析(A2)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math1002-2026-final-d515ad",
+      "type": "exams",
+      "title": "数学分析A2 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2026；单元格：期末；文件：2026MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2026；单元格：期末；文件：2026MAA2final.pdf；卷面/首页学期：2026春；文本层编码不可读；抽读前3页（共10页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2026-midterm-80f7ab",
+      "type": "exams",
+      "title": "数学分析A2 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2026；单元格：期中；文件：2026MAA2mid.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2026；单元格：期中；文件：2026MAA2mid.pdf；卷面/首页学期：2026春；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026MAA2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2025-final-8107a1",
+      "type": "exams",
+      "title": "数学分析A2 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025MAA2final.pdf；文本层编码不可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2025-midterm-efdc51",
+      "type": "exams",
+      "title": "数学分析A2 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：期中；文件：2025MAA2mid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：期中；文件：2025MAA2mid.pdf；首页可见日期 2025年4月；年份按首页考试日期 2025年4月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025MAA2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2024-final-c6ec19",
+      "type": "exams",
+      "title": "数学分析A2 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：统考；文件：2024MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：统考；文件：2024MAA2final.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2024-midterm-305006",
+      "type": "exams",
+      "title": "数学分析A2 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：3；文件：2024MAA2mid3.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：3；文件：2024MAA2mid3.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024MAA2mid3.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2024-midterm-41c969",
+      "type": "exams",
+      "title": "数学分析A2 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：1；文件：2024MAA2mid1.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：1；文件：2024MAA2mid1.pdf；卷面/首页学期：2024春；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024MAA2mid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2024-midterm-ca318a",
+      "type": "exams",
+      "title": "数学分析A2 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：2；文件：2024MAA2mid2.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：2；文件：2024MAA2mid2.pdf；卷面/首页学期：2024春；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024MAA2mid2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2023-final-7555a2",
+      "type": "exams",
+      "title": "数学分析A2 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：统考；文件：2023MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：统考；文件：2023MAA2final.pdf；卷面/首页学期：2023春；首页可见日期 2023年7月；年份按首页考试日期 2023年7月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2023-midterm-1bb5ec",
+      "type": "exams",
+      "title": "数学分析A2 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：3；文件：2023MAA2mid3.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：3；文件：2023MAA2mid3.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023MAA2mid3.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2023-midterm-906c0c",
+      "type": "exams",
+      "title": "数学分析A2 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：1；文件：2023MAA2mid1.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：1；文件：2023MAA2mid1.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023MAA2mid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2023-midterm-962013",
+      "type": "exams",
+      "title": "数学分析A2 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：2；文件：2023MAA2mid2.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：2；文件：2023MAA2mid2.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023MAA2mid2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2022-midterm-088d8b",
+      "type": "exams",
+      "title": "数学分析A2 2022 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2022；单元格：1；文件：2022MAA2mid1.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2022；单元格：1；文件：2022MAA2mid1.pdf；无文本层（扫描件）；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022MAA2mid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2022-midterm-5ac79a",
+      "type": "exams",
+      "title": "数学分析A2 2022 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2022；单元格：3；文件：2022MAA2mid3.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2022；单元格：3；文件：2022MAA2mid3.pdf；无文本层（扫描件）；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022MAA2mid3.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2022-midterm-cf0799",
+      "type": "exams",
+      "title": "数学分析A2 2022 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2022；单元格：2；文件：2022MAA2mid2.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2022；单元格：2；文件：2022MAA2mid2.pdf；无文本层（扫描件）；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022MAA2mid2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-7bfd4b",
+      "type": "exams",
+      "title": "2021数学分析(A2)期末",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)期末.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)期末.pdf；文本层编码不可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2021-final-67719d",
+      "type": "exams",
+      "title": "数学分析A2 2021 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：统考；文件：2021MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：统考；文件：2021MAA2final.pdf；文本层编码不可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2021-final-c94324",
+      "type": "exams",
+      "title": "数学分析A2 2021 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：答案；文件：2021MAA2finalsol.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：答案；文件：2021MAA2finalsol.pdf；文本层可读；抽读前3页（共10页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2finalsol.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2021-midterm-ea53b8",
+      "type": "exams",
+      "title": "数学分析A2 2021 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：3答案；文件：2021MAA2mid3sol.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：3答案；文件：2021MAA2mid3sol.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2mid3sol.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-0e7452",
+      "type": "exams",
+      "title": "2020数学分析(A2)期末",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2020数学分析(A2)期末.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2020；单元格：统考；文件：2020MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2020%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2020数学分析(A2)期末.pdf；卷面/首页学期：2020春；首页可见日期 2020年9月；年份按首页考试日期 2020年9月；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2020%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-83384e",
+      "type": "exams",
+      "title": "2019数学分析(A2)期中",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2019数学分析(A2)期中.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2019；单元格：统考；文件：2019MAA2mid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2019%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2019数学分析(A2)期中.pdf；卷面/首页学期：2019春；文本层几无中文；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2019%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019MAA2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-3709c5",
+      "type": "exams",
+      "title": "2018数学分析(A2)期末",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2018数学分析(A2)期末.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2018；单元格：统考；文件：2018MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2018%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2018数学分析(A2)期末.pdf；文本层编码不可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2018%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1002-2018-final-3d0435",
+      "type": "exams",
+      "title": "数学分析A2 2018 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2018；单元格：答案；文件：2018MAA2finalsol.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2018；单元格：答案；文件：2018MAA2finalsol.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018MAA2finalsol.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-4ef032",
+      "type": "exams",
+      "title": "2016数学分析(A2)期末",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2016数学分析(A2)期末.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2016；单元格：统考；文件：2016MAA2final.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2016%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2016数学分析(A2)期末.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2016%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2016MAA2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-ce903e",
+      "type": "homework",
+      "title": "2021数学分析(A2)小测1",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测1.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：1；文件：2021MAA2test1.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B1.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测1.pdf；文本层编码不可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B1.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2test1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-5fde70",
+      "type": "homework",
+      "title": "2021数学分析(A2)小测2",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测2.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：2；文件：2021MAA2test2.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B2.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测2.pdf；仅拉丁文本层；仅拉丁文本层；仅拉丁文本层；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B2.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2test2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1002-exams-858b1f",
+      "type": "homework",
+      "title": "2021数学分析(A2)小测3",
+      "authors": [],
+      "notes": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测3.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：3；文件：2021MAA2test3.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B3.pdf",
+        "note": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测3.pdf；仅拉丁文本层；仅拉丁文本层；仅拉丁文本层；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B3.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2test3.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00155",
+  "name": "花样滑冰II",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

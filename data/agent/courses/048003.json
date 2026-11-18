@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "048003",
+  "name": "反应堆热工与安全",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "safety",
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

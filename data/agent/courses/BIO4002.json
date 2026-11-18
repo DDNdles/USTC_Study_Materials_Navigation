@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BIO4002",
+  "name": "化学生物学基础",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

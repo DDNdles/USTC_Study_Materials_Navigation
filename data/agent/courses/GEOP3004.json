@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3004",
+  "name": "地球物理基础实验",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

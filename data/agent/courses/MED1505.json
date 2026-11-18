@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED1505",
+  "name": "生理与健康",
+  "kind": "general",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

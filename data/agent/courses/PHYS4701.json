@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4701",
+  "name": "物理科研创新实践",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

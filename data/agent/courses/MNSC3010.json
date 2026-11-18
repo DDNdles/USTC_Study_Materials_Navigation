@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC3010",
+  "name": "智能优化系统分析",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

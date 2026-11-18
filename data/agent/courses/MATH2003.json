@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "code": "MATH2003",
+  "name": "几何学基础",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math2003-2025-final-2e923b",
+      "type": "exams",
+      "title": "几何学基础 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025geointrofinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025geointrofinal.pdf；卷面/首页学期：2025—2026学年第一学期；文本层可读；抽读前3页（共14页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025geointrofinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2003-exams-dea5ec",
+      "type": "exams",
+      "title": "几何学基础2024期中考试",
+      "authors": [],
+      "notes": "目录：数学类/几何学基础；几何学基础2024期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：期中；文件：2024geointromid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802024%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/几何学基础；几何学基础2024期中考试.pdf；卷面/首页学期：2024秋；文本层可读；抽读前3页（共4页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802024%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024geointromid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math2003-2023-final-707d08",
+      "type": "exams",
+      "title": "几何学基础 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2023；单元格：期末；文件：2023geointrofinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2023；单元格：期末；文件：2023geointrofinal.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023geointrofinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2003-exams-8a44b3",
+      "type": "exams",
+      "title": "几何学基础2023期末考试",
+      "authors": [],
+      "notes": "目录：数学类/几何学基础；几何学基础2023期末考试.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802023%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/几何学基础；几何学基础2023期末考试.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802023%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2003-exams-38ed86",
+      "type": "exams",
+      "title": "几何学基础2023期中考试",
+      "authors": [],
+      "notes": "目录：数学类/几何学基础；几何学基础2023期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2023；单元格：期中；文件：2023geointromid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/几何学基础；几何学基础2023期中考试.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023geointromid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2003-exams-90c322",
+      "type": "exams",
+      "title": "几何学基础2021期中考试",
+      "authors": [],
+      "notes": "目录：数学类/几何学基础；几何学基础2021期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2021；单元格：期中；文件：2021geointromid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802021%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/几何学基础；几何学基础2021期中考试.pdf；文本层可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802021%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021geointromid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2003-lectures-927a96",
+      "type": "study",
+      "title": "几何学基础习题课讲义",
+      "authors": [],
+      "notes": "目录：数学类/几何学基础；几何学基础习题课讲义.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf",
+        "note": "文件：几何学基础习题课讲义.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00124",
+  "name": "野外生存II",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

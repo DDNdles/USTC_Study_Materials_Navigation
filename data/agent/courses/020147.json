@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "020147",
+  "name": "高分子生物材料",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "biomedical"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

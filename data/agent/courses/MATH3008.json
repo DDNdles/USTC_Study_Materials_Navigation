@@ -1,0 +1,1149 @@
+{
+  "schema_version": 1,
+  "code": "MATH3008",
+  "name": "复分析",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3008-2026-final-0d699e",
+      "type": "exams",
+      "title": "复分析 2026 期末",
+      "authors": [
+        "宋百林"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2026；单元格：宋百林；文件：2026complexfinalA.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2026；单元格：宋百林；文件：2026complexfinalA.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026complexfinalA.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2026-final-3d74a3",
+      "type": "exams",
+      "title": "复分析 2026 期末",
+      "authors": [
+        "王兵"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2026；单元格：王兵；文件：2026complexHfinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2026；单元格：王兵；文件：2026complexHfinal.pdf；仅拉丁文本层；仅拉丁文本层；仅拉丁文本层；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026complexHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2026-midterm-14bf42",
+      "type": "exams",
+      "title": "复分析 2026 期中",
+      "authors": [
+        "韦勇"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2026；单元格：韦勇；文件：2026complexmidB.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2026；单元格：韦勇；文件：2026complexmidB.pdf；卷面/首页学期：2026春；首页可见日期 2026年5月；年份按首页考试日期 2026年5月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026complexmidB.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2026-midterm-1aea74",
+      "type": "exams",
+      "title": "复分析 2026 期中",
+      "authors": [
+        "王兵"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2026；单元格：王兵；文件：2026complexHmid.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2026；单元格：王兵；文件：2026complexHmid.pdf；仅拉丁文本层；仅拉丁文本层；仅拉丁文本层；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026complexHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2026-midterm-ccb8cf",
+      "type": "exams",
+      "title": "复分析 2026 期中",
+      "authors": [
+        "宋百林"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2026；单元格：宋百林；文件：2026complexmidA.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2026；单元格：宋百林；文件：2026complexmidA.pdf；卷面/首页学期：2025—2026学年第二学期；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026complexmidA.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2025-final-5284cd",
+      "type": "exams",
+      "title": "复分析 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2025；单元格：普班统考；文件：2025complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2025；单元格：普班统考；文件：2025complexfinal.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2025-midterm-beb37d",
+      "type": "exams",
+      "title": "复分析 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2025；单元格：普班统考；文件：2025complexmid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2025；单元格：普班统考；文件：2025complexmid.pdf；文本层几无中文；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2024-final-cba2a2",
+      "type": "exams",
+      "title": "复分析 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2024；单元格：普班统考；文件：2024complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2024；单元格：普班统考；文件：2024complexfinal.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2024-midterm-25cd0a",
+      "type": "exams",
+      "title": "复分析 2024 期中",
+      "authors": [
+        "王兵"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：王兵；文件：2024complexHmid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：王兵；文件：2024complexHmid.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024complexHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2024-midterm-68d43f",
+      "type": "exams",
+      "title": "复分析 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：普班统考；文件：2024complexmid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：普班统考；文件：2024complexmid.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-f826d9",
+      "type": "exams",
+      "title": "2023复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2023复分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2023；单元格：普班统考；文件：2023complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2023%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2023复分析期末考试.pdf；无文本层（扫描件）；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2023%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-dbfab4",
+      "type": "exams",
+      "title": "2023复分析期中考试",
+      "authors": [
+        "李思敏"
+      ],
+      "notes": "目录：数学类/复分析；2023复分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2023；单元格：李思敏；文件：2023complexmid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2023%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2023复分析期中考试.pdf；无文本层（扫描件）；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2023%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-d1e402",
+      "type": "exams",
+      "title": "2022复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2022复分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2022；单元格：普班统考；文件：2022complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2022%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2022复分析期末考试.pdf；文本层几无中文；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2022%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-5f609d",
+      "type": "exams",
+      "title": "2022复分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2022复分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2022；单元格：普班统考；文件：2022complexmid.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2022%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2022复分析期中考试.pdf；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2022%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-c3076b",
+      "type": "exams",
+      "title": "2021复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2021复分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2021；单元格：普班统考；文件：2021complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2021%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2021复分析期末考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2021%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-fca6fd",
+      "type": "exams",
+      "title": "2021复分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2021复分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2021；单元格：普班统考；文件：2021complexmid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2021%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2021复分析期中考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2021%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-3931e6",
+      "type": "exams",
+      "title": "2020复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2020复分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2020；单元格：普班统考；文件：2020complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2020%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2020复分析期末考试.pdf；文本层几无中文；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2020%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-bc6f20",
+      "type": "exams",
+      "title": "2020复分析期中考试",
+      "authors": [
+        "杨迪"
+      ],
+      "notes": "目录：数学类/复分析；2020复分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2020；单元格：杨迪；文件：2020complexmid.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2020%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2020复分析期中考试.pdf；卷面/首页学期：2020春；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2020%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2020-final-fec2ce",
+      "type": "exams",
+      "title": "复分析 2020 期末",
+      "authors": [
+        "李思敏"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2020；单元格：李思敏；文件：2020complexHfinal.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2020；单元格：李思敏；文件：2020complexHfinal.pdf；无文本层（扫描件）；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020complexHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-5ccdf8",
+      "type": "exams",
+      "title": "2019复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2019复分析期末考试.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2019%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2019复分析期末考试.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2019%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-18d111",
+      "type": "exams",
+      "title": "2019复分析期中考试1",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2019复分析期中考试1.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2019%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%951.pdf",
+        "note": "目录：数学类/复分析；2019复分析期中考试1.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2019%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%951.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-e43379",
+      "type": "exams",
+      "title": "2019复分析期中考试2",
+      "authors": [
+        "胡森"
+      ],
+      "notes": "目录：数学类/复分析；2019复分析期中考试2.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2019；单元格：胡森；文件：2019complex2mid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2019%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952.pdf",
+        "note": "目录：数学类/复分析；2019复分析期中考试2.pdf；文本层编码不可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2019%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019complex2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2019-final-70848b",
+      "type": "exams",
+      "title": "复分析 2019 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2019；单元格：普班统考；文件：2019complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2019；单元格：普班统考；文件：2019complexfinal.pdf；卷面/首页学期：2019春；首页可见日期 2019年6月；年份按首页考试日期 2019年6月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2019-midterm-0b2aa2",
+      "type": "exams",
+      "title": "复分析 2019 期中",
+      "authors": [
+        "李皓昭"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2019；单元格：李皓昭；文件：2019complex1mid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2019；单元格：李皓昭；文件：2019complex1mid.pdf；卷面/首页学期：2019春；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019complex1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-9c57b1",
+      "type": "exams",
+      "title": "2018复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2018复分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2018；单元格：普班统考；文件：2018complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2018%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2018复分析期末考试.pdf；无文本层（扫描件）；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2018%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-5a9c80",
+      "type": "exams",
+      "title": "2018复分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2018复分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2018；单元格：普班统考；文件：2018complexmid.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2018%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2018复分析期中考试.pdf；无文本层（扫描件）；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2018%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-0b8075",
+      "type": "exams",
+      "title": "2016复分析期末考试1",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2016复分析期末考试1.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2016；单元格：普班统考；文件：2016complexfinale.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2016%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%951.pdf",
+        "note": "目录：数学类/复分析；2016复分析期末考试1.pdf；无文本层（扫描件）；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2016%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%951.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2016complexfinale.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-1ec627",
+      "type": "exams",
+      "title": "2016复分析期中考试2",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2016复分析期中考试2.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2016；单元格：普班统考；文件：2016complexmidw.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2016%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952.pdf",
+        "note": "目录：数学类/复分析；2016复分析期中考试2.pdf；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2016%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2016complexmidw.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-8e8035",
+      "type": "exams",
+      "title": "2014复分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2014复分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2014；单元格：期中；文件：2014complexmid.pdf",
+      "coverage": {
+        "years": [
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2014%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2014复分析期中考试.pdf；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2014%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2014complexmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3008-2014-final-4b8b41",
+      "type": "exams",
+      "title": "复分析 2014 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2014；单元格：期末；文件：2014complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2014；单元格：期末；文件：2014complexfinal.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2014complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3008-exams-eee1a1",
+      "type": "exams",
+      "title": "2011复分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/复分析；2011复分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2011；单元格：期末；文件：2011complexfinal.pdf",
+      "coverage": {
+        "years": [
+          2011
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2011%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/复分析；2011复分析期末考试.pdf；文本层编码不可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2011%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2011complexfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

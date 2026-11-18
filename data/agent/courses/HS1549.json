@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1549",
+  "name": "中国审美文化",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

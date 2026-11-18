@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM4002",
+  "name": "可视化设计与开发",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

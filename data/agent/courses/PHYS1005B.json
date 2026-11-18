@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1005B",
+  "name": "原子物理B",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-phys1005b-exams-4d032a21",
+      "type": "exams",
+      "title": "原子物理（乙）2017 期末考试题及答案",
+      "authors": [],
+      "notes": "目录：物理类/原子物理；乙班 2017 期末。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%B9%99%EF%BC%892017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.doc",
+        "note": "目录：物理类/原子物理；文件名注明“乙”、2017 期末、及答案；对应 PHYS1005B"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%B9%99%EF%BC%892017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.doc",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

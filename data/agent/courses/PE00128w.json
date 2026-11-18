@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00128w",
+  "name": "拳击I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

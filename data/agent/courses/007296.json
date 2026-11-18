@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007296",
+  "name": "大气电学",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

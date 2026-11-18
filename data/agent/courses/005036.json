@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "005036",
+  "name": "复合材料力学",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

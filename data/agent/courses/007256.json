@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007256",
+  "name": "大气科学专题讲座",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

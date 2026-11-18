@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CHEM4006",
+  "name": "物理化学III(A)",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

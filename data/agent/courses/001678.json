@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "001678",
+  "name": "法语I",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

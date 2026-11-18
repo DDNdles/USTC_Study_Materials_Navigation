@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00125w",
+  "name": "跆拳道I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

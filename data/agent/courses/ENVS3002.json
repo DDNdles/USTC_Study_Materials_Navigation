@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ENVS3002",
+  "name": "环境微生物学",
+  "kind": "professional",
+  "tags": [
+    "environment",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

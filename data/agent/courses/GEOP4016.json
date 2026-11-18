@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "GEOP4016",
+  "name": "地球物理程序设计",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

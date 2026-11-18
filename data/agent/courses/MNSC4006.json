@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC4006",
+  "name": "商务数据分析与应用",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "008170",
+  "name": "生物技术制药实验",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

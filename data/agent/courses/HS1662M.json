@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1662M",
+  "name": "中华传统文化与人生修养",
+  "kind": "general",
+  "tags": [
+    "philosophy",
+    "literature"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

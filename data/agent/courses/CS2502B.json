@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "code": "CS2502B",
+  "name": "数据结构B",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-guides-ustcguide-ds",
+      "type": "study",
+      "title": "数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿）",
+      "authors": [
+        "USTCGUIDE 贡献者"
+      ],
+      "notes": "页面标题同时覆盖数据结构、数据结构及其算法三类课程名；正文为外部资料索引，外链未逐项核验",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+        "note": "索引页未标注年份"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+          "download_page": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+          "download_url": null,
+          "access": "public",
+          "license_note": "资料簿仅作索引；外链资料权利归原作者，无再分发许可",
+          "attribution": "USTCGUIDE（施耀炜等贡献者）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-web-cs2502b",
+      "type": "study",
+      "title": "数据结构B 课程网站（�γ���Դ）",
+      "authors": [
+        "中国科学技术大学教师课程网站"
+      ],
+      "notes": "实际打开页面，标题「�γ���Դ」，页面列出 40 个课件/讲义类文件（如 [���������㷨]、[VC6����win7/win8 64λ]、ϰ��）",
+      "coverage": {
+        "years": [
+          2015,
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~ypb/",
+        "note": "年份取页面文件链接/路径中的四位年份；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~ypb/",
+          "download_page": "http://staff.ustc.edu.cn/~ypb/",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师课程网站公开页面；页面内课件权利归授课教师，未声明再分发许可",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED3010",
+  "name": "急诊医学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

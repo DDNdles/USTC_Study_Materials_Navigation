@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "910006",
+  "name": "医学免疫学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -4,6 +4,7 @@
  *   data/with-resources/<code>.json、data/without-resources/<code>.json
  *   data/generated-files.json（本构建自己的产物清单）
  *   docs/sources-and-search.md（来源、检索记录与致谢）
+ *   data/agent/（课程名索引与逐课资料；同时发布到 dist/data/agent/）
  *   dist/（站点、catalog.json、sources.html）
  *
  * 只更新清单列出的自有文件；不联网、不抓取资料、不执行来源项目代码。
@@ -147,6 +148,7 @@ function isOwnedGeneratedPath(relativePath) {
     relativePath === DOCS_RELATIVE ||
     relativePath.startsWith('data/with-resources/') ||
     relativePath.startsWith('data/without-resources/') ||
+    relativePath.startsWith('data/agent/') ||
     relativePath.startsWith('dist/')
   );
 }
@@ -889,9 +891,28 @@ async function main() {
   const docs = renderDocs(report);
   const sourcesHtml = renderSourcesHtml(report);
 
+  const agentFiles = [
+    ['data/agent/index.json', {
+      schema_version: 1,
+      courses: catalog.courses.map(({ code, name, has_resources }) => ({ code, name, has_resources })),
+    }],
+  ];
+  const sourceNames = new Map(catalog.sources.map(({ id, name }) => [id, name]));
+  for (const course of catalog.courses) {
+    const sources = Object.fromEntries(course.resources.flatMap(({ locations }) =>
+      locations.map(({ source_id }) => [source_id, sourceNames.get(source_id)]),
+    ));
+    agentFiles.push([`data/agent/courses/${encodeURIComponent(course.code)}.json`, {
+      schema_version: 1,
+      ...course,
+      sources,
+    }]);
+  }
+
   const siteFiles = await listSiteFiles();
   const generated = [
     ...partitions.files.map((file) => toPosix(file.path)),
+    ...agentFiles.flatMap(([file]) => [file, `dist/${file}`]),
     DOCS_RELATIVE,
     'dist/data/catalog.json',
     'dist/sources.html',
@@ -921,6 +942,13 @@ async function main() {
   for (const file of partitions.files) {
     await writeJson(absolute(toPosix(file.path)), file.data);
   }
+  for (const [file, data] of agentFiles) {
+    await writeJson(absolute(file), data);
+    const target = absolute(`dist/${file}`);
+    await mkdir(path.dirname(target), { recursive: true });
+    await copyFile(absolute(file), target);
+  }
+
 
   await writeText(absolute(DOCS_RELATIVE), docs);
 

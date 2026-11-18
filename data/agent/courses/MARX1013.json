@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "code": "MARX1013",
+  "name": "毛泽东思想和中国特色社会主义理论体系概论",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-MARX1013-exam-2025",
+      "type": "exams",
+      "title": "毛概 2025年春季学期期末试卷（A卷）",
+      "authors": [],
+      "notes": "三张试卷照片（毛概2025期末-1/-2/-3.jpg），卷面标 2025年春季学期、A卷、开卷；仅试题，无答案。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822025%E6%9C%9F%E6%9C%AB-1.jpg",
+        "note": "卷面核对：2025年春季学期期末考试 A卷，开卷，共3页（-1/-2/-3.jpg）；无答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822025%E6%9C%9F%E6%9C%AB-1.jpg",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822025%E6%9C%9F%E6%9C%AB-1.jpg",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822025%E6%9C%9F%E6%9C%AB-2.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822025%E6%9C%9F%E6%9C%AB-3.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-exam-2023-practice",
+      "type": "exams",
+      "title": "毛概 2023年春季学期参考题及部分解答",
+      "authors": [],
+      "notes": "正文标题为“2023年春季学期参考题及其部分解答”，属练习/参考题，不是正式原卷。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2023%E6%98%A5%E6%9C%9F%E6%9C%AB.docx",
+        "note": "正文核对：2023年春季学期参考题及部分解答；按练习卷记录。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2023%E6%98%A5%E6%9C%9F%E6%9C%AB.docx",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2023%E6%98%A5%E6%9C%9F%E6%9C%AB.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822023%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E9%A2%98%E5%8F%8A%E5%85%B6%E9%83%A8%E5%88%86%E8%A7%A3%E7%AD%94.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-exam-2022",
+      "type": "exams",
+      "title": "毛概 2022年春季学期期末考试试卷",
+      "authors": [],
+      "notes": "正文为“中国科学技术大学马克思主义学院 2022年春季学期考试试卷”，仅试题无答案。与 hum-MARX1013-openbook-kobe（考场抄写版）为同一 docx（git blob 21b271f5），分别按试题/开卷资料归类。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2022%E6%98%A5%E6%9C%9F%E6%9C%AB.docx",
+        "note": "正文核对：2022年春季学期考试试卷，简答+论述，无答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2022%E6%98%A5%E6%9C%9F%E6%9C%AB.docx",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2022%E6%98%A5%E6%9C%9F%E6%9C%AB.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-homework-duxiaoyang",
+      "type": "homework",
+      "title": "23版毛概课后习题答案",
+      "authors": [],
+      "notes": "2023版教材配套课后习题答案 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/23%E7%89%88%E6%AF%9B%E6%A6%82%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "note": "文件名明示23版毛概课后习题答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/23%E7%89%88%E6%AF%9B%E6%A6%82%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/23%E7%89%88%E6%AF%9B%E6%A6%82%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-notes-feixu-jieda",
+      "type": "study",
+      "title": "《毛泽东思想和中国特色社会主义理论体系概论》（2021年版）笔记和课后习题（含考研真题）详解",
+      "authors": [],
+      "notes": "264 页 PDF；内容简介与目录显示为 2021 年版教材配套复习笔记、课后习题与考研真题详解，非中科大官方资料；PDF 元数据署名“中国出版”，无个人作者。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E5%92%8C%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3.pdf",
+        "note": "内容简介/目录核对：2021 年版教材学习辅导书，与课程教材版本一致；非官方指定资料。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E5%92%8C%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：政治类/毛泽东思想和中国特色社会主义理论体系概论",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-notes-ly382965",
+      "type": "study",
+      "title": "毛概2021版分章知识点、练习题与复习重点",
+      "authors": [],
+      "notes": "目录含2021版绪论至第十四章知识点及练习题、毛概重点/复习文档与课后题提取；同目录2023版笔记和课后习题PDF与另一仓库文件 SHA 相同，属出版教辅扫描，未收录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Introduction%20to%20Mao%20Zedong%20Thought%20and%20Theoretical%20System%20of%20Socialism%20with%20Chinese%20Characteristics",
+        "note": "目录名对应毛概课程；文件为分章知识点/练习题与复习资料。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Introduction%20to%20Mao%20Zedong%20Thought%20and%20Theoretical%20System%20of%20Socialism%20with%20Chinese%20Characteristics",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Introduction%20to%20Mao%20Zedong%20Thought%20and%20Theoretical%20System%20of%20Socialism%20with%20Chinese%20Characteristics",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-notes-duxiaoyang",
+      "type": "study",
+      "title": "毛概大框架知识点梳理讲义",
+      "authors": [],
+      "notes": "按考点梳理的课程讲义 PDF，正文首章为马克思主义中国化时代化。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86%E8%AE%B2%E4%B9%89.pdf",
+        "note": "正文为毛概考点梳理；目录与课程一致。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86%E8%AE%B2%E4%B9%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1013-openbook-kobe",
+      "type": "study",
+      "title": "毛概期末试卷考场抄写版（2022春）",
+      "authors": [],
+      "notes": "仓库 readme 说明为 2022 春季学期王冬青班考场现抄、与真实试卷相同；含学生作品，本索引不采集姓名学号。该 docx 与 hum-MARX1013-exam-2022（飞絮站 2022春期末.docx）git blob 均为 21b271f5，同一文件；按用途分别归入开卷资料与试题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%80%83%E5%9C%BA%E6%8A%84%E5%86%99%E7%89%88.docx",
+        "note": "readme 与文件同目录，说明对应 2022 春季学期；作为开卷/考场资料，不按正式试卷年份统计。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%80%83%E5%9C%BA%E6%8A%84%E5%86%99%E7%89%88.docx",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%80%83%E5%9C%BA%E6%8A%84%E5%86%99%E7%89%88.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特殊说明可复制修改传播；仅原页导航",
+          "attribution": "GitHub @Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

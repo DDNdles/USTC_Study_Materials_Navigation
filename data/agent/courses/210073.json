@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "code": "210073",
+  "name": "电子技术实验I",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-learning-mate-210073-2fa-electronic-technology-experiment-i",
+      "type": "study",
+      "title": "电子技术实验 I 讲义与资料（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "6 个文件（tree 实际读取）；目录 2FA Electronic Technology Experiment I",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Electronic%20Technology%20Experiment%20I",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Electronic%20Technology%20Experiment%20I",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Electronic%20Technology%20Experiment%20I",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-study-feixu-210073-210074-lab-manuals",
+      "type": "study",
+      "title": "电子技术实验讲义（101、112 实验室，实验一 常用电子仪器）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "101 与 112 为实验室房间号，不是课程号；两份均为实验一“常用电子仪器使用”讲义（101：32 页；112：16 页）。电子技术实验 I/II 共用，故同时列 210073、210074。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+        "note": "101 室 32 页、112 室 16 页；均为实验一常用电子仪器；房间号不是课程号。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/112%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/112%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-feixu-210073-reports-2024",
+      "type": "projects",
+      "title": "电子技术实验 I 实验报告（2024 秋，RC／晶体管／运放 5 份）",
+      "authors": [
+        "杨景添",
+        "曾昱嘉"
+      ],
+      "notes": "杨景添、曾昱嘉 2024 秋报告，日期 2024-10-31 至 2024-12-05；含一阶 RC、RC 频率特性、晶体管放大器、集成运放、仪器使用总结。按实验内容归 210073（模拟部分）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E4%B8%80%E9%98%B6RC%E7%94%B5%E8%B7%AF%E7%9A%84%E7%A0%94%E7%A9%B6.pdf",
+        "note": "5 份实验报告；日期 2024-10-31 至 2024-12-05；模拟电路实验内容。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E4%B8%80%E9%98%B6RC%E7%94%B5%E8%B7%AF%E7%9A%84%E7%A0%94%E7%A9%B6.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E4%B8%80%E9%98%B6RC%E7%94%B5%E8%B7%AF%E7%9A%84%E7%A0%94%E7%A9%B6.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/RC%E7%94%B5%E8%B7%AF%E9%A2%91%E7%8E%87%E7%89%B9%E6%80%A7%E7%9A%84%E7%A0%94%E7%A9%B6.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/RC%E7%94%B5%E8%B7%AF%E9%A2%91%E7%8E%87%E7%89%B9%E6%80%A7%E7%9A%84%E7%A0%94%E7%A9%B6.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E9%9B%86%E6%88%90%E8%BF%90%E6%94%BE%E7%9A%84%E5%BA%94%E7%94%A8.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E9%9B%86%E6%88%90%E8%BF%90%E6%94%BE%E7%9A%84%E5%BA%94%E7%94%A8.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E6%99%B6%E4%BD%93%E7%AE%A1%E5%85%B1%E5%B0%84%E6%9E%81%E5%8D%95%E7%AE%A1%E6%94%BE%E5%A4%A7%E5%99%A8.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E6%99%B6%E4%BD%93%E7%AE%A1%E5%85%B1%E5%B0%84%E6%9E%81%E5%8D%95%E7%AE%A1%E6%94%BE%E5%A4%A7%E5%99%A8.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E4%BB%AA%E5%99%A8.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%E4%BB%AA%E5%99%A8.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-materi-210073-3-1",
+      "type": "projects",
+      "title": "电子技术实验 I 资料（USTC-Course-Materials-Sharing）",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "17 个文件（tree 实际读取）；目录 3-电子技术实验1",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C1",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C1",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C1",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing"
+  }
+}

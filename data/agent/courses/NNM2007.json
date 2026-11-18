@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM2007",
+  "name": "网络编辑",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "literature"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

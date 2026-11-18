@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00140",
+  "name": "武术I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

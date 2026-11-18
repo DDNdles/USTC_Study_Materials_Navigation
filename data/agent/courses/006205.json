@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "006205",
+  "name": "信号建模与算法实践",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "ai"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-projects-006205-c190be6b",
+      "type": "projects",
+      "title": "信号建模与算法实践实验与大实验（手写数字识别）",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "实验1-5与Pytorch LeNet大实验；作者要求勿随意外传。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E4%BF%A1%E5%8F%B7%E5%BB%BA%E6%A8%A1%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5",
+        "note": "实验1-5与Pytorch LeNet大实验；作者要求勿随意外传。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E4%BF%A1%E5%8F%B7%E5%BB%BA%E6%A8%A1%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
+  }
+}

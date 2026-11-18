@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "code": "003156",
+  "name": "物理化学III",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-003156-hw-report",
+      "type": "homework",
+      "title": "物理化学III 作业合集与课程报告",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库目录“物理化学III,统计力学/”内含物理化学III作业合集与课程报告 PDF，另有 Op.116.pdf 与“这我还没学完”说明；统计力学部分未单独标注，故只挂物理化学III。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6",
+        "note": "目录名合并两门课，仅文件名明确写“物理化学III”的条目可确认归属。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：物理化学III,统计力学",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-003156-lectures-2021",
+      "type": "study",
+      "title": "物理化学III 2021 秋季全套课程幻灯片（003156.01）",
+      "authors": [
+        "YIXUAN CHE（个人主页整理上传）"
+      ],
+      "notes": "个人主页 PhyChemIII.html 页头标注 Physical Chemistry III、003156.01、Fall 2021，并列出任课教师与教材；页面提供 Slide 0–5.x 共 30 余份 PDF 与合并版 PhyChemIII.pdf。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~zz0312/PhyChemIII.html",
+        "note": "页面自标课程号 003156.01 与 Fall 2021；单份幻灯片未逐年标注。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-yixuanche-home",
+          "page_url": "http://home.ustc.edu.cn/~zz0312/PhyChemIII.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "学生个人主页公开上传；未声明再分发许可，仅导航原页面，不转存 PDF。",
+          "attribution": "YIXUAN CHE 个人主页：Physical Chemistry III（003156.01）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）",
+    "chembio-yixuanche-home": "YIXUAN CHE 个人主页课程页（home.ustc.edu.cn/~zz0312）"
+  }
+}

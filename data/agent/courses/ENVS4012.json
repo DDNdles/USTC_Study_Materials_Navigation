@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4012",
+  "name": "环境工程设计基础",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

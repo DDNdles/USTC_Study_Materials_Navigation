@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME4019",
+  "name": "新能源材料与器件",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

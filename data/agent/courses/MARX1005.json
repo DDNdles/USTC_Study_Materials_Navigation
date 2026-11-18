@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MARX1005",
+  "name": "思想政治理论课实践",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

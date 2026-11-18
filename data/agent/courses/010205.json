@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "code": "010205",
+  "name": "运动控制",
+  "kind": "professional",
+  "tags": [
+    "control"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-homework-010205-5e169fd1",
+      "type": "homework",
+      "title": "运动控制课后习题答案（电力拖动自动控制系统）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "教材课后答案PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E4%BA%94%E7%89%88-%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "note": "教材课后答案PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E4%BA%94%E7%89%88-%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-010205-fe3b0f49",
+      "type": "study",
+      "title": "运动控制课程PDF（绪论至多轴协调）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "Motion_Control/PDF版本共12份。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control",
+        "note": "Motion_Control/PDF版本共12份。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-010205-8493cd3e",
+      "type": "study",
+      "title": "运动控制知识点总结",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "知识点总结PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf",
+        "note": "知识点总结PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

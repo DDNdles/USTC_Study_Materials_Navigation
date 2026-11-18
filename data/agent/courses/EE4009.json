@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "EE4009",
+  "name": "量子信息与控制",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "control",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

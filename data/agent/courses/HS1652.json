@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1652",
+  "name": "造物体验与创新",
+  "kind": "general",
+  "tags": [
+    "innovation",
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

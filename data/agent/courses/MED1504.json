@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED1504",
+  "name": "工作器官-人体生理实验",
+  "kind": "general",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

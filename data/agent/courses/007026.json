@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007026",
+  "name": "大气物理学基础",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

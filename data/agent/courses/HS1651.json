@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1651",
+  "name": "西方音乐通史",
+  "kind": "general",
+  "tags": [
+    "arts",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

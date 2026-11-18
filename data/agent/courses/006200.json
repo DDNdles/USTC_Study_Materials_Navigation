@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "code": "006200",
+  "name": "统计信号分析与处理",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-006200-543856a2",
+      "type": "exams",
+      "title": "统计信号分析与处理 2021—2022学年（公历年份未确认） 期末（回忆版）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "卷面证据：学年2021-2022；期末；回忆版；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-006200-ab9c090d",
+      "type": "homework",
+      "title": "统计信号分析与处理作业答案",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "作业答案PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+        "note": "作业答案PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-006200-6c91353e",
+      "type": "study",
+      "title": "统计信号分析与处理复习资料",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "2025复习PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E5%A4%8D%E4%B9%A0%20-%202025.pdf",
+        "note": "2025复习PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E5%A4%8D%E4%B9%A0%20-%202025.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-006200-6c88ba33",
+      "type": "study",
+      "title": "统计信号分析与处理课程PDF（绪论至第六章）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "绪论/第1-6章/复习/习题课。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing",
+        "note": "绪论/第1-6章/复习/习题课。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

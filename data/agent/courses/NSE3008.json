@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE3008",
+  "name": "嵌入式系统与接口实验",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

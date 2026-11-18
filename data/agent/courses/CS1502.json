@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "code": "CS1502",
+  "name": "计算机系统详解",
+  "kind": "general",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-projects-gh-ustc-course-cs1502-codes",
+      "type": "projects",
+      "title": "计算机系统详解 实验报告与代码（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "5 个文件（tree 实际读取）；目录 计算机系统详解/codes",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-cs-courses-re-cs1502-csapp",
+      "type": "projects",
+      "title": "计算机系统详解(csapp) 实验（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "13 个文件（tree 实际读取）；目录 公选课/计算机系统详解(csapp)",
+      "coverage": {
+        "years": [
+          2003,
+          2014
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%85%AC%E9%80%89%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3(csapp)",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%85%AC%E9%80%89%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3(csapp)",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%85%AC%E9%80%89%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3(csapp)",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

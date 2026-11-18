@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS3005",
+  "name": "环境监测",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

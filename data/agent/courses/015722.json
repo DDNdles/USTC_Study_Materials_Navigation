@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "015722",
+  "name": "人力资源管理",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "psychology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

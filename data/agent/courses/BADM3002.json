@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BADM3002",
+  "name": "技术创新管理",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "innovation"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "code": "EE3005",
+  "name": "现代通信原理",
+  "kind": "professional",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-notes-ee3005-4feee7bb",
+      "type": "study",
+      "title": "现代通信原理复习重点",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "划重点PDF/MD。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Modern%20Communications%20Principles/%E5%88%92%E9%87%8D%E7%82%B9.pdf",
+        "note": "划重点PDF/MD。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Modern%20Communications%20Principles/%E5%88%92%E9%87%8D%E7%82%B9.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee3005-566b5595",
+      "type": "projects",
+      "title": "现代通信原理实验指导与实验材料",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "实验一至五与指导书。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E7%8E%B0%E4%BB%A3%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86",
+        "note": "实验一至五与指导书。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E7%8E%B0%E4%BB%A3%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee3005-40b56941",
+      "type": "projects",
+      "title": "现代通信原理ASK实验（LabVIEW/MATLAB源码与报告）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "ASK通信系统综合实验。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Modern%20Communications%20Principles/%E5%AE%9E%E9%AA%8C%E6%BA%90%E4%BB%A3%E7%A0%81%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%8F%8A%E7%AD%94%E8%BE%A9PPT",
+        "note": "ASK通信系统综合实验。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Modern%20Communications%20Principles/%E5%AE%9E%E9%AA%8C%E6%BA%90%E4%BB%A3%E7%A0%81%20%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%E5%8F%8A%E7%AD%94%E8%BE%A9PPT",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
+  }
+}

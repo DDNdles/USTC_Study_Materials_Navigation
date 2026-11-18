@@ -1,0 +1,478 @@
+{
+  "schema_version": 1,
+  "code": "011040",
+  "name": "图论",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-011040-graphtheory2025f-pdf",
+      "type": "exams",
+      "title": "图论 2025 期末回忆版（许胤龙、吕敏班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2025F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2025F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2025F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-gt2024f-md",
+      "type": "exams",
+      "title": "图论 2024 期末回忆版（徐宏力班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2024F.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2024F.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2024F.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-gt2022f-pdf",
+      "type": "exams",
+      "title": "图论 2022 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2022F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2022F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2022F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-gt2021f-docx",
+      "type": "exams",
+      "title": "图论 2021 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2021F.docx",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2021F.docx",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2021F.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011040-2021",
+      "type": "exams",
+      "title": "图论 2021 秋期末试题（回忆文本）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）；卷型未逐页确认",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2021%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.txt",
+        "note": "按目录文件名核验年份与卷型；同名课程在 guch8017 README 标注为回忆版，本文件未逐页核验卷面"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2021%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.txt",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2021%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.txt",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-graphtheory2018-2020ans-pdf",
+      "type": "exams",
+      "title": "图论 2018-2020 试题答案",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2018-2020Ans.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2018-2020Ans.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2018-2020Ans.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-gt2020f-pdf",
+      "type": "exams",
+      "title": "图论 2020 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2020F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2020F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2020F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011040-2020",
+      "type": "exams",
+      "title": "图论 2020 秋期末试题",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "答案见 2018&2020 合并答案文件；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）；卷型未逐页确认",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2020%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "按目录文件名核验年份与卷型；同名课程在 guch8017 README 标注为回忆版，本文件未逐页核验卷面"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2020%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2020%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-graphtheory2019ans-pdf",
+      "type": "exams",
+      "title": "图论 2019 答案",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2019Ans.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2019Ans.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2019Ans.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-gt2019f-pdf",
+      "type": "exams",
+      "title": "图论 2019 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2019F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2019F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2019F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011040-2019",
+      "type": "exams",
+      "title": "图论 2019 秋期末试题与答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（2个文件）；卷型未逐页确认",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "按目录文件名核验年份与卷型；同名课程在 guch8017 README 标注为回忆版，本文件未逐页核验卷面"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pptx",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88.pptx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011040-gt2018f-pdf",
+      "type": "exams",
+      "title": "图论 2018 期末回忆版（许胤龙、吕敏班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2018F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2018F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2018F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011040-2018",
+      "type": "exams",
+      "title": "图论 2018 秋期末试题与答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "答案文件合并2018与2020两年；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（3个文件）；卷型未逐页确认",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "按目录文件名核验年份与卷型；同名课程在 guch8017 README 标注为回忆版，本文件未逐页核验卷面"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%262020%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88markdown.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%262020%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88markdown.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%262020%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88ppt.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%262020%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88ppt.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

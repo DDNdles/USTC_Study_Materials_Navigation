@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "008187",
+  "name": "生物化学与分子生物学基础实验",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

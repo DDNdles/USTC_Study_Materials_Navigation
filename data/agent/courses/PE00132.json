@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00132",
+  "name": "瑜伽I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "HS1560",
+  "name": "电影音乐艺术",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1560-projects-film-music",
+      "type": "projects",
+      "title": "电影音乐艺术《末代皇帝》展示材料与课程讲义",
+      "authors": [],
+      "notes": "仓库 README 自述分享电影音乐艺术课程的展示材料、讲稿与课程讲义；含 PPT/PDF 成品、逐页讲稿与影片研究资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/LuckytoeUSTC/the-last-emperor-film-music",
+        "note": "README“分享电影音乐艺术课程的展示材料”；文件树含 展示/成品 PPT、PDF 与讲义链接。"
+      },
+      "locations": [
+        {
+          "source_id": "github-luckytoe-film-music",
+          "page_url": "https://github.com/LuckytoeUSTC/the-last-emperor-film-music",
+          "download_page": "https://github.com/LuckytoeUSTC/the-last-emperor-film-music",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根目录未见 LICENSE；版权归作者，仅原页导航",
+          "attribution": "GitHub @LuckytoeUSTC",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "github-luckytoe-film-music": "电影音乐艺术《末代皇帝》展示材料（LuckytoeUSTC）"
+  }
+}

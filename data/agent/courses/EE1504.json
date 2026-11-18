@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "EE1504",
+  "name": "机器人DIY",
+  "kind": "general",
+  "tags": [
+    "control",
+    "instruments",
+    "innovation"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

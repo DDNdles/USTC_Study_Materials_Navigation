@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "006198",
+  "name": "移动通信原理",
+  "kind": "professional",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

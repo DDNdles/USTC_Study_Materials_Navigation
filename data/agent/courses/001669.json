@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "001669",
+  "name": "综合法语",
+  "kind": "professional",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

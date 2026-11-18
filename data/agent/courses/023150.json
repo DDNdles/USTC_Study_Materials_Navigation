@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "023150",
+  "name": "半导体器件物理",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "electronics",
+    "ic"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

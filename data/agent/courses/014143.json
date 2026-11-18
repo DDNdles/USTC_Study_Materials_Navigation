@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "014143",
+  "name": "材料研究方法",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

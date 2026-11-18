@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "COMM1503",
+  "name": "人际沟通与公共表达",
+  "kind": "general",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

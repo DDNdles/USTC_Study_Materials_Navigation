@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE4005",
+  "name": "知识工程",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

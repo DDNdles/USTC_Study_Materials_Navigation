@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME2503",
+  "name": "先进制造实践",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "innovation"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

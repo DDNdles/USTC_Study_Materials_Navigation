@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "001682KS",
+  "name": "分析III(口试)",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

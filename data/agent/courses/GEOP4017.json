@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOP4017",
+  "name": "地质学与大地构造概论",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

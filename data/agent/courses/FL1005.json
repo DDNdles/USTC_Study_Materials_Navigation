@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1005",
+  "name": "英语读写I",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "code": "017131",
+  "name": "随机过程A",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-017131-exam-2017-final",
+      "type": "exams",
+      "title": "随机过程A 2016-2017学年第二学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2017年6月12日 14:30—16:30，随机过程A，闭卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017131-exam-2017-mid",
+      "type": "exams",
+      "title": "随机过程A 2016-2017学年第二学期期中试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2017年5月8日 9:45—11:45，随机过程A，闭卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

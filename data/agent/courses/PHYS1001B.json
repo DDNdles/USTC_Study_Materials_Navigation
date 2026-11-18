@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1001B",
+  "name": "力学B",
+  "kind": "common",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-phys1001b-exams-a113e3",
+      "type": "exams",
+      "title": "2025力学B答案",
+      "authors": [],
+      "notes": "目录：物理类/力学；2025力学B答案.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/力学；2025力学B答案.pdf；卷面/首页学期：2025春；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-f9b7b1",
+      "type": "exams",
+      "title": "2024力学B答案",
+      "authors": [],
+      "notes": "目录：物理类/力学；2024力学B答案.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/力学；2024力学B答案.pdf；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-8a8626",
+      "type": "exams",
+      "title": "2024力学B试题",
+      "authors": [],
+      "notes": "目录：物理类/力学；2024力学B试题.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024%E5%8A%9B%E5%AD%A6B%E8%AF%95%E9%A2%98.pdf",
+        "note": "目录：物理类/力学；2024力学B试题.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024%E5%8A%9B%E5%AD%A6B%E8%AF%95%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-03327c",
+      "type": "exams",
+      "title": "2022力学B答案",
+      "authors": [],
+      "notes": "目录：物理类/力学；2022力学B答案.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2022%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/力学；2022力学B答案.pdf；文本层可读；抽读前3页（共10页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2022%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-3210c4",
+      "type": "exams",
+      "title": "2021力学B答案",
+      "authors": [],
+      "notes": "目录：物理类/力学；2021力学B答案.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/力学；2021力学B答案.pdf；文本层可读；抽读前3页（共11页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-624979",
+      "type": "exams",
+      "title": "2021力学B试卷",
+      "authors": [],
+      "notes": "目录：物理类/力学；2021力学B试卷.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6B%E8%AF%95%E5%8D%B7.pdf",
+        "note": "目录：物理类/力学；2021力学B试卷.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6B%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-c70090",
+      "type": "exams",
+      "title": "2020力学B答案",
+      "authors": [],
+      "notes": "目录：物理类/力学；2020力学B答案.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/力学；2020力学B答案.pdf；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1001b-exams-03eed3",
+      "type": "exams",
+      "title": "2020力学B试题",
+      "authors": [],
+      "notes": "目录：物理类/力学；2020力学B试题.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E5%8A%9B%E5%AD%A6B%E8%AF%95%E9%A2%98.pdf",
+        "note": "目录：物理类/力学；2020力学B试题.pdf；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E5%8A%9B%E5%AD%A6B%E8%AF%95%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

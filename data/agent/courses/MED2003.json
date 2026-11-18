@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MED2003",
+  "name": "生理学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

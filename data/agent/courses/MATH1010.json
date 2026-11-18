@@ -1,0 +1,375 @@
+{
+  "schema_version": 1,
+  "code": "MATH1010",
+  "name": "线性代数(B2)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math1010-2025-midterm-3fba8d",
+      "type": "exams",
+      "title": "线性代数B2 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：统考；文件：2025LAB2mid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025；单元格：统考；文件：2025LAB2mid.pdf；首页可见日期 2025年11月；年份按首页考试日期 2025年11月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025LAB2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1010-2024-final-f45b04",
+      "type": "exams",
+      "title": "线性代数B2 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：统考；文件：2024LAB2final.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024；单元格：统考；文件：2024LAB2final.pdf；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024LAB2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1010-2024-midterm-ff1c6a",
+      "type": "exams",
+      "title": "线性代数B2 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：统考；文件：2024LAB2mid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2024；单元格：统考；文件：2024LAB2mid.pdf；卷面/首页学期：2024秋；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024LAB2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1010-2023-final-462fe4",
+      "type": "exams",
+      "title": "线性代数B2 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：统考；文件：2023LAB2final.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2023；单元格：统考；文件：2023LAB2final.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023LAB2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1010-2023-midterm-3329e2",
+      "type": "exams",
+      "title": "线性代数B2 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：统考；文件：2023LAB2mid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2023；单元格：统考；文件：2023LAB2mid.pdf；无文本层（扫描件）；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023LAB2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1010-2022-final-86a92c",
+      "type": "exams",
+      "title": "线性代数B2 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2022；单元格：统考；文件：2022LAB2final.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2022；单元格：统考；文件：2022LAB2final.pdf；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022LAB2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1010-exams-ddf020",
+      "type": "exams",
+      "title": "2021线性代数(B2)期末",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(B)历年真题；2021线性代数(B2)期末.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：数学类/线性代数/线性代数(B)历年真题；2021线性代数(B2)期末.pdf；卷面/首页学期：2021秋；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1010-exams-ecb4da",
+      "type": "exams",
+      "title": "2021线性代数(B2)期中",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(B)历年真题；2021线性代数(B2)期中.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：统考；文件：2021LAB2mid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/线性代数/线性代数(B)历年真题；2021线性代数(B2)期中.pdf；卷面/首页学期：2021秋；文本层可读；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021LAB2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1010-2021-final-712bbc",
+      "type": "exams",
+      "title": "线性代数B2 2021 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：统考；文件：2021LAB2final.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2021；单元格：统考；文件：2021LAB2final.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021LAB2final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1010-exams-2edb47",
+      "type": "exams",
+      "title": "2020线性代数(B2)期中",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(B)历年真题；2020线性代数(B2)期中.pdf；课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2020；单元格：统考；文件：2020LAB2mid.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2020%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "目录：数学类/线性代数/线性代数(B)历年真题；2020线性代数(B2)期中.pdf；文本层几无中文；抽读前3页（共21页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2020%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020LAB2mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-05d8",
+      "type": "exams",
+      "title": "线性代数(B) 历年真题（B1/B2/A 合集）",
+      "authors": [],
+      "notes": "不将合集内分卷计为独立文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+        "note": "共 55 页，以 B1、B2 为主，第 49—55 页附 A1、A2 的试卷；含期中、期末，无统一卷头年份。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

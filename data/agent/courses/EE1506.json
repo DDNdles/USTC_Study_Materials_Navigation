@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE1506",
+  "name": "单片机应用",
+  "kind": "general",
+  "tags": [
+    "electronics",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

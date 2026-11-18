@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME2012",
+  "name": "工程计算方法",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

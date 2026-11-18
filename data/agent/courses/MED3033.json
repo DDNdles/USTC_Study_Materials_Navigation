@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED3033",
+  "name": "早期临床接触Ⅱ",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

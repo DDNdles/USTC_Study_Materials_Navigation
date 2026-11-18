@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "code": "CS3001H",
+  "name": "计算机组成原理(H)",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-notes-gh-ustc-course-resour-cs3001h-h",
+      "type": "study",
+      "title": "计算机组成原理(H) 复习与习题答案（ustc-course-resources）",
+      "authors": [
+        "Melmaphother"
+      ],
+      "notes": "4 个文件（tree 实际读取）；目录 计算机组成原理(H)",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-melmaphother",
+          "page_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)",
+          "download_page": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明个人课程资源记录",
+          "attribution": "Melmaphother/ustc-course-resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-course-resour-cs3001h-h",
+      "type": "study",
+      "title": "计算机组成原理(H) 资料（ustc-course-resource）",
+      "authors": [
+        "Wloner0809"
+      ],
+      "notes": "318 个文件（tree 实际读取）；目录 计算机组成原理H",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-plus-cs3001h-h",
+      "type": "projects",
+      "title": "计算机组成原理(H) 实验报告与课件（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "23 个文件（tree 实际读取）；目录 计算机组成原理(H)",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-melmaphother": "Melmaphother/ustc-course-resources",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

@@ -1,0 +1,948 @@
+{
+  "schema_version": 1,
+  "code": "MATH1009",
+  "name": "线性代数(B1)",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math1009-2026-final-f31261",
+      "type": "exams",
+      "title": "线性代数B1 2026 期末",
+      "authors": [],
+      "notes": "课程目录页的期末链接使用小写 final（实测 404）；本站保留已核验的大写 Final 文件直链。",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "8 页；卷头「中国科学技术大学数学科学学院 2025–2026 学年第2学期期末考试试卷／课程名称 线性代数(B1)／课程编号 MATH1009／考试时间 2026 年 7 月 7 日／闭卷」，填空已填答案、解答题附过程。2026-11-18 实测大写 2026SLAB1Final.pdf 返回 200 application/pdf（169586 字节，md5 1C22CEEE…）；Services 页 href 写作小写 2026SLAB1final.pdf，实测 404，直链保留大写 Final 写法。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026SLAB1Final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2026-midterm-ec7815",
+      "type": "exams",
+      "title": "线性代数B1 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2026春；单元格：期中；文件：2026SLAB1mid.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "7 页排版题面 + 参考解答（填空答案已填、解答题有过程）；无卷头，年份与「期中」来自 Services 表 2026春 行。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026SLAB1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2025-final-ecd559",
+      "type": "exams",
+      "title": "线性代数B1 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025秋；单元格：期末；文件：2025FLAB1final.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "6 页排版题面 + 完整解答（判断题给理由、计算题给过程）；全 6 页无课程名、学年、期别卷头，年份与「期末」仅来自 Services 表 2025秋 行，非原卷扫描。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025FLAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2025-midterm-88b170",
+      "type": "exams",
+      "title": "线性代数B1 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025秋；单元格：期中；文件：2025FLAB1mid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [
+          "2025-2026"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "7 页；卷头「中国科学技术大学 2025-2026学年第一学期期中考试试卷／考试科目：线性代数（B1）」，填空处已填答案。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025FLAB1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2025-midterm-e965e6",
+      "type": "exams",
+      "title": "线性代数B1 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2025春；单元格：期中；文件：2025SLAB1mid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "12 页 = 前 6 页「2024—2025学年第二学期期中考试试卷／线性代数(B1)」扫描（填空处手写答案）+ 后 6 页排版参考答案。排版答案标题写「线性代数(B1)期末试卷 参考答案」，但答案与期中考题逐一对应（填空 2 = 39、块矩阵求逆、β=3α1−α2+2α3 等），判为答案文档标题误写，不是期末卷。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025SLAB1mid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2024-final-134691",
+      "type": "exams",
+      "title": "线性代数B1 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024春；单元格：期末；文件：2024SLAB1final.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2024春；单元格：期末；文件：2024SLAB1final.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024SLAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2020-final-52809c",
+      "type": "exams",
+      "title": "线性代数B1 2020 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2020秋；单元格：期末；文件：2020FLAB1final.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2020秋；单元格：期末；文件：2020FLAB1final.pdf；文本层编码不可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020FLAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math1009-2019-final-d531eb",
+      "type": "exams",
+      "title": "线性代数B1 2019 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2019秋；单元格：期末；文件：2019FLAB1final.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/Services/",
+        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2019秋；单元格：期末；文件：2019FLAB1final.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019FLAB1final.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-4b61",
+      "type": "exams",
+      "title": "2009-2010第二学期线性代数(B1)期中考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 f18473ac54f079…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2009%E2%80%942010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；2 页扫码卷；卷头「中国科学技术大学 2009—2010学年第二学期期中考试试卷／考试科目：线性代数」，未写 B1、无 A/B 卷标记；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，225183 字节，与本地副本一致；sha256 前缀 f18473ac54f079。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2009%E2%80%942010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2009%E2%80%942010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-d959",
+      "type": "exams",
+      "title": "2010-2011第二学期线性代数(B1)期末考试试卷及答案",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 1717ead32a84f3…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2010%E2%80%942011%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "10 页；10 页；卷头「中国科学技术大学 2010–2011 学年第二学期《线性代数》期终考试试卷」，第 7—8 页为参考答案（文本层可读）。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，143053 字节，与本地副本一致；sha256 前缀 1717ead32a84f3。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2010%E2%80%942011%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2010%E2%80%942011%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-90b3",
+      "type": "exams",
+      "title": "2011-2012第一学期线性代数(B1)期中考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 a62e471fb92d07…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2011%E2%80%942012%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "4 页；4 页；卷头「线性代数与解析几何(A)（2011.11.18）」，未写 B1；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，71611 字节，与本地副本一致；sha256 前缀 a62e471fb92d07。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2011%E2%80%942012%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2011%E2%80%942012%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-eb24",
+      "type": "exams",
+      "title": "2012-2013第二学期线性代数(B1)期终考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 d58464e9b4836d…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2012-2013"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "3 页；3 页；卷头「中国科学技术大学 2012-2013学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；与「另一份」同场次同卷别但题目不同，两卷并存原因未知；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，100148 字节，与本地副本一致；sha256 前缀 d58464e9b4836d。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-a7a0",
+      "type": "exams",
+      "title": "2012-2013第二学期线性代数(B1)期终考试试卷（另一份）",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 11b9cc9e0fa44d…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2012-2013"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "4 页；4 页；卷头「2012-2013学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；原 GitHub 文件名写作「期中」，与卷头不符，本地按卷头改名。与同场次另一份 3 页试卷（另资源）卷头同为第二学期期终 A 卷，但题目不同；仅凭两份文件无法判定差异原因（如分班/重考），二者并列保留，不合并、不自动挂载。未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，278686 字节，与本地副本一致；sha256 前缀 11b9cc9e0fa44d。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-6b7b",
+      "type": "exams",
+      "title": "2012-2013第一学期线性代数B1期末考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 ff9c8b3b995aed…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2012-2013"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "4 页；4 页；卷头「2012-2013学年第一学期期终考试试题／考试科目：线性代数B1」；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，84325 字节，与本地副本一致；sha256 前缀 ff9c8b3b995aed。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-d2b8",
+      "type": "exams",
+      "title": "2013-2014第二学期线性代数(B1)期末考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 2634e28a86bd34…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2013-2014"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "4 页；4 页；卷头「中国科学技术大学 2013-2014学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，274502 字节，与本地副本一致；sha256 前缀 2634e28a86bd34。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-68f7",
+      "type": "exams",
+      "title": "2013-2014第二学期线性代数(B1)期中考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 65a8a006ef59b7…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2013-2014"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；2 页；卷头「2013—2014学年度第二学期期中考试试卷／考试科目：线性代数／考试时间：2014.4.27」；卷面无 A/B 标记（旧清单称 A 卷不成立），未写 B1；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，165403 字节，与本地副本一致；sha256 前缀 65a8a006ef59b7。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-b1a3",
+      "type": "exams",
+      "title": "2013-2014第一学期线性代数(B1)期末考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 97d44c5c220fb0…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2013-2014"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "4 页；4 页；卷头「中国科学技术大学 2013–2014学年第一学期期终考试试题／考试科目：线性代数与解析几何」，未写 B1；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，81672 字节，与本地副本一致；sha256 前缀 97d44c5c220fb0。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-448b",
+      "type": "exams",
+      "title": "2013-2014第一学期线性代数(B1)期中考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 0ee6f7a1ddddb6…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2013-2014"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；2 页；卷头「2013–2014学年第一学期期中考试试题／考试科目：线性代数与解析几何／考试时间：2013.11.24」，未写 B1、无 A/B 标记；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，75321 字节，与本地副本一致；sha256 前缀 0ee6f7a1ddddb6。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2013%E2%80%942014%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-e6b2ad",
+      "type": "exams",
+      "title": "2014-2015第二学期线性代数(B1)期中考试试卷（含手写解答）",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(B)历年真题；2014-2015第二学期线性代数(B1)期中参考答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2014-2015%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "4 页；卷头「中国科学技术大学 2014-2015学年第二学期期中考试试卷／考试科目：线性代数与解析几何」，卷面无 B1 字样、无 A/B 卷标记（按来源目录归 B1），卷面有手写解答。GitHub fandahao17 目录内同名文件（命名 2014—2015 第二学期期中）与本文件 md5 一致（87EECCCE…）；该目录另有「2015—2016学年第一学期期中」文件与本文件同 blob（1cd3b0c…），系重复上传，不能据此认定存在 2015—2016 期中卷。旧登记「卷头写第一学期」的说法不成立。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2014-2015%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-1357",
+      "type": "exams",
+      "title": "2014-2015第一学期线性代数(B1)期中考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 fdd1d8d4518d26…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；2 页；卷头「2014–2015 学年第一学期期中考试试题／考试科目：线性代数／考试时间：2014.11.23」，未写 B1、无 A/B 标记；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，79061 字节，与本地副本一致；sha256 前缀 fdd1d8d4518d26。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-2ee23c",
+      "type": "exams",
+      "title": "2016-2017第二学期线性代数(B1)期中参考答案",
+      "authors": [],
+      "notes": "目录：数学类/线性代数/线性代数(B)历年真题；2016-2017第二学期线性代数(B1)期中参考答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2016-2017%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "4 页；卷头「中国科学技术大学数学科学学院 2016—2017学年第二学期期中试卷／课程名称 线性代数（B1）／课程编号 00151911／考试时间 2017 年 4 月／闭卷」，填空处已填答案；与 GitHub 同名文件字节一致（md5 58B0E03A…），系同一文件两处镜像。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2016-2017%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-410b",
+      "type": "exams",
+      "title": "2016-2017第一学期线性代数B1期中考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 7b4a1d95c9fa2f…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "6 页；6 页；卷头「2016–2017学年第一学期期中考试试题／考试科目：线性代数B1／考试时间：2016.12.3」；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，233757 字节，与本地副本一致；sha256 前缀 7b4a1d95c9fa2f。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-fandahao17-math1009-exams-7379",
+      "type": "exams",
+      "title": "2016-2017第一学期线性代数B1期终考试试卷",
+      "authors": [],
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 3f1d5a5aa77648…",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "6 页；6 页；卷头「2016-2017学年第一学期期终考试试卷(A)／考试科目：线性代数(B1)」。原 GitHub 文件名写作「第二学期…期末考试试卷及答案」，学期与「及答案」均与卷面不符；卷面 6 页无答案（第 3 页核对），按卷头归第一学期期终。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，209417 字节，与本地副本一致；sha256 前缀 3f1d5a5aa77648。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fandahao17-ustc-cs",
+          "page_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
+          "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-05d8",
+      "type": "exams",
+      "title": "线性代数(B) 历年真题（B1/B2/A 合集）",
+      "authors": [],
+      "notes": "不将合集内分卷计为独立文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+        "note": "共 55 页，以 B1、B2 为主，第 49—55 页附 A1、A2 的试卷；含期中、期末，无统一卷头年份。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-e05a1e",
+      "type": "exams",
+      "title": "线性代数(B1)历年真题及参考解答（2024版）",
+      "authors": [],
+      "notes": "目录：数学类/线性代数；线性代数(B1)历年真题及参考解答.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf",
+        "note": "166 页；封面「线性代数B1 历年真题及参考解答／花开花败／2024 年 7 月 22 日／本答案仅供参考」，收录 2015—2024 期中、期末题与非官方参考解答。icourse 直链 508538 字节（md5 42463952…）与旧索引本地副本一致；feixu 副本为 2024-07-24 上传的 7 月 23 日重排版（508716 字节，md5 ECD2D98A…），页数同为 166、首页文字一致，属同一工作的不同导出版本，不重复计数。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/uploads/files/1fd2e6e6f6d7334b7a8d7313fcf1396fbf360e27.pdf",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/1fd2e6e6f6d7334b7a8d7313fcf1396fbf360e27.pdf",
+          "access": "public",
+          "license_note": "评课社区附件直链，匿名可取；权利归原作者/教师，站点未声明逐文件再分发许可",
+          "attribution": "USTC 评课社区（附件直链）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-exams-4262f6",
+      "type": "exams",
+      "title": "线性代数(B1)历年真题sxl答案",
+      "authors": [
+        "孙旭磊"
+      ],
+      "notes": "目录：数学类/线性代数；线性代数(B1)历年真题sxl答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf",
+        "note": "25 页扫描；首页「资料来源：我的科大 https://wdkd.feixu.site/ 2021级 少年班学院 孙旭磊」；正文为 B1 历年题参考解答汇编，不作为单独一场考试。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math1009-notes-5893e7",
+      "type": "study",
+      "title": "线性代数(B1) 线代B1（notes）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 线代B1，3 个文件，例：线代历卷.pdf；linear algebra.pdf；线性代数 李尚志.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BA%BF%E4%BB%A3B1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BA%BF%E4%BB%A3B1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-notes-430beb",
+      "type": "study",
+      "title": "线性代数(B1)笔记",
+      "authors": [],
+      "notes": "目录：数学类/线性代数；线性代数(B1)笔记.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E7%AC%94%E8%AE%B0.pdf",
+        "note": "文件：线性代数(B1)笔记.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math1009-lectures-4bf59d",
+      "type": "study",
+      "title": "线性代数(B1)习题讲义",
+      "authors": [],
+      "notes": "目录：数学类/线性代数；线性代数(B1)习题讲义.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E4%B9%A0%E9%A2%98%E8%AE%B2%E4%B9%89.pdf",
+        "note": "文件：线性代数(B1)习题讲义.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E4%B9%A0%E9%A2%98%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "gh-fandahao17-ustc-cs": "fandahao17/USTC-CS-Courses-Resource（历史课程资料）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource"
+  }
+}

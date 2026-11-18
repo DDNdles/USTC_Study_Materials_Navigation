@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "NSE4007",
+  "name": "等离子体数值模拟",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "nuclear",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

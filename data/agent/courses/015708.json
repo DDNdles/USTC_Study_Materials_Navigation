@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "015708",
+  "name": "财务分析",
+  "kind": "professional",
+  "tags": [
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

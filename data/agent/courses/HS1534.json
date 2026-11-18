@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "HS1534",
+  "name": "社会心理学",
+  "kind": "general",
+  "tags": [
+    "psychology"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1534-homework-liqilin",
+      "type": "homework",
+      "title": "社会心理学期末调查与论文",
+      "authors": [],
+      "notes": "含“嫉妒心理调查与思考”期末论文、图表数据与论文 PDF；学生署名不采集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6",
+        "note": "目录名与官方课名一致；内容为课程期末调查/论文。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing"
+  }
+}

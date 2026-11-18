@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "INEE1506",
+  "name": "设计创新实践 I",
+  "kind": "general",
+  "tags": [
+    "innovation",
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

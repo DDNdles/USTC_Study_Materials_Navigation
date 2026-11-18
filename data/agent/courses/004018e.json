@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "004018e",
+  "name": "原子核物理(英)",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

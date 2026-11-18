@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE4020",
+  "name": "射频技术基础",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

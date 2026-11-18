@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1605",
+  "name": "科学摄影",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

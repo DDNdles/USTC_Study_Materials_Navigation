@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4006",
+  "name": "量子材料与器件",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

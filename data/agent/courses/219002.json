@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "219002",
+  "name": "数字信号处理B",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

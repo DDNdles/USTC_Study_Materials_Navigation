@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4702",
+  "name": "物理创新能力导引",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

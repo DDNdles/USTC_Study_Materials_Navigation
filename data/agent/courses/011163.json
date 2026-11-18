@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "code": "011163",
+  "name": "编译原理和技术",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-011163-compilerprinciples2026autumnmid-md",
+      "type": "exams",
+      "title": "编译原理和技术 2026 秋期中回忆版（李诚、徐伟班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CompilerPrinciples2026AutumnMid.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CompilerPrinciples2026AutumnMid.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CompilerPrinciples2026AutumnMid.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011163-2018",
+      "type": "exams",
+      "title": "编译原理和技术 2018 期中试题与参考答案",
+      "authors": [
+        "share.feixu.site 投稿者",
+        "USTC-Resource/USTC-Course"
+      ],
+      "notes": "feixu 与 USTC-Course 文件字节摘要相同（955315 字节，sha256 7710518e…），合并 locations；PDF 为 8 页扫描/拍照的期中试题与手写答案，故 has_solutions=true。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%862018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/exams/2018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/exams/2018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%862018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%862018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011163",
+      "type": "exams",
+      "title": "编译原理历年真题合集",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "合集文件，年份与卷型未逐卷拆分；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-011163-labs",
+      "type": "projects",
+      "title": "编译原理和技术 实验（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "72 个文件（tree 实际读取）；目录 编译原理和技术/labs",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

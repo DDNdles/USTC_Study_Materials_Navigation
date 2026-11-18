@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "CS4033",
+  "name": "网络系统实验",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-projects-gh-ustc-course-plus-cs4033",
+      "type": "projects",
+      "title": "网络系统实验 实验（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "1030 个文件（tree 实际读取）；目录 网络系统实验",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "002075",
+  "name": "凝聚态物理基础",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

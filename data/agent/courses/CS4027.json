@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4027",
+  "name": "人工智能安全",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "security"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

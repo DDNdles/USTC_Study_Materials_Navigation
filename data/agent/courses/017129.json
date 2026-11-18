@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017129",
+  "name": "实用随机过程",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

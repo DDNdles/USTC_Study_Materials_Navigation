@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00149",
+  "name": "龙狮运动II",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

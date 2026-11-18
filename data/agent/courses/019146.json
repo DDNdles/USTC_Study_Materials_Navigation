@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "019146",
+  "name": "化工实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

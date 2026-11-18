@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "IC3001",
+  "name": "半导体材料与物理",
+  "kind": "professional",
+  "tags": [
+    "ic",
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

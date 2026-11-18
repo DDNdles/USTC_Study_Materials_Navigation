@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME3009",
+  "name": "机械设计基础III",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

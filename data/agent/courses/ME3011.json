@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME3011",
+  "name": "机械制造技术基础",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "232088",
+  "name": "建筑火灾安全工程",
+  "kind": "professional",
+  "tags": [
+    "safety"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

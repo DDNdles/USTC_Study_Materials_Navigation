@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "code": "AI1001B",
+  "name": "人工智能数学原理与算法B",
+  "kind": "common",
+  "tags": [
+    "ai",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-ai-sgy-source-slides",
+      "type": "study",
+      "title": "人工智能数学原理与算法 课件（课程站点 source/slides）",
+      "authors": [
+        "ustc-ai-sgy"
+      ],
+      "notes": "33 个文件（tree 实际读取）；仓库 source/_posts/main.md 标明「2025春季人工智能数学原理与算法课程介绍」；课程站点未区分 A/B 代码",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides",
+        "note": "课程站点标注2025春季"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-ai-sgy-ustc-ai-sgy-io",
+          "page_url": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides",
+          "download_page": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；AI 通识课程站点源码与课件",
+          "attribution": "ustc-ai-sgy/ustc-ai-sgy.github.io",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-ai-sgy-source-experiment",
+      "type": "study",
+      "title": "人工智能数学原理与算法 实验（课程站点 source/experiment）",
+      "authors": [
+        "ustc-ai-sgy"
+      ],
+      "notes": "24 个文件（tree 实际读取）；仓库 source/_posts/main.md 标明「2025春季人工智能数学原理与算法课程介绍」；课程站点未区分 A/B 代码",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment",
+        "note": "上机安排及实验讲义、手册、课件与模板代码，不含学生提交作品。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-ai-sgy-ustc-ai-sgy-io",
+          "page_url": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment",
+          "download_page": "https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；AI 通识课程站点源码与课件",
+          "attribution": "ustc-ai-sgy/ustc-ai-sgy.github.io",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-ustc-ai-sgy-ustc-ai-sgy-io": "ustc-ai-sgy/ustc-ai-sgy.github.io"
+  }
+}

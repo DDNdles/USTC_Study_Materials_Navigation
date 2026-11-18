@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007279",
+  "name": "沉积岩石学",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

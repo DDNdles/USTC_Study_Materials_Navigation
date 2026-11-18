@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1587",
+  "name": "馆窥世界史",
+  "kind": "general",
+  "tags": [
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

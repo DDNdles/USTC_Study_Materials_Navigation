@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017703",
+  "name": "金融衍生品",
+  "kind": "professional",
+  "tags": [
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

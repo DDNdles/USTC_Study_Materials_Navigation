@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "code": "MARX1010",
+  "name": "中国近现代史纲要",
+  "kind": "common",
+  "tags": [
+    "politics",
+    "history"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-MARX1010-homework-feixu",
+      "type": "homework",
+      "title": "中国近现代史纲要题库（2022春）",
+      "authors": [],
+      "notes": "2022春题库的 xls/docx/pdf 版本及论述题，供练习；locations 为同一题库的各组成文件页，非镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81",
+        "note": "文件名标注 2022春题库；非正式试卷。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.xls",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.xls",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.doc",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.doc",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89%E8%AE%BA%E8%BF%B0%E9%A2%98.docx",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89%E8%AE%BA%E8%BF%B0%E9%A2%98.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89%E8%AE%BA%E8%BF%B0%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89%E8%AE%BA%E8%BF%B0%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

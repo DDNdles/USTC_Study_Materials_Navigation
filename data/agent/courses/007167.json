@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007167",
+  "name": "普通天文学",
+  "kind": "professional",
+  "tags": [
+    "astronomy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

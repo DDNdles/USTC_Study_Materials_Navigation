@@ -131,9 +131,11 @@ npm run monitor -- --publish
 
 ## Agent 与程序读取
 
-部署后可用 HTTP GET 读取站点根地址下的 `data/catalog.json`；本地构建后直接读 `dist/data/catalog.json`。这是静态 JSON，无需服务端 API、MCP 或登录。仓库内要读取单门课，也可按课号查找 `data/with-resources/` 和 `data/without-resources/` 下对应的生成文件，文件名使用 `encodeURIComponent(code)`。
+仓库和网站均提供 `data/agent/index.json`（课号、课名、收录状态），以及 `data/agent/courses/<文件名>.json`（单门课的正式资料、出处、文件入口及来源名称）。本地网站生成版位于 `dist/data/agent/`。只按课号查询时可跳过首页索引；按课名查时先匹配索引，再读单门课文件。两个入口均包含 `schema_version`。
 
-例如，让 Agent 按 `courses[].code` 查 `229001`，只返回 `resources[].type` 为 `exams` 的资料，从 `coverage` 读已核验的年份与卷别，并保留 `locations[].page_url` 作为出处。`download_url` 仅在数据登记时另列，不把空值补造成下载链接。`has_resources: false` 表示站内暂未收录，不表示课程没有资料。顶层 `schema_version` 用于识别数据版本。
+文件名为 `encodeURIComponent(code) + '.json'`；例如 `229001.json`、`PHYS1008B%2B.json`。通过 HTTP 读取时，对这个文件名再做一次 URL 路径编码，例如 `PHYS1008B%252B.json`。单课 JSON 中 `locations[].page_url` 是原始出处；`download_url` 只在确实登记时才有值，不能由页面地址推造。`has_resources: false` 表示暂未收录。
+
+交互和判定规则见 README 的提示词。不需要安装 Skill、CLI 或 MCP；不要把全站浏览器目录 `catalog.json` 当成默认查询入口。
 
 ## 搜索与 URL 参数
 

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MATH1011",
+  "name": "微积分I",
+  "kind": "common",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

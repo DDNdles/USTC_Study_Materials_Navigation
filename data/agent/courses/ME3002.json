@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME3002",
+  "name": "燃烧学A",
+  "kind": "professional",
+  "tags": [
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

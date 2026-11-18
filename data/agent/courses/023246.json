@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "023246",
+  "name": "数字系统工程",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "ic"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

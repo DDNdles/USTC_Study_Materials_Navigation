@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1012",
+  "name": "大学综合英语（免修）",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

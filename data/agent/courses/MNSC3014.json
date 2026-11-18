@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC3014",
+  "name": "数字经济",
+  "kind": "professional",
+  "tags": [
+    "economics",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

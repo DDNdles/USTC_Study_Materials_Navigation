@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1117",
+  "name": "科普英语交流进阶",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1638",
+  "name": "考古与文物",
+  "kind": "general",
+  "tags": [
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

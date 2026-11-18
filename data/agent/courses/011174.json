@@ -1,0 +1,422 @@
+{
+  "schema_version": 1,
+  "code": "011174",
+  "name": "操作系统原理与设计",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-011174-os2026spring-pdf",
+      "type": "exams",
+      "title": "操作系统原理与设计 2026 春回忆版（李永坤、王志强班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 记作「操作系统」李永坤/王志强；评课社区该课程页课程号为 01117402；README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026Spring.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026Spring.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026Spring.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011174-os2026springlyk-pdf",
+      "type": "exams",
+      "title": "操作系统原理与设计 2026 春回忆版（李永坤班，第二份）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026SpringLYK.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026SpringLYK.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026SpringLYK.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011705-os2021-pdf",
+      "type": "exams",
+      "title": "操作系统原理与设计 2021 考试要点（陈香兰班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "与 2017/2018 陈香兰卷一致，按 icourse 2680 的课程号 01117401 归 011174；不因 README 的 (H) 标签挂 011705。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2021.pdf",
+        "note": "guch README 将该文件列在“操作系统(H) 陈香兰”行，但 README 同行的 icourse 链接 2680 实际为“操作系统原理与设计（陈香兰）”、课程号 01117401；卷面无课程名与期中/期末标识，故按课程页归 011174，form=recollection、kind=unknown。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2021.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2021.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011174-2021",
+      "type": "exams",
+      "title": "操作系统原理与设计 2021 期末试卷",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011174-2018",
+      "type": "exams",
+      "title": "操作系统原理与设计 2018 春期末试题",
+      "authors": [
+        "share.feixu.site 投稿者",
+        "guch8017/USTC_CS_EXAM"
+      ],
+      "notes": "PDF 标题为“2018年春季学期《操作系统原理与设计》期末试题”；题卷本身不含答案，has_solutions=false；参考答案另见 computing-exam-guch-011174-2018-answers；同目录 2018期末试卷.md 为 secon 回忆版，另建独立条目。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "PDF 标题为“2018年春季学期《操作系统原理与设计》期末试题”；题卷本身不含答案，has_solutions=false；guch 答案文件另建独立条目。相同试题字节见 USTC-Course、guch OS2018 与 feixu。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2018.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2018.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011174-2018-answers",
+      "type": "exams",
+      "title": "操作系统原理与设计 2018 春期末试题参考答案",
+      "authors": [
+        "guch8017/USTC_CS_EXAM"
+      ],
+      "notes": "guch 独立答案文件 OS2018Solution.pdf，首页标题同为“2018年春季学期《操作系统原理与设计》期末试题”，含填空/解答答案；与题卷不同字节，独立成条。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2018Solution.pdf",
+        "note": "guch 独立答案文件 OS2018Solution.pdf，首页标题同为“2018年春季学期《操作系统原理与设计》期末试题”，含填空/解答答案；与题卷不同字节，独立成条。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2018Solution.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2018Solution.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011174-2018-recall",
+      "type": "exams",
+      "title": "操作系统原理与设计 2018 期末试卷回忆（secon）",
+      "authors": [
+        "secon"
+      ],
+      "notes": "Markdown，作者 secon；与同目录 2018 期末 PDF（原卷）不同，单独登记；内容为概念题与反例回忆。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md",
+        "note": "正文标题“2018 期末试卷回忆”，作者 secon；回忆版，非原卷；不含答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011174-2017",
+      "type": "exams",
+      "title": "操作系统原理与设计 2017 试卷（回忆版）",
+      "authors": [
+        "share.feixu.site 投稿者",
+        "guch8017/USTC_CS_EXAM"
+      ],
+      "notes": "三处文件字节摘要相同（51534 字节）；guch README 标“操作系统(H) 陈香兰”，与 USTC-Course 的 011174 目录及卷面课程名冲突，按卷面归 011174 并在检索日志记录冲突；卷面无公历日期，不按学年猜 2017。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2017%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+        "note": "PDF 首页为“2016-2017学年第二学期考试试卷／考试科目：操作系统原理与设计”，未标期中/期末，也无公历考试日期，故 years=[]、kind=unknown、form=recollection；相同字节见 USTC-Course、guch 与 feixu。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2017%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2017%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2017.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2017.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-gh-ustc-course-011174-homeworks",
+      "type": "homework",
+      "title": "操作系统原理与设计 作业（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "10 个文件（tree 实际读取）；目录 操作系统原理与设计/homeworks",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-011174",
+      "type": "study",
+      "title": "操作系统原理与设计 课件与实验（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "361 个文件（tree 实际读取）；目录 大二下/操作系统原理与设计",
+      "coverage": {
+        "years": [
+          2015,
+          2016,
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-course-materials-011174",
+      "type": "projects",
+      "title": "操作系统原理与设计（陈香兰班）实验与理论资料",
+      "authors": [
+        "TinyRubbish"
+      ],
+      "notes": "831 个文件（tree 实际读取）；目录 操作系统原理与设计-陈香兰",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/TinyRubbish/Course-Materials/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1-%E9%99%88%E9%A6%99%E5%85%B0",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-tinyrubbish-course-materials",
+          "page_url": "https://github.com/TinyRubbish/Course-Materials/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1-%E9%99%88%E9%A6%99%E5%85%B0",
+          "download_page": "https://github.com/TinyRubbish/Course-Materials/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1-%E9%99%88%E9%A6%99%E5%85%B0",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；个人 USTC 课程资料",
+          "attribution": "TinyRubbish/Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "gh-tinyrubbish-course-materials": "TinyRubbish/Course-Materials"
+  }
+}

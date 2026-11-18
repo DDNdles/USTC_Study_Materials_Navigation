@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE4014",
+  "name": "放射分析化学",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

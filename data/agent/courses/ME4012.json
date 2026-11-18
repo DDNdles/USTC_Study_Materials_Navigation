@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME4012",
+  "name": "材料科学基础",
+  "kind": "professional",
+  "tags": [
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "017146",
+  "name": "回归分析",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-017146-homework-regression",
+      "type": "homework",
+      "title": "回归分析 2025 Lab1–4 讲义与作业",
+      "authors": [],
+      "notes": "仓库 README 自述中科大回归分析2025 lab 作业，答案由作者生成、不保证正确；含 lab1–lab4 讲义与作业 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
+        "note": "README“中科大回归分析2025lab作业”；文件树为 lab1–lab4 的 tutorial 与作业 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "github-irvingyou-regression-lab",
+          "page_url": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
+          "download_page": "https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根目录未见 LICENSE；版权归作者，仅原页导航",
+          "attribution": "GitHub @IrvingYou",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "github-irvingyou-regression-lab": "中科大回归分析 2025 lab（IrvingYou）"
+  }
+}

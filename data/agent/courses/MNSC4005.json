@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC4005",
+  "name": "数字化战略与创新",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "innovation"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

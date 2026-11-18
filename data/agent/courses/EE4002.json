@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "code": "EE4002",
+  "name": "现代信息技术概览",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications",
+    "cs",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BIO1516",
+  "name": "生命侦探：用化学解密免疫与疾病",
+  "kind": "general",
+  "tags": [
+    "chemistry",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

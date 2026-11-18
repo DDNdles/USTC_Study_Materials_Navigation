@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1649",
+  "name": "中国书法",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

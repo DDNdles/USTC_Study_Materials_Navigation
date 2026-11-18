@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "IS3002",
+  "name": "复杂系统分析",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

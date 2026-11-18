@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE4018",
+  "name": "放射性药物化学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

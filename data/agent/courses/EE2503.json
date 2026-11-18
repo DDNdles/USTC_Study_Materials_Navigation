@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE2503",
+  "name": "电子线路实验",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "code": "BADM2003",
+  "name": "会计学原理",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "finance"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-BADM2003-lectures-blog",
+      "type": "study",
+      "title": "会计学原理分章幻灯片与重点",
+      "authors": [],
+      "notes": "仓库 经管类/会计学原理 目录，含第1—13章 PPT 与会计学重点。两处 locations 已比对：14 个同名文件 SHA 一致，另有文件名差异与重复版本，属同一资料的不同整理，不作整目录镜像处理。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86",
+        "note": "目录名与官方课名一致；文件为分章课件。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-15172658790-blog",
+          "page_url": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86",
+          "download_page": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明无特别声明资料 CC BY-NC-SA 4.0；课件/试卷版权归原作者，仅原页导航",
+          "attribution": "GitHub @15172658790/Blog（学生投稿镜像）",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/blob/master/%E8%87%AA%E7%94%B1%E9%80%89%E4%BF%AE-%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/blob/master/%E8%87%AA%E7%94%B1%E9%80%89%E4%BF%AE-%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86",
+          "download_url": null,
+          "access": "public",
+          "license_note": "镜像仓库无独立 LICENSE；沿用原仓库 CC BY-NC-SA 4.0 声明，第三方课件版权归原作者",
+          "attribution": "GitHub @ustcwpz/USTC-CS-Courses-Resource（镜像）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-15172658790-blog": "15172658790/Blog",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

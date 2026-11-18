@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "FL1011",
+  "name": "英语读写进阶II",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-FL1011-lectures-mooc",
+      "type": "study",
+      "title": "英语读写进阶II（USTC 慕课，孙波）",
+      "authors": [
+        "孙波"
+      ],
+      "notes": "官方慕课页，编号FL1011，外语教学中心，1学分20课时；视频需登录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000002631.html?edit=false&articleId=20985",
+        "note": "页面编号FL1011、学分、课时、院系与官方课程信息一致。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-mooc",
+          "page_url": "https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000002631.html?edit=false&articleId=20985",
+          "download_page": "https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000002631.html?edit=false&articleId=20985",
+          "download_url": null,
+          "access": "login",
+          "license_note": "官方慕课；版权归中国科大/主讲教师，仅原页导航，不抓取受限视频",
+          "attribution": "中国科学技术大学慕课平台",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-mooc": "中国科学技术大学慕课平台"
+  }
+}

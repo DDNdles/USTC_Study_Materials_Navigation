@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "910007",
+  "name": "医学免疫学实验",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

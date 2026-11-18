@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PLNT3004",
+  "name": "行星物质科学",
+  "kind": "professional",
+  "tags": [
+    "astronomy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

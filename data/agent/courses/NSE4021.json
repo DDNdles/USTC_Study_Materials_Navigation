@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE4021",
+  "name": "先进光源实验方法",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

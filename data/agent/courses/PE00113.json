@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00113",
+  "name": "健美操I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

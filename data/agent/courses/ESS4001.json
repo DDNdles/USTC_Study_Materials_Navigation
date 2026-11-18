@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "code": "ESS4001",
+  "name": "空间探测自主性设计实验",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "earth",
+    "instruments",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

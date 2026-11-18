@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "code": "EE3003",
+  "name": "微波技术基础",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-homework-ee3003-80d8cca4",
+      "type": "homework",
+      "title": "微波技术基础作业（2022）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "作业PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/homework2022.pdf",
+        "note": "作业PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/homework2022.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee3003-f554ba49",
+      "type": "study",
+      "title": "微波技术基础课件（2025，陈卫东）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "课件PDF；同目录有笔记版。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8BPPT%282025%EF%BC%89-%E9%99%88%E5%8D%AB%E4%B8%9C.pdf",
+        "note": "课件PDF；同目录有笔记版。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8BPPT%282025%EF%BC%89-%E9%99%88%E5%8D%AB%E4%B8%9C.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee3003-78650d9a",
+      "type": "projects",
+      "title": "微波技术基础实验报告与虚拟仿真资料",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "实验报告目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Fundamentals%20of%20Microwave%20Technology/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+        "note": "实验报告目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Fundamentals%20of%20Microwave%20Technology/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee3003-e7f5ce6e",
+      "type": "projects",
+      "title": "微波技术基础ADS实验工程",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "lab1-lab3 ADS工程；作者要求勿随意外传。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80",
+        "note": "lab1-lab3 ADS工程；作者要求勿随意外传。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
+  }
+}

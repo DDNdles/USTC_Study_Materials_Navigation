@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PLNT3003",
+  "name": "行星大气演化",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "HS1584",
+  "name": "当代科技艺术",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1584-projects-duxiaoyang",
+      "type": "projects",
+      "title": "当代科技艺术个人调研与作品",
+      "authors": [],
+      "notes": "目录含个人调研、作品 PPT、课程文档与参考展册；README 说明作品和调研仅供参考。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BD%93%E4%BB%A3%E7%A7%91%E6%8A%80%E8%89%BA%E6%9C%AF",
+        "note": "目录名与官方课名一致；文件为该课调研/作品。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BD%93%E4%BB%A3%E7%A7%91%E6%8A%80%E8%89%BA%E6%9C%AF",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%BD%93%E4%BB%A3%E7%A7%91%E6%8A%80%E8%89%BA%E6%9C%AF",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

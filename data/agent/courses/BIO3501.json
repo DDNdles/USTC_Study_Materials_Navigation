@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BIO3501",
+  "name": "生物化学C",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

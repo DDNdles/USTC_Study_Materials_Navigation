@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1005A",
+  "name": "原子物理A",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-phys1005a-2026-final-94cc3b",
+      "type": "exams",
+      "title": "原子物理 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：2026春 (A)；文件：26SpAtomAFinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：2026春 (A)；文件：26SpAtomAFinal.pdf；无文本层（扫描件）；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpAtomAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1005a-2025-final-39c17a",
+      "type": "exams",
+      "title": "原子物理 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025秋；单元格：2025秋 (A)；文件：25FaAtomAFinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025秋；单元格：2025秋 (A)；文件：25FaAtomAFinal.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaAtomAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1005a-2025-final-92748d",
+      "type": "exams",
+      "title": "原子物理 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025春；单元格：2025春 (A)；文件：25SpAtomAFinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025春；单元格：2025春 (A)；文件：25SpAtomAFinal.pdf；卷面/首页学期：2025春；首页可见日期 2025年6月；年份按首页考试日期 2025年6月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpAtomAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1005a-2022-final-519f74",
+      "type": "exams",
+      "title": "原子物理 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2022春；单元格：2022春 (A)；文件：22SpAtomAFinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2022春；单元格：2022春 (A)；文件：22SpAtomAFinal.pdf；无文本层（扫描件）；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22SpAtomAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%862021-2022%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1005a-2018-final-5e0bc2",
+      "type": "exams",
+      "title": "原子物理 2018 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2018春 (A)；文件：18SpAtomAFinal.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2018春 (A)；文件：18SpAtomAFinal.pdf；无文本层（扫描件）；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/18SpAtomAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%862018%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1005a-2016-final-a5cac8",
+      "type": "exams",
+      "title": "原子物理 2016 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2016春 (A)；文件：16SpAtomAFinal.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2020年前；单元格：2016春 (A)；文件：16SpAtomAFinal.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/16SpAtomAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%862016%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

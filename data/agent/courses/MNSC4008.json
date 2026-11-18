@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC4008",
+  "name": "AI大模型原理与应用",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

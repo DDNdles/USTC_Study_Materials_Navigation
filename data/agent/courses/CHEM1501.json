@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CHEM1501",
+  "name": "生活中的化学科普实验",
+  "kind": "general",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

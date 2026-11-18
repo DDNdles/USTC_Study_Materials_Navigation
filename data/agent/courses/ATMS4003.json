@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ATMS4003",
+  "name": "Python数据可视化及地球科学应用",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

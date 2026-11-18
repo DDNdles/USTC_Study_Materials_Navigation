@@ -1,0 +1,317 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1002A",
+  "name": "热学A",
+  "kind": "common",
+  "tags": [
+    "physics",
+    "thermal"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-phys1002a-2025-final-b16567",
+      "type": "exams",
+      "title": "热学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：预考（朱弘）(A)；文件：25SpThermApreFinalZH.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：预考（朱弘）(A)；文件：25SpThermApreFinalZH.pdf；卷面/首页学期：2026春；首页可见日期 2026年6月；年份按首页考试日期 2026年6月；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpThermApreFinalZH.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1002a-2026-final-40f843",
+      "type": "exams",
+      "title": "热学 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：2026 春（A）；文件：26SpThermAFinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：2026 春（A）；文件：26SpThermAFinal.pdf；卷面/首页学期：2026春；首页可见日期 2026年6月；年份按首页考试日期 2026年6月；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpThermAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1002a-2025-final-fff3f2",
+      "type": "exams",
+      "title": "热学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025春；单元格：2025春 (A)；文件：25SpThermAFinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025春；单元格：2025春 (A)；文件：25SpThermAFinal.pdf；卷面/首页学期：2024—2025学年第二学期；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpThermAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1002a-2024-final-ca9e43",
+      "type": "exams",
+      "title": "热学 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2024春；单元格：2024春 (A)；文件：24SpThermAFinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2024春；单元格：2024春 (A)；文件：24SpThermAFinal.pdf；卷面/首页学期：2024春；首页可见日期 2024年6月；年份按首页考试日期 2024年6月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24SpThermAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1002a-2022-final-d1c465",
+      "type": "exams",
+      "title": "热学 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2022春；单元格：2022春 (A)；文件：22SpThermAFinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2022春；单元格：2022春 (A)；文件：22SpThermAFinal.pdf；卷面/首页学期：2022春；首页可见日期 2022年6月；年份按首页考试日期 2022年6月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22SpThermAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1002a-homework-98c5a621",
+      "type": "homework",
+      "title": "2023 春热学参考题（wxf 班）",
+      "authors": [],
+      "notes": "目录：物理类/热学；2023 春 wxf 班参考题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/2023%E6%98%A5wxf%E7%8F%AD%E7%83%AD%E5%AD%A6%E5%8F%82%E8%80%83%E9%A2%98.docx",
+        "note": "目录：物理类/热学；正文首行“23春热学参考题（wxf班）”；参考题/练习，非正式考试"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/2023%E6%98%A5wxf%E7%8F%AD%E7%83%AD%E5%AD%A6%E5%8F%82%E8%80%83%E9%A2%98.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1002a-study-d9be3c93",
+      "type": "study",
+      "title": "《热学》（第二版，张玉民）习题解答",
+      "authors": [],
+      "notes": "目录：物理类/热学；习题解答。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E3%80%8A%E7%83%AD%E5%AD%A6%E3%80%8B%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%8C%E5%BC%A0%E7%8E%89%E6%B0%91%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+        "note": "目录：物理类/热学；文件页匿名访问 200；习题解答/参考书答案，非教材"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E3%80%8A%E7%83%AD%E5%AD%A6%E3%80%8B%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%8C%E5%BC%A0%E7%8E%89%E6%B0%91%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1002a-study-724ec003",
+      "type": "study",
+      "title": "《热学习题分析与解答》朱晓东",
+      "authors": [],
+      "notes": "目录：物理类/热学；习题解答。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E3%80%8A%E7%83%AD%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94%E3%80%8B%E6%9C%B1%E6%99%93%E4%B8%9C.pdf",
+        "note": "目录：物理类/热学；文件页匿名访问 200；习题解答/参考书答案，非教材"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E3%80%8A%E7%83%AD%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94%E3%80%8B%E6%9C%B1%E6%99%93%E4%B8%9C.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1002a-notes-3046bd",
+      "type": "study",
+      "title": "热学A全书要点",
+      "authors": [],
+      "notes": "目录：物理类/热学；热学A全书要点.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E5%85%A8%E4%B9%A6%E8%A6%81%E7%82%B9.pdf",
+        "note": "文件：热学A全书要点.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E5%85%A8%E4%B9%A6%E8%A6%81%E7%82%B9.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1002a-notes-8c7b7d",
+      "type": "study",
+      "title": "热学A知识点整理",
+      "authors": [],
+      "notes": "目录：物理类/热学；热学A知识点整理.docx",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.docx",
+        "note": "文件：热学A知识点整理.docx"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

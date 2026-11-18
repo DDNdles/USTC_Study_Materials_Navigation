@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "009103",
+  "name": "自动控制原理",
+  "kind": "professional",
+  "tags": [
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

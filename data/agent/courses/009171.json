@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "009171",
+  "name": "机械制图及CAD(B)",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "010209",
+  "name": "系统工程概论",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

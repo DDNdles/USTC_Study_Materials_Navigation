@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "001139",
+  "name": "数学建模",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-gh-001139-projects-f8132b",
+      "type": "projects",
+      "title": "数学建模课程作业（2025春）",
+      "authors": [],
+      "notes": "TheVaticanCameos/USTC_MM_25：README 明示课程号 MATH001139 与课程主页",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/TheVaticanCameos/USTC_MM_25",
+        "note": "README 明示课程号 MATH001139 与课程主页"
+      },
+      "locations": [
+        {
+          "source_id": "gh-vatican-mm",
+          "page_url": "https://github.com/TheVaticanCameos/USTC_MM_25",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "TheVaticanCameos",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-vatican-mm": "TheVaticanCameos/USTC_MM_25"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "006204",
+  "name": "光通信网络基础",
+  "kind": "professional",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

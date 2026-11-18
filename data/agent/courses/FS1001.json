@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "FS1001",
+  "name": "“科学与社会”研讨课",
+  "kind": "general",
+  "tags": [
+    "philosophy",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

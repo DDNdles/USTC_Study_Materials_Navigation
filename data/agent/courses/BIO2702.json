@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "BIO2702",
+  "name": "生命科学前沿II",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

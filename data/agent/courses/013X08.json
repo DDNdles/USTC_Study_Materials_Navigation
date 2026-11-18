@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "013X08",
+  "name": "张量初步",
+  "kind": "general",
+  "tags": [
+    "math",
+    "mechanics",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

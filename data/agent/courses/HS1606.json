@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1606",
+  "name": "化学与艺术-手工印染",
+  "kind": "general",
+  "tags": [
+    "chemistry",
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1519",
+  "name": "中国文化史",
+  "kind": "general",
+  "tags": [
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

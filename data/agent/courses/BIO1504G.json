@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "BIO1504G",
+  "name": "人体健康与疾病",
+  "kind": "general",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-BIO1504G-notes",
+      "type": "study",
+      "title": "人体健康与疾病 期末复习笔记与速通",
+      "authors": [],
+      "notes": "评课社区课程页（课程号 BIO1504G01）点评附件；上传者把笔记命名为“生科导”，按课程页归属收录，文件名与课程名不完全一致。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24649/",
+        "note": "未标注年份；文件名与课程名不一致，已在 notes 说明。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24649/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 24649，文件“生科导（1）.pdf、生科导（2）.pdf、生科导（3）.pdf、考前速通.pdf”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
+}

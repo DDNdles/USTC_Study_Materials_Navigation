@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE4007",
+  "name": "系统与控制实验(3)",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

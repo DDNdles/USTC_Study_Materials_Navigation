@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "GEOL4005",
+  "name": "环境地球化学原理",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

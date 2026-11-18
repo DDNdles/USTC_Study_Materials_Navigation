@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "016117",
+  "name": "组织行为学",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "psychology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

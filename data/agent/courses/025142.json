@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "025142",
+  "name": "影视艺术导论",
+  "kind": "professional",
+  "tags": [
+    "arts",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MATH3014",
+  "name": "数值分析进阶",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

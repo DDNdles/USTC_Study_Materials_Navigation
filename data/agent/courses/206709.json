@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "206709",
+  "name": "无机化学II(H)",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

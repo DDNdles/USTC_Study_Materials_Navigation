@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "CS4018",
+  "name": "量子计算与机器学习",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

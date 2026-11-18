@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM2004",
+  "name": "人机交互传播",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

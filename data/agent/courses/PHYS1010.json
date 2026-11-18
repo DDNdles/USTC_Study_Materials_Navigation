@@ -1,0 +1,1047 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1010",
+  "name": "量子物理",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-phys1010-exams-0a723f",
+      "type": "exams",
+      "title": "2025期末",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；2025期末.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2025%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "目录：物理类/量子物理（信计）；2025期末.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2025%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-5c4eeb",
+      "type": "exams",
+      "title": "2024期末-1",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；2024期末-1.jpg",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-1.jpg",
+        "note": "目录：物理类/量子物理（信计）；2024期末-1.jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-1.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-80dc45",
+      "type": "exams",
+      "title": "2024期末-2",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；2024期末-2.jpg",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-2.jpg",
+        "note": "目录：物理类/量子物理（信计）；2024期末-2.jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-2.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-0aca2f",
+      "type": "exams",
+      "title": "期末样卷",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/考试相关；期末样卷.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7.pdf",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/考试相关；期末样卷.pdf；无明确年份信息，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-3b5bc2",
+      "type": "homework",
+      "title": "第二次作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第二次作业答案.pptx",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第二次作业答案.pptx；未取得文件正文（仅目录/文件名信息）；第二次作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-0902ed",
+      "type": "homework",
+      "title": "第六次作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第六次作业答案.pptx",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第六次作业答案.pptx；未取得文件正文（仅目录/文件名信息）；第六次作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-61ad9c",
+      "type": "homework",
+      "title": "第三次作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第三次作业答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第三次作业答案.pdf；未取得文件正文（仅目录/文件名信息）；第三次作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-795ac9",
+      "type": "homework",
+      "title": "第四次作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第四次作业答案.pptx",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第四次作业答案.pptx；未取得文件正文（仅目录/文件名信息）；第四次作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-1daa10",
+      "type": "homework",
+      "title": "第五次作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第五次作业答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第五次作业答案.pdf；未取得文件正文（仅目录/文件名信息）；第五次作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-530ffe",
+      "type": "homework",
+      "title": "第一次作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第一次作业答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；第一次作业答案.pdf；未取得文件正文（仅目录/文件名信息）；第一次作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-homework-eee5cc",
+      "type": "homework",
+      "title": "量子物理（作业12-29）",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；量子物理（作业12-29）.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BD%9C%E4%B8%9A12-29%EF%BC%89.pdf",
+        "note": "文件：量子物理（作业12-29）.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BD%9C%E4%B8%9A12-29%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-homework-89e664",
+      "type": "homework",
+      "title": "量子物理习题解答_别的班的",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；量子物理习题解答_别的班的.zip",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94_%E5%88%AB%E7%9A%84%E7%8F%AD%E7%9A%84.zip",
+        "note": "文件：量子物理习题解答_别的班的.zip"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94_%E5%88%AB%E7%9A%84%E7%8F%AD%E7%9A%84.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-1bbbfd",
+      "type": "homework",
+      "title": "作业答案",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；作业答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/量子物理（信计）；作业答案.pdf；未取得文件正文（仅目录/文件名信息）；作业答案（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-76a18f",
+      "type": "study",
+      "title": "复习(无需阅读光学、原子物理)",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考；复习(无需阅读光学、原子物理).pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E5%A4%8D%E4%B9%A0%28%E6%97%A0%E9%9C%80%E9%98%85%E8%AF%BB%E5%85%89%E5%AD%A6%E3%80%81%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%29.pdf",
+        "note": "文件：复习(无需阅读光学、原子物理).pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E5%A4%8D%E4%B9%A0%28%E6%97%A0%E9%9C%80%E9%98%85%E8%AF%BB%E5%85%89%E5%AD%A6%E3%80%81%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-016adf",
+      "type": "study",
+      "title": "量子力学 20250506",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子力学 20250506.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%2020250506.pdf",
+        "note": "文件：量子力学 20250506.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%2020250506.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-5a5df8",
+      "type": "study",
+      "title": "量子力学 20250506",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考；量子力学 20250506.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%2020250506.pdf",
+        "note": "文件：量子力学 20250506.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%2020250506.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-phys1010-notes-ef6f32",
+      "type": "study",
+      "title": "量子物理 量子物理（notes）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 量子物理，52 个文件，例：readme.md；fig1.png；fig10.png；fig11.png；fig12.png；fig13.png",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-9f1bdb",
+      "type": "study",
+      "title": "量子物理-课堂笔记-1",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理-课堂笔记-1.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-1.pdf",
+        "note": "文件：量子物理-课堂笔记-1.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-1.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-2e5a81",
+      "type": "study",
+      "title": "量子物理-课堂笔记-2",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理-课堂笔记-2.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-2.pdf",
+        "note": "文件：量子物理-课堂笔记-2.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-2.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-c05391",
+      "type": "study",
+      "title": "量子物理-课堂笔记-3",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理-课堂笔记-3.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-3.pdf",
+        "note": "文件：量子物理-课堂笔记-3.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-3.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-a54972",
+      "type": "study",
+      "title": "量子物理-课堂笔记-4",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理-课堂笔记-4.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-4.pdf",
+        "note": "文件：量子物理-课堂笔记-4.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-4.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-c9653a",
+      "type": "study",
+      "title": "量子物理-课堂笔记-5",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理-课堂笔记-5.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-5.pdf",
+        "note": "文件：量子物理-课堂笔记-5.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-5.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-a5a015",
+      "type": "study",
+      "title": "量子物理-课堂笔记-6",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理-课堂笔记-6.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-6.pdf",
+        "note": "文件：量子物理-课堂笔记-6.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-6.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-lectures-2d5ba0",
+      "type": "study",
+      "title": "量子物理（第二次习题课）",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考；量子物理（第二次习题课）.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%EF%BC%89.pdf",
+        "note": "文件：量子物理（第二次习题课）.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-292a0b",
+      "type": "study",
+      "title": "量子物理笔记-涂涛班",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；量子物理笔记-涂涛班.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0-%E6%B6%82%E6%B6%9B%E7%8F%AD.pdf",
+        "note": "文件：量子物理笔记-涂涛班.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0-%E6%B6%82%E6%B6%9B%E7%8F%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-ba06c7",
+      "type": "study",
+      "title": "量子物理例题",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/考试相关；量子物理例题.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E4%BE%8B%E9%A2%98.pdf",
+        "note": "文件：量子物理例题.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E4%BE%8B%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-453b2b",
+      "type": "study",
+      "title": "期末复习笔记_自己写的",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/考试相关；期末复习笔记_自己写的.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84.pdf",
+        "note": "文件：期末复习笔记_自己写的.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-3caf89",
+      "type": "study",
+      "title": "期末考试说明",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考；期末考试说明.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考；期末考试说明.pdf；未取得文件正文（仅目录/文件名信息）；期末考试说明（文件名辨识），非试卷；按内容/文件名改归guides，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%B4%E6%98%8E.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-exams-21daf5",
+      "type": "study",
+      "title": "期末习题课",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考；期末习题课.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E6%9C%9F%E6%9C%AB%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf",
+        "note": "目录：物理类/量子物理（信计）/4 量子物理备考；期末习题课.pdf；未取得文件正文（仅目录/文件名信息）；期末习题课（文件名辨识），非试卷；按内容/文件名改归lectures，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E6%9C%9F%E6%9C%AB%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-23909e",
+      "type": "study",
+      "title": "期中复习笔记_自己写的",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/考试相关；期中复习笔记_自己写的.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84.pdf",
+        "note": "文件：期中复习笔记_自己写的.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-81d80b",
+      "type": "study",
+      "title": "chap1",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；chap1.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/chap1.pdf",
+        "note": "文件：chap1.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/chap1.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-2ba4c7",
+      "type": "study",
+      "title": "chap2",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；chap2.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/chap2.pdf",
+        "note": "文件：chap2.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/chap2.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-ef6549",
+      "type": "study",
+      "title": "chap3",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）；chap3.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/chap3.pdf",
+        "note": "文件：chap3.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/chap3.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-5e4bc0",
+      "type": "study",
+      "title": "README",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/作业答案；README.md",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/README.md",
+        "note": "文件：README.md"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/README.md",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1010-notes-6c4044",
+      "type": "study",
+      "title": "README",
+      "authors": [],
+      "notes": "目录：物理类/量子物理（信计）/4 量子物理备考/考试相关；README.md",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/README.md",
+        "note": "文件：README.md"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/README.md",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

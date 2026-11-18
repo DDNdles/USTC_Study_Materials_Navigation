@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PLNT4001",
+  "name": "系外行星",
+  "kind": "professional",
+  "tags": [
+    "astronomy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

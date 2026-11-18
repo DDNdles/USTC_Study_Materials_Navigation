@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MED2005",
+  "name": "医学分子生物学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

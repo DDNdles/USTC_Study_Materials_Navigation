@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3003",
+  "name": "重力与固体潮",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

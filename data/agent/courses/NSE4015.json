@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE4015",
+  "name": "放射与辐射化学实验",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

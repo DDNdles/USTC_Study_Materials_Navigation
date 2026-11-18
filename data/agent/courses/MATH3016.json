@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MATH3016",
+  "name": "数理统计进阶",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

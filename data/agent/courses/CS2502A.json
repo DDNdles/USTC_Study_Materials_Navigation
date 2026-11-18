@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "code": "CS2502A",
+  "name": "数据结构A",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "oldindex-cs2502a-2025-final-recollections",
+      "type": "exams",
+      "title": "2025 秋数据结构 A 期末（两条学生回忆）",
+      "authors": [
+        "XY23zmds46",
+        "LUNARKN1GHT"
+      ],
+      "notes": "只链接两班学生的原始公开点评；不转载本地摘录，不推断是同一套卷。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25970/#review-101531",
+        "note": "两条点评标为 2025 秋；各课程页的教学班号均以 CS2502A 开头。均是零散题目与考试体验，不是完整试卷。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25970/#review-101531",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；资料权利归原作者，未见逐份再分发许可。",
+          "attribution": "USTC评课社区",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25972/#review-98335",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；资料权利归原作者，未见逐份再分发许可。",
+          "attribution": "USTC评课社区",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-cs2502a-codes",
+      "type": "study",
+      "title": "数据结构 代码实现（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "24 个文件（tree 实际读取）；目录 数据结构/codes",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
+        "note": "README 明确为参考代码、非课程提交代码；目录为数据结构参考实现。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-course-materi-cs2502a",
+      "type": "study",
+      "title": "数据结构 课件与作业（USTC-Course-Materials）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "87 个文件（tree 实际读取）；目录 大一下/数据结构",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；个人本科课程作业/实验报告/复习资料存档",
+          "attribution": "duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-cs2502a",
+      "type": "study",
+      "title": "数据结构 课件与作业（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "59 个文件（tree 实际读取）；目录 大二上/数据结构",
+      "coverage": {
+        "years": [
+          2015
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-course-resour-cs2502a",
+      "type": "study",
+      "title": "数据结构 资料（ustc-course-resource）",
+      "authors": [
+        "Wloner0809"
+      ],
+      "notes": "15 个文件（tree 实际读取）；目录 数据结构",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_page": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；README 仅说明维护者与最后更新时间",
+          "attribution": "Wloner0809/ustc-course-resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-guides-ustcguide-ds",
+      "type": "study",
+      "title": "数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿）",
+      "authors": [
+        "USTCGUIDE 贡献者"
+      ],
+      "notes": "页面标题同时覆盖数据结构、数据结构及其算法三类课程名；正文为外部资料索引，外链未逐项核验",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+        "note": "索引页未标注年份"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+          "download_page": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+          "download_url": null,
+          "access": "public",
+          "license_note": "资料簿仅作索引；外链资料权利归原作者，无再分发许可",
+          "attribution": "USTCGUIDE（施耀炜等贡献者）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-cs-resources-cs2502a-cs",
+      "type": "projects",
+      "title": "数据结构 作业/实验/试卷（USTC-CS-Resources）",
+      "authors": [
+        "USTC-CS-Course-Resource"
+      ],
+      "notes": "591 个文件（tree 实际读取）；目录 CS/数据结构",
+      "coverage": {
+        "years": [
+          2019,
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-cs-resources",
+          "page_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_page": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭",
+          "attribution": "USTC-CS-Course-Resource/USTC-CS-Resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-plus-cs2502a",
+      "type": "projects",
+      "title": "数据结构 作业与实验（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "34 个文件（tree 实际读取）；目录 数据结构",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

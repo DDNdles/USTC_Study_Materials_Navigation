@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "022167",
+  "name": "天文学观测实践",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

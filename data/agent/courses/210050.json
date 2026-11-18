@@ -1,0 +1,579 @@
+{
+  "schema_version": 1,
+  "code": "210050",
+  "name": "数字逻辑电路",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-liqilin-210050-2015-2016-answers",
+      "type": "exams",
+      "title": "数字逻辑电路 2015-2016 第一学期 A 卷答案",
+      "authors": [
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "li-qi-lin 独立答案文件 2015-2016真题A答案.pdf；答案文件无公历日期，years=[]；对应 A 卷题卷。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A%E7%AD%94%E6%A1%88.pdf",
+        "note": "li-qi-lin 独立答案文件 2015-2016真题A答案.pdf；答案文件无公历日期，years=[]；对应 A 卷题卷。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-liqilin-210050-2015-2016",
+      "type": "exams",
+      "title": "数字逻辑电路 2015-2016 第一学期 A 卷与答案",
+      "authors": [
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "li-qi-lin 目录内 2015-2016真题A.pdf；已移出 0 个答案 location。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A.pdf",
+        "note": "卷头为“中国科学技术大学 2015～2016 学年第一学期考试试卷 A 卷 数字逻辑电路”，无公历考试日期，years=[]、kind=unknown；题卷不含答案，has_solutions=false；答案另建独立条目。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210050-2015-2016",
+      "type": "exams",
+      "title": "数字逻辑电路 2015-2016 试卷",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "文件名按学年标注，单卷；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2015-2016.pdf",
+        "note": "按目录文件名核验学年与卷型；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2015-2016.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2015-2016.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2016-2017f-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2016-2017 期末",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2016-2017F.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2016-2017F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2016-2017F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2017-2018f-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2017-2018 期末",
+      "authors": [
+        "guch8017",
+        "li-qi-lin/USTC-Course-Materials-Sharing",
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在；feixu 同名文件与 guch 文件 blob 相同，按精确镜像合并 locations，原 feixu 条目删除。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2017-2018F.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2017-2018F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2017-2018F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2017-2018%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2017-2018%E7%9C%9F%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2017-2018.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2017-2018.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2019-2020f-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2019-2020 期末",
+      "authors": [
+        "guch8017",
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在；feixu 同名文件与 guch 文件 blob 相同，按精确镜像合并 locations，原 feixu 条目删除。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2019-2020F.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2019-2020F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2019-2020F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2019-2020.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2019-2020.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2019-2020fans-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2019-2020 期末答案",
+      "authors": [
+        "guch8017",
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2019-2020FAns.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2019-2020FAns.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2019-2020FAns.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2019%20%E2%80%93%202020%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2019%20%E2%80%93%202020%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2020-2021f-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2020-2021 期末",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021F.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2020-2021fans-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2020-2021 期末答案",
+      "authors": [
+        "guch8017",
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021FAns.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021FAns.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021FAns.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2020%20%E2%80%93%202021%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2020%20%E2%80%93%202021%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2021-2022f-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2021-2022 期末",
+      "authors": [
+        "guch8017",
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "guch 与 li-qi-lin 文件 blob 相同（2ae0e762），合并 locations；不因文件名“及答案”声称有答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2021-2022F.pdf",
+        "note": "卷面为 2021～2022 学年第一学期考试试卷（A 卷），无公历考试日期，years=[]；li-qi-lin 同名文件虽标“试卷及答案”，但与 guch 题卷同 blob，正文未含答案，故题卷 has_solutions=false。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2021-2022F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2021-2022F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/20201%E2%80%93%202022%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/20201%E2%80%93%202022%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-210050-digitallogic2022-2023f-pdf",
+      "type": "exams",
+      "title": "数字逻辑电路 2022-2023 期末",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2022-2023F.pdf",
+        "note": "卷型按 README 表格与文件名核验；卷面仅标学年、无公历考试日期，years 置空，学年见 title，不拆成两卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2022-2023F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2022-2023F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210050",
+      "type": "exams",
+      "title": "数字逻辑电路模拟卷",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E6%A8%A1%E6%8B%9F%E5%8D%B7.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E6%A8%A1%E6%8B%9F%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E6%A8%A1%E6%8B%9F%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210050-2",
+      "type": "exams",
+      "title": "数字逻辑电路真题回忆",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-liqilin-210050",
+      "type": "homework",
+      "title": "数字逻辑电路 习题课讲义与作业解答（USTC-Course-Materials-Sharing）",
+      "authors": [
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "习题课讲义 1 份 PPTX；作业解答目录含第一至第十二次作业答案 PDF。按目录登记，未逐份核对答案正确性。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94",
+        "note": "非试题，年份与卷型为空。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ly382965-210050-2fa-digital-logic-circuits",
+      "type": "study",
+      "title": "数字逻辑电路 资料（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "8 个文件（tree 实际读取）；目录 2FA Digital Logic Circuits",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits",
+        "note": "年份取文件名四位年份"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

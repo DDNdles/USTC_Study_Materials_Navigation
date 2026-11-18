@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "001M06",
+  "name": "计算机图形学前沿",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-web-001m06-lectures-a429a8",
+      "type": "study",
+      "title": "计算机图形学前沿 课程主页资料",
+      "authors": [],
+      "notes": "课程主页：http://staff.ustc.edu.cn/~lgliu/；页面含 62 个课件/资料链接（pdf/ppt/zip 等），未逐份下载",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~lgliu/",
+        "note": "教师课程主页，含资料链接"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~lgliu/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师个人课程主页；资料权利归教师，仅原页导航",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+  }
+}

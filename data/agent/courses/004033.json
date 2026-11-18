@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "004033",
+  "name": "等离子体物理实验",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

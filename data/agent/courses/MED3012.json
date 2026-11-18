@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED3012",
+  "name": "泌尿系统疾病",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

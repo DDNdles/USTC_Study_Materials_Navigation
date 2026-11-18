@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "code": "EE1501",
+  "name": "物联网导论",
+  "kind": "general",
+  "tags": [
+    "cs",
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-lectures-ee1501-68328acc",
+      "type": "study",
+      "title": "物联网导论课件",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "课程PPT目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA/ppt",
+        "note": "课程PPT目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA/ppt",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ustcwpz",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee1501-00839433",
+      "type": "projects",
+      "title": "物联网导论读书报告与RFID/QRCode项目",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "RFID安全/图像搜索/QRCode等报告与代码。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA",
+        "note": "RFID安全/图像搜索/QRCode等报告与代码。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ustcwpz",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

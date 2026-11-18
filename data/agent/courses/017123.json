@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "017123",
+  "name": "计量经济学",
+  "kind": "professional",
+  "tags": [
+    "economics",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

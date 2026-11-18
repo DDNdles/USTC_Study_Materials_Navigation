@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME2002",
+  "name": "机械设计与制造综合实验II",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

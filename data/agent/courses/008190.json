@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "008190",
+  "name": "免疫生物学I",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

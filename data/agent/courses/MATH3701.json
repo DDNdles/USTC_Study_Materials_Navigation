@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MATH3701",
+  "name": "华罗庚讨论班(H)",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

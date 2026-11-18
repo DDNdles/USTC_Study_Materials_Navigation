@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00117",
+  "name": "养生(1)",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

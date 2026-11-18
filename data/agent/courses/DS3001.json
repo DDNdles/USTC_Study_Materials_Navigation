@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "code": "DS3001",
+  "name": "数据分析及实践",
+  "kind": "professional",
+  "tags": [
+    "statistics",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-ds3001-dataanalysispractice2026f-md",
+      "type": "exams",
+      "title": "数据分析及实践 2026 春期末（刘淇、程明月班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataAnalysisPractice2026F.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataAnalysisPractice2026F.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataAnalysisPractice2026F.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-ds-undergradu-ds3001",
+      "type": "study",
+      "title": "数据分析及实践 课件与实验（ustc_ds_undergraduate_course）",
+      "authors": [
+        "guidongnan"
+      ],
+      "notes": "35 个文件（tree 实际读取）；目录 数据分析及实践",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E8%B7%B5",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E8%B7%B5",
+          "download_page": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E8%B7%B5",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT；README 声明非商业用途、禁止抄袭",
+          "attribution": "guidongnan/ustc_ds_undergraduate_course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course"
+  }
+}

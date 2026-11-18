@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "code": "019172",
+  "name": "应用量子化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019172-hw",
+      "type": "homework",
+      "title": "应用量子化学 作业",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 README 说明“量子化学包含量子化学,应用量子化学”，据此把 量子化学/应用量子化学作业.pdf 挂到 019172；同目录 Op.107.pdf 为约 13MB 扫描件，内容类型未核验，未收录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/blob/main/README.md",
+        "note": "归属依据 README 的目录范围说明。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6/%E5%BA%94%E7%94%A8%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E4%BD%9C%E4%B8%9A.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：量子化学/应用量子化学作业.pdf",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019172-lectures",
+      "type": "study",
+      "title": "应用量子化学 章节讲义（Hartree-Fock、电子关联与后 HF、密度泛函理论、电子结构计算数值方法、量子化学的应用）",
+      "authors": [
+        "李震宇（Zhenyu Li）"
+      ],
+      "notes": "教学页“应用量子化学（Applied Quantum Chemistry）[2019—2022]”板块按第一至第五章列出 5 份 PDF（AQC-1…AQC-5），直链位于 staff.ustc.edu.cn/~zyli/download/。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://q2chemistry.net/teaching.html",
+        "note": "页面标注开课年份区间 2019—2022，未按单份文件标年。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-q2chem-teaching",
+          "page_url": "https://q2chemistry.net/teaching.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师个人教学页公开 PDF 直链；页面未声明再分发许可，仅导航原页面/直链，不转存文件。",
+          "attribution": "李震宇教学页：应用量子化学（Applied Quantum Chemistry）章节资料",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）",
+    "chembio-q2chem-teaching": "李震宇（Prof. Zhenyu Li）教学页 q2chemistry.net/teaching"
+  }
+}

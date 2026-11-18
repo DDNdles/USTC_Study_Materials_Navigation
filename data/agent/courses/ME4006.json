@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME4006",
+  "name": "火灾调查与事故分析",
+  "kind": "professional",
+  "tags": [
+    "safety"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

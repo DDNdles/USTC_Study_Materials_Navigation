@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE1513",
+  "name": "文本表征学习",
+  "kind": "general",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

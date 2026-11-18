@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3009",
+  "name": "空间物理学导论",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

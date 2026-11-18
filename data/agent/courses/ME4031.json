@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME4031",
+  "name": "数智力学",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

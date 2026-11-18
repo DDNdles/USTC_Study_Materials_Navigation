@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "221002",
+  "name": "量子信息与安全",
+  "kind": "professional",
+  "tags": [
+    "security",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

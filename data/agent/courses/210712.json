@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "210712",
+  "name": "自然语言处理",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-notes-gh-ustc-course-210712-notes",
+      "type": "study",
+      "title": "自然语言处理 期末复习 A4 纸（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "2 个文件（tree 实际读取）；目录 自然语言处理/notes",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/notes",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+  }
+}

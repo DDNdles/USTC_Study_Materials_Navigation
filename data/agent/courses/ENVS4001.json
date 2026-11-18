@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4001",
+  "name": "环境认知实习",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

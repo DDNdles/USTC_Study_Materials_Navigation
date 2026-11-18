@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "AI3001",
+  "name": "机器学习A",
+  "kind": "professional",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

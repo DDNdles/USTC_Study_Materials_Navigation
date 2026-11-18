@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CHEM2801",
+  "name": "科技写作与学术表达",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

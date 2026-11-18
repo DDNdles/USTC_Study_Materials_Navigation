@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "008205",
+  "name": "生物医学中的核技术",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "biomedical"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

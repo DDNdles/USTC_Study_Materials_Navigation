@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "008198",
+  "name": "基础生态学",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

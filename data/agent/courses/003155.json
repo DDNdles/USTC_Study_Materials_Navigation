@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "003155",
+  "name": "物理化学II",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

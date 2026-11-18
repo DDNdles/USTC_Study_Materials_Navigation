@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1635",
+  "name": "当代艺术展览与策展",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

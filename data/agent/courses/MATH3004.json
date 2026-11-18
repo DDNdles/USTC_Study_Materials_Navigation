@@ -1,0 +1,867 @@
+{
+  "schema_version": 1,
+  "code": "MATH3004",
+  "name": "泛函分析",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3004-2025-final-73b3c4",
+      "type": "exams",
+      "title": "泛函分析 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2025；单元格：普班统考；文件：2025FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2025；单元格：普班统考；文件：2025FAfinal.pdf；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2026-midterm-5cf963",
+      "type": "exams",
+      "title": "泛函分析 2026 期中",
+      "authors": [
+        "廖羽晨"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2026；单元格：廖羽晨；文件：2026FAmid1.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2026；单元格：廖羽晨；文件：2026FAmid1.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026FAmid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2025-midterm-438181",
+      "type": "exams",
+      "title": "泛函分析 2025 期中",
+      "authors": [
+        "刘聪文"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2025；单元格：刘聪文；文件：2025FAmid1.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2025；单元格：刘聪文；文件：2025FAmid1.pdf；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025FAmid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2025-midterm-af54f1",
+      "type": "exams",
+      "title": "泛函分析 2025 期中",
+      "authors": [
+        "廖羽晨"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2025；单元格：廖羽晨；文件：2025FAmid2.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2025；单元格：廖羽晨；文件：2025FAmid2.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025FAmid2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2024-final-4f5bca",
+      "type": "exams",
+      "title": "泛函分析 2024 期末",
+      "authors": [
+        "黄文"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2024；单元格：黄文；文件：2024FAHfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2024；单元格：黄文；文件：2024FAHfinal.pdf；卷面/首页学期：2024秋；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024FAHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2024-final-9a398f",
+      "type": "exams",
+      "title": "泛函分析 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2024；单元格：普班统考；文件：2024FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2024；单元格：普班统考；文件：2024FAfinal.pdf；卷面/首页学期：2024秋；首页可见日期 2024年12月；年份按首页考试日期 2024年12月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2024-midterm-a7ff9a",
+      "type": "exams",
+      "title": "泛函分析 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2024；单元格：普班统考；文件：2024FAmid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2024；单元格：普班统考；文件：2024FAmid.pdf；卷面/首页学期：2024—2025学年第一学期；首页可见日期 2024年10月；年份按首页考试日期 2024年10月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2023-final-60d54d",
+      "type": "exams",
+      "title": "泛函分析 2023 期末",
+      "authors": [
+        "黄文"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2023；单元格：黄文；文件：2023FAHfinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2023；单元格：黄文；文件：2023FAHfinal.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023FAHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2023-midterm-9112ee",
+      "type": "exams",
+      "title": "泛函分析 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2023；单元格：普班统考；文件：2023FAmid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2023；单元格：普班统考；文件：2023FAmid.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-5d008d",
+      "type": "exams",
+      "title": "2022泛函分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2022泛函分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2022；单元格：普班统考；文件：2022FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2022%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2022泛函分析期末考试.pdf；无文本层（扫描件）；已读全2页；同一文件另有镜像条目，字段按同一文件统一；扫描件首页图像已核：中国科学技术大学 2022–2023学年泛函分析期末考试（含姓名/学号/题号得分栏），非回忆版标注"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2022%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-75d86b",
+      "type": "exams",
+      "title": "2022泛函分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2022泛函分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2022；单元格：普班统考；文件：2022FAmid.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2022%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2022泛函分析期中考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2022%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3004-2022-final-f55cfd",
+      "type": "exams",
+      "title": "泛函分析 2022 期末",
+      "authors": [
+        "黄文"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2022；单元格：黄文；文件：2022FAHfinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2022；单元格：黄文；文件：2022FAHfinal.pdf；文本层几无中文；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022FAHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-5420e4",
+      "type": "exams",
+      "title": "2021泛函分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2021泛函分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2021；单元格：普班统考；文件：2021FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2021%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2021泛函分析期末考试.pdf；文本层几无中文；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2021%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-5da453",
+      "type": "exams",
+      "title": "2021泛函分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2021泛函分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2021；单元格：普班统考；文件：2021FAmid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2021%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2021泛函分析期中考试.pdf；卷面/首页学期：2021秋；首页可见日期 2021年11月；年份按首页考试日期 2021年11月；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2021%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-a79e12",
+      "type": "exams",
+      "title": "2020泛函分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2020泛函分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2020；单元格：普班统考；文件：2020FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2020%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2020泛函分析期末考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2020%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-4dd7be",
+      "type": "exams",
+      "title": "2020泛函分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2020泛函分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2020；单元格：普班统考；文件：2020FAmid.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2020%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2020泛函分析期中考试.pdf；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2020%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-686b10",
+      "type": "exams",
+      "title": "2018泛函分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2018泛函分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2018；单元格：普班统考；文件：2018FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2018%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2018泛函分析期末考试.pdf；卷面/首页学期：2018秋；首页可见日期 2019年1月；年份按首页考试日期 2019年1月；文本层可读；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2018%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-53b780",
+      "type": "exams",
+      "title": "2019泛函分析期末考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2019泛函分析期末考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期末考试；行年份：2019；单元格：普班统考；文件：2019FAfinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2019%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2019泛函分析期末考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2019%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019FAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-180d70",
+      "type": "exams",
+      "title": "2019泛函分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2019泛函分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2019；单元格：普班统考；文件：2019FAmid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2019%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2019泛函分析期中考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2019%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math3004-exams-216c87",
+      "type": "exams",
+      "title": "2018泛函分析期中考试",
+      "authors": [],
+      "notes": "目录：数学类/泛函分析；2018泛函分析期中考试.pdf；课程目录页：https://ustcmathexam.github.io/APDE/；表头列：期中考试；行年份：2018；单元格：普班统考；文件：2018FAmid.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2018%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：数学类/泛函分析；2018泛函分析期中考试.pdf；无文本层（扫描件）；已读全1页；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2018%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018FAmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3004-homework-5674d0",
+      "type": "homework",
+      "title": "实变函数与泛函分析习题集（2023秋，殷保群班）",
+      "authors": [],
+      "notes": "Luciennnnnnn/ustc-functional-analysis-exercise-set：README 明示覆盖实变函数与泛函分析两课",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set",
+        "note": "README 明示覆盖实变函数与泛函分析两课"
+      },
+      "locations": [
+        {
+          "source_id": "gh-lucien-fa",
+          "page_url": "https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "Luciennnnnnn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3004-notes-3d22fa",
+      "type": "study",
+      "title": "2019 秋泛函分析课程笔记（吴劲松班）",
+      "authors": [],
+      "notes": "syvshc/2019Fall_FA：README 明示课程与授课教师；PDF 见 release",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/syvshc/2019Fall_FA",
+        "note": "README 明示课程与授课教师；PDF 见 release"
+      },
+      "locations": [
+        {
+          "source_id": "gh-syvshc-fa",
+          "page_url": "https://github.com/syvshc/2019Fall_FA",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "syvshc",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3004-lectures-c67309",
+      "type": "study",
+      "title": "泛函分析 泛函分析Functional Analysis（lectures）",
+      "authors": [],
+      "notes": "Weiyu-USTC-USTCmath-stat 目录 泛函分析Functional Analysis，3 个文件，例：第一次习题课.pdf；第五次习题课.pdf；第四次习题课.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90Functional%20Analysis",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-weiyu-mathstat",
+          "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90Functional%20Analysis",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Weiyu-USTC",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3004-notes-c67309",
+      "type": "study",
+      "title": "泛函分析 泛函分析Functional Analysis（notes）",
+      "authors": [],
+      "notes": "Weiyu-USTC-USTCmath-stat 目录 泛函分析Functional Analysis，4 个文件，例：FA16finH.pdf；FA17finH.pdf；FAnote_li.pdf；FAnote_li_recitation.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90Functional%20Analysis",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-weiyu-mathstat",
+          "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90Functional%20Analysis",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Weiyu-USTC",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-lucien-fa": "Luciennnnnnn/ustc-functional-analysis-exercise-set",
+    "gh-syvshc-fa": "syvshc/2019Fall_FA",
+    "gh-weiyu-mathstat": "Weiyu-USTC/USTCmath-stat"
+  }
+}

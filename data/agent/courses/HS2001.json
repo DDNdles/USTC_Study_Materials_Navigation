@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "code": "HS2001",
+  "name": "科学、技术与工程导论",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "physics",
+    "chemistry",
+    "astronomy",
+    "earth",
+    "space",
+    "biology",
+    "statistics",
+    "cs",
+    "ai"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS2001-openbook-feixu",
+      "type": "study",
+      "title": "科学、技术与工程导论手写开卷资料",
+      "authors": [],
+      "notes": "扫描手写整理，封面课程名“科学、技术与工程导论”，页面含学生署名，本索引不采集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E7%A7%91%E5%AD%A6%E3%80%81%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA%E5%A4%A7%E6%8A%84.pdf",
+        "note": "封面核对：课程名与 HS2001 一致；手写开卷资料，未标考试年份。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E7%A7%91%E5%AD%A6%E3%80%81%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA%E5%A4%A7%E6%8A%84.pdf",
+          "download_page": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E7%A7%91%E5%AD%A6%E3%80%81%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA%E5%A4%A7%E6%8A%84.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

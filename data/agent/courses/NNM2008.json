@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM2008",
+  "name": "新媒体广告",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

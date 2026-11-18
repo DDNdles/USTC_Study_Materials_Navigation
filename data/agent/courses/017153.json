@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "017153",
+  "name": "金融风险管理",
+  "kind": "professional",
+  "tags": [
+    "finance",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

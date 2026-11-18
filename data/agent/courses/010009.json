@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "010009",
+  "name": "模式识别导论",
+  "kind": "professional",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

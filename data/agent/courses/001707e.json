@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "code": "001707e",
+  "name": "拓扑学(H)(英)",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3003-2025-final-2dae7f",
+      "type": "exams",
+      "title": "拓扑学 2025 期末",
+      "authors": [
+        "陈杲"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2025秋；单元格：陈杲；文件：2025topoHfinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2025秋；单元格：陈杲；文件：2025topoHfinal.pdf；卷面/首页学期：2025—2026学年第一学期；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；已读全3页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025topoHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2025-midterm-62c07c",
+      "type": "exams",
+      "title": "拓扑学 2025 期中",
+      "authors": [
+        "陈杲"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2025秋；单元格：陈杲；文件：2025topoHmid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2025秋；单元格：陈杲；文件：2025topoHmid.pdf；卷面/首页学期：2025—2026学年第一学期；首页可见日期 2025年11月；年份按首页考试日期 2025年11月；文本层可读；已读全3页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025topoHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2023-final-cacaaa",
+      "type": "exams",
+      "title": "拓扑学 2023 期末",
+      "authors": [
+        "陈杲"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2023秋；单元格：陈杲；文件：2023topoHfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2023秋；单元格：陈杲；文件：2023topoHfinal.pdf；卷面/首页学期：2023—2024学年第一学期；首页可见日期 2024年1月；年份按首页考试日期 2024年1月；文本层可读；已读全3页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023topoHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2022-final-acbdf5",
+      "type": "exams",
+      "title": "拓扑学 2022 期末",
+      "authors": [
+        "陈杲"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2022秋；单元格：陈杲；文件：2022topoHfinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2022秋；单元格：陈杲；文件：2022topoHfinal.pdf；卷面/首页学期：2022—2023学年第一学期；首页可见日期 2023年2月；年份按首页考试日期 2023年2月；文本层可读；已读全2页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2022topoHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2023-midterm-2881ce",
+      "type": "exams",
+      "title": "拓扑学 2023 期中",
+      "authors": [
+        "陈杲"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2023秋；单元格：陈杲；文件：2023topoHmid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2023秋；单元格：陈杲；文件：2023topoHmid.pdf；首页可见日期 2023年11月；年份按首页考试日期 2023年11月；文本层可读；已读全3页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023topoHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2021-midterm-c64338",
+      "type": "exams",
+      "title": "拓扑学 2021 期中",
+      "authors": [
+        "王作勤"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2021春；单元格：王作勤；文件：2021topoHmid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2021春；单元格：王作勤；文件：2021topoHmid.pdf；文本层可读；抽读前3页（共4页），全文未逐页核验；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021topoHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2019-final-9582c1",
+      "type": "exams",
+      "title": "拓扑学 2019 期末",
+      "authors": [
+        "王作勤"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2019春；单元格：王作勤；文件：2019topoHfinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2019春；单元格：王作勤；文件：2019topoHfinal.pdf；卷面/首页学期：2019春；文本层可读；已读全3页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019topoHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3003-2019-midterm-f843db",
+      "type": "exams",
+      "title": "拓扑学 2019 期中",
+      "authors": [
+        "王作勤"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2019春；单元格：王作勤；文件：2019topoHmid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2019春；单元格：王作勤；文件：2019topoHmid.pdf；卷面/首页学期：2019春；文本层可读；已读全2页；卷面标注拓扑学(H)，按H级别改挂官方代码 001707e（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019topoHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

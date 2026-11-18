@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4001",
+  "name": "理论物理前沿",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

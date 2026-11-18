@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "008194",
+  "name": "系统与控制导论",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

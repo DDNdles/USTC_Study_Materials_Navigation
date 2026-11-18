@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "code": "019012",
+  "name": "有机化学(A2)",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019012-exam-final-1617",
+      "type": "exams",
+      "title": "有机化学(A2) 2016—2017 学年第二学期期终考试试卷 A 卷与参考答案",
+      "authors": [
+        "飞旭资料分享站上传者"
+      ],
+      "notes": "目录内“16-17有机化学(II)期终考试试卷-A.pdf”与“-A-参考答案.pdf”；已打开两份正文，首页均为 2016—2017 学年度第二学期期终考试试卷（A 卷），考试科目“有机化学(AII)”。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/16-17%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(II)%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A.pdf",
+        "note": "正文确认第二学期与 AII 科目；参考答案为独立 PDF，已抽看首页。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/16-17%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(II)%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/16-17%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(II)%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019012-exam-final-1516",
+      "type": "exams",
+      "title": "有机化学(A2) 2015—2016 学年第二学期期终考试试卷 A 卷与参考答案",
+      "authors": [
+        "飞旭资料分享站上传者"
+      ],
+      "notes": "目录内“15-16有机化学(II)期终考试试卷-A.pdf”与“-A-参考答案.pdf”；已打开两份正文，首页均为 2015—2016 学年度第二学期期终考试试卷（A 卷），考试科目“有机化学(AII)”。",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/15-16%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(II)%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A.pdf",
+        "note": "正文确认第二学期与 AII 科目；参考答案为独立 PDF，已抽看首页。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/15-16%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(II)%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/15-16%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(II)%E6%9C%9F%E7%BB%88%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7-A-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019012-exam-final-2016",
+      "type": "exams",
+      "title": "有机化学(A2) 2016—2017 Final Exam（英文卷）",
+      "authors": [
+        "飞旭资料分享站上传者"
+      ],
+      "notes": "目录内“2016-2017-final-Exam.pdf”；已打开正文，首页为 2016-2017 Final Exam of Organic Chemistry A(II)，英文卷，8 页，未附答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2016-2017-final-Exam.pdf",
+        "note": "正文确认 A(II) 科目与英文卷面；仅标 2016—2017 学年，未标具体学期/年份，年份留空；本文件未附答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2016-2017-final-Exam.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019012-quiz-2018",
+      "type": "homework",
+      "title": "有机化学(A2) 2018—2019 学年第二学期第一次单元测试题（含参考答案）",
+      "authors": [
+        "飞旭资料分享站上传者"
+      ],
+      "notes": "目录内“2018-2019春季学期第一次单元测试题-参考答案.pdf”；已打开正文，首页为 2018-2019 学年第二学期《有机化学II》单元测试题一（参考答案），题面与解答同文件。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2018-2019%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E9%A2%98-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "正文确认第二学期与 AII 科目、题面与参考答案同文件；按学期对应 2019 年。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2018-2019%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E9%A2%98-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019012-hw-2018",
+      "type": "homework",
+      "title": "有机化学(AII) 2018—2019 学年习题课练习题参考答案（第二、三次）",
+      "authors": [
+        "飞旭资料分享站上传者"
+      ],
+      "notes": "目录内两份“2018-2019学年有机化学(AII)第 N 次习题课练习题参考答案.pdf”。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2018-2019%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6AII%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%BB%83%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "学年 2018—2019，未区分学期。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2018-2019%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6AII%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%BB%83%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2018-2019%E5%AD%A6%E5%B9%B4%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(AII)%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%BB%83%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-019012-notes",
+      "type": "study",
+      "title": "有机化学(A2) 分章复习图（羧酸、胺、糖、杂环、周环反应等 9 张）",
+      "authors": [],
+      "notes": "评课社区课程页点评附件，9 张分章复习图片，章节范围与有机化学(A2) 后半学期内容一致。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3490/",
+        "note": "图片未标注年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3490/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 3490，文件“羧酸及其衍生物.png、胺与其他含氮化合物.png、含硫、磷、硅的化合物.png、其他生物分子.png、取代羧酸及其衍生物.png、糖类化合物.png、有机合成.png、杂环化合物.png、周环反应.png”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区"
+  }
+}

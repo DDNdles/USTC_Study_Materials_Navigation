@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4502",
+  "name": "微型计算机原理实验",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00145",
+  "name": "自卫防身术I",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

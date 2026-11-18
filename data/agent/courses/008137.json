@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "008137",
+  "name": "药物化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "medicine"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-008137-lectures",
+      "type": "study",
+      "title": "药物化学（Medicinal Chemistry）分章课件：导论、药物筛选、先导优化、SAR、DMPK、前药、心血管药物等",
+      "authors": [
+        "阮科（Ke Ruan）"
+      ],
+      "notes": "教师公开课程页页首写明 Fall course: Medicinal Chemistry，逐章给出 PPT（chap1_intro、chap2a_screening、chap2b_LO、chap3a_DMPK、chap3b_prodrug、chap4_SAR、chap6_Cardiovascular 等）及 PDB/压缩包；评课社区 008137 课程页外链指向该页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://bionmr.ustc.edu.cn/courses/",
+        "note": "课件页未标年份，按秋季课程组织。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-bionmr-courses",
+          "page_url": "http://bionmr.ustc.edu.cn/courses/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师个人课程页公开发布；页面未声明再分发许可，仅导航原页面，不转存课件。",
+          "attribution": "阮科（Ke Ruan）课程页",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-bionmr-courses": "Ke Ruan 课程页（bionmr.ustc.edu.cn/courses）"
+  }
+}

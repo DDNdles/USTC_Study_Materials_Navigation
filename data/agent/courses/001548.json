@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "code": "001548",
+  "name": "复变函数B",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-icourse-001548-exams-87cd",
+      "type": "exams",
+      "title": "2023秋复变函数B期中考试参考答案",
+      "authors": [
+        "张学涵"
+      ],
+      "notes": "评课社区附件直链；复变函数B 期中考试，2023 年 10 月 27 日，4 页完整解答；卷面未印课程编号，按课程名称与来源课程页归 001548。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/uploads/files/210f67b8d4e1368d1f3efd1f020910a30f7ea061.pdf",
+        "note": "4 页逐题解答（首页「复变函数B 期中考试 张学涵 2023 年 10 月 27 日」）。icourse uploads 直链匿名可取：HTTP 206 application/pdf，404285 字节，md5 559C9686…，与旧索引本地副本一致；无公历考试日期以外的卷头信息。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/uploads/files/210f67b8d4e1368d1f3efd1f020910a30f7ea061.pdf",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/210f67b8d4e1368d1f3efd1f020910a30f7ea061.pdf",
+          "access": "public",
+          "license_note": "评课社区附件直链，匿名可取；权利归原作者/教师，站点未声明逐文件再分发许可",
+          "attribution": "USTC 评课社区（附件直链）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-da9f37",
+      "type": "exams",
+      "title": "2009-2010学年第一学期复变函数(B)期末试卷及答案",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2009-2010学年第一学期复变函数(B)期末试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2009-2010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "5 页；卷头「中国科学技术大学 2009—2010 学年第一学期考试试卷／考试科目：复变函数（B 型）」，第 3—5 页为参考解答；无课程编号、无公历考试日期；文本层为自定义字体编码，需按渲染图核验。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2009-2010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-da2bb5",
+      "type": "exams",
+      "title": "2015-2016学年第一学期复变函数(B)期末试卷及答案",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2015-2016学年第一学期复变函数(B)期末试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2015-2016"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2015-2016%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "6 页；卷头「中国科学技术大学 2015—2016 学年第一学期考试试卷／考试科目：复变函数（B 型）」，第 4—6 页为参考解答；仅学年/学期标注，年份留空。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2015-2016%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-4bdd20",
+      "type": "exams",
+      "title": "2016-2017学年第一学期复变函数(B)期末试卷",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2016-2017学年第一学期复变函数(B)期末试卷.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2016-2017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；卷头「2016—2017学年第一学期／■A 卷 □B 卷／复变函数(B)／课程编号 001548／2016 年 11 月」；纯试题，未见解答。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2016-2017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-ab8435",
+      "type": "exams",
+      "title": "2017-2018学年第一学期复变函数(B)期末试卷",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2017-2018学年第一学期复变函数(B)期末试卷.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2017-2018%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；卷头「2017—2018 学年第一学期／■A 卷 □B 卷／复变函数(B)／课程编号 001548／2017 年 11 月」；纯试题，未见解答。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2017-2018%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-5f10ba",
+      "type": "exams",
+      "title": "2017-2018学年第一学期复变函数(B)期末试卷答案",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2017-2018学年第一学期复变函数(B)期末试卷答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2017-2018%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+        "note": "3 页习题课讲稿（LEI Jingzhe，2020-11-27），按「基础知识／计算复积分／计算定积分」分节给出 2017—2018 复变 B 期末题解答（首题答案 e^{iz}=2017、(z−3)^4=1 与同目录试卷逐题对应）；非排版参考答案，不单独计一场考试。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2017-2018%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-48c598",
+      "type": "exams",
+      "title": "2018-2019学年第一学期复变函数(B)期末试卷",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2018-2019学年第一学期复变函数(B)期末试卷.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2018-2019"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2018-2019%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页；卷头「2018—2019学年第一学期／■A 卷 □B 卷／复变函数B」，卷面印刷课程编号 001506（现行课程表中 001506 为数理方程 A），与课程名称不符；按课程名称归 001548，卷面编号存疑；无解答。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2018-2019%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-b36660",
+      "type": "exams",
+      "title": "2019-2020学年第一学期复变函数(B)期末试卷",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2019-2020学年第一学期复变函数(B)期末试卷.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "2 页扫描件（扫描全能王）；卷头「2019—2020学年第一学期／■A 卷 □B 卷／复变函数B／课程编号 001506」，编号异常同 2018—2019 卷；无解答。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-79024c",
+      "type": "exams",
+      "title": "2019-2020学年第一学期复变函数(B)期末试卷答案",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2019-2020学年第一学期复变函数(B)期末试卷答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+        "note": "5 页独立答案文档，首页「2019秋复变试题答案 11.24 renyixin」，逐题给出解答；与同目录 2019—2020 期末卷配套，不另计一场考试。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-04ff44",
+      "type": "exams",
+      "title": "2020-2021学年第一学期复变函数(B)期末试卷及答案",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2020-2021学年第一学期复变函数(B)期末试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2020-2021%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "4 页；卷头「中国科学技术大学 2020～2021 学年第一学期期末考试试卷／■A 卷／课程名称 复变函数B／课程编号 001548／考试时间 2020 年 12 月 13 日 8:30-10:30」；正文逐题附「解」。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2020-2021%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-exams-d2543c",
+      "type": "exams",
+      "title": "2022-2023学年第一学期复变函数(B)期末试卷",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；2022-2023学年第一学期复变函数(B)期末试卷.jpg",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.jpg",
+        "note": "1 张 2200×3228 手写照片，为 22—23 复变 B 期末试题的手写抄录：仅有题目、分值与「（B）」标题，未见解答；旧索引所说「题目旁写有解答」不成立。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享文件页（AList；下载直链需临时签名，未保存）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001505-exams-58aaf2",
+      "type": "exams",
+      "title": "复变函数历年真题",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；复变函数历年真题.pdf；文件页核验；27页合集，仅复变函数A/B 期末；更新说明已删除复分析题，故不挂 MATH3008；无答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2003-2004",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2009-2010",
+          "2017-2018",
+          "2019-2020",
+          "2020-2021",
+          "2021-2022",
+          "2022-2023",
+          "2023-2024",
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0",
+        "note": "共27页；目录第3页列复变函数 A/B 期末试题，2003—2025 各学年；说明第2页称新版已删除复分析往年试题；无答案；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001548-exams-7f67",
+      "type": "exams",
+      "title": "复变函数历年真题集（2026版，A/B 期末题）",
+      "authors": [
+        "施耀炜"
+      ],
+      "notes": "USTC 数学课程往年试卷站公开文件；同一文件含复变函数 A 与 B 两门课，A 侧是否另挂 001505 由合并方决定；文件名带「含复分析」，但正文无复分析试题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://ustcmathexam.github.io/USTC/complexexams.pdf",
+        "note": "23 页整编题集，目录 13 套且全部为期末（A 7 套：2019-20、2020-21、2021-22、2022-23、2023-24、2024-25、2025-26；B 6 套：2017-18、2019-20、2019-20 补考、2020-21、2024-25、2025-26）。无参考答案。第 1—2 页说明/更新说明署名「21 级少年班学院施耀炜 2023 年 12 月」；目录与正文均无复分析、也无 2003—2009 年的 B 卷，旧索引内清单所列早期年份与复分析部分不成立。直链实测 206 application/pdf，267085 字节。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/complexexams.pdf",
+          "access": "public",
+          "license_note": "站点模板 MIT 不覆盖试卷权利；文件为站点公开试卷",
+          "attribution": "ustcmathexam.github.io（USTC/）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001548-study-f6259f",
+      "type": "study",
+      "title": "复变期末复习讲义-舒文炫",
+      "authors": [],
+      "notes": "目录：数学类/复变函数；复变期末复习讲义-舒文炫.pdf；文件页核验；封面明确“复变函数B 复习讲义”，作者舒文炫，2022-11-10；共16页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0",
+        "note": "共16页；第1页题名“复变函数B 复习讲义（第二版） 舒文炫 2022年11月10日”，目录列各章；有文字层，抽读前3页。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AE%B2%E4%B9%89-%E8%88%92%E6%96%87%E7%82%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

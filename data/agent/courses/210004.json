@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "210004",
+  "name": "密码学导论",
+  "kind": "professional",
+  "tags": [
+    "security",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

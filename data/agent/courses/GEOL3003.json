@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOL3003",
+  "name": "岩石学",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

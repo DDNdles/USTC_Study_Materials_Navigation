@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FIN1502",
+  "name": "诺贝尔经济学经典选读",
+  "kind": "general",
+  "tags": [
+    "economics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

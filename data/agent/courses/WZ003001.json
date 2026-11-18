@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "WZ003001",
+  "name": "密度泛函理论与实践",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

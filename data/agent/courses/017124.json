@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017124",
+  "name": "金融机构与金融市场",
+  "kind": "professional",
+  "tags": [
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

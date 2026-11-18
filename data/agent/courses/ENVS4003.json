@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4003",
+  "name": "环境遥感",
+  "kind": "professional",
+  "tags": [
+    "environment",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

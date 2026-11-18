@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS3007",
+  "name": "环境综合实验(上)",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

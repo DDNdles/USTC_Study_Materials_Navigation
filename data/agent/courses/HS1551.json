@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "code": "HS1551",
+  "name": "交响乐赏析",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1551-homework-blog",
+      "type": "homework",
+      "title": "交响乐赏析课程赏析作业（波莱罗）",
+      "authors": [],
+      "notes": "学生赏析作业 docx/pdf/txt 三种格式；文件名为公开投稿署名，本索引不采集学生姓名学号。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90",
+        "note": "目录名与官方课名一致；内容为学生课程作业。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-15172658790-blog",
+          "page_url": "https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90",
+          "download_page": "https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明无特别声明资料 CC BY-NC-SA 4.0；课件/试卷版权归原作者，仅原页导航",
+          "attribution": "GitHub @15172658790/Blog（学生投稿镜像）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-HS1551-homework-das",
+      "type": "homework",
+      "title": "交响乐赏析学生作品（Op.147）",
+      "authors": [],
+      "notes": "仓库 交响乐赏析 目录内学生作品 PDF；README 说明文件未开源，仅原页导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90",
+        "note": "目录名与官方课名一致；内容为学生课程作品。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90",
+          "download_page": "https://github.com/dasWalpurgis/USTC/tree/main/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明文件未开源；仅原页导航",
+          "attribution": "GitHub @dasWalpurgis/USTC",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-15172658790-blog": "15172658790/Blog",
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

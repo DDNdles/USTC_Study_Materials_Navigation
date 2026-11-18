@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1013",
+  "name": "大学英语交流",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "008062",
+  "name": "植物生理学",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-008062-notes",
+      "type": "study",
+      "title": "植物生理学复习资料",
+      "authors": [],
+      "notes": "评课社区课程页点评附件，复习用 PDF；未标注年份。（附件需登录评课社区后下载，本次未打开文件正文，类型按课程页文件列表判定。）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3835/",
+        "note": "未标注年份与资料来源。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3835/",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "评课社区用户上传的点评附件，需登录下载；页面未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC 评课社区用户上传（课程页 3835，文件“植物生理学复习.pdf”）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
+}

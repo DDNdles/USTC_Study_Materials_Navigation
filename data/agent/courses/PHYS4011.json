@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4011",
+  "name": "光量子信息理论与实践",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

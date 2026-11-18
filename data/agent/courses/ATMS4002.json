@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ATMS4002",
+  "name": "大气科学基础实习",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

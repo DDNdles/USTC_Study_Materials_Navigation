@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4008",
+  "name": "生物医学光学显微成像",
+  "kind": "professional",
+  "tags": [
+    "biomedical",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

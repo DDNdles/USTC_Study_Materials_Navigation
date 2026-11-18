@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1621",
+  "name": "《论语》导读",
+  "kind": "general",
+  "tags": [
+    "philosophy",
+    "literature"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

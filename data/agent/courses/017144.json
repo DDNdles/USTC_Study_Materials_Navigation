@@ -1,0 +1,490 @@
+{
+  "schema_version": 1,
+  "code": "017144",
+  "name": "随机过程B",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-017144-exam-2022-2",
+      "type": "exams",
+      "title": "随机过程B 2021-2022学年第二学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2022年6月14日 8:30—10:30，随机过程B。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2021-2",
+      "type": "exams",
+      "title": "随机过程B 2020-2021学年第二学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；同目录另有独立解答文件，已单独建项，本条目仅试卷本身。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2021年7月5日 8:30—10:30，随机过程B；本文件仅试题，无答案；独立解答见 hum-017144-exam-2021-2-solutions。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2021-2-solutions",
+      "type": "exams",
+      "title": "随机过程B 2020-2021学年第二学期期末试卷解答（独立文件）",
+      "authors": [],
+      "notes": "独立的期末试卷解答 PDF，封面自述 2020-2021 学年第二学期，正文逐题解答；文件署名不采集。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%20B%202020-2021%20%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E8%A7%A3%E7%AD%94.pdf",
+        "note": "解答封面自述 2020-2021 学年第二学期，对应试卷卷面日期 2021年7月5日；为独立文件，非试卷镜像。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%20B%202020-2021%20%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%20B%202020-2021%20%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E8%A7%A3%E7%AD%94.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2020-1",
+      "type": "exams",
+      "title": "随机过程B 2019-2020学年第一学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2019-2020%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2020年1月6日，随机过程B，半开卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2019-2020%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2019-2020%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2019-2",
+      "type": "exams",
+      "title": "随机过程B 2018-2019学年第二学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2018-2019%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2019年6月24日 14:30—16:30，随机过程B，半开卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2018-2019%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2018-2019%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2019-1",
+      "type": "exams",
+      "title": "随机过程B 2018-2019学年第一学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2018-2019%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2019年1月10日，随机过程B，半开卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2018-2019%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2018-2019%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-017144-exams-8537de",
+      "type": "exams",
+      "title": "随机过程(B)2018期末考题",
+      "authors": [],
+      "notes": "目录：数学类/随机过程；随机过程(B)2018期末考题.pdf；文件页核验；卷面明确随机过程(B)，2018-01-09；无答案。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B",
+        "note": "共2页；第1页卷头“2017--2018学年第一学期”“考试科目：随机过程（B）”“2018年1月9日，半开卷”；无答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%28B%292018%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2018-2",
+      "type": "exams",
+      "title": "随机过程B 2017-2018学年第二学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2018年6月29日，随机过程B，半开卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2018-1",
+      "type": "exams",
+      "title": "随机过程B 2017-2018学年第一学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2018年1月9日，随机过程B，半开卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
+          "attribution": "GitHub @USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2017-2",
+      "type": "exams",
+      "title": "随机过程B 2016-2017学年第二学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2017年6月22日 8:30—10:30，随机过程B，闭卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2017-1",
+      "type": "exams",
+      "title": "随机过程B 2016-2017学年第一学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2017年1月11日 8:30—10:30，随机过程B，闭卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2016-makeup",
+      "type": "exams",
+      "title": "随机过程B 2015-2016学年第二学期补考试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面：2016年6月24日，随机过程B，闭卷补考。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-exam-2022-1",
+      "type": "exams",
+      "title": "随机过程B 2021-2022学年秋季学期期末试卷",
+      "authors": [],
+      "notes": "随机过程课程试卷 PDF；目录与学生投稿署名不额外采集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+        "note": "卷面仅标 2021—2022 学年秋季学期，未印公历考试日期；不按校历推算年份，暂不登记年份。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-homework-ustcresource",
+      "type": "homework",
+      "title": "随机过程习题答案（方兆本教材/第三、四章）",
+      "authors": [],
+      "notes": "USTC-Resource/USTC-Course 仓库随机过程 homework 目录，含方兆本《随机过程》答案与第三、四章习题答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
+        "note": "同目录试卷与 017144 随机过程B 文件 SHA 相同；homework 为教材/分章习题答案。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
+          "attribution": "GitHub @USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017144-notes-ustcresource",
+      "type": "study",
+      "title": "随机过程复习与总结",
+      "authors": [],
+      "notes": "USTC-Resource/USTC-Course 仓库随机过程 notes 目录，含复习.pdf 与随机过程总结；同目录试卷文件与随机过程B 2017-2018第一学期试卷 SHA 相同，确认课程归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
+        "note": "同目录试卷与 017144 随机过程B 文件 SHA 相同；notes 为课程复习/总结。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
+          "attribution": "GitHub @USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+  }
+}

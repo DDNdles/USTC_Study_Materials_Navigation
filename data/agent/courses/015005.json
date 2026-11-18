@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "code": "015005",
+  "name": "微观经济学",
+  "kind": "professional",
+  "tags": [
+    "economics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-015005-lectures-blog",
+      "type": "study",
+      "title": "微观经济学分章课件与复习提纲",
+      "authors": [],
+      "notes": "仓库 经管类/微观经济学 目录，含第1—6章课件、复习提纲与习题；仓库为 mbinary 课程资源旧镜像。两处 locations 已比对：目录内 10 个文件 git blob SHA 完全一致（2026-11-18）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6",
+        "note": "目录名与官方课程名一致；文件为分章课件/复习提纲。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-15172658790-blog",
+          "page_url": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6",
+          "download_page": "https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明无特别声明资料 CC BY-NC-SA 4.0；课件/试卷版权归原作者，仅原页导航",
+          "attribution": "GitHub @15172658790/Blog（学生投稿镜像）",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/blob/master/%E8%87%AA%E7%94%B1%E9%80%89%E4%BF%AE-%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/blob/master/%E8%87%AA%E7%94%B1%E9%80%89%E4%BF%AE-%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6",
+          "download_url": null,
+          "access": "public",
+          "license_note": "镜像仓库无独立 LICENSE；沿用原仓库 CC BY-NC-SA 4.0 声明，第三方课件版权归原作者",
+          "attribution": "GitHub @ustcwpz/USTC-CS-Courses-Resource（镜像）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-15172658790-blog": "15172658790/Blog",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

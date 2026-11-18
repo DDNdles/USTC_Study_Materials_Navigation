@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "014145",
+  "name": "材料制备与加工",
+  "kind": "professional",
+  "tags": [
+    "materials"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-014145-notes",
+      "type": "study",
+      "title": "材料制备与加工（Materials Preparation and Processing）课程笔记",
+      "authors": [
+        "flimmernz"
+      ],
+      "notes": "README 本科阶段第 1 条明确“材料制备与加工：Materials Preparation and Processing”，对应仓库根目录同名 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/flimmernz/course-note/blob/main/README.md",
+        "note": "课程归属由 README 明列课程名与英文名确认。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-flimmernz",
+          "page_url": "https://github.com/flimmernz/course-note/blob/main/Materials%20Preparation%20and%20Processing.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @flimmernz：Materials Preparation and Processing.pdf",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-flimmernz": "flimmernz/course-note（材料系课程笔记与报告）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "COMM1507",
+  "name": "电子信息检索",
+  "kind": "general",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

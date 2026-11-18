@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "038011",
+  "name": "量子信息导论",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

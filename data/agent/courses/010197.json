@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "010197",
+  "name": "执行器技术",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "instruments"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-lectures-010197-68a8e156",
+      "type": "study",
+      "title": "执行器技术课件与作业（2025）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "2025作业与课堂讲义。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF",
+        "note": "2025作业与课堂讲义。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "GEOP4005",
+  "name": "地球物理成像",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1003A",
+  "name": "光学A",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-phys1003a-2025-final-3ed3f8",
+      "type": "exams",
+      "title": "光学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025秋；单元格：2025秋 (A)；文件：25FaOpticsAfinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025秋；单元格：2025秋 (A)；文件：25FaOpticsAfinal.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaOpticsAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1003a-2024-final-006f0a",
+      "type": "exams",
+      "title": "光学 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2024秋；单元格：2024秋 (A)；文件：24FaOpticsAfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2024秋；单元格：2024秋 (A)；文件：24FaOpticsAfinal.pdf；卷面/首页学期：2024秋；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaOpticsAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1003a-2023-final-331185",
+      "type": "exams",
+      "title": "光学 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2023秋；单元格：2023秋 (A)；文件：23FaOpticsAfinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2023秋；单元格：2023秋 (A)；文件：23FaOpticsAfinal.pdf；卷面/首页学期：2023秋；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23FaOpticsAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1003a-2022-final-e98121",
+      "type": "exams",
+      "title": "光学 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2022秋；单元格：2022秋 (A)；文件：22FaOpticsAfinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2022秋；单元格：2022秋 (A)；文件：22FaOpticsAfinal.pdf；无文本层（扫描件）；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22FaOpticsAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1003a-exams-d8c90c",
+      "type": "exams",
+      "title": "光学A2021-2022学年第一学期期末考试试卷及答案",
+      "authors": [],
+      "notes": "目录：物理类/光学；光学A2021-2022学年第一学期期末考试试卷及答案.pdf；课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2021秋；单元格：2021秋 (A)；文件：21FaOpticsAfinal.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/光学；光学A2021-2022学年第一学期期末考试试卷及答案.pdf；仅有学年/学期标注，无公历考试日期，年份留空；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一；扫描件首页图像已核：中国科学技术大学 2021-2022学年第一学期期末考试试卷(A卷) 参考答案与评分标准，课程编号 PHYS1003A"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21FaOpticsAfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1003a-exams-1c6317",
+      "type": "exams",
+      "title": "光学A2022-2023学年第一学期期末考试试卷及答案",
+      "authors": [],
+      "notes": "目录：物理类/光学；光学A2022-2023学年第一学期期末考试试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/光学；光学A2022-2023学年第一学期期末考试试卷及答案.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1003a-exams-88bda4",
+      "type": "exams",
+      "title": "光学A2023-2024学年第一学期期末考试试卷及答案",
+      "authors": [],
+      "notes": "目录：物理类/光学；光学A2023-2024学年第一学期期末考试试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/光学；光学A2023-2024学年第一学期期末考试试卷及答案.pdf；卷面/首页学期：2023秋；仅有学年/学期标注，无公历考试日期，年份留空；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1003a-exams-ff8c37",
+      "type": "exams",
+      "title": "光学A2024-2025学年第一学期期末考试试卷及答案",
+      "authors": [],
+      "notes": "目录：物理类/光学；光学A2024-2025学年第一学期期末考试试卷及答案.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2024-2025%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/光学；光学A2024-2025学年第一学期期末考试试卷及答案.pdf；卷面/首页学期：2024秋；仅有学年/学期标注，无公历考试日期，年份留空；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2024-2025%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1003a-notes-082e1d",
+      "type": "study",
+      "title": "光学A笔记",
+      "authors": [],
+      "notes": "目录：物理类/光学；光学A笔记.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A%E7%AC%94%E8%AE%B0.pdf",
+        "note": "文件：光学A笔记.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

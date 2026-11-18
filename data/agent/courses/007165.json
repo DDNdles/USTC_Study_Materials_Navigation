@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007165",
+  "name": "大气与海洋学",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

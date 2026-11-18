@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4004",
+  "name": "区块链技术与应用",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "security"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

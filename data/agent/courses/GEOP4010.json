@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "GEOP4010",
+  "name": "空间环境与航天工程",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "environment",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

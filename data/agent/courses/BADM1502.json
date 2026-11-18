@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BADM1502",
+  "name": "知识产权管理概论",
+  "kind": "general",
+  "tags": [
+    "management",
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

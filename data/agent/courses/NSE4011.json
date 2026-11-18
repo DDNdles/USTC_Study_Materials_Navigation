@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE4011",
+  "name": "探测器原理",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

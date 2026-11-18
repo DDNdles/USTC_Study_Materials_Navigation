@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "code": "017165",
+  "name": "时间序列分析B",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-017165-homework-timeseries",
+      "type": "homework",
+      "title": "时间序列分析B 2022春 Lab1–5 源码与实验报告",
+      "authors": [],
+      "notes": "仓库 Readme 自述 USTC 2022春《时间序列分析B》课程资源，教材 Analysis of Financial Time Series；含 5 个 R 脚本与 5 份实验报告 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
+        "note": "Readme 列出教材与 Lab1–5 习题号；文件树 11 个文件含 lab1–5.R 与实验报告1–5.pdf。"
+      },
+      "locations": [
+        {
+          "source_id": "github-hehaha68-time-series-b",
+          "page_url": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
+          "download_page": "https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根目录未见 LICENSE；版权归作者，仅原页导航",
+          "attribution": "GitHub @hehaha68",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "github-hehaha68-time-series-b": "USTC 2022春《时间序列分析B》课程资源（hehaha68）"
+  }
+}

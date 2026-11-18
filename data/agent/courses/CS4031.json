@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4031",
+  "name": "智能计算软件优化",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

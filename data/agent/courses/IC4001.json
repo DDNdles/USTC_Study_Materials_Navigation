@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "IC4001",
+  "name": "集成电路自动化设计",
+  "kind": "professional",
+  "tags": [
+    "ic",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CHEM1505",
+  "name": "厨房化学",
+  "kind": "general",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

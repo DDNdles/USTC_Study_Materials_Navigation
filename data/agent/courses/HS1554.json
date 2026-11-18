@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1554",
+  "name": "歌唱艺术",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

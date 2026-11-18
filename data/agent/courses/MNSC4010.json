@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MNSC4010",
+  "name": "市场分析与决策",
+  "kind": "professional",
+  "tags": [
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

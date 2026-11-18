@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "003019",
+  "name": "化学物理实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MED3029",
+  "name": "医学影像学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biomedical"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

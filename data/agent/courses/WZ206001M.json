@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "code": "WZ206001M",
+  "name": "人工智能原理与算法",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-web-wz206001m-lectures-151872",
+      "type": "study",
+      "title": "人工智能原理与算法 课程主页资料",
+      "authors": [],
+      "notes": "课程主页：http://home.ustc.edu.cn/~pengkun/；页面含 55 个课件/资料链接（pdf/ppt/zip 等），未逐份下载",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~pengkun/",
+        "note": "教师课程主页，含资料链接"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://home.ustc.edu.cn/~pengkun/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师个人课程主页；资料权利归教师，仅原页导航",
+          "attribution": "home.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+  }
+}

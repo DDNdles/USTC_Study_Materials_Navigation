@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC2001",
+  "name": "博弈论基础",
+  "kind": "professional",
+  "tags": [
+    "economics",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM2009",
+  "name": "专业写作",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "literature"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

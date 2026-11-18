@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "019174",
+  "name": "无机与分析化学实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019174-lectures",
+      "type": "study",
+      "title": "无机与分析化学实验讲义（化学实验教学中心，约 74.7 MB）",
+      "authors": [
+        "中国科学技术大学化学与材料科学学院化学实验教学中心"
+      ],
+      "notes": "USTC课程资料簿“无机与分析化学实验”页“教材”条目；easylink.cc/mqlhqk 实际打开为教学中心编写的实验讲义 PDF（在线预览显示 74.7 MB）。同页另有“滴定曲线数据处理方法”条目，未逐项核验。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/wu-ji-yu-fen-xi-hua-xue-shi-yan.md",
+        "note": "实验讲义未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/wu-ji-yu-fen-xi-hua-xue-shi-yan.md",
+          "download_page": "https://easylink.cc/mqlhqk",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教学中心自编讲义，公开分享；未声明再分发许可，仅导航原页面。",
+          "attribution": "USTC课程资料簿：无机与分析化学实验 页",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
+  }
+}

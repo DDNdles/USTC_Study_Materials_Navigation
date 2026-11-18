@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4005",
+  "name": "环境生态学原理",
+  "kind": "professional",
+  "tags": [
+    "environment",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

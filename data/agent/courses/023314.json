@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "023314",
+  "name": "射频电路设计基础",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

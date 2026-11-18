@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "code": "CS1505",
+  "name": "Java软件开发基础",
+  "kind": "general",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-notes-gh-ustc-course-cs1505-java-notes",
+      "type": "study",
+      "title": "Java 软件开发基础 复习提纲（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "1 个文件（tree 实际读取）；目录 Java软件开发基础/notes",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-web-cs1505",
+      "type": "study",
+      "title": "Java软件开发基础 课程网站（刘佳薇的个人主页）",
+      "authors": [
+        "中国科学技术大学教师课程网站"
+      ],
+      "notes": "实际打开页面，标题「刘佳薇的个人主页」，页面列出 4 个课件/讲义类文件（如 电磁学千题解、数学分析教程(上册）习题解答、高校学生无偿献血先进个人推荐表.doc）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~ljw1222/",
+        "note": "年份取页面文件链接/路径中的四位年份；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://home.ustc.edu.cn/~ljw1222/",
+          "download_page": "http://home.ustc.edu.cn/~ljw1222/",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师课程网站公开页面；页面内课件权利归授课教师，未声明再分发许可",
+          "attribution": "home.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+  }
+}

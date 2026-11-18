@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "code": "CS1003L",
+  "name": "计算机程序设计(L)",
+  "kind": "common",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-projects-gh-ustc-course-materi-cs1003",
+      "type": "exams",
+      "title": "计算机程序设计／计算机程序设计(L) 考试与复习合集",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "66 个文件（tree 实际读取）；目录 大一上/计算机程序设计",
+      "coverage": {
+        "years": [
+          2021,
+          2023,
+          2024,
+          2025,
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1",
+        "note": "目录同时有计算机程序设计 A 卷、计算机程序设计(L) 机考及复习习题；以考试与复习为主，不是项目。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；个人本科课程作业/实验报告/复习资料存档",
+          "attribution": "duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs1003l-programdesign2025lquiz2-pdf",
+      "type": "exams",
+      "title": "计算机程序设计(L) 2025 秋机考二（唐建班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz2.pdf",
+        "note": "PDF 正文为编程题机考卷，仓库文件名 Quiz 不意味着课堂小测；期中或期末卷别未确认。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz2.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz2.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs1003l-programdesign2025lquiz1-pdf",
+      "type": "exams",
+      "title": "计算机程序设计(L) 2025 秋机考一（唐建班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz1.pdf",
+        "note": "PDF 正文为编程题机考卷，仓库文件名 Quiz 不意味着课堂小测；期中或期末卷别未确认。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz1.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz1.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+  }
+}

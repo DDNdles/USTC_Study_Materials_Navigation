@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "015006",
+  "name": "宏观经济学",
+  "kind": "professional",
+  "tags": [
+    "economics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

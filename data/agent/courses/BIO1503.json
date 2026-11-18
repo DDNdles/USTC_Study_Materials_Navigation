@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "BIO1503",
+  "name": "基础生命支持",
+  "kind": "general",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

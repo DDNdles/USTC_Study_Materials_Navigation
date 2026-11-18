@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC2003",
+  "name": "运筹学II：应用模型与方法",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

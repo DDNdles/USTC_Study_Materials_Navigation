@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BADM2004",
+  "name": "商业人工智能导论",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

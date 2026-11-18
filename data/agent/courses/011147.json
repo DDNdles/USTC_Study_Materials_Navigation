@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "code": "011147",
+  "name": "数据库系统及应用",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-011147-database-2020-spring-pdf",
+      "type": "exams",
+      "title": "数据库系统及应用 2020 春试卷（金培权班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202020%20Spring.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202020%20Spring.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202020%20Spring.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011147-2020",
+      "type": "exams",
+      "title": "数据库系统与应用 2020 期末考试",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82020%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82020%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82020%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011147-database-2019-spring-pdf",
+      "type": "exams",
+      "title": "数据库系统及应用 2019 春试卷（金培权班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 记作数据库；评课社区数据库系统及应用课程号 011147；README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202019%20Spring.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202019%20Spring.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202019%20Spring.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-011147-2019",
+      "type": "exams",
+      "title": "数据库系统与应用 2019 期末考试",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-web-011147",
+      "type": "study",
+      "title": "数据库系统及应用 课程网站（<font size=5>���ݿ�ϵͳ��Ӧ��</font>）",
+      "authors": [
+        "中国科学技术大学教师课程网站"
+      ],
+      "notes": "实际打开页面，标题「<font size=5>���ݿ�ϵͳ��Ӧ��</font>」，页面列出 17 个课件/讲义类文件（如 �γ��ܽ�、1 ���ݿ�ϵͳ����、2 ���ݿ���ϵ�ṹ）",
+      "coverage": {
+        "years": [
+          2009,
+          2010
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~ywyu/DBSystem.html",
+        "note": "年份取页面文件链接/路径中的四位年份；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~ywyu/DBSystem.html",
+          "download_page": "http://staff.ustc.edu.cn/~ywyu/DBSystem.html",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师课程网站公开页面；页面内课件权利归授课教师，未声明再分发许可",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+  }
+}

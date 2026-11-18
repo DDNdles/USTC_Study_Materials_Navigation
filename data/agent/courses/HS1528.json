@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "code": "HS1528",
+  "name": "日本社会文化解读(双语课程)",
+  "kind": "general",
+  "tags": [
+    "history",
+    "languages"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-HS1528-homework-das",
+      "type": "homework",
+      "title": "日本社会文化解读学生作品（Op.159）",
+      "authors": [],
+      "notes": "学生作品 PDF 及分页图片；README 说明文件未开源，仅原页导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB",
+        "note": "目录名与官方课名一致；内容为学生课程作品。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB",
+          "download_page": "https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明文件未开源；仅原页导航",
+          "attribution": "GitHub @dasWalpurgis/USTC",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

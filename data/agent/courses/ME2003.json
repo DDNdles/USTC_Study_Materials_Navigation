@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME2003",
+  "name": "测控技术及仪器综合实验I",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

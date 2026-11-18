@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE4019",
+  "name": "科学仪器实验",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

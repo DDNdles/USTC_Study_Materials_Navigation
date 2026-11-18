@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1561",
+  "name": "油画技法",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

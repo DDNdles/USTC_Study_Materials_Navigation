@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "code": "033002",
+  "name": "信息论B",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-learning-mate-033002-3sp-information-theory-a",
+      "type": "study",
+      "title": "信息论 讲义（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "7 个文件（tree 实际读取）；目录 3SP Information Theory A",
+      "coverage": {
+        "years": [
+          2006
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Information%20Theory%20A",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Information%20Theory%20A",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Information%20Theory%20A",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-course-materi-033002-6",
+      "type": "study",
+      "title": "信息论 课件与作业（USTC-Course-Materials-Sharing，6系信息论B）",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "25 个文件（tree 实际读取）；目录 6-信息论",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/6-%E4%BF%A1%E6%81%AF%E8%AE%BA",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/6-%E4%BF%A1%E6%81%AF%E8%AE%BA",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/6-%E4%BF%A1%E6%81%AF%E8%AE%BA",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing"
+  }
+}

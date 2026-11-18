@@ -1,0 +1,1051 @@
+{
+  "schema_version": 1,
+  "code": "022392",
+  "name": "理论力学A",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-022392-2025-final-9aa0ea",
+      "type": "exams",
+      "title": "理论力学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：朱界杰 (A)；文件：25FaTMAFinalZJJ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：朱界杰 (A)；文件：25FaTMAFinalZJJ.pdf；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaTMAFinalZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2026-final-eb3871",
+      "type": "exams",
+      "title": "理论力学 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2026春；单元格：朱界杰 (A)；文件：26SpTMAFinalZJJ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2026春；单元格：朱界杰 (A)；文件：26SpTMAFinalZJJ.pdf；卷面/首页学期：2026春；首页可见日期 2026年7月；年份按首页考试日期 2026年7月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpTMAFinalZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2026-midterm-125399",
+      "type": "exams",
+      "title": "理论力学 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026秋；单元格：杨睿智 (A)；文件：26FaTMAMidYRZ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026秋；单元格：杨睿智 (A)；文件：26FaTMAMidYRZ.pdf；卷面/首页学期：2026秋；首页可见日期 2026年10月；年份按首页考试日期 2026年10月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26FaTMAMidYRZ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2026-midterm-c67c51",
+      "type": "exams",
+      "title": "理论力学 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026春；单元格：朱界杰 (A)；文件：26SpTMAMidZJJ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026春；单元格：朱界杰 (A)；文件：26SpTMAMidZJJ.pdf；卷面/首页学期：2026春；首页可见日期 2026年7月；年份按首页考试日期 2026年7月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpTMAMidZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2024-final-cad72e",
+      "type": "exams",
+      "title": "理论力学 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024秋；单元格：潘海俊 (A)；文件：24FaTMAFinalPHJ.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024秋；单元格：潘海俊 (A)；文件：24FaTMAFinalPHJ.pdf；卷面/首页学期：2024秋；首页可见日期 2025年1月；年份按首页考试日期 2025年1月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaTMAFinalPHJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62024%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%EF%BC%88%E6%BD%98%E6%B5%B7%E4%BF%8A%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2025-final-9da66c",
+      "type": "exams",
+      "title": "理论力学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：冯畅 （A）；文件：25FaTMAFinalFC.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：冯畅 （A）；文件：25FaTMAFinalFC.pdf；卷面/首页学期：2025秋；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaTMAFinalFC.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2025-final-9e1634",
+      "type": "exams",
+      "title": "理论力学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：袁业飞 (A)；文件：25FaTMAFinalYYF.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025秋；单元格：袁业飞 (A)；文件：25FaTMAFinalYYF.pdf；卷面/首页学期：2025秋；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaTMAFinalYYF.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2025-midterm-e87538",
+      "type": "exams",
+      "title": "理论力学 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2025秋；单元格：朱界杰 (A)；文件：25FaTMAMidZJJ.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2025秋；单元格：朱界杰 (A)；文件：25FaTMAMidZJJ.pdf；卷面/首页学期：2025秋；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaTMAMidZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2024-midterm-79dd15",
+      "type": "exams",
+      "title": "理论力学 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：袁业飞第一次 (A)；文件：24FaTMAMidYYF1.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：袁业飞第一次 (A)；文件：24FaTMAMidYYF1.pdf；卷面/首页学期：2024秋；首页可见日期 2024年10月；年份按首页考试日期 2024年10月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaTMAMidYYF1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62024%E7%A7%8B%E6%9C%9F%E4%B8%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83%E8%AF%95%EF%BC%88%E8%A2%81%E4%B8%9A%E9%A3%9E%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2024-midterm-823fc6",
+      "type": "exams",
+      "title": "理论力学 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：潘海俊 (A)；文件：24FaTMAMidPHJ.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024秋；单元格：潘海俊 (A)；文件：24FaTMAMidPHJ.pdf；卷面/首页学期：2024秋；首页可见日期 2024年11月；年份按首页考试日期 2024年11月；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaTMAMidPHJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62024%E7%A7%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%EF%BC%88%E6%BD%98%E6%B5%B7%E4%BF%8A%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2023-final-e8b504",
+      "type": "exams",
+      "title": "理论力学 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023春；单元格：曹利明 (A)；文件：23SpTMAFinalCLM.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023春；单元格：曹利明 (A)；文件：23SpTMAFinalCLM.pdf；无文本层（扫描件）；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23SpTMAFinalCLM.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-exams-26f83e75",
+      "type": "exams",
+      "title": "理论力学 2022 春期末考试参考答案",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；2022 春期末答案。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62022%E6%98%A5%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/理论力学；文件名注明 2022 春期末参考答案；现有 2022 无理论力学资源"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62022%E6%98%A5%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2020-final-488048",
+      "type": "exams",
+      "title": "理论力学 2020 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020秋；单元格：朱界杰 (A)；文件：20FaTMAFinalZJJ.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020秋；单元格：朱界杰 (A)；文件：20FaTMAFinalZJJ.pdf；首页可见日期 2021年3月；年份按首页考试日期 2021年3月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/20FaTMAFinalZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62020%E7%A7%8B%E6%9C%B1%E7%95%8C%E6%9D%B0%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2021-final-00b004",
+      "type": "exams",
+      "title": "理论力学 2021 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2021秋；单元格：李毅自命题部分 (A)；文件：21FaTMAFinalLY.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2021秋；单元格：李毅自命题部分 (A)；文件：21FaTMAFinalLY.pdf；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21FaTMAFinalLY.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2021-midterm-155112",
+      "type": "exams",
+      "title": "理论力学 2021 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2021秋；单元格：袁业飞第一次 (A)；文件：21FaTMAMidYYF1.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2021秋；单元格：袁业飞第一次 (A)；文件：21FaTMAMidYYF1.pdf；卷面/首页学期：2021秋；首页可见日期 2021年10月；年份按首页考试日期 2021年10月；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21FaTMAMidYYF1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2021-midterm-89a35b",
+      "type": "exams",
+      "title": "理论力学 2021 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2021秋；单元格：袁业飞第二次 (A)；文件：21FaTMAMidYYF2.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2021秋；单元格：袁业飞第二次 (A)；文件：21FaTMAMidYYF2.pdf；卷面/首页学期：2021秋；首页可见日期 2021年12月；年份按首页考试日期 2021年12月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21FaTMAMidYYF2.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62021%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-exams-99ff3de7",
+      "type": "exams",
+      "title": "理论力学 2021 秋期中、期末考试（潘海俊）",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；2021 秋潘海俊期中+期末。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62021%E7%A7%8B%E6%BD%98%E6%B5%B7%E4%BF%8A%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%26%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：物理类/理论力学；文件名注明 2021 秋、潘海俊、期中考试&期末考试，同一文件含两次考试；现有 2021 资源无潘海俊"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62021%E7%A7%8B%E6%BD%98%E6%B5%B7%E4%BF%8A%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%26%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2020-final-04cf91",
+      "type": "exams",
+      "title": "理论力学 2020 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：朱界杰样卷 (A)；文件：SampleTMAFinalZJJ.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：朱界杰样卷 (A)；文件：SampleTMAFinalZJJ.pdf；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/SampleTMAFinalZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A0%B7%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A0%B7%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2020-final-4eadd2",
+      "type": "exams",
+      "title": "理论力学 2020 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020秋；单元格：袁业飞 (A)；文件：20FaTMAFinalYYF.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020秋；单元格：袁业飞 (A)；文件：20FaTMAFinalYYF.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/20FaTMAFinalYYF.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62020%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2020-midterm-2cbd08",
+      "type": "exams",
+      "title": "理论力学 2020 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：朱界杰样卷 (A)；文件：SampleTMAMidZJJ.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：朱界杰样卷 (A)；文件：SampleTMAMidZJJ.pdf；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/SampleTMAMidZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E6%A0%B7%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E6%A0%B7%E5%8D%B7%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2020-midterm-9be332",
+      "type": "exams",
+      "title": "理论力学 2020 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020秋；单元格：袁业飞第一次 (A)；文件：20FaTMAMidYYF1.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020秋；单元格：袁业飞第一次 (A)；文件：20FaTMAMidYYF1.pdf；卷面/首页学期：2020秋；首页可见日期 2020年10月；年份按首页考试日期 2020年10月；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/20FaTMAMidYYF1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-exams-e42ef5ef",
+      "type": "exams",
+      "title": "理论力学 2020 秋期末考试（潘海俊）",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；2020 秋潘海俊期末。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62020%E7%A7%8B%E6%BD%98%E6%B5%B7%E4%BF%8A%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：物理类/理论力学；文件名注明 2020 秋、潘海俊期末；现有 2020 期末为朱界杰、袁业飞，无潘海俊"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62020%E7%A7%8B%E6%BD%98%E6%B5%B7%E4%BF%8A%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2019-final-ddb813",
+      "type": "exams",
+      "title": "理论力学 2019 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：19秋袁业飞 (A)；文件：19FaTMAFinalYYC.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：19秋袁业飞 (A)；文件：19FaTMAFinalYYC.pdf；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/19FaTMAFinalYYC.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2019-midterm-b6c0a4",
+      "type": "exams",
+      "title": "理论力学 2019 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：19秋朱界杰 (A)；文件：19FaTMAMidZJJ.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：19秋朱界杰 (A)；文件：19FaTMAMidZJJ.pdf；无文本层（扫描件）；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/19FaTMAMidZJJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-exams-db587607",
+      "type": "exams",
+      "title": "理论力学 2019 秋期末考试（袁业飞）",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；2019 秋袁业飞期末及答案。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62019%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/理论力学；文件名注明 2019 秋、袁业飞、期末考试/参考答案；现有 2019 期末资源为 19FaTMAFinalYYC（教师缩写不同），不合并"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62019%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62019%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022392-2018-final-eedd56",
+      "type": "exams",
+      "title": "理论力学 2018 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：18秋潘海俊 (A)；文件：18FaTMAFinalPHJ.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：18秋潘海俊 (A)；文件：18FaTMAFinalPHJ.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/18FaTMAFinalPHJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-exams-1b87fc49",
+      "type": "exams",
+      "title": "理论力学 2016 秋期末考试及参考答案",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；2016 秋期末。",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：物理类/理论力学；文件名注明 2016 秋期末及参考答案；文件页匿名访问 200"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-homework-349c9703",
+      "type": "homework",
+      "title": "理论力学期中练习题",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；期中练习题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98.pdf",
+        "note": "目录：物理类/理论力学；文件页匿名访问 200；练习题，非正式考试卷"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-study-eff0030d",
+      "type": "study",
+      "title": "理论力学讲义（朱界杰）",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；朱界杰讲义。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%EF%BC%88%E6%9C%B1%E7%95%8C%E6%9D%B0%EF%BC%89.pdf",
+        "note": "目录：物理类/理论力学；文件名注明朱界杰；文件页匿名访问 200；大部头讲义，未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%EF%BC%88%E6%9C%B1%E7%95%8C%E6%9D%B0%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022392-notes-326e6c",
+      "type": "study",
+      "title": "理论力学A笔记（秦敢班）",
+      "authors": [],
+      "notes": "目录：物理类/理论力学；理论力学A笔记（秦敢班）.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6A%E7%AC%94%E8%AE%B0%EF%BC%88%E7%A7%A6%E6%95%A2%E7%8F%AD%EF%BC%89.pdf",
+        "note": "文件：理论力学A笔记（秦敢班）.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6A%E7%AC%94%E8%AE%B0%EF%BC%88%E7%A7%A6%E6%95%A2%E7%8F%AD%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

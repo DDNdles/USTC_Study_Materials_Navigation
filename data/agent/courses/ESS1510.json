@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ESS1510",
+  "name": "宇宙宜居性：行星揭秘",
+  "kind": "general",
+  "tags": [
+    "astronomy",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

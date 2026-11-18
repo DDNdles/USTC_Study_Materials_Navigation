@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MATH4004",
+  "name": "现代概率方法导论",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

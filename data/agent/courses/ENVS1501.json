@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS1501",
+  "name": "漫谈双碳科技",
+  "kind": "general",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ME2016",
+  "name": "生产实习A",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

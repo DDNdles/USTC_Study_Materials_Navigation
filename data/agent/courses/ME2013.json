@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME2013",
+  "name": "统计热力学",
+  "kind": "professional",
+  "tags": [
+    "thermal",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00112",
+  "name": "健美II",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

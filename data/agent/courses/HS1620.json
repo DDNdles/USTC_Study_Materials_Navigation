@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1620",
+  "name": "钢琴演奏入门",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

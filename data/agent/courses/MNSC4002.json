@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC4002",
+  "name": "信息系统项目管理",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

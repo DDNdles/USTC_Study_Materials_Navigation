@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1634",
+  "name": "宋代美学",
+  "kind": "general",
+  "tags": [
+    "arts",
+    "philosophy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

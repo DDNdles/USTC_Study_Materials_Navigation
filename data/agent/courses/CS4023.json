@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4023",
+  "name": "数据科学导论",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

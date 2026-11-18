@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1667",
+  "name": "钢琴零基础入门",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NNM1503",
+  "name": "网络直播理论与实践",
+  "kind": "general",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

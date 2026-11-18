@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PLNT3001",
+  "name": "行星地质学",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

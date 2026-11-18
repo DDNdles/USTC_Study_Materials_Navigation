@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "014131",
+  "name": "纳米材料导论",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

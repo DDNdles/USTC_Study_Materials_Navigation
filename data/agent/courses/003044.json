@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "003044",
+  "name": "物理化学实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-003044-lab-reports",
+      "type": "projects",
+      "title": "物理化学实验 实验报告 12 份（Op.155 No.1–12）",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 物理化学实验/ 下按实验编号列 12 份报告 PDF，目录注明“仅供参考”；文件名未写实验名称与年份。已抽看 12 份正文首页，实验名可辨（恒温槽、燃烧热、相图、表面张力、磁化率等），均未标课程号与年份。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C",
+        "note": "已抽看 12 份正文首页确认实验名，均未标课程号/年份；官方 003044 与 003142 的实验简介重叠，本条目按目录名对应 003044，未同时挂 003142。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：物理化学实验",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

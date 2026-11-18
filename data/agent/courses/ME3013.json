@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME3013",
+  "name": "机器人传感与控制综合实验I",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

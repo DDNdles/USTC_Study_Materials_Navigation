@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "FL1501",
+  "name": "西南联大英文导读",
+  "kind": "general",
+  "tags": [
+    "languages",
+    "literature"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

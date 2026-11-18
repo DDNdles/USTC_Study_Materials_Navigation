@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS3002H",
+  "name": "计算机体系结构(H)",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

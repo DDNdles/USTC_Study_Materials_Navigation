@@ -1,0 +1,584 @@
+{
+  "schema_version": 1,
+  "code": "EE2004",
+  "name": "计算机网络B",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "communications"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-ee2004-57b73bcd",
+      "type": "exams",
+      "title": "计算机网络B 2018 期末",
+      "authors": [
+        "EpiHio",
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/2018%E7%A7%8B%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：年份2018；期末；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/2018%E7%A7%8B%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/2018%E7%A7%8B%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-b318762d",
+      "type": "exams",
+      "title": "计算机网络B 2018 期末（2）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/2018%20%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：年份2018；期末；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/2018%20%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-d6363c38",
+      "type": "exams",
+      "title": "计算机网络B 2016—2017学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/2017%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：学年2016-2017；科目…；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/2017%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-4a5f8c3b",
+      "type": "exams",
+      "title": "计算机网络B 2016—2017学年（公历年份未确认） 试卷（原卷）",
+      "authors": [
+        "EpiHio",
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%281%29.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：学年2016-2017；科目…；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%8E%86%E5%B9%B4%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-159a90f7",
+      "type": "exams",
+      "title": "计算机网络B 2019—2020学年（公历年份未确认） 期末（原卷）",
+      "authors": [
+        "EpiHio",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/20%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：学年2019-2020；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/20%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/19-20%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-27b02309",
+      "type": "exams",
+      "title": "计算机网络B 2020—2021学年（公历年份未确认） 期末（回忆版）",
+      "authors": [
+        "EpiHio",
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/20%E6%9C%9F%E6%9C%AB.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：期末；回忆版；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/20%E6%9C%9F%E6%9C%AB.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/20%E7%A7%8B%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-5aaa676f",
+      "type": "exams",
+      "title": "计算机网络B 2022—2023学年（公历年份未确认） 试卷（答案）",
+      "authors": [
+        "EpiHio",
+        "duxiaoyang-creator"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%BD%91%E7%AD%94%E6%A1%88%281%29.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：学年2022-2023；解答：有。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%BD%91%E7%AD%94%E6%A1%88%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-6ccfbd8d",
+      "type": "exams",
+      "title": "计算机网络B 年份未标 期中",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/24%E6%9C%9F%E4%B8%AD.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/24%E6%9C%9F%E4%B8%AD.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-ee2004-72e4c22a",
+      "type": "exams",
+      "title": "计算机网络B 年份未标 试卷（原卷）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/%E8%AE%A1%E7%BD%91%E8%AF%95%E5%8D%B7%E5%90%88%E9%9B%86%20%E9%BA%BB%E6%B2%BB%E6%98%8A.pdf",
+        "note": "EpiHio README明确“3A秋 计算机网络B”；ly382965为6系、duxiaoyang为信息学院，均对应EE2004，不挂011144。 卷面证据：学年2016-2017；科目…；解答：未见/未标。 合订本未逐卷展开。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/%E8%AE%A1%E7%BD%91%E8%AF%95%E5%8D%B7%E5%90%88%E9%9B%86%20%E9%BA%BB%E6%B2%BB%E6%98%8A.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2004-3975a817",
+      "type": "homework",
+      "title": "计算机网络课本答案",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "课本习题答案目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88",
+        "note": "课本习题答案目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-ee2004-5d4427c9",
+      "type": "homework",
+      "title": "信息学院计算机网络参考答案",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "参考答案PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "参考答案PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E4%BF%A1%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2004-043f281d",
+      "type": "study",
+      "title": "计算机网络复习（2025秋）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "复习PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B%E5%A4%8D%E4%B9%A0%EF%BC%882025%E7%A7%8B%29.pdf",
+        "note": "复习PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B%E5%A4%8D%E4%B9%A0%EF%BC%882025%E7%A7%8B%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2004-20d980df",
+      "type": "study",
+      "title": "计算机网络复习与知识点总结",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "知识点总结PDF；同目录另含Z-Library教材下载，已排除不链接。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/%E8%AE%A1%E7%BD%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf",
+        "note": "知识点总结PDF；同目录另含Z-Library教材下载，已排除不链接。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/%E8%AE%A1%E7%BD%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee2004-34e82ff7",
+      "type": "study",
+      "title": "计算机网络课件（2025）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "cn-1至cn-6（2025）PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6",
+        "note": "cn-1至cn-6（2025）PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-ee2004-4e2bb855",
+      "type": "study",
+      "title": "计算机网络B复习记录与图示源码",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "README明确3A秋计算机网络B；归属EE2004。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81",
+        "note": "README明确3A秋计算机网络B；归属EE2004。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee2004-cbf80c8b",
+      "type": "projects",
+      "title": "计算机网络实验（RDT/滑动窗口）",
+      "authors": [
+        "Mr-Philo"
+      ],
+      "notes": "stop-and-wait/GBN/滑动窗口实验代码与答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%AE%9E%E9%AA%8C",
+        "note": "stop-and-wait/GBN/滑动窗口实验代码与答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%AE%9E%E9%AA%8C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
+  }
+}

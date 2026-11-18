@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME3010",
+  "name": "仪器电路及系统",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

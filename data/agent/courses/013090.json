@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "013090",
+  "name": "热物理基础实验(1)",
+  "kind": "professional",
+  "tags": [
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

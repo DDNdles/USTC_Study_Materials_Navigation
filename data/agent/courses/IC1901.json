@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "IC1901",
+  "name": "芯片科技概论",
+  "kind": "general",
+  "tags": [
+    "ic"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

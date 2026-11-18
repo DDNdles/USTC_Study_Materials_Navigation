@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE1510",
+  "name": "嵌入式应用设计基础",
+  "kind": "general",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "003143",
+  "name": "物理化学基础实验(下)",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-003142-003143-lab-reports-flimmernz",
+      "type": "projects",
+      "title": "物理化学基础实验（上/下）实验研究报告 15 份（材料系本科）",
+      "authors": [
+        "flimmernz"
+      ],
+      "notes": "仓库 物化实验/ 下按实验名逐份 PDF；README 本科阶段写“物化实验：上下课程的各类实验报告”。实验同时覆盖官方 003142 物理化学基础实验（上）（燃烧热、电池电动势、双液系相图、表面张力等）与 003143 物理化学基础实验（下）（B-Z 振荡、催化剂制备）内容，故挂两门；不挂仅有相近名称的 003044。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/flimmernz/course-note/tree/main/%E7%89%A9%E5%8C%96%E5%AE%9E%E9%AA%8C",
+        "note": "仓库目录按实验名而非年份组织，未标注学期；课程归属依据 README“上下课程”与实验项目对应关系，不以同名课自动挂 003044。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-flimmernz",
+          "page_url": "https://github.com/flimmernz/course-note/tree/main/%E7%89%A9%E5%8C%96%E5%AE%9E%E9%AA%8C",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @flimmernz：物化实验/",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-flimmernz": "flimmernz/course-note（材料系课程笔记与报告）"
+  }
+}

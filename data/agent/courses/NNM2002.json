@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NNM2002",
+  "name": "人际传播学",
+  "kind": "professional",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

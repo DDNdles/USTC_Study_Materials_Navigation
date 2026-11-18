@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "code": "EE3006",
+  "name": "计算机控制基础",
+  "kind": "professional",
+  "tags": [
+    "control",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-feixu-ee3006-2023-a",
+      "type": "exams",
+      "title": "计算机控制基础 2023—2024 学年第一学期 A 卷",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "卷头课程代码 EE3006；仅标 A 卷，未标期中/期末，卷别记 unknown。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%8023%E7%A7%8BA%E5%8D%B7.pdf",
+        "note": "卷头 2023—2024 学年第一学期、课程代码 EE3006、A 卷；未标期中/期末。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%8023%E7%A7%8BA%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%8023%E7%A7%8BA%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-ee3006-2024-a",
+      "type": "exams",
+      "title": "计算机控制基础 2024—2025 学年第一学期 A 卷",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "卷头课程代码 EE3006；仅标 A 卷，未标期中/期末，卷别记 unknown。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%8024%E7%A7%8BA%E5%8D%B7.pdf",
+        "note": "卷头 2024—2025 学年第一学期、课程代码 EE3006、A 卷；未标期中/期末。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%8024%E7%A7%8BA%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%8024%E7%A7%8BA%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-feixu-ee3006-answers",
+      "type": "homework",
+      "title": "计算机控制基础 作业讲解与答案（第 1—6 次）",
+      "authors": [
+        "胡华威",
+        "卜赫",
+        "余海波",
+        "杨智华",
+        "李天宇"
+      ],
+      "notes": "6 份 PDF，含第一次至第六次作业讲解/答案；作者署名含胡华威、卜赫、余海波、杨智华、李天宇；第 5 次文件名带 -1。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+        "note": "6 份作业讲解/答案；作者署名见各文件；非小测，exam_kind 为 null。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%88%86%E4%BA%AB.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%88%86%E4%BA%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%88%86%E4%BA%AB.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%88%86%E4%BA%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%88%86%E4%BA%AB-1.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%88%86%E4%BA%AB-1.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-study-feixu-ee3006-formula",
+      "type": "study",
+      "title": "计算机控制基础常见公式表（CCS25Formula2col）",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "1 页双栏公式表；文件名为 CCS25Formula2col。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E5%B8%B8%E8%A7%81%E5%85%AC%E5%BC%8F-CCS25Formula2col.pdf",
+        "note": "1 页双栏公式表；Laplace/Z 变换等公式。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E5%B8%B8%E8%A7%81%E5%85%AC%E5%BC%8F-CCS25Formula2col.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E5%B8%B8%E8%A7%81%E5%85%AC%E5%BC%8F-CCS25Formula2col.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

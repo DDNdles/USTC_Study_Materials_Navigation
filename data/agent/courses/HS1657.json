@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1657",
+  "name": "工程伦理导论",
+  "kind": "general",
+  "tags": [
+    "philosophy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

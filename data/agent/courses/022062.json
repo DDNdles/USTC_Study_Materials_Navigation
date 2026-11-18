@@ -1,0 +1,851 @@
+{
+  "schema_version": 1,
+  "code": "022062",
+  "name": "热力学与统计物理A",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "thermal"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-022062-2025-final-f4739e",
+      "type": "exams",
+      "title": "热力学与统计物理 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025春；单元格：2025春期末 (A)；文件：25SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2025春；单元格：2025春期末 (A)；文件：25SpTDAFinal.pdf；无文本层（扫描件）；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2025-midterm-78ff51",
+      "type": "exams",
+      "title": "热力学与统计物理 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2025春；单元格：2025春期中 (A)；文件：25SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2025春；单元格：2025春期中 (A)；文件：25SpTDAMid.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2024-final-1a4427",
+      "type": "exams",
+      "title": "热力学与统计物理 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024春；单元格：2024春期末 (A)；文件：24SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2024春；单元格：2024春期末 (A)；文件：24SpTDAFinal.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2024-midterm-f28312",
+      "type": "exams",
+      "title": "热力学与统计物理 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024春；单元格：2024春期中 (A)；文件：24SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2024春；单元格：2024春期中 (A)；文件：24SpTDAMid.pdf；无文本层（扫描件）；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2023-final-ef9882",
+      "type": "exams",
+      "title": "热力学与统计物理 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023春；单元格：2023春期末 (A)；文件：23SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2023春；单元格：2023春期末 (A)；文件：23SpTDAFinal.pdf；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2023-midterm-6a7ecf",
+      "type": "exams",
+      "title": "热力学与统计物理 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2023春；单元格：2023春期中 (A)；文件：23SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2023春；单元格：2023春期中 (A)；文件：23SpTDAMid.pdf；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2022-final-e6e199",
+      "type": "exams",
+      "title": "热力学与统计物理 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2022春；单元格：2022春期末 (A)；文件：22SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2022春；单元格：2022春期末 (A)；文件：22SpTDAFinal.pdf；无文本层（扫描件）；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2022-midterm-1c2d96",
+      "type": "exams",
+      "title": "热力学与统计物理 2022 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2022春；单元格：2022春期中 (A)；文件：22SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2022春；单元格：2022春期中 (A)；文件：22SpTDAMid.pdf；文本层可读；抽读前3页（共9页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2022.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2021-final-62984f",
+      "type": "exams",
+      "title": "热力学与统计物理 2021 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2021春；单元格：2021春期末 (A)；文件：21SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2021春；单元格：2021春期末 (A)；文件：21SpTDAFinal.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E6%9C%AB2021.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2021-midterm-6e5d22",
+      "type": "exams",
+      "title": "热力学与统计物理 2021 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2021春；单元格：2021春期中 (A)；文件：21SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2021春；单元格：2021春期中 (A)；文件：21SpTDAMid.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/21SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2021.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2020-midterm",
+      "type": "exams",
+      "title": "热力学与统计物理 2020 春期中",
+      "authors": [],
+      "notes": "原索引 20SpTDAMid.pdf 标为 2020 春期中；我的科大另有同次试题文件。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2020.pdf",
+        "note": "原索引 20SpTDAMid.pdf 标为 2020 春期中；我的科大另有同次试题文件。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/20SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2020.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2020-final-1f9750",
+      "type": "exams",
+      "title": "热力学与统计物理 2020 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020春；单元格：2020春期末 (A)；文件：20SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020春；单元格：2020春期末 (A)；文件：20SpTDAFinal.pdf；文本层编码不可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/20SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E6%9C%AB2020.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2019-final-3e7a7b",
+      "type": "exams",
+      "title": "热力学与统计物理 2019 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：19春 (A)；文件：19SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：19春 (A)；文件：19SpTDAFinal.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/19SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E6%9C%AB2019.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E6%9C%AB2019%E7%AC%AC%E5%9B%9B%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2019-midterm-6fc4ac",
+      "type": "exams",
+      "title": "热力学与统计物理 2019 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：19春 (A)；文件：19SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：19春 (A)；文件：19SpTDAMid.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/19SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2019.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2019%E7%AC%AC%E5%9B%9B%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2018-final-ceb2de",
+      "type": "exams",
+      "title": "热力学与统计物理 2018 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：18春 (A)；文件：18SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：18春 (A)；文件：18SpTDAFinal.pdf；无文本层（扫描件）；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/18SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2018-midterm-2b90d8",
+      "type": "exams",
+      "title": "热力学与统计物理 2018 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：18春 (A)；文件：18SpTDAMid.pdf",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2020年前；单元格：18春 (A)；文件：18SpTDAMid.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/18SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2018.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2017-final-d337c7",
+      "type": "exams",
+      "title": "热力学与统计物理 2017 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：17春 (A)；文件：17SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：17春 (A)；文件：17SpTDAFinal.pdf；无文本层（扫描件）；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/17SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2016-final-d31551",
+      "type": "exams",
+      "title": "热力学与统计物理 2016 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：16春 (A)；文件：16SpTDAFinal.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期末考试；行年份：2020年前；单元格：16春 (A)；文件：16SpTDAFinal.pdf；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/16SpTDAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-022062-2017-midterm-ce91ef",
+      "type": "exams",
+      "title": "热力学与统计物理 2017 春期中（来源标注）",
+      "authors": [],
+      "notes": "来源表将 17SpTDAMid.pdf 标注为 17 春 A 期中；公历考试日期未核实。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "来源表将 17SpTDAMid.pdf 标注为 17 春 A 期中；公历考试日期未核实。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/17SpTDAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022062-homework-1214f5ef",
+      "type": "homework",
+      "title": "热力学与统计物理（2024 春）第二次小测验参考答案",
+      "authors": [],
+      "notes": "目录：物理类/热力学和统计物理；2024 春第二次小测答案。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%9F%E4%B8%AD2024.pdf",
+        "note": "目录：物理类/热力学和统计物理；正文标题“《热力学与统计物理》（2024 春季）第二次小测验参考答案”；小测归作业"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%9F%E4%B8%AD2024.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022062-study-bc783420",
+      "type": "study",
+      "title": "第4-5章复习",
+      "authors": [],
+      "notes": "目录：物理类/热力学和统计物理；复习/笔记资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%AC%AC4-5%E7%AB%A0%E5%A4%8D%E4%B9%A0.pdf",
+        "note": "目录：物理类/热力学和统计物理；文件页匿名访问 200；内容为热力学与统计物理复习笔记；未标注 A/B，按现有同目录试题均属 022062 处理"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%AC%AC4-5%E7%AB%A0%E5%A4%8D%E4%B9%A0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022062-study-4b3d45d6",
+      "type": "study",
+      "title": "热力学与统计物理笔记",
+      "authors": [],
+      "notes": "目录：物理类/热力学和统计物理；复习/笔记资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E5%8A%9B%E5%AD%A6%E4%B8%8E%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0.pdf",
+        "note": "目录：物理类/热力学和统计物理；文件页匿名访问 200；内容为热力学与统计物理复习笔记；未标注 A/B，按现有同目录试题均属 022062 处理"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E5%8A%9B%E5%AD%A6%E4%B8%8E%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022062-study-6882b26a",
+      "type": "study",
+      "title": "热统笔记ztf",
+      "authors": [],
+      "notes": "目录：物理类/热力学和统计物理；复习/笔记资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E7%AC%94%E8%AE%B0ztf.pdf",
+        "note": "目录：物理类/热力学和统计物理；文件页匿名访问 200；内容为热力学与统计物理复习笔记；未标注 A/B，按现有同目录试题均属 022062 处理"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E7%AC%94%E8%AE%B0ztf.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022062-study-168d39c1",
+      "type": "study",
+      "title": "热统期末复习",
+      "authors": [],
+      "notes": "目录：物理类/热力学和统计物理；复习/笔记资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf",
+        "note": "目录：物理类/热力学和统计物理；文件页匿名访问 200；内容为热力学与统计物理复习笔记；未标注 A/B，按现有同目录试题均属 022062 处理"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

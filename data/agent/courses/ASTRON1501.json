@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ASTRON1501",
+  "name": "天体物理概观",
+  "kind": "general",
+  "tags": [
+    "astronomy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FIN3001",
+  "name": "金融建模",
+  "kind": "professional",
+  "tags": [
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

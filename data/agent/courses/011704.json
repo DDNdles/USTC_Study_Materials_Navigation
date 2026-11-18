@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "code": "011704",
+  "name": "计算机系统概论(H)",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-projects-gh-ustc-ds-undergradu-011704",
+      "type": "homework",
+      "title": "计算机系统概论 作业与实验（ustc_ds_undergraduate_course）",
+      "authors": [
+        "guidongnan"
+      ],
+      "notes": "36 个文件（tree 实际读取）；目录 计算机系统概论",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+        "note": "作业和课后题答案 22 项为主体，另有实验说明及材料 14 项。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+          "download_page": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT；README 声明非商业用途、禁止抄袭",
+          "attribution": "guidongnan/ustc_ds_undergraduate_course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-plus-011704",
+      "type": "projects",
+      "title": "计算机系统概论 作业与实验（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "52 个文件（tree 实际读取）；目录 计算机系统概论",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-cs-resources-011704-cs",
+      "type": "projects",
+      "title": "计算机系统概论 作业与实验（USTC-CS-Resources）",
+      "authors": [
+        "USTC-CS-Course-Resource"
+      ],
+      "notes": "297 个文件（tree 实际读取）；目录 CS/计算机系统概论",
+      "coverage": {
+        "years": [
+          2015
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-cs-resources",
+          "page_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+          "download_page": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭",
+          "attribution": "USTC-CS-Course-Resource/USTC-CS-Resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "gh-kobe972": "Kobe972/ustc_course_plus",
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources"
+  }
+}

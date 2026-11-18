@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "022165",
+  "name": "大学物理-研究性实验",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

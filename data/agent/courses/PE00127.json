@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00127",
+  "name": "游泳",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

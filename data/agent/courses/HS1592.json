@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1592",
+  "name": "科学与哲学史",
+  "kind": "general",
+  "tags": [
+    "philosophy",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

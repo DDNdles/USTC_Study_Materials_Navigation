@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "EE4006",
+  "name": "工业计算机网络",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "communications",
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

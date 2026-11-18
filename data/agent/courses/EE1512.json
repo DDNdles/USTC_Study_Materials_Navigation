@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE1512",
+  "name": "AI博弈方法实践",
+  "kind": "general",
+  "tags": [
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

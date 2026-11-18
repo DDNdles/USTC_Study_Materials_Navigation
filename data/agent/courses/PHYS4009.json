@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4009",
+  "name": "量子物理前沿介绍",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

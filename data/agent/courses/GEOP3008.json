@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3008",
+  "name": "磁流体力学",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "physics",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

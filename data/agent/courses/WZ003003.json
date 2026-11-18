@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "WZ003003",
+  "name": "谱学理论与方法",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

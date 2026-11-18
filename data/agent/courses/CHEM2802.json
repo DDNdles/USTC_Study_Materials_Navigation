@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CHEM2802",
+  "name": "学科文献阅读与分析",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

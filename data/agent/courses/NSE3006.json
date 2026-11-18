@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE3006",
+  "name": "反应堆物理",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

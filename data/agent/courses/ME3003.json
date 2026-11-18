@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME3003",
+  "name": "火灾学基础",
+  "kind": "professional",
+  "tags": [
+    "safety",
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

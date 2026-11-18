@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4011",
+  "name": "算法博弈论",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

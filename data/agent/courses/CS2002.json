@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "code": "CS2002",
+  "name": "数理逻辑基础",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2026final-md",
+      "type": "exams",
+      "title": "数理逻辑基础 2026 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2026Final.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2026Final.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2026Final.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2025f-pdf",
+      "type": "exams",
+      "title": "数理逻辑基础 2025 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2025F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2025F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2025F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2024f-pdf",
+      "type": "exams",
+      "title": "数理逻辑基础 2024 期末回忆版",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2024F.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2024F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2024F.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2023final-pdf",
+      "type": "exams",
+      "title": "数理逻辑(基础) 2023 期末",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2023Final.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2023Final.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2023Final.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2022final-pdf",
+      "type": "exams",
+      "title": "数理逻辑(基础) 2022 期末",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2022Final.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2022Final.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2022Final.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2017t2020-pdf",
+      "type": "exams",
+      "title": "数理逻辑(基础) 2017/2018/2020 期末合集",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2017,
+          2018,
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2017T2020.pdf",
+        "note": "PDF 为 Hank Wang 2020-09-10 汇总，含 2017、2018、2020 春季期末三卷；未标回忆版；未含答案。Wloner 同名汇总文件字节不同，按方案不合并，仅记录为重复内容。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2017T2020.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2017T2020.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2002-mathematicallogic2020mid-pdf",
+      "type": "exams",
+      "title": "数理逻辑(基础) 2020 期中",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2020Mid.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2020Mid.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2020Mid.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-ustc-course-cs2002-2018",
+      "type": "exams",
+      "title": "数理逻辑 2018 春期末试题（回忆版）",
+      "authors": [
+        "Lyncien",
+        "USTC-Resource/USTC-Course"
+      ],
+      "notes": "逐字读取 PDF 首页核对标题与回忆版标识；目录归属 CS2002 但不把目录名当课程代码证据。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A62018%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+        "note": "PDF 标题明确“2018春季学期数理逻辑期末试题（回忆版）”，故 kind=final、form=recollection。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A62018%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A62018%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-ustc-course-cs2002-2017",
+      "type": "exams",
+      "title": "数理逻辑 2017 试卷（回忆版）",
+      "authors": [
+        "Lyncien",
+        "USTC-Resource/USTC-Course"
+      ],
+      "notes": "逐字读取 PDF 首页核对标题与回忆版标识；目录归属 CS2002 但不把目录名当课程代码证据。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/2017%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86.pdf",
+        "note": "PDF 首页标题“2017 数理逻辑试卷回忆”，正文含“不记得了~”等回忆提纲，故 kind=unknown、form=recollection；卷面无课程代码，按 USTC-Course 目录归 CS2002 数理逻辑基础。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/2017%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86.pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/2017%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-gh-ustc-course-plus-cs2002",
+      "type": "homework",
+      "title": "数理逻辑基础 习题课与作业答案（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "19 个文件（tree 实际读取）；目录 数理逻辑基础",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-gh-ustc-course-cs2002-notes",
+      "type": "study",
+      "title": "数理逻辑 笔记（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "6 个文件（tree 实际读取）；目录 数理逻辑/notes",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-cs2002",
+      "type": "study",
+      "title": "数理逻辑 课件（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "6 个文件（tree 实际读取）；目录 大二下/数理逻辑",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "gh-kobe972": "Kobe972/ustc_course_plus",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+  }
+}

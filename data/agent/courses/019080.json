@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "019080",
+  "name": "普通化学实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

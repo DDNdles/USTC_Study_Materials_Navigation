@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "003024",
+  "name": "统计力学",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

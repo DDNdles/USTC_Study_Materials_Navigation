@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "code": "MARX1014",
+  "name": "习近平新时代中国特色社会主义思想概论",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-MARX1014-exam-2023-recall",
+      "type": "exams",
+      "title": "习近平新时代中国特色社会主义思想概论 2023年期末题（回忆版）",
+      "authors": [],
+      "notes": "文件名标 2022秋，正文标题为“2023期末题”，并出现“没记…”字样，按 2023 回忆版记录。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc",
+        "note": "正文核对：2023期末题，简答8选4+论述2选1，含“没记…”说明；文件名年份不一致。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-MARX1014-notes-feixu",
+      "type": "study",
+      "title": "习近平新时代中国特色社会主义思想概论笔记与课本索引",
+      "authors": [],
+      "notes": "课程笔记 PDF 与课本索引 PDF；locations 为两份不同文件，非镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA",
+        "note": "目录名为课程名；文件为笔记/索引。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%94%E8%AE%B0.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B%E8%AF%BE%E6%9C%AC%E7%B4%A2%E5%BC%95.pdf",
+          "download_page": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B%E8%AF%BE%E6%9C%AC%E7%B4%A2%E5%BC%95.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

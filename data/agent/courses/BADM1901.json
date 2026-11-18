@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "BADM1901",
+  "name": "科学计量学导论",
+  "kind": "general",
+  "tags": [
+    "management",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

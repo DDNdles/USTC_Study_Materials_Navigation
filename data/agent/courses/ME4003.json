@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME4003",
+  "name": "连续介质力学概论",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

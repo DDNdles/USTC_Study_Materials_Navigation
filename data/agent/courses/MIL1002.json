@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MIL1002",
+  "name": "军事技能",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1639",
+  "name": "语言科学",
+  "kind": "general",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

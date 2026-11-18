@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ESS2010",
+  "name": "地球科学概论-地球系统",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MNSC3006",
+  "name": "系统分析、设计与实践",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

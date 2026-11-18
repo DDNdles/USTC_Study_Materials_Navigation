@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1636",
+  "name": "现代舞基础训练",
+  "kind": "general",
+  "tags": [
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "code": "EE1508",
+  "name": "电子设计实践基础",
+  "kind": "general",
+  "tags": [
+    "electronics",
+    "innovation"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-lectures-ee1508-5a943126",
+      "type": "study",
+      "title": "电子设计实践基础课程讲义（0-10讲）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "课程介绍/电子系统/MCU编程等PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80",
+        "note": "课程介绍/电子系统/MCU编程等PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee1508-a7b3794f",
+      "type": "projects",
+      "title": "电子设计实践基础实验工程",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "实验1代码/报告；同目录另有实验2-6。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80/%E5%AE%9E%E9%AA%8C1",
+        "note": "实验1代码/报告；同目录另有实验2-6。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80/%E5%AE%9E%E9%AA%8C1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "duxiaoyang-creator",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
+  }
+}

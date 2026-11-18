@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "code": "017063",
+  "name": "数理统计",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-017063-lectures-mooc",
+      "type": "study",
+      "title": "数理统计（USTC 慕课，张伟平）",
+      "authors": [
+        "张伟平"
+      ],
+      "notes": "官方慕课页，编号017063，统计与金融系，4学分80课时；匿名可看课程介绍/章节，视频需登录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://mooc.course.ustc.edu.cn/course/419670000001949.html",
+        "note": "页面编号、学分、课时、院系与官方课程信息一致。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-mooc",
+          "page_url": "https://mooc.course.ustc.edu.cn/course/419670000001949.html",
+          "download_page": "https://mooc.course.ustc.edu.cn/course/419670000001949.html",
+          "download_url": null,
+          "access": "login",
+          "license_note": "官方慕课；版权归中国科大/主讲教师，仅原页导航，不抓取受限视频",
+          "attribution": "中国科学技术大学慕课平台",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-mooc": "中国科学技术大学慕课平台"
+  }
+}

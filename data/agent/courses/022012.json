@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "code": "022012",
+  "name": "计算物理A",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-022012-homework-86ff32",
+      "type": "homework",
+      "title": "计算物理A新作业",
+      "authors": [],
+      "notes": "目录：物理类/计算物理；计算物理A新作业.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E6%96%B0%E4%BD%9C%E4%B8%9A.pdf",
+        "note": "文件：计算物理A新作业.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E6%96%B0%E4%BD%9C%E4%B8%9A.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-022012-homework-b2cae4",
+      "type": "homework",
+      "title": "计算物理A作业（蒙特卡洛/伊辛模型等）",
+      "authors": [],
+      "notes": "Zhichenzzz/Computational-Physics-A：README 明示 USTC Computational Physics A",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Zhichenzzz/Computational-Physics-A",
+        "note": "README 明示 USTC Computational Physics A"
+      },
+      "locations": [
+        {
+          "source_id": "gh-zhichen-cpa",
+          "page_url": "https://github.com/Zhichenzzz/Computational-Physics-A",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Zhichenzzz",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-022012-exams-8643f4",
+      "type": "homework",
+      "title": "计算物理A作业答案",
+      "authors": [],
+      "notes": "目录：物理类/计算物理；计算物理A作业答案.zip",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip",
+        "note": "目录：物理类/计算物理；计算物理A作业答案.zip；文件核验失败：skip_nonpdf；计算物理A作业答案压缩包（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-zhichen-cpa": "Zhichenzzz/Computational-Physics-A"
+  }
+}

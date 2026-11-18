@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED3017",
+  "name": "皮肤性病学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

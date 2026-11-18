@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "001662",
+  "name": "分析I",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "019177",
+  "name": "化学生物学实验",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

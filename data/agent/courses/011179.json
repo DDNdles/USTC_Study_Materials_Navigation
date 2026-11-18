@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "code": "011179",
+  "name": "Web信息处理与应用",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-011179-web",
+      "type": "study",
+      "title": "Web 信息处理与应用 课件（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "153 个文件（tree 实际读取）；目录 大三上/Web-信息处理与应用",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-011179-web-labs",
+      "type": "projects",
+      "title": "Web 信息处理与应用 实验（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "119 个文件（tree 实际读取）；目录 Web-信息处理与应用/labs",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+  }
+}

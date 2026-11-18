@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "code": "CS4001",
+  "name": "数字图像处理与分析",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "ai"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-cs4001-digitalimageprocessinganalysis2026s-pdf",
+      "type": "exams",
+      "title": "数字图像处理与分析 2026 春回忆版（万寿红班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageProcessingAnalysis2026S.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageProcessingAnalysis2026S.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageProcessingAnalysis2026S.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs4001-digitalimageanalysis2026f-md",
+      "type": "exams",
+      "title": "数字图像处理与分析 2026 试卷（README：数字图像分析，本科/硕士标注冲突）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 将数字图像分析标为硕士；与本科 CS4001 归属待核，暂按同课名候选挂载；README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageAnalysis2026F.md",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageAnalysis2026F.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageAnalysis2026F.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+  }
+}

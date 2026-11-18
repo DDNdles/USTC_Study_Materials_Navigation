@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "code": "019011",
+  "name": "有机化学(A1)",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019011-exam-midterm",
+      "type": "exams",
+      "title": "有机化学(A1) 2021—2022 学年第一学期期中考试试卷",
+      "authors": [
+        "飞旭资料分享站上传者"
+      ],
+      "notes": "分享站“其他/有机化学A1”目录内文件“2021-2022有机化学(AI)期中考试试卷.pdf”；已打开正文，首页为中国科学技术大学 2021—2022 学年度第一学期期中考试试卷，考试科目“有机化学(AI)”，共 8 页。",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2021-2022%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(AI)%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+        "note": "正文确认第一学期期中、科目与年份；本文件未见参考答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2021-2022%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(AI)%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "分享站注明资料仅供学习、不得商用；单份文件授权未单独核验，仅导航原文件页。",
+          "attribution": "飞旭资料分享：其他/有机化学A1",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "910011",
+  "name": "人体机能学实验",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "010217",
+  "name": "系统与控制实验(1)",
+  "kind": "professional",
+  "tags": [
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

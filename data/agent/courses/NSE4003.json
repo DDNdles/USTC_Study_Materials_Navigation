@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE4003",
+  "name": "核工程与技术前沿",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

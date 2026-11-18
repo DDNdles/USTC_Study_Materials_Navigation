@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME4021",
+  "name": "测控系统设计及实践",
+  "kind": "professional",
+  "tags": [
+    "instruments",
+    "control"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

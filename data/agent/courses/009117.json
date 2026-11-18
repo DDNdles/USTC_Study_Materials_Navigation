@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "009117",
+  "name": "精密仪器设计",
+  "kind": "professional",
+  "tags": [
+    "instruments"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

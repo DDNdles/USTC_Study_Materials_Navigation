@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "001672KS",
+  "name": "分析IV(口试)",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

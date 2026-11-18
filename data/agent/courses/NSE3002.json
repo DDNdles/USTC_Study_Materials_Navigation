@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE3002",
+  "name": "工程物理及其方法概论",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

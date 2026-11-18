@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "CHEM3003",
+  "name": "化学动力学基础",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-CHEM3003-notes",
+      "type": "study",
+      "title": "化学动力学 笔记与作业",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 化学动力学/ 下 NOTES.pdf 与 homework.pdf；官方目录中“化学动力学”相关本科课程仅 CHEM3003 化学动力学基础（作者为 003 系学生，README 说明按课程大类分目录）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E5%8A%A8%E5%8A%9B%E5%AD%A6",
+        "note": "目录名未带“基础”二字，课程归属按官方唯一同名课程与仓库学科范围判定。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E5%8A%A8%E5%8A%9B%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：化学动力学/",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

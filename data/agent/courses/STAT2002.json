@@ -1,0 +1,976 @@
+{
+  "schema_version": 1,
+  "code": "STAT2002",
+  "name": "概率论与数理统计",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-stat2002-2025-final-822960",
+      "type": "exams",
+      "title": "概率论与数理统计 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：秋季期末考试；行年份：2025年；单元格：2025 秋；文件：25FaProbStatFinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/Math/",
+        "note": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：秋季期末考试；行年份：2025年；单元格：2025 秋；文件：25FaProbStatFinal.pdf；卷面/首页学期：2025—2026学年第一学期；首页可见日期 2026年1月；年份按首页考试日期 2026年1月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25FaProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-2024-final-9c040c",
+      "type": "exams",
+      "title": "概率论与数理统计 2024 秋期末（2025 年 1 月）",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Math/；课程目录页：https://ustcmathexam.github.io/Services/；guch8017/USTC_CS_EXAM README“概率论与数理统计｜王占锋｜本科”行列出 202501 文件。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202501.pdf",
+        "note": "卷面：2024—2025 学年第一学期；考试时间 2025-01-10 14:30–16:30；4 页，第 3–4 页为参考答案；已读全 4 页。与 guch 202501、ustcphy 24Fa、ustcmath 2025probstatfinal 字节一致。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24FaProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025probstatfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202501.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics202501.pdf",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-2023-final-7c0cdd",
+      "type": "exams",
+      "title": "概率论与数理统计 2023 秋期末（2024 年 1 月）",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Math/；课程目录页：https://ustcmathexam.github.io/Services/；guch8017/USTC_CS_EXAM README“概率论与数理统计｜王占锋｜本科”行列出 202401 文件。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202401.pdf",
+        "note": "卷面：2023—2024 学年第一学期；考试时间 2024-01-17 08:30–10:30；4 页，第 3–4 页为参考答案；已读全 4 页。与 guch 202401、ustcphy 23Fa、ustcmath 2024probstatfinal 字节一致。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23FaProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024probstatfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202401.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics202401.pdf",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-2024-final-830ec1",
+      "type": "exams",
+      "title": "概率论与数理统计 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：春季期末考试；行年份：2024年；单元格：2024 春；文件：24SpProbStatFinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/Math/",
+        "note": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：春季期末考试；行年份：2024年；单元格：2024 春；文件：24SpProbStatFinal.pdf；卷面/首页学期：2023—2024学年第二学期；首页可见日期 2024年6月；年份按首页考试日期 2024年6月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24SpProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-2023-final-4f605a",
+      "type": "exams",
+      "title": "概率论与数理统计 2023 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：春季期末考试；行年份：2023年；单元格：2023 春；文件：23SpProbStatFinal.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/Math/",
+        "note": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：春季期末考试；行年份：2023年；单元格：2023 春；文件：23SpProbStatFinal.pdf；卷面/首页学期：2022—2023学年第二学期；首页可见日期 2023年6月；年份按首页考试日期 2023年6月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23SpProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-stat2002-exams-3be156",
+      "type": "exams",
+      "title": "概率论与数理统计2022-2023第一学期试题及答案",
+      "authors": [],
+      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计2022-2023第一学期试题及答案.pdf；课程目录页：https://ustcphyexam.github.io/Math/；课程目录页：https://ustcmathexam.github.io/Services/；guch8017/USTC_CS_EXAM README“概率论与数理统计｜王占锋｜本科”行列出 2023 文件。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics2023.pdf",
+        "note": "卷面：2022—2023 学年第一学期；考试时间 2023-02-22 08:30–10:30；4 页，第 3–4 页为参考答案；已读全 4 页。与 guch 2023、ustcphy 22Fa、ustcmath 2023probstatfinal 字节一致。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A12022-2023%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22FaProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/Services/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023probstatfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics2023.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics2023.pdf",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-2022-final-6de6ad",
+      "type": "exams",
+      "title": "概率论与数理统计 2022 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：春季期末考试；行年份：2022年；单元格：2022 春；文件：22SpProbStatFinal.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/Math/",
+        "note": "课程目录页：https://ustcphyexam.github.io/Math/；表头列：春季期末考试；行年份：2022年；单元格：2022 春；文件：22SpProbStatFinal.pdf；卷面/首页学期：2021—2022学年第二学期；首页可见日期 2022年6月；年份按首页考试日期 2022年6月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Math/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/22SpProbStatFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-2020-315fe0",
+      "type": "exams",
+      "title": "概率论与数理统计 2020 试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：概统试卷和参考答案2020.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：概统试卷和参考答案2020.pdf；按文件名辨识年份/卷型；文本层编码不可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882020.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-2019-acb570",
+      "type": "exams",
+      "title": "概率论与数理统计 2019 试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：概统试卷和参考答案2019.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：概统试卷和参考答案2019.pdf；按文件名辨识年份/卷型；文本层编码不可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882019.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-2018-634c57",
+      "type": "exams",
+      "title": "概率论与数理统计 2018 试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：概统试卷和参考答案2018.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：概统试卷和参考答案2018.pdf；按文件名辨识年份/卷型；文本层编码不可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882018.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-2025-midterm-11e276",
+      "type": "exams",
+      "title": "概率论与数理统计 2025 春期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2025；单元格：25春期中；文件：2025Sprobstatmid.pdf；卷面标题为“概率论与数理统计”，未写 B；来源站点将本课程列在“概率论与数理统计B”历史栏目。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://ustcmathexam.github.io/USTC/2025Sprobstatmid.pdf",
+        "note": "卷面：2024—2025 学年第二学期期中考试；2 页；已读全 2 页，卷面无答案；卷面标题为“概率论与数理统计”，未写 B；来源站点列在“概率论与数理统计B”历史栏目（A/B 已合并）。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/USTC/2025Sprobstatmid.pdf",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025Sprobstatmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-stat2002-ny-final-df6ebb",
+      "type": "exams",
+      "title": "概率论与数理统计 期末合集（2003—2022，含解答）",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期末考试；行年份：2003-2022；单元格：合集；文件：probstatexams.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/USTC/probstatexams.pdf",
+        "note": "87 页；首页为 2002—2003 学年第二学期期末试卷（卷面日期 2003-06-30），末页为 2021—2022 学年第二学期解答；与 2022 版 108 页合集场次范围重合但为不同文件（本文件含解答）；未逐页核对全部场次。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/USTC/probstatexams.pdf",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/probstatexams.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-ny-49437f",
+      "type": "exams",
+      "title": "概率论与数理统计  试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：期中考试答案.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计 下文件：期中考试答案.pdf；按文件名辨识年份/卷型；无明确年份信息，年份留空；文本层可读；抽读前3页（共11页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-ny-296bee",
+      "type": "exams",
+      "title": "概率论与数理统计历年真题（2022 版，含手写页）",
+      "authors": [],
+      "notes": "li-qi-lin-USTC-Course-Materials-Sharing 目录 3-概率论与数理统计 下文件：概率论与数理统计历年考试真题.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2002-2003",
+          "2003-2004",
+          "2004-2005",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2009-2010",
+          "2010-2011",
+          "2011-2012",
+          "2013-2014",
+          "2015-2016",
+          "2016-2017",
+          "2017-2018",
+          "2018-2019",
+          "2019-2020",
+          "2020-2021",
+          "2021-2022"
+        ],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98.pdf",
+        "note": "128 页：前 2 页封面/目录与 2022 版 108 页合集一致（同一 2022 版，1.1–1.27、2.1–2.2、3.1 场次）；正文夹有约 20 页手写解题/批注扫描，未逐页核对覆盖场次；文字层部分乱码。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "li-qi-lin",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E8%80%83%E8%AF%95%E7%9C%9F%E9%A2%98.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "li-qi-lin",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-stat2002-exams-04de78",
+      "type": "exams",
+      "title": "概率论与数理统计历年真题（2022 版）",
+      "authors": [
+        "余启帆"
+      ],
+      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计历年真题.pdf（5543218 字节，108 页）；2022 版由余启帆整理；与评课社区文件、guch8017/USTC_CS_EXAM 备用文件字节一致。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2002-2003",
+          "2003-2004",
+          "2004-2005",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2009-2010",
+          "2010-2011",
+          "2011-2012",
+          "2013-2014",
+          "2015-2016",
+          "2016-2017",
+          "2017-2018",
+          "2018-2019",
+          "2019-2020",
+          "2020-2021",
+          "2021-2022"
+        ],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
+        "note": "第 2 页目录逐条核对：第 1 部分概率论与数理统计 & 概率论与数理统计(B) 27 场期末（1.1–1.27，2002-2003 至 2021-2022 学年）；第 2 部分概率论与数理统计(A) 2 场（2019-2020 第一学期期末、2020-2021 第一学期期中）；第 3 部分概率论样卷 1 场（2020-2021 第一学期期中）；共 30 场。首页说明大部分试题无参考答案、部分参考答案可能有误。108 页。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
+          "access": "public",
+          "license_note": "评课社区公开上传文件；站点未声明再分发许可，仅登记原文件入口",
+          "attribution": "USTC 评课社区用户上传（2022 版，余启帆整理）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatisticsExams.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatisticsExams.pdf",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM（README“备用”链接）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-homework-c920cd",
+      "type": "homework",
+      "title": "概率论与数理统计 概率论与数理统计（homework）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 概率论与数理统计，1 个文件，例：HW answer.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-ny-e3772e",
+      "type": "homework",
+      "title": "概率论与数理统计  试卷",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 概率论与数理统计 下文件：习题集答案.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "Wloner0809-ustc-course-resource 目录 概率论与数理统计 下文件：习题集答案.pdf；按文件名辨识年份/卷型；文本层可读；抽读前3页（共56页），全文未逐页核验；概率论习题集答案（首页：第三部分 参考答案），非试卷；按内容/文件名改归homework，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/Wloner0809/ustc-course-resource/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E9%9B%86%E7%AD%94%E6%A1%88.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-notes-cdcb77",
+      "type": "study",
+      "title": "概率论与数理统计 3-概率论与数理统计（notes）",
+      "authors": [],
+      "notes": "li-qi-lin-USTC-Course-Materials-Sharing 目录 3-概率论与数理统计，5 个文件，例：2016-2017第二学期期终考试题.pdf；P&MS - 20160422Revised.pdf；gaitong.pdf；概统最新卷子.pdf；概统错题.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-lectures-c920cd",
+      "type": "study",
+      "title": "概率论与数理统计 概率论与数理统计（lectures）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 概率论与数理统计，4 个文件，例：习题课1.pdf；习题课2.pdf；习题课3.pdf；概统讲义.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-notes-a95ed2",
+      "type": "study",
+      "title": "概率论与数理统计 概率论与数理统计（notes）",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/概率论与数理统计，2 个文件，例：midstat2020.pdf；stat2020j.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-notes-ac8282",
+      "type": "study",
+      "title": "概率论与数理统计 概率论与数理统计（notes）",
+      "authors": [],
+      "notes": "Kobe972-ustc_course_plus 目录 概率论与数理统计，2 个文件，例：readme.md；概统公式总结.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Kobe972",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-notes-c920cd",
+      "type": "study",
+      "title": "概率论与数理统计 概率论与数理统计（notes）",
+      "authors": [],
+      "notes": "Wloner0809-ustc-course-resource 目录 概率论与数理统计，6 个文件，例：review_by_wloner0809.pdf；习题集.pdf；P&MS - 20160422Revised.pdf；review1.pdf；review2.pdf；概统第5次习题课-第5-7章复习.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Wloner0809",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-notes-ca5f2b",
+      "type": "study",
+      "title": "概率论与数理统计 概率论与数理统计（notes）",
+      "authors": [],
+      "notes": "USTC-Resource-USTC-Course 目录 概率论与数理统计，2 个文件，例：P&MS - 20160422Revised.pdf；README.md",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "USTC-Resource 组织",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-stat2002-exam-ny-c6b0ee",
+      "type": "study",
+      "title": "概率论与数理统计  试卷",
+      "authors": [],
+      "notes": "li-qi-lin-USTC-Course-Materials-Sharing 目录 3-概率论与数理统计 下文件：Prob_Stat_Concepts_Examples.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "li-qi-lin-USTC-Course-Materials-Sharing 目录 3-概率论与数理统计 下文件：Prob_Stat_Concepts_Examples.pdf；按文件名辨识年份/卷型；文本层可读；抽读前3页（共114页），全文未逐页核验；学生整理的概率论与数理统计概念与例题（首页：程嘉杰整理，编写日期2021-12-23），非试卷/非教材扫描；按内容/文件名改归notes，不再作试题统计"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Prob_Stat_Concepts_Examples.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-stat2002-notes-33cbbe",
+      "type": "study",
+      "title": "概率论与数理统计笔记",
+      "authors": [],
+      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计笔记.md",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.md",
+        "note": "文件：概率论与数理统计笔记.md"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.md",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-stat2002-notes-833a2d",
+      "type": "study",
+      "title": "概率论与数理统计笔记",
+      "authors": [],
+      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计笔记.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.pdf",
+        "note": "文件：概率论与数理统计笔记.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-stat2002-notes-79a97b",
+      "type": "study",
+      "title": "概率论与数理统计公式",
+      "authors": [],
+      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计公式.doc",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%85%AC%E5%BC%8F.doc",
+        "note": "文件：概率论与数理统计公式.doc"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%85%AC%E5%BC%8F.doc",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "icourse-club": "USTC 评课社区",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "gh-kobe972": "Kobe972/ustc_course_plus",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+  }
+}

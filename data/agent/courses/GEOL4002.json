@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOL4002",
+  "name": "地球化学野外综合实习",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

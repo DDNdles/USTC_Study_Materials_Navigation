@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "232084",
+  "name": "安全系统工程",
+  "kind": "professional",
+  "tags": [
+    "safety",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

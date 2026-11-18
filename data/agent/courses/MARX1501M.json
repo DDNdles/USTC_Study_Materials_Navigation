@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "MARX1501M",
+  "name": "社会主义发展史",
+  "kind": "general",
+  "tags": [
+    "politics",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

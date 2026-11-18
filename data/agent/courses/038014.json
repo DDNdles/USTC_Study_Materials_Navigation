@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "038014",
+  "name": "光信息科学与技术实验",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

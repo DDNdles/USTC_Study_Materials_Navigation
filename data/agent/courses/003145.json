@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "003145",
+  "name": "化学物理进展",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-003145-report",
+      "type": "projects",
+      "title": "化学物理进展 课程报告",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 化学物理进展/ 内 1 份课程报告 PDF（文件名含学生学号，本仓库不采集个人信息，故不复述）；另有“3.7,仅供参考”说明文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E7%89%A9%E7%90%86%E8%BF%9B%E5%B1%95",
+        "note": "课程报告类作业，未标注年份。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E7%89%A9%E7%90%86%E8%BF%9B%E5%B1%95",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：化学物理进展",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

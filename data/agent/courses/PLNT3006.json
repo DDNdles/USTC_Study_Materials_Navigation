@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PLNT3006",
+  "name": "天体生物学",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

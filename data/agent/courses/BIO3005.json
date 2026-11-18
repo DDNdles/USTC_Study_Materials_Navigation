@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "BIO3005",
+  "name": "细胞生物学研讨",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

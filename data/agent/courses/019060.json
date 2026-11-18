@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "019060",
+  "name": "物理有机化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

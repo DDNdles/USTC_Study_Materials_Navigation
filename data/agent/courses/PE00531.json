@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00531",
+  "name": "台球(专训)",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

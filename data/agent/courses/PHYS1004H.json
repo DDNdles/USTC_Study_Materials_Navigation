@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1004H",
+  "name": "电磁学(H)",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-phys1004h-2026-final-82b729",
+      "type": "exams",
+      "title": "电磁学 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：叶邦角 (H)；文件：26SpEMHFinalYBJ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2026春；单元格：叶邦角 (H)；文件：26SpEMHFinalYBJ.pdf；卷面/首页学期：2026春；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpEMHFinalYBJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1004h-2026-midterm-ced5c9",
+      "type": "exams",
+      "title": "电磁学 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2026春；单元格：叶邦角 (H)；文件：26SpEMHMid.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2026春；单元格：叶邦角 (H)；文件：26SpEMHMid.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpEMHMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004h-exams-f28f13",
+      "type": "exams",
+      "title": "2025春电磁学H期中期末考试试题与解答",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2025春电磁学H期中期末考试试题与解答.pdf；课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2025春；单元格：叶邦角 (H)；文件：25SpEMHMid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2025%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94.pdf",
+        "note": "目录：物理类/电磁学；2025春电磁学H期中期末考试试题与解答.pdf；卷面/首页学期：2025春；文本层可读；抽读前3页（共10页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2025%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpEMHMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004h-exams-582de9",
+      "type": "exams",
+      "title": "2025春电磁学H期中期末考试试题与解答latex源代码",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2025春电磁学H期中期末考试试题与解答latex源代码.zip",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2025%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94latex%E6%BA%90%E4%BB%A3%E7%A0%81.zip",
+        "note": "目录：物理类/电磁学；2025春电磁学H期中期末考试试题与解答latex源代码.zip；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2025%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94latex%E6%BA%90%E4%BB%A3%E7%A0%81.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1004h-2025-final-4a54bd",
+      "type": "exams",
+      "title": "电磁学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025春；单元格：叶邦角 (H)；文件：25SpEMHFinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2025春；单元格：叶邦角 (H)；文件：25SpEMHFinal.pdf；卷面/首页学期：2025春；文本层可读；抽读前3页（共9页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/25SpEMHFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-phys1004h-exams-57ecd0",
+      "type": "exams",
+      "title": "2024春电磁学H期中考试",
+      "authors": [],
+      "notes": "目录：物理类/电磁学；2024春电磁学H期中考试.pdf；课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2024春；单元格：叶邦角 (H)；文件：24SpEMHMid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2024%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：物理类/电磁学；2024春电磁学H期中考试.pdf；卷面/首页学期：2024春；首页可见日期 2024年5月；年份按首页考试日期 2024年5月；文本层可读；抽读前3页（共4页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2024%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24SpEMHMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1004h-2024-final-81daf9",
+      "type": "exams",
+      "title": "电磁学 2024 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2024春；单元格：叶邦角 (H)；文件：24SpEMHFinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期末考试；行年份：2024春；单元格：叶邦角 (H)；文件：24SpEMHFinal.pdf；卷面/首页学期：2024春；首页可见日期 2024年7月；年份按首页考试日期 2024年7月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/24SpEMHFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-phys1004a-2023-midterm-cabce8",
+      "type": "exams",
+      "title": "电磁学 2023 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2023春；单元格：2023春 (A)&(H)；文件：23SpEMAMid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2023春；单元格：2023春 (A)&(H)；文件：23SpEMAMid.pdf；卷面/首页学期：2022—2023学年第二学期；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/JuniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/23SpEMAMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

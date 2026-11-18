@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "EE3501",
+  "name": "运筹学B",
+  "kind": "professional",
+  "tags": [
+    "management",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

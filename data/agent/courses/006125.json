@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "006125",
+  "name": "信息论A",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-notes-006125-67dac221",
+      "type": "study",
+      "title": "信息论A复习宝典与常用分布",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "复习宝典PDF；同目录Wiley教材电子书未链接；信息论B讲义不冒充A。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Information%20Theory%20A/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0%E5%AE%9D%E5%85%B8.pdf",
+        "note": "复习宝典PDF；同目录Wiley教材电子书未链接；信息论B讲义不冒充A。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Information%20Theory%20A/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0%E5%AE%9D%E5%85%B8.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

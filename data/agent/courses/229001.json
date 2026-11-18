@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "code": "229001",
+  "name": "离散数学",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "icourse-229001-discrete-2021-final-recall",
+      "type": "exams",
+      "title": "离散数学 2021 秋期末（回忆版，附期中回忆）",
+      "authors": [],
+      "notes": "USTC 评课社区公开 PDF（383480 字节，1 页）；评课社区课程 18419（离散数学（丁虎），2021秋，课程号 22900101）佐证课程与任课教师；PDF 正文未署名，元数据 author 为 Tsingping Tang、创建时间 2022-01-11。正文为 2021 秋期末 6 道题回忆，附 2 道期中回忆题；部分数值与图形在原回忆中省略。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "mixed",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/uploads/files/02aedd502d07e0c243ca9517d7e89dd77f48903f.pdf",
+        "note": "标题“离散数学 2021 秋期末考试（回忆版）”；1 页；主体期末 6 题（真值表、Huffman、ord_p/群、正规子群、网络流/TSP），附 2 道期中回忆（中国剩余定理、线性方程组解空间群）；无答案；与 2023 期中/期末、2024 期末逐题比对无重复。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/uploads/files/02aedd502d07e0c243ca9517d7e89dd77f48903f.pdf",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/02aedd502d07e0c243ca9517d7e89dd77f48903f.pdf",
+          "access": "public",
+          "license_note": "评课社区公开上传文件；站点未声明再分发许可，仅登记原文件入口",
+          "attribution": "USTC 评课社区用户上传（2021 秋回忆版；课程 18419 丁虎班）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-is3004-dma23f-md",
+      "type": "exams",
+      "title": "离散数学 2023 秋期末（回忆版，邵帅班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "guch8017/USTC_CS_EXAM README 的“离散数学｜邵帅｜本科”行列出本文件（2023 期末）；评课社区课程 23469（离散数学（邵帅），课程号 22900101）开课学期含 2023 秋。文件为文字回忆版，含图论、平面图、计数与集合函数。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA23F.md",
+        "note": "README 标注 2023 期末；正文题干已核；1 页 markdown（1321 字节），无答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA23F.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA23F.md",
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA23F.md",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-is3004-dma23m-md",
+      "type": "exams",
+      "title": "离散数学 2023 秋期中（回忆版，邵帅班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "guch8017/USTC_CS_EXAM README 的“离散数学｜邵帅｜本科”行列出本文件（2023 期中）；评课社区课程 23469（离散数学（邵帅），课程号 22900101）开课学期含 2023 秋。文件为文字回忆版，含数论、群、环、组合与路径计数。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2023-2024"
+        ],
+        "exam_kind": "midterm",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA23M.md",
+        "note": "README 标注 2023 期中；正文题干已核；1 页 markdown（1146 字节），无答案；部分题面为回忆性省略（如第 7 题只记“二项式系数的题”）。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA23M.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA23M.md",
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA23M.md",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-is3004-dma24f-pdf",
+      "type": "exams",
+      "title": "离散数学 2024 秋期末试卷（邵帅班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "guch8017/USTC_CS_EXAM README 的“离散数学｜邵帅｜本科”行列出本文件（2024）；评课社区课程 23469（离散数学（邵帅），课程号 22900101）开课学期含 2024 秋。卷头为“2024秋 离散数学 期末考试”，2 页 10 题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA24F.pdf",
+        "note": "卷头：2024秋 离散数学 期末考试；2 页 10 题；含 gcd/中国剩余定理/群/置换/Ramsey/欧拉图/平面图/组合计数/二项反演；卷面无答案；PDF 创建时间 2025-01-06 与 2024 秋期末时间相符，卷面未印日期。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA24F.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DMA24F.pdf",
+          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA24F.pdf",
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-gh-ustc-ds-undergradu-229001",
+      "type": "homework",
+      "title": "离散数学 作业与图算法课件（ustc_ds_undergraduate_course）",
+      "authors": [
+        "guidongnan"
+      ],
+      "notes": "43 个文件（tree 实际读取）；目录 离散数学",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6",
+          "download_page": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT；README 声明非商业用途、禁止抄袭",
+          "attribution": "guidongnan/ustc_ds_undergraduate_course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "openbook-229001-levin-dmoi4",
+      "type": "books",
+      "title": "Discrete Mathematics: An Open Introduction（第 4 版，补充参考）",
+      "authors": [
+        "Oscar Levin"
+      ],
+      "notes": "英文开放教材，按主题匹配，非中科大指定教材。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://discrete.openmathbooks.org/dmoi4.html",
+        "note": "作者发布页列出集合、关系、函数及图论等内容，与官方课程简介部分重合。作者提供完整 PDF；匿名获取 2401424 字节，核验 PDF 文件头及结束标记。"
+      },
+      "locations": [
+        {
+          "source_id": "openmathbooks-levin-dmoi",
+          "page_url": "https://discrete.openmathbooks.org/dmoi4.html",
+          "download_page": null,
+          "download_url": "https://discrete.openmathbooks.org/pdfs/dmoi4.pdf",
+          "access": "public",
+          "license_note": "CC BY-NC-SA 4.0（第四版，作者发布页声明）",
+          "attribution": "Oscar Levin · Open Math Books",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "openmathbooks-levin-dmoi": "Oscar Levin · Discrete Mathematics: An Open Introduction"
+  }
+}

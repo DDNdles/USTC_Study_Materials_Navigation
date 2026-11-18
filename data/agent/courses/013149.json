@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "013149",
+  "name": "工程热力学B",
+  "kind": "professional",
+  "tags": [
+    "thermal"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NSE3001",
+  "name": "辐射防护",
+  "kind": "professional",
+  "tags": [
+    "nuclear"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

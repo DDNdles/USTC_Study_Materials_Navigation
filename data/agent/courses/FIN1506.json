@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FIN1506",
+  "name": "微观经济学原理",
+  "kind": "general",
+  "tags": [
+    "economics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "910020",
+  "name": "病理学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

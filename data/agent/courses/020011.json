@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "020011",
+  "name": "高分子化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

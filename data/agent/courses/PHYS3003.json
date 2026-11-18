@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS3003",
+  "name": "量子精密测量",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

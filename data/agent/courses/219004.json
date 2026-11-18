@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "219004",
+  "name": "微电子专业基础实验",
+  "kind": "professional",
+  "tags": [
+    "ic",
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

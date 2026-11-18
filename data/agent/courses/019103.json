@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "019103",
+  "name": "固体化学导论",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "materials"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

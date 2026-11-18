@@ -1,0 +1,522 @@
+{
+  "schema_version": 1,
+  "code": "210070",
+  "name": "数据结构及其算法",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-guch-cs2502a-datastructure2026f-md",
+      "type": "exams",
+      "title": "数据结构及其算法 2026 春题型回忆（袁平波班）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "学生回忆题型、分值与一道算法设计题的大意，不是完整试卷。",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructure2026F.md",
+        "note": "原始点评标为 2026 春，课程号 21007002；正文未明示期别，未含答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructure2026F.md",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructure2026F.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210070-2018-2019",
+      "type": "exams",
+      "title": "数据结构及其算法 2018-2019 第一学期真题与参考答案",
+      "authors": [
+        "share.feixu.site 投稿者",
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "原 page_url 误把真题与答案拼成嵌套路径，已按 /api/fs/list 实际文件修正；已移出 0 个答案 location，答案独立成条。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98.pdf",
+        "note": "PDF 卷头：中国科学技术大学 数据结构及其算法 2018-2019 学年第一学期考试试卷（A 卷）2018.12.16；feixu 真题与 li-qi-lin 18-19.pdf 字节摘要相同，合并 locations；题卷不含答案，has_solutions=false；参考答案另建独立条目。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/18-19.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/18-19.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-cs2502a-datastructuremulti-pdf",
+      "type": "exams",
+      "title": "数据结构及其算法 四学年试卷合集（USTC_CS_EXAM）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "逐页读取 20 页 PDF 的四个卷头；合集来源标注为 icourse 评课社区 review-59146。",
+      "coverage": {
+        "years": [
+          2017,
+          2018
+        ],
+        "academic_years": [
+          "2008-2009",
+          "2009-2010",
+          "2017-2018",
+          "2018-2019"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructureMulti.pdf",
+        "note": "PDF 含 4 份“中国科学技术大学 数据结构及其算法”第一学期考试试卷：2008-2009、2009-2010、2017-2018（2017.12.17）、2018-2019（2018.12.16）；作者声明对少数题目表述做了修改。2008-2009、2009-2010 卷面无公历日期；其余两份按已知卷面日期登记。原挂 CS2502A 属同名误挂；guch 原链接 icourse 20697 为“数据结构及其算法（许小东）”、课程号 21007002，与卷面一致，改挂 210070。 已确认评课社区的公开 PDF 与 GitHub 复本逐字节一致；不另计试卷。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructureMulti.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructureMulti.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20697/#review-59146",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/002977f14f95315203fab654f3061b5b66d26cc6.pdf",
+          "access": "public",
+          "license_note": "原站公开访问；资料权利归原作者，未见逐份再分发许可。",
+          "attribution": "USTC评课社区",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210070-2017-2018",
+      "type": "exams",
+      "title": "数据结构及其算法 2017-2018 第一学期真题与参考答案",
+      "authors": [
+        "share.feixu.site 投稿者",
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "原 page_url 误把真题与答案拼成嵌套路径，已按 /api/fs/list 实际文件修正；已移出 0 个答案 location，答案独立成条。",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98.pdf",
+        "note": "PDF 卷头：中国科学技术大学 数据结构及其算法 2017-2018 学年第一学期考试试卷（A 卷）2017.12.17；feixu 真题与 li-qi-lin 17-18.pdf 字节摘要相同，合并 locations；题卷不含答案，has_solutions=false；参考答案另建独立条目。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/17-18.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/17-18.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E7%9C%9F%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "oldindex-210070-collected-solutions",
+      "type": "exams",
+      "title": "《数据结构及其算法》四学年期末题答案汇编",
+      "authors": [
+        "陈镜舟"
+      ],
+      "notes": "只收录答案；与四学年试卷合集配套，不另计一场考试。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2008-2009",
+          "2009-2010",
+          "2017-2018",
+          "2018-2019"
+        ],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/master/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E3%80%8B%E5%BE%80%E5%B9%B4%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+        "note": "12 页，正文分别标注四个学年；不补造公历年。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/master/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E3%80%8B%E5%BE%80%E5%B9%B4%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；资料权利归原作者，未见逐份再分发许可。",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210070-2017-2018-answers",
+      "type": "exams",
+      "title": "数据结构及其算法 2017-2018 第一学期真题参考答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "文件级入口包括参考答案和另写的逐题详解；不是两场不同考试。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2017-2018"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "feixu 独立答案文件，对应 2017-2018 第一学期真题（卷面 2017.12.17）；答案文件本身无公历日期，years=[]。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/master/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/17-18DSA%E6%9C%9F%E6%9C%AB%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；资料权利归原作者，未见逐份再分发许可。",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210070-2018-2019-answers",
+      "type": "exams",
+      "title": "数据结构及其算法 2018-2019 第一学期真题参考答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "feixu 独立答案文件，对应 2018-2019 第一学期真题（卷面 2018.12.16）；答案文件本身无公历日期，years=[]。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2018-2019"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "feixu 独立答案文件，对应 2018-2019 第一学期真题（卷面 2018.12.16）；答案文件本身无公历日期，years=[]。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-feixu-210070",
+      "type": "exams",
+      "title": "数据结构及其算法历年真题与参考答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "合集文件，年份未逐卷拆分；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（2个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.md",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-gh-ustc-learning-mate-210070-2fa-data-structure-and-algorithm",
+      "type": "homework",
+      "title": "数据结构及其算法 往年题与习题（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "531 个文件（tree 实际读取）；目录 2FA Data Structure and Algorithm",
+      "coverage": {
+        "years": [
+          2022,
+          2023,
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Data%20Structure%20and%20Algorithm",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Data%20Structure%20and%20Algorithm",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Data%20Structure%20and%20Algorithm",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-liqilin-210070",
+      "type": "homework",
+      "title": "数据结构及其算法 习题与习题课（USTC-Course-Materials-Sharing）",
+      "authors": [
+        "li-qi-lin/USTC-Course-Materials-Sharing"
+      ],
+      "notes": "2-4-6-8习题.pdf、习题课2-4-6-8.pdf、习题课3-5-7-9.pdf；试卷另建试题条目，91 页《数据结构》资料因归属不明未发布。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98",
+        "note": "非试题，年份与卷型为空。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/2-4-6-8%E4%B9%A0%E9%A2%98.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/2-4-6-8%E4%B9%A0%E9%A2%98.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%98%E8%AF%BE2-4-6-8.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%98%E8%AF%BE2-4-6-8.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%98%E8%AF%BE3-5-7-9.pdf",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/%E4%B9%A0%E9%A2%98%E8%AF%BE3-5-7-9.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-guides-ustcguide-ds",
+      "type": "study",
+      "title": "数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿）",
+      "authors": [
+        "USTCGUIDE 贡献者"
+      ],
+      "notes": "页面标题同时覆盖数据结构、数据结构及其算法三类课程名；正文为外部资料索引，外链未逐项核验",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+        "note": "索引页未标注年份"
+      },
+      "locations": [
+        {
+          "source_id": "ustcguide-gitbook",
+          "page_url": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+          "download_page": "https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa",
+          "download_url": null,
+          "access": "public",
+          "license_note": "资料簿仅作索引；外链资料权利归原作者，无再分发许可",
+          "attribution": "USTCGUIDE（施耀炜等贡献者）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-feixu-210070",
+      "type": "study",
+      "title": "数据结构错题集",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-guides-feixu-210070",
+      "type": "study",
+      "title": "数据结构及应用算法经验分享",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
+  }
+}

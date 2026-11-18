@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "210710",
+  "name": "计算机视觉",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

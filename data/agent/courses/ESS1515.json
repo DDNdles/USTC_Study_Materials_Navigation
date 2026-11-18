@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ESS1515",
+  "name": "探秘华夏名山",
+  "kind": "general",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "code": "MATH3011",
+  "name": "运筹学",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-gh-math3011-exam-ny-e0dbd1",
+      "type": "exams",
+      "title": "运筹学  试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学 下文件：exam.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学 下文件：exam.pdf；按文件名辨识年份/卷型；卷面/首页学期：2021—2022学年秋季学期；无明确年份信息，年份留空；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/exam/exam.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3011-exam-ny-e2e99d",
+      "type": "exams",
+      "title": "运筹学  试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学 下文件：exam.md；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学 下文件：exam.md；按文件名辨识年份/卷型；无明确年份信息，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/exam/exam.md",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3011-homework-9ec5d2",
+      "type": "homework",
+      "title": "运筹学 运筹学（homework）",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学，2 个文件，例：第一章习题解答.pdf；第四次作业.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3011-lectures-9ec5d2",
+      "type": "study",
+      "title": "运筹学 运筹学（lectures）",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学，3 个文件，例：习题课讲义v1.pdf；第三次习题课.pdf；第二次习题课.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3011-notes-9ec5d2",
+      "type": "study",
+      "title": "运筹学 运筹学（notes）",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学，16 个文件，例：Rosenbrock.py；get_fun.py；get_gradient.py；get_hess.py；linesearch.py；test_2.py",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math3011-projects-9ec5d2",
+      "type": "projects",
+      "title": "运筹学 运筹学（projects）",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/运筹学，5 个文件，例：report.pdf；report.pdf；report.pdf；lab1-1.cpp；lab1-1.exe",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course"
+  }
+}

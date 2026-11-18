@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017166",
+  "name": "凸优化",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

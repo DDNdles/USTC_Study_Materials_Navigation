@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS4030",
+  "name": "智能计算系统导论",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

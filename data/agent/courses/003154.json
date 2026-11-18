@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "code": "003154",
+  "name": "物理化学I",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-003154-quiz-2024",
+      "type": "homework",
+      "title": "物理化学I 2024秋 四次小测题目（第一至第三次附解析）",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 物理化学I/小测/ 下含第一至第四次测验题目 PDF、第一至第三次试题解析 PDF 及一套模拟题压缩包；第四次仅见题目、未见解析。已打开第一、第四次题目正文，首页标“2024 秋物理化学I”、课堂号 003154.04；解析文件未逐页阅读。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B",
+        "note": "第一至第三次有独立解析文件，第四次仅题目；年份与课程号由第一、第四次题目正文确认，解析文件内容未逐页核验。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：物理化学I/小测",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-003154-hw-answers",
+      "type": "homework",
+      "title": "物理化学I 作业答案合集（对应傅献彩《物理化学》第六版原题）",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 物理化学I/作业答案合集/ 内为作业答案 PDF；目录内说明“原题为傅献彩第六版”，未注明具体章次。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86",
+        "note": "未标注年份与章次，仅确认课程与教材版本对应关系。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：物理化学I/作业答案合集",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "chembio-003154-notes",
+      "type": "study",
+      "title": "物理化学I 知识点合集",
+      "authors": [
+        "dasWalpurgis"
+      ],
+      "notes": "仓库 物理化学I/知识点合集/物理化学知识点合集.pdf；作者注明“没有答案，可以来找作者”。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86",
+        "note": "复习类知识点整理，未标注适用学期。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-daswalpurgis",
+          "page_url": "https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @dasWalpurgis：物理化学I/知识点合集",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
+  }
+}

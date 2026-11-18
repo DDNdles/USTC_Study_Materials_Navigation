@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MATH2802",
+  "name": "数学强基讨论班II",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

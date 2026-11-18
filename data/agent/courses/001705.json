@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "code": "001705",
+  "name": "微分几何(H)",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3009-2024-final-b6a0dd",
+      "type": "exams",
+      "title": "微分几何 2024 期末",
+      "authors": [
+        "刘世平"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2024；单元格：刘世平；文件：2024DGHfinal.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2024；单元格：刘世平；文件：2024DGHfinal.pdf；卷面/首页学期：2024秋；文本层可读；抽读前3页（共11页），全文未逐页核验；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024DGHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3009-2024-midterm-3c62a6",
+      "type": "exams",
+      "title": "微分几何 2024 期中",
+      "authors": [
+        "刘世平"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：刘世平；文件：2024DGHmid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2024；单元格：刘世平；文件：2024DGHmid.pdf；卷面/首页学期：2024秋；文本层可读；抽读前3页（共8页），全文未逐页核验；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024DGHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3009-2021-final-7d82a5",
+      "type": "exams",
+      "title": "微分几何 2021 期末",
+      "authors": [
+        "张希"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2021；单元格：张希；文件：2021DGHfinal.pdf",
+      "coverage": {
+        "years": [
+          2021
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2021；单元格：张希；文件：2021DGHfinal.pdf；卷面/首页学期：2021秋；文本层可读；已读全2页；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021DGHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3009-2019-final-ce816d",
+      "type": "exams",
+      "title": "微分几何 2019 期末",
+      "authors": [
+        "张希"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2019；单元格：张希；文件：2019DGHfinal.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2019；单元格：张希；文件：2019DGHfinal.pdf；卷面/首页学期：2019秋；首页可见日期 2020年1月；年份按首页考试日期 2020年1月；文本层可读；已读全1页；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2019DGHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3009-2020-midterm-a43384",
+      "type": "exams",
+      "title": "微分几何 2020 期中",
+      "authors": [
+        "张希"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2021；单元格：张希；文件：2020DGHmid.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期中考试；行年份：2021；单元格：张希；文件：2020DGHmid.pdf；卷面/首页学期：2020秋；文本层可读；已读全1页；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020DGHmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3009-2018-final-270f4a",
+      "type": "exams",
+      "title": "微分几何 2018 期末",
+      "authors": [
+        "张希"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2018；单元格：张希；文件：2018DGHfinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2018；单元格：张希；文件：2018DGHfinal.pdf；卷面/首页学期：2018秋；首页可见日期 2019年1月；年份按首页考试日期 2019年1月；文本层可读；已读全1页；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2018DGHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3009-2017-final-4ae797",
+      "type": "exams",
+      "title": "微分几何 2017 期末",
+      "authors": [
+        "张希"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2017；单元格：张希；文件：2017DGHfinal.pdf",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/GeoTopo/",
+        "note": "课程目录页：https://ustcmathexam.github.io/GeoTopo/；表头列：期末考试；行年份：2017；单元格：张希；文件：2017DGHfinal.pdf；卷面/首页学期：2017秋；文本层可读；已读全1页；卷面标注微分几何(H)，按H级别改挂官方代码 001705（ID 不变）"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/GeoTopo/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2017DGHfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

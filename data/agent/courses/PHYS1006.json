@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1006",
+  "name": "大学物理I",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

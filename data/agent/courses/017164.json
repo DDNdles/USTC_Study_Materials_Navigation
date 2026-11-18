@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017164",
+  "name": "时间序列分析A",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

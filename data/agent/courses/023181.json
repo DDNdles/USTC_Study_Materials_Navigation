@@ -1,0 +1,540 @@
+{
+  "schema_version": 1,
+  "code": "023181",
+  "name": "线性电子线路",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-exam-023181-e31828e6",
+      "type": "exams",
+      "title": "线性电子线路 2019 期末（回忆版）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/19%E6%98%A5%281%29.pdf",
+        "note": "卷面证据：期末；回忆版；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/19%E6%98%A5%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-6dcc66a3",
+      "type": "exams",
+      "title": "线性电子线路 2019 期末（回忆版）（2）",
+      "authors": [
+        "Mr-Philo",
+        "li-qi-lin"
+      ],
+      "notes": "公开仓库文件页；feixu 文件与 Mr-Philo 的 线性电子线路2019春.pdf 字节相同（888749 字节，md5 d3af2325…），合并为镜像。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF2019%E6%98%A5.pdf",
+        "note": "feixu 文件 888749 字节与 Mr-Philo 线性电子线路2019春.pdf md5 相同；回忆版；未附答案。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF2019%E6%98%A5.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B519%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%E7%89%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2019%E5%B9%B4%E7%9C%9F%E9%A2%98%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF2019%E6%98%A5%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF2019%E6%98%A5%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-490222c8",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 期末（样卷/模拟）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B73%281%29.pdf",
+        "note": "卷面证据：未提取到卷头/年份，仅题目正文；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B73%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-420f43fd",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 期末（样卷/模拟）（2）",
+      "authors": [
+        "Mr-Philo",
+        "li-qi-lin"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。 该仓库README要求勿随意外传，仅目录/文件页导航。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E6%A0%B7%E5%8D%B7.pdf",
+        "note": "卷面证据：未提取到卷头/年份，仅题目正文；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-mrphilo-eeis",
+          "page_url": "https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E6%A0%B7%E5%8D%B7.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "作者README要求“切勿随意外传”；仅登记公开目录/文件页，不提供受限文件直链。",
+          "attribution": "Mr-Philo",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98%EF%BC%88%E5%B9%B4%E9%BE%84%E4%B8%8D%E8%AF%A6%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-c5d48fd1",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 试卷",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E5%BE%80%E5%B9%B4%E8%AF%95%E5%8D%B7%20%EF%BC%8814%2B16%EF%BC%89%281%29.pdf",
+        "note": "扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E5%BE%80%E5%B9%B4%E8%AF%95%E5%8D%B7%20%EF%BC%8814%2B16%EF%BC%89%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-b9e54834",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 试卷（2）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E7%BA%BF%E7%94%B5%281%29.pdf",
+        "note": "卷面证据：含解答；解答：有。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E7%BA%BF%E7%94%B5%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-28513e8d",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 试卷（样卷/模拟）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B71%281%29.pdf",
+        "note": "扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B71%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-f223604a",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 试卷（样卷/模拟）（2）",
+      "authors": [
+        "EpiHio"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "practice",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B72%281%29.pdf",
+        "note": "扫描件/无文本层，按目录与文件名判定；未看部分不宣称已确认；解答：未见/未标。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B72%281%29.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "EpiHio",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-a4874d22",
+      "type": "exams",
+      "title": "线性电子线路 年份未标 试卷（原卷）",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "公开仓库文件页；课程归属与卷面证据见coverage。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98%EF%BC%88%E5%B9%B4%E4%BB%BD%E4%B8%8D%E8%AF%A6%EF%BC%89.pdf",
+        "note": "卷面证据：含解答；解答：有。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98%EF%BC%88%E5%B9%B4%E4%BB%BD%E4%B8%8D%E8%AF%A6%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-exam-023181-bbdfc0cd",
+      "type": "exams",
+      "title": "线性电子线路往年卷合集（2014 秋起，12 页）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "公开仓库文件页；feixu 文件与 ly382965 的 线性电子线路真题集.pdf 字节相同（4277483 字节，md5 dc6745a8…），合并为镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E9%9B%86.pdf",
+        "note": "feixu 与 ly382965 真题集字节相同；首页为 2014 秋 A 卷，其余年份未逐页识别，年份留空。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E9%9B%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%BE%80%E5%B9%B4%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E5%BE%80%E5%B9%B4%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-023181-847d2143",
+      "type": "homework",
+      "title": "线性电子线路章节练习与小结",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "bb章节练习与summary PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF",
+        "note": "bb章节练习与summary PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-homework-023181-68bead28",
+      "type": "homework",
+      "title": "线性电子线路章节习题答案",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "教材习题答案目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88",
+        "note": "教材习题答案目录。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-023181-938ef070",
+      "type": "study",
+      "title": "线性电子线路复习笔记",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "复习笔记PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E7%94%B5%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf",
+        "note": "复习笔记PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E7%94%B5%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-notes-023181-0d732069",
+      "type": "study",
+      "title": "线性电子线路概念整理",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "概念整理docx。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E6%A6%82%E5%BF%B5.docx",
+        "note": "概念整理docx。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E6%A6%82%E5%BF%B5.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "li-qi-lin",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-023181-35b330fc",
+      "type": "study",
+      "title": "线性电子线路课件",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "ch01-ch07 PDF课件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/ppt",
+        "note": "ch01-ch07 PDF课件。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Linear%20Electronic%20Circuits/ppt",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "ly382965",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

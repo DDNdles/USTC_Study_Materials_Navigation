@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED3016",
+  "name": "耳鼻咽喉头颈外科学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

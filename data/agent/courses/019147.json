@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "code": "019147",
+  "name": "无机化学基础实验(上)",
+  "kind": "professional",
+  "tags": [
+    "chemistry"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "chembio-019147-lab-2024",
+      "type": "projects",
+      "title": "无机化学基础实验（上）：反应速率与活化能实验报告单、实验图像与过程照片",
+      "authors": [
+        "Brilliant-Pig-CN"
+      ],
+      "notes": "README 标明课程为无机化学基础实验（上），根目录含实验报告单 docx 与实验 pptx，photos/ 按 2024-09 至 2024-12 的实验日期归档仪器与过程照片。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I/blob/main/README.md",
+        "note": "照片目录日期均为 2024 年秋季学期，报告单未标注年份。"
+      },
+      "locations": [
+        {
+          "source_id": "chembio-brilliantpig-inorg-lab",
+          "page_url": "https://github.com/Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明 LICENSE；仅导航原页面/文件页，不转存第三方文件。",
+          "attribution": "GitHub @Brilliant-Pig-CN：USTC-Fundamental-Inorganic-Chemistry-Experiment-I",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "chembio-brilliantpig-inorg-lab": "Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PE00131w",
+  "name": "散打II",
+  "kind": "common",
+  "tags": [
+    "sports"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

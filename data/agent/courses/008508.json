@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "008508",
+  "name": "分子生物学",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

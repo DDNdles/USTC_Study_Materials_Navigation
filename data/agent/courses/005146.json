@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "005146",
+  "name": "粘性流体力学",
+  "kind": "professional",
+  "tags": [
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "008108",
+  "name": "生理学",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

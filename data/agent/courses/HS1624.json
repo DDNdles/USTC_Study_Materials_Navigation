@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1624",
+  "name": "化学简史",
+  "kind": "general",
+  "tags": [
+    "chemistry",
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

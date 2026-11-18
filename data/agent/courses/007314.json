@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "007314",
+  "name": "科学计算与程序设计",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

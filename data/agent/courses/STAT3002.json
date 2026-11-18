@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "STAT3002",
+  "name": "实用统计软件",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

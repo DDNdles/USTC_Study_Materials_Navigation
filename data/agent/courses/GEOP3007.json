@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3007",
+  "name": "流体力学",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "mechanics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

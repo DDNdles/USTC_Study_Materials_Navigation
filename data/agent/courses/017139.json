@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "code": "017139",
+  "name": "金融经济学基础",
+  "kind": "professional",
+  "tags": [
+    "finance",
+    "economics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-017139-homework-rachel",
+      "type": "homework",
+      "title": "金融经济学基础课后习题与答案",
+      "authors": [],
+      "notes": "含课后习题题目版 PDF、答案 PDF 与答案图片目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80",
+        "note": "目录名与课名一致；文件为课后题与答案。"
+      },
+      "locations": [
+        {
+          "source_id": "github-rachel-finance-minor",
+          "page_url": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80",
+          "download_page": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @RachelK9790715/USTC_Finance_Minor",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "hum-017139-lectures-rachel",
+      "type": "study",
+      "title": "金融经济学基础课件（Bodie 版）",
+      "authors": [],
+      "notes": "金融经济学基础 PPT 目录中的 Lecture4，内容为最优风险资产组合，页脚含 McGraw-Hill 版权声明。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80PPT",
+        "note": "目录与课名一致；课件正文与金融经济学主题相符。"
+      },
+      "locations": [
+        {
+          "source_id": "github-rachel-finance-minor",
+          "page_url": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80PPT",
+          "download_page": "https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80PPT",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库无 LICENSE；版权归原作者，仅原页导航",
+          "attribution": "GitHub @RachelK9790715/USTC_Finance_Minor",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "github-rachel-finance-minor": "USTC_Finance_Minor（RachelK9790715）"
+  }
+}

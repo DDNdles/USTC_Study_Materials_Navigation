@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "code": "011145",
+  "name": "计算机组成原理",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-feixu-011145-2017",
+      "type": "exams",
+      "title": "计算机组成原理 2017 期末试卷",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-exam-guch-011145-cod2017-pdf",
+      "type": "exams",
+      "title": "计算机组成原理 2017 试卷（README：授课未知）",
+      "authors": [
+        "guch8017"
+      ],
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf",
+        "note": "年份、卷型按 README 表格与文件名核验"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-guch8017",
+          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf",
+          "download_page": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
+          "attribution": "guch8017/USTC_CS_EXAM",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-homework-feixu-011145",
+      "type": "homework",
+      "title": "计算机组成原理课本习题答案",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "教材习题答案，非教材下载；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88.pdf",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-gh-ustc-cs-resources-011145-cs-computer-organization-and-design",
+      "type": "study",
+      "title": "计算机组成原理 笔记（USTC-CS-Resources）",
+      "authors": [
+        "USTC-CS-Course-Resource"
+      ],
+      "notes": "46 个文件（tree 实际读取）；目录 CS/Computer-Organization-and-Design",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/Computer-Organization-and-Design",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-cs-resources",
+          "page_url": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/Computer-Organization-and-Design",
+          "download_page": "https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/Computer-Organization-and-Design",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库 LICENSE 为 MIT（仅覆盖仓库原创部分），README 注明仅供备份交流、切勿抄袭",
+          "attribution": "USTC-CS-Course-Resource/USTC-CS-Resources",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-web-011145",
+      "type": "study",
+      "title": "计算机组成原理 课程网站（计算机组成原理）",
+      "authors": [
+        "中国科学技术大学教师课程网站"
+      ],
+      "notes": "实际打开页面，标题「计算机组成原理」，页面列出 40 个课件/讲义类文件（如 0-课程概要(3.2)、1-概述(3.6)、2-指令系统(3.16)）",
+      "coverage": {
+        "years": [
+          2024,
+          2025,
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~llxx/cod/courseware.html",
+        "note": "年份取页面文件链接/路径中的四位年份；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~llxx/cod/courseware.html",
+          "download_page": "http://staff.ustc.edu.cn/~llxx/cod/courseware.html",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师课程网站公开页面；页面内课件权利归授课教师，未声明再分发许可",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-cs-courses-re-011145",
+      "type": "study",
+      "title": "计算机组成原理 课件与实验（USTC-CS-Courses-Resource）",
+      "authors": [
+        "ustcwpz"
+      ],
+      "notes": "581 个文件（tree 实际读取）；目录 大二下/计算机组成原理",
+      "coverage": {
+        "years": [
+          2013,
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ustcwpz-cs",
+          "page_url": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86",
+          "download_page": "https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：资源著作权归原作者，仅供学习交流，未给出再分发许可",
+          "attribution": "ustcwpz/USTC-CS-Courses-Resource",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-web-210072",
+      "type": "study",
+      "title": "计算机组成原理 COD Lab 2026 春：实验教程",
+      "authors": [
+        "中国科学技术大学教师课程网站"
+      ],
+      "notes": "课程实验网站（卢建良班）；公开教程，不是算法分析与设计课程网站。",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://soc.ustc.edu.cn/COD/",
+        "note": "站点正文为 2026 春卢建良班《计算机组成原理》COD Lab；Lab1–7 教程与指令手册，不是算法分析与设计。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "https://soc.ustc.edu.cn/COD/",
+          "download_page": "https://soc.ustc.edu.cn/COD/",
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师课程网站公开页面；页面内课件权利归授课教师，未声明再分发许可",
+          "attribution": "soc.ustc.edu.cn",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-notes-feixu-011145",
+      "type": "study",
+      "title": "计算机组成原理复习概要与重点",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "已在 share.feixu.site /api/fs/list 实际列出目录与文件名（2个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E6%A6%82%E8%A6%81.pdf",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E6%A6%82%E8%A6%81.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E6%A6%82%E8%A6%81.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E9%87%8D%E7%82%B9.docx",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E9%87%8D%E7%82%B9.docx",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-011145-codes",
+      "type": "projects",
+      "title": "计算机组成原理 实验（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "158 个文件（tree 实际读取）；目录 计算机组成原理/codes",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-cod-sp24-011145",
+      "type": "projects",
+      "title": "计算机组成原理（卢建良班）2024 春实验（USTC-COD-SP24）",
+      "authors": [
+        "lrel7"
+      ],
+      "notes": "2064 个文件（tree 实际读取）；目录 仓库根",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/lrel7/USTC-COD-SP24/tree/master/",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-lrel7-ustc-cod-sp24",
+          "page_url": "https://github.com/lrel7/USTC-COD-SP24/tree/master/",
+          "download_page": "https://github.com/lrel7/USTC-COD-SP24/tree/master/",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；2024春卢建良班计算机组成原理课程实验",
+          "attribution": "lrel7/USTC-COD-SP24",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-course-materials-011145",
+      "type": "projects",
+      "title": "计算机组成原理（卢建良班）实验与理论资料",
+      "authors": [
+        "TinyRubbish"
+      ],
+      "notes": "3567 个文件（tree 实际读取）；目录 计算机组成原理-卢建良",
+      "coverage": {
+        "years": [
+          2023,
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/TinyRubbish/Course-Materials/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%8D%A2%E5%BB%BA%E8%89%AF",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-tinyrubbish-course-materials",
+          "page_url": "https://github.com/TinyRubbish/Course-Materials/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%8D%A2%E5%BB%BA%E8%89%AF",
+          "download_page": "https://github.com/TinyRubbish/Course-Materials/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%8D%A2%E5%BB%BA%E8%89%AF",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；个人 USTC 课程资料",
+          "attribution": "TinyRubbish/Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "gh-lrel7-ustc-cod-sp24": "lrel7/USTC-COD-SP24",
+    "gh-tinyrubbish-course-materials": "TinyRubbish/Course-Materials"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "IS4006",
+  "name": "网络安全基础实践",
+  "kind": "professional",
+  "tags": [
+    "security",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "code": "MATH3006",
+  "name": "应用随机过程",
+  "kind": "professional",
+  "tags": [
+    "math",
+    "statistics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-math3006-2020-midterm-902d68",
+      "type": "exams",
+      "title": "应用随机过程（数院） 2020 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2017-2026；单元格：2020；文件：2020appliedstochmid.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期中考试；行年份：2017-2026；单元格：2020；文件：2020appliedstochmid.pdf；文本层编码不可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020appliedstochmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-math3006-2016-final-40e0f6",
+      "type": "exams",
+      "title": "应用随机过程（数院） 2016 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2016；单元格：2016；文件：2016appliedstochfinal.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/ProbStat/",
+        "note": "课程目录页：https://ustcmathexam.github.io/ProbStat/；表头列：期末考试；行年份：2016；单元格：2016；文件：2016appliedstochfinal.pdf；无文本层（扫描件）；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/ProbStat/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2016appliedstochfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3002",
+  "name": "地电地磁学理论与应用",
+  "kind": "professional",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

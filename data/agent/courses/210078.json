@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "code": "210078",
+  "name": "电子系统设计",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-projects-gh-ustc-course-materi-210078",
+      "type": "study",
+      "title": "电子系统设计 实验资料与课件（USTC-Course-Materials）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "32 个文件（tree 实际读取）；目录 大三上/电子系统设计",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+        "note": "逐文件清单为实验指导、讲义、课件与驱动，无学生报告或成品。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；个人本科课程作业/实验报告/复习资料存档",
+          "attribution": "duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-materi-210078-5",
+      "type": "projects",
+      "title": "电子系统设计 实验（USTC-Course-Materials-Sharing）",
+      "authors": [
+        "li-qi-lin"
+      ],
+      "notes": "13 个文件（tree 实际读取）；目录 5-电子系统设计",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-li-qi-lin",
+          "page_url": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+          "download_page": "https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系电子信息工程课程资料整理",
+          "attribution": "li-qi-lin/USTC-Course-Materials-Sharing",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-projects-gh-ly382965-210078-3fa-electronic-system-design",
+      "type": "projects",
+      "title": "电子系统设计 实验与报告（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "1307 个文件（tree 实际读取）；目录 3FA Electronic System Design",
+      "coverage": {
+        "years": [
+          2024,
+          2025,
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20System%20Design",
+        "note": "年份取文件名四位年份"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20System%20Design",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20System%20Design",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

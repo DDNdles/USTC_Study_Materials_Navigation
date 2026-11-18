@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "007278",
+  "name": "信号分析与数据处理",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

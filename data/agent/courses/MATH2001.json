@@ -1,0 +1,1903 @@
+{
+  "schema_version": 1,
+  "code": "MATH2001",
+  "name": "计算方法",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-math2001-exams-e14812",
+      "type": "exams",
+      "title": "2022春（李治平）",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2022春（李治平）.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E6%98%A5%EF%BC%88%E6%9D%8E%E6%B2%BB%E5%B9%B3%EF%BC%89.pdf",
+        "note": "目录：数学类/计算方法；2022春（李治平）.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E6%98%A5%EF%BC%88%E6%9D%8E%E6%B2%BB%E5%B9%B3%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-a98f4a",
+      "type": "exams",
+      "title": "2022春（李治平整理）",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2022春（李治平整理）.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E6%98%A5%EF%BC%88%E6%9D%8E%E6%B2%BB%E5%B9%B3%E6%95%B4%E7%90%86%EF%BC%89.pdf",
+        "note": "目录：数学类/计算方法；2022春（李治平整理）.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E6%98%A5%EF%BC%88%E6%9D%8E%E6%B2%BB%E5%B9%B3%E6%95%B4%E7%90%86%EF%BC%89.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-645ca8",
+      "type": "exams",
+      "title": "2022秋",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2022秋.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E7%A7%8B.pdf",
+        "note": "目录：数学类/计算方法；2022秋.pdf；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E7%A7%8B.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-e1c4ed",
+      "type": "exams",
+      "title": "2022秋答案",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2022秋答案.pdf",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E7%A7%8B%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/计算方法；2022秋答案.pdf；卷面/首页学期：2022秋；文本层可读；抽读前3页（共7页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E7%A7%8B%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math2001-exam-2017-828627",
+      "type": "exams",
+      "title": "计算方法 2017 试卷",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/计算方法 下文件：计算方法试卷及答案2017-4.pdf；按文件名辨识年份/卷型",
+      "coverage": {
+        "years": [
+          2017
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+        "note": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/计算方法 下文件：计算方法试卷及答案2017-4.pdf；按文件名辨识年份/卷型；卷面/首页学期：2016—2017学年第二学期；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%882017-4.pdf",
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-4ae679",
+      "type": "exams",
+      "title": "2013春 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013秋；2013春 (1).jpg",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%281%29.jpg",
+        "note": "目录：数学类/计算方法/2013秋；2013春 (1).jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%281%29.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-5f67bc",
+      "type": "exams",
+      "title": "2013春 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013春；2013春 (1).JPG",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2013春；2013春 (1).JPG；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-76cf51",
+      "type": "exams",
+      "title": "2013春 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013秋；2013春 (2).jpg",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%282%29.jpg",
+        "note": "目录：数学类/计算方法/2013秋；2013春 (2).jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%282%29.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-7c1b20",
+      "type": "exams",
+      "title": "2013春 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013春；2013春 (2).JPG",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2013春；2013春 (2).JPG；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-0e18be",
+      "type": "exams",
+      "title": "2013春 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013秋；2013春 (3).jpg",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%283%29.jpg",
+        "note": "目录：数学类/计算方法/2013秋；2013春 (3).jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%283%29.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-5c51e6",
+      "type": "exams",
+      "title": "2013春 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013春；2013春 (3).JPG",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2013春；2013春 (3).JPG；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-2c0a60",
+      "type": "exams",
+      "title": "2013春 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013秋；2013春 (4).jpg",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%284%29.jpg",
+        "note": "目录：数学类/计算方法/2013秋；2013春 (4).jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%284%29.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-e20b5f",
+      "type": "exams",
+      "title": "2013春 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013春；2013春 (4).JPG",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2013春；2013春 (4).JPG；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-7c90d3",
+      "type": "exams",
+      "title": "2013春 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013春；2013春 (5).JPG",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%285%29.JPG",
+        "note": "目录：数学类/计算方法/2013春；2013春 (5).JPG；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E6%98%A5/2013%E6%98%A5%20%285%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-d39c5c",
+      "type": "exams",
+      "title": "2013春 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2013秋；2013春 (5).jpg",
+      "coverage": {
+        "years": [
+          2013
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%285%29.jpg",
+        "note": "目录：数学类/计算方法/2013秋；2013春 (5).jpg；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2013%E7%A7%8B/2013%E6%98%A5%20%285%29.jpg",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-49afcf",
+      "type": "exams",
+      "title": "2007-2008第一学期",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2007-2008第一学期.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2007-2008"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2007-2008%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf",
+        "note": "目录：数学类/计算方法；2007-2008第一学期.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2007-2008%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-efa7a0",
+      "type": "exams",
+      "title": "2009-2010第一学期 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (1).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (1).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-e07052",
+      "type": "exams",
+      "title": "2009-2010第一学期 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (2).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (2).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-5d6c7e",
+      "type": "exams",
+      "title": "2009-2010第一学期 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (3).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (3).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-6003a4",
+      "type": "exams",
+      "title": "2009-2010第一学期 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (4).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2009-2010"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2009-2010第一学期；2009-2010第一学期 (4).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2009-2010%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-a31fb6",
+      "type": "exams",
+      "title": "2010-2011第二学期",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.pdf",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-5f4190",
+      "type": "exams",
+      "title": "2010-2011第二学期 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (1).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (1).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-379e00",
+      "type": "exams",
+      "title": "2010-2011第二学期 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (2).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (2).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-2b7b3f",
+      "type": "exams",
+      "title": "2010-2011第二学期 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (3).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (3).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-0d6295",
+      "type": "exams",
+      "title": "2010-2011第二学期 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (4).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (4).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-ced6ca",
+      "type": "exams",
+      "title": "2010-2011第二学期 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (5).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (5).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-a634e9",
+      "type": "exams",
+      "title": "2010-2011第二学期 (6)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (6).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2010-2011"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+        "note": "目录：数学类/计算方法/2010-2011第二学期；2010-2011第二学期 (6).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2010-2011%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-206e54",
+      "type": "exams",
+      "title": "2011-2012 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012；2011-2012 (1).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012；2011-2012 (1).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-6f73bb",
+      "type": "exams",
+      "title": "2011-2012 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012；2011-2012 (2).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012；2011-2012 (2).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-0bba9e",
+      "type": "exams",
+      "title": "2011-2012 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012；2011-2012 (3).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012；2011-2012 (3).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-4b0125",
+      "type": "exams",
+      "title": "2011-2012 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012；2011-2012 (4).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012；2011-2012 (4).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-ed6592",
+      "type": "exams",
+      "title": "2011-2012 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012；2011-2012 (5).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%285%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012；2011-2012 (5).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012/2011-2012%20%285%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-51c720",
+      "type": "exams",
+      "title": "2011-2012第二学期",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.pdf",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-70e27b",
+      "type": "exams",
+      "title": "2011-2012第二学期 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (1).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (1).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-4c9e36",
+      "type": "exams",
+      "title": "2011-2012第二学期 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (2).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (2).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-42bcfc",
+      "type": "exams",
+      "title": "2011-2012第二学期 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (3).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (3).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-58d053",
+      "type": "exams",
+      "title": "2011-2012第二学期 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (4).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (4).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-dde126",
+      "type": "exams",
+      "title": "2011-2012第二学期 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (5).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (5).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-f2fbf6",
+      "type": "exams",
+      "title": "2011-2012第二学期 (6)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (6).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (6).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-dcd137",
+      "type": "exams",
+      "title": "2011-2012第二学期 (7)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (7).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%287%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (7).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%287%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-5e9ff8",
+      "type": "exams",
+      "title": "2011-2012第二学期 (8)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (8).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%288%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第二学期；2011-2012第二学期 (8).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%20%288%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-31ef09",
+      "type": "exams",
+      "title": "2011-2012第一学期 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (1).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (1).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-633009",
+      "type": "exams",
+      "title": "2011-2012第一学期 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (2).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (2).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-62dd25",
+      "type": "exams",
+      "title": "2011-2012第一学期 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (3).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (3).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-619c5f",
+      "type": "exams",
+      "title": "2011-2012第一学期 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (4).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (4).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-59dba1",
+      "type": "exams",
+      "title": "2011-2012第一学期 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (5).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (5).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-441bd6",
+      "type": "exams",
+      "title": "2011-2012第一学期 (6)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (6).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (6).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-065da7",
+      "type": "exams",
+      "title": "2011-2012第一学期 (7)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (7).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%287%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (7).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%287%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-eb2465",
+      "type": "exams",
+      "title": "2011-2012第一学期 (8)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (8).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2011-2012"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%288%29.JPG",
+        "note": "目录：数学类/计算方法/2011-2012第一学期；2011-2012第一学期 (8).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%288%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-ddb416",
+      "type": "exams",
+      "title": "2014-2015第一学期",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-dd4240",
+      "type": "exams",
+      "title": "2014-2015第一学期 (1)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (1).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (1).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%281%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-a2d701",
+      "type": "exams",
+      "title": "2014-2015第一学期 (2)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (2).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (2).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%282%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-436b3c",
+      "type": "exams",
+      "title": "2014-2015第一学期 (3)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (3).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (3).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%283%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-5e14ed",
+      "type": "exams",
+      "title": "2014-2015第一学期 (4)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (4).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (4).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%284%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-9c7faa",
+      "type": "exams",
+      "title": "2014-2015第一学期 (5)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (5).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (5).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%285%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-c298f6",
+      "type": "exams",
+      "title": "2014-2015第一学期 (6)",
+      "authors": [],
+      "notes": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (6).JPG",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+        "note": "目录：数学类/计算方法/2014-2015第一学期；2014-2015第一学期 (6).JPG；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%286%29.JPG",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-156172",
+      "type": "exams",
+      "title": "2016-2017第二学期",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2016-2017第二学期.doc",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2016-2017%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.doc",
+        "note": "目录：数学类/计算方法；2016-2017第二学期.doc；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2016-2017%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.doc",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-math2001-exams-1965a1",
+      "type": "exams",
+      "title": "2016-2017第一学期",
+      "authors": [],
+      "notes": "目录：数学类/计算方法；2016-2017第一学期.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2016-2017%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf",
+        "note": "目录：数学类/计算方法；2016-2017第一学期.pdf；仅有学年/学期标注，无公历考试日期，年份留空；仅有学年/学期标注，无公历考试日期，年份留空；未取得文件正文（仅目录/文件名信息）"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2016-2017%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math2001-notes-730cce",
+      "type": "study",
+      "title": "计算方法 计算方法（notes）",
+      "authors": [],
+      "notes": "USTC-Resource-USTC-Course 目录 计算方法，33 个文件，例：1.cpp；1.docx；cm.nb；Lagrange.m；N128type1.png；N128type2.png",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "USTC-Resource 组织",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math2001-notes-9b7ad2",
+      "type": "study",
+      "title": "计算方法 计算方法（notes）",
+      "authors": [],
+      "notes": "guidongnan-ustc_ds_undergraduate_course 目录 试卷及复习资料/计算方法，4 个文件，例：计算方法2007.pdf；计算方法2016.2.pdf；计算方法复习提纲.pdf；计算方法复习提纲精简版.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guidongnan",
+          "page_url": "https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
+          "attribution": "guidongnan",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-gh-math2001-projects-730cce",
+      "type": "projects",
+      "title": "计算方法 计算方法（projects）",
+      "authors": [],
+      "notes": "USTC-Resource-USTC-Course 目录 计算方法，5 个文件，例：report2.md；report2.pdf；report3.md；report4.md；report5.md",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+        "note": "目录内容按文件名归类，未逐份读正文"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "USTC-Resource 组织",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+  }
+}

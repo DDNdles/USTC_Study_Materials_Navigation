@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "code": "EE4001",
+  "name": "芯片设计实践",
+  "kind": "professional",
+  "tags": [
+    "ic",
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "eng-guides-ee4001-8fd10b3f",
+      "type": "study",
+      "title": "芯片设计实践EDA工具教程（Lab/Synopsys/Cadence）",
+      "authors": [
+        "starkerfirst"
+      ],
+      "notes": "6个Lab tutorial与Synopsys ICC/DC/Tcl教程。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/EDAtutorial",
+        "note": "6个Lab tutorial与Synopsys ICC/DC/Tcl教程。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-starkerfirst-icdesign",
+          "page_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/EDAtutorial",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "starkerfirst",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-lectures-ee4001-7fd086b7",
+      "type": "study",
+      "title": "芯片设计实践EDA理论讲义（10讲）",
+      "authors": [
+        "starkerfirst"
+      ],
+      "notes": "DA-Lecture01-10 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/EDAtheory",
+        "note": "DA-Lecture01-10 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-starkerfirst-icdesign",
+          "page_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/EDAtheory",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "starkerfirst",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-guides-ee4001-564057a3",
+      "type": "study",
+      "title": "Cadence数字设计实验教程",
+      "authors": [
+        "starkerfirst"
+      ],
+      "notes": "Verilog仿真/综合/物理设计4份教程+大作业。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/cadence_tutorial",
+        "note": "Verilog仿真/综合/物理设计4份教程+大作业。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-starkerfirst-icdesign",
+          "page_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/cadence_tutorial",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "starkerfirst",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "eng-projects-ee4001-42d089e4",
+      "type": "projects",
+      "title": "芯片设计实践ic_design工程与报告",
+      "authors": [
+        "starkerfirst"
+      ],
+      "notes": "2022FA流片项目工程；README称GDS已提交。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/ic_design",
+        "note": "2022FA流片项目工程；README称GDS已提交。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-starkerfirst-icdesign",
+          "page_url": "https://github.com/starkerfirst/USTC_2022FA_ICdesign/tree/main/ic_design",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
+          "attribution": "starkerfirst",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "eng-github-starkerfirst-icdesign": "starkerfirst/USTC_2022FA_ICdesign（芯片设计实践2022秋）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017137",
+  "name": "金融学导论",
+  "kind": "professional",
+  "tags": [
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

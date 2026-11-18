@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ESS1509",
+  "name": "地球物理与地球演化",
+  "kind": "general",
+  "tags": [
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NSE4008",
+  "name": "光子科学前沿进展",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

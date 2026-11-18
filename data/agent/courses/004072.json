@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "004072",
+  "name": "实验物理中的信号采集处理",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

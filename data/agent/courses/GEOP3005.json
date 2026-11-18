@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "code": "GEOP3005",
+  "name": "空间探测基础实习",
+  "kind": "professional",
+  "tags": [
+    "earth",
+    "instruments",
+    "space"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

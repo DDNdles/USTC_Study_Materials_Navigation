@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EDUS1001",
+  "name": "劳动教育",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

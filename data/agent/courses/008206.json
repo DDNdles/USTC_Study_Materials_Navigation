@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "008206",
+  "name": "细胞生物学基础实验",
+  "kind": "professional",
+  "tags": [
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

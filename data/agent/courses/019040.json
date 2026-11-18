@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "019040",
+  "name": "环境化学",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

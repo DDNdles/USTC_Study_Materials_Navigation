@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "022063",
+  "name": "热力学与统计物理B",
+  "kind": "professional",
+  "tags": [
+    "physics",
+    "thermal"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-022063-2026-midterm-6064b8",
+      "type": "exams",
+      "title": "热力学与统计物理 2026 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026春；单元格：2026春期中 (B)；文件：26SpTDBMid.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：期中考试；行年份：2026春；单元格：2026春期中 (B)；文件：26SpTDBMid.pdf；卷面/首页学期：2026春；首页可见日期 2026年4月；年份按首页考试日期 2026年4月；文本层可读；抽读前3页（共4页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpTDBMid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷"
+  }
+}

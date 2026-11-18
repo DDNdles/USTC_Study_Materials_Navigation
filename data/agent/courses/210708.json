@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "210708",
+  "name": "数字图像处理B",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "ai"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

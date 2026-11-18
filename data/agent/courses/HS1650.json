@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1650",
+  "name": "视觉沟通",
+  "kind": "general",
+  "tags": [
+    "arts",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

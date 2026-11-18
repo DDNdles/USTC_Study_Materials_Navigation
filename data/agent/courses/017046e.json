@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "017046e",
+  "name": "国际金融(英)",
+  "kind": "professional",
+  "tags": [
+    "finance"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

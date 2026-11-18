@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "ME4013",
+  "name": "渗流力学",
+  "kind": "professional",
+  "tags": [
+    "mechanics",
+    "earth"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

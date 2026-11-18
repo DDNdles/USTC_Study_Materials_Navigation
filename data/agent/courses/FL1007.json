@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "FL1007",
+  "name": "英语交流进阶I",
+  "kind": "common",
+  "tags": [
+    "languages"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "008178",
+  "name": "生物系统数学建模",
+  "kind": "professional",
+  "tags": [
+    "biology",
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

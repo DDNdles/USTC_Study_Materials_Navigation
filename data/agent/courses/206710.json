@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "206710",
+  "name": "化学生物学(H)",
+  "kind": "professional",
+  "tags": [
+    "chemistry",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1004B",
+  "name": "电磁学B",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

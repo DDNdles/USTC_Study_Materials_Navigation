@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "IS3006",
+  "name": "信息安全设计与实践",
+  "kind": "professional",
+  "tags": [
+    "security",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

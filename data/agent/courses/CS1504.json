@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "CS1504",
+  "name": "量化金融工程：从理论到实践",
+  "kind": "general",
+  "tags": [
+    "finance",
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

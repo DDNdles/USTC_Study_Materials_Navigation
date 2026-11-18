@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "code": "001506",
+  "name": "数理方程A",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-001506-exams-87342d",
+      "type": "exams",
+      "title": "数理方程(A)2025春真题",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程(A)2025春真题.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98.pdf",
+        "note": "目录：数学类/数理方程；数理方程(A)2025春真题.pdf；卷面/首页学期：2024—2025学年第二学期；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-exams-c611bb",
+      "type": "exams",
+      "title": "数理方程(A)2025春真题参考答案",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程(A)2025春真题参考答案.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+        "note": "目录：数学类/数理方程；数理方程(A)2025春真题参考答案.pdf；卷面/首页学期：2025春；文本层可读；抽读前3页（共9页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-exams-1d9667",
+      "type": "exams",
+      "title": "数理方程历年真题1",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程历年真题1.pdf；文件页核验；42页 A/B 合集，第39—42页有参考答案；未逐卷拆条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2001-2002",
+          "2002-2003",
+          "2003-2004",
+          "2004-2005",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2013-2014",
+          "2014-2015",
+          "2015-2016",
+          "2016-2017",
+          "2018-2019",
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "共42页；第1页说明收录数理方程(A/B)试题；第2页起为2001学年以后各卷；第39—42页为参考答案；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%981.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-exams-9c1d9c",
+      "type": "exams",
+      "title": "数理方程历年真题2",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程历年真题2.pdf；文件页核验；50页 A/B 合集，第35页起有答案与解析；未逐卷拆条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2001-2002",
+          "2002-2003",
+          "2003-2004",
+          "2004-2005",
+          "2005-2006",
+          "2006-2007",
+          "2007-2008",
+          "2008-2009",
+          "2013-2014",
+          "2014-2015",
+          "2015-2016",
+          "2016-2017",
+          "2018-2019",
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "共50页；第1页说明收录数理方程(A/B)试题；第35页起有参考答案与解析；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%982.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-exams-5d1f83",
+      "type": "exams",
+      "title": "数理方程A历年真题",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程A历年真题.pdf；文件页核验；24页合集，A期末，卷面课程号001506；含答案；其他年份未逐卷拆条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2014-2015",
+          "2019-2020"
+        ],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "共24页；第1页为2014-2015学年第二学期数理方程A期末，第7页为2019—2020学年第一学期数理方程A期末（卷面课程号001506）；第3页起有答案页；未逐卷拆条。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BA%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-001506-study-7df146",
+      "type": "study",
+      "title": "数理方程A知识点整理",
+      "authors": [],
+      "notes": "目录：数学类/数理方程；数理方程A知识点整理.pdf 与同名 DOCX；文件页核验；PDF 9页，带同文 DOCX；封面题名明确A。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B",
+        "note": "PDF 共9页；第1页题名“数理方程A 知识点整理”，水印“我的科大 2021级 少年班学院 孙旭磊”；同目录另有 DOCX 同文；正文可读，抽读前3页。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BA%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BA%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

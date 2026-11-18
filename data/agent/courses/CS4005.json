@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "CS4005",
+  "name": "形式化方法导引",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-projects-gh-ustc-course-plus-cs4005",
+      "type": "projects",
+      "title": "形式化方法导引 实验与报告（ustc_course_plus）",
+      "authors": [
+        "Kobe972"
+      ],
+      "notes": "6 个文件（tree 实际读取）；目录 形式化方法导引",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%AF%BC%E5%BC%95",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "gh-kobe972",
+          "page_url": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%AF%BC%E5%BC%95",
+          "download_page": "https://github.com/Kobe972/ustc_course_plus/tree/main/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%AF%BC%E5%BC%95",
+          "download_url": null,
+          "access": "public",
+          "license_note": "README 声明除特别说明外可复制修改传播；涉及作业/实验的第三方内容仍属原作者",
+          "attribution": "Kobe972/ustc_course_plus",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "gh-kobe972": "Kobe972/ustc_course_plus"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "INEE1501",
+  "name": "商业计划与创业实战",
+  "kind": "general",
+  "tags": [
+    "innovation",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

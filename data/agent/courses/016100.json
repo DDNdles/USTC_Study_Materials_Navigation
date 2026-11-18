@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "016100",
+  "name": "战略管理",
+  "kind": "professional",
+  "tags": [
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

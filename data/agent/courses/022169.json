@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "code": "022169",
+  "name": "天体力学与天体测量基础",
+  "kind": "professional",
+  "tags": [
+    "astronomy",
+    "mechanics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-022169-2026-final-846f02",
+      "type": "exams",
+      "title": "专业必修 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/Other/；表头列：天体力学与天体测量基础；行年份：2025秋-2026春；单元格：期末考试；文件：26SpCMAMFinal.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcphyexam.github.io/Other/",
+        "note": "课程目录页：https://ustcphyexam.github.io/Other/；表头列：天体力学与天体测量基础；行年份：2025秋-2026春；单元格：期末考试；文件：26SpCMAMFinal.pdf；卷面/首页学期：2026春；首页可见日期 2026年6月；年份按首页考试日期 2026年6月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/Other/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpCMAMFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "006502",
+  "name": "信号与系统B",
+  "kind": "professional",
+  "tags": [
+    "electronics",
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

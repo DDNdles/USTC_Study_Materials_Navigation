@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "PHYS1008B+",
+  "name": "大学物理-基础实验B进阶",
+  "kind": "common",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

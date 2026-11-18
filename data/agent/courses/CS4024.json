@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "CS4024",
+  "name": "面向科学问题求解的编程实践",
+  "kind": "professional",
+  "tags": [
+    "cs"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

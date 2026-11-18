@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4004",
+  "name": "水处理工程",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

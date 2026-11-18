@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "HS1566",
+  "name": "人工智能与技术伦理",
+  "kind": "general",
+  "tags": [
+    "ai",
+    "philosophy"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

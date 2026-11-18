@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "code": "002001",
+  "name": "固体物理A",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-002001-2026-final-b5d0f8",
+      "type": "exams",
+      "title": "固体物理 2026 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：考试；行年份：2026春；单元格：赵瑾 (A)；文件：26SpSSPAFinalZJ.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": null,
+        "evidence_url": "https://ustcphyexam.github.io/SeniorPhy/",
+        "note": "课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：考试；行年份：2026春；单元格：赵瑾 (A)；文件：26SpSSPAFinalZJ.pdf；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/26SpSSPAFinalZJ.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-002001-exams-12c257",
+      "type": "exams",
+      "title": "固体物理A 2019期末考试",
+      "authors": [],
+      "notes": "目录：物理类/固体物理；固体物理A 2019期末考试.pdf；课程目录页：https://ustcphyexam.github.io/SeniorPhy/；表头列：考试；行年份：2020 年前；单元格：2019春期末 (A)；文件：19SpSSPAFinal.pdf",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86A%202019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+        "note": "目录：物理类/固体物理；固体物理A 2019期末考试.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验；同一文件另有镜像条目，字段按同一文件统一"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86A%202019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "ustc-phy-exam",
+          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
+          "download_page": null,
+          "download_url": "https://ustcphyexam.github.io/USTC/19SpSSPAFinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-002001-study-81ad4a8b",
+      "type": "study",
+      "title": "固体物理期末笔记",
+      "authors": [],
+      "notes": "目录：物理类/固体物理；复习资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AE%B0.pdf",
+        "note": "目录：物理类/固体物理；文件页匿名访问 200；复习/整理/笔记资料"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-002001-study-b3540999",
+      "type": "study",
+      "title": "固体物理期末整理",
+      "authors": [],
+      "notes": "目录：物理类/固体物理；复习资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E6%95%B4%E7%90%86.pdf",
+        "note": "目录：物理类/固体物理；文件页匿名访问 200；复习/整理/笔记资料"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E6%95%B4%E7%90%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-002001-study-6cf078d2",
+      "type": "study",
+      "title": "固体物理期中整理",
+      "authors": [],
+      "notes": "目录：物理类/固体物理；复习资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E4%B8%AD%E6%95%B4%E7%90%86.pdf",
+        "note": "目录：物理类/固体物理；文件页匿名访问 200；复习/整理/笔记资料"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E4%B8%AD%E6%95%B4%E7%90%86.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-002001-study-7bbae013",
+      "type": "study",
+      "title": "固体物理知识点速记",
+      "authors": [],
+      "notes": "目录：物理类/固体物理；复习资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9%E9%80%9F%E8%AE%B0.pdf",
+        "note": "目录：物理类/固体物理；文件页匿名访问 200；复习/整理/笔记资料"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9%E9%80%9F%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-feixu-002001-study-a2a310f0",
+      "type": "study",
+      "title": "固体物理总复习",
+      "authors": [],
+      "notes": "目录：物理类/固体物理；复习资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%80%BB%E5%A4%8D%E4%B9%A0.pdf",
+        "note": "目录：物理类/固体物理；文件页匿名访问 200；复习/整理/笔记资料"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%80%BB%E5%A4%8D%E4%B9%A0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "001696",
+  "name": "中法班讨论班",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

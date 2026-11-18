@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "NNM1501",
+  "name": "VR/AR/MR技术创意设计与应用",
+  "kind": "general",
+  "tags": [
+    "cs",
+    "arts"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

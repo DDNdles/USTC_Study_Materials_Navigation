@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4010",
+  "name": "量子计算前沿",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

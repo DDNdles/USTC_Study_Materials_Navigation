@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "025166",
+  "name": "传媒管理",
+  "kind": "professional",
+  "tags": [
+    "communications",
+    "management"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "HS1660M",
+  "name": "古希腊文明",
+  "kind": "general",
+  "tags": [
+    "history"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

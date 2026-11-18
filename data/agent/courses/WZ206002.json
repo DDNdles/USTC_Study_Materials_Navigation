@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "WZ206002",
+  "name": "数据智能驱动的机器化学家探索",
+  "kind": "professional",
+  "tags": [
+    "ai",
+    "chemistry"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

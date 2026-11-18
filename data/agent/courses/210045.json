@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "code": "210045",
+  "name": "电路基本理论",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "computing-exam-feixu-210045-2018-2025",
+      "type": "exams",
+      "title": "电路基本理论 2018-2025 历年试卷合集",
+      "authors": [
+        "share.feixu.site 投稿者"
+      ],
+      "notes": "文件名标注2018-2025，合集未逐卷拆分，年份未逐卷确认；已在 share.feixu.site /api/fs/list 实际列出目录与文件名（1个文件）",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA/2018-2025%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7.pdf",
+        "note": "按目录文件名核验年份与卷型"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA/2018-2025%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7.pdf",
+          "download_page": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA/2018-2025%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站内声明仅可学习不得商用；文件权利未单独声明",
+          "attribution": "share.feixu.site 投稿者",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ustc-course-materi-210045",
+      "type": "study",
+      "title": "电路基本理论 课件与往年真题（USTC-Course-Materials）",
+      "authors": [
+        "duxiaoyang-creator"
+      ],
+      "notes": "71 个文件（tree 实际读取）；目录 大一下/电路基本理论",
+      "coverage": {
+        "years": [
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA",
+        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-duxiaoyang-materials",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA",
+          "download_page": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；个人本科课程作业/实验报告/复习资料存档",
+          "attribution": "duxiaoyang-creator/USTC-Course-Materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "computing-lectures-gh-ly382965-210045-1sp-fundamentals-of-circuit-analysis",
+      "type": "study",
+      "title": "电路基本理论 试题与资料（USTC_learning_materials）",
+      "authors": [
+        "ly382965"
+      ],
+      "notes": "32 个文件（tree 实际读取）；目录 1SP Fundamentals of Circuit Analysis",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/1SP%20Fundamentals%20of%20Circuit%20Analysis",
+        "note": "年份取文件名四位年份"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-ly382965-materials",
+          "page_url": "https://github.com/ly382965/USTC_learning_materials/tree/main/1SP%20Fundamentals%20of%20Circuit%20Analysis",
+          "download_page": "https://github.com/ly382965/USTC_learning_materials/tree/main/1SP%20Fundamentals%20of%20Circuit%20Analysis",
+          "download_url": null,
+          "access": "public",
+          "license_note": "无许可声明；6系课程资料整理，README 说明含课程 PPT/作业答案/真题",
+          "attribution": "ly382965/USTC_learning_materials",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "910008",
+  "name": "病原生物学",
+  "kind": "professional",
+  "tags": [
+    "medicine",
+    "biology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

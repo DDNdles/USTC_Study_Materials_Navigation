@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4002",
+  "name": "环境专业实习",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

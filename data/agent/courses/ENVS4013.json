@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "ENVS4013",
+  "name": "土壤污染与修复技术",
+  "kind": "professional",
+  "tags": [
+    "environment"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

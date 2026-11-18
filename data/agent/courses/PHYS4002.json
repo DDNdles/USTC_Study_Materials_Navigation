@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "code": "PHYS4002",
+  "name": "核与粒子物理导论",
+  "kind": "professional",
+  "tags": [
+    "nuclear",
+    "physics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-feixu-phys4002-notes-b67428",
+      "type": "study",
+      "title": "核与粒子物理导论笔记",
+      "authors": [],
+      "notes": "目录：物理类/核与粒子物理导论；核与粒子物理导论笔记.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%E7%AC%94%E8%AE%B0.pdf",
+        "note": "文件：核与粒子物理导论笔记.pdf"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "025150",
+  "name": "现代心理学",
+  "kind": "professional",
+  "tags": [
+    "psychology"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "002047",
+  "name": "凝聚态物理实验",
+  "kind": "professional",
+  "tags": [
+    "materials",
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

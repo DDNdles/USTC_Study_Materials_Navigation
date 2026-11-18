@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "code": "001065",
+  "name": "计算机图形学",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-001065-2025-final-5383ba",
+      "type": "exams",
+      "title": "计算机图形学 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025CGfinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/AMCM/",
+        "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：期末考试；行年份：2025；单元格：期末；文件：2025CGfinal.pdf；卷面/首页学期：2024—2025学年春季学期；文本层可读；已读全1页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/AMCM/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025CGfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-ghweb-001065-437a53",
+      "type": "projects",
+      "title": "计算机图形学 2020 课程作业与文档",
+      "authors": [],
+      "notes": "SqrtiZhang/CG_2020spring：README 明示课程编号 00106501",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/SqrtiZhang/CG_2020spring",
+        "note": "README 明示课程编号 00106501"
+      },
+      "locations": [
+        {
+          "source_id": "gh-cg-2020",
+          "page_url": "https://github.com/SqrtiZhang/CG_2020spring",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库许可仅覆盖原创内容；第三方资料权利归原作者",
+          "attribution": "SqrtiZhang",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-ghweb-001065-2ed4c8",
+      "type": "projects",
+      "title": "计算机图形学 2025 课程作业（含框架与作业说明）",
+      "authors": [],
+      "notes": "USTC-CG/USTC_CG_25：README 明示课程编号 00106501、授课教师刘利刚",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-CG/USTC_CG_25",
+        "note": "README 明示课程编号 00106501、授课教师刘利刚"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-cg-25",
+          "page_url": "https://github.com/USTC-CG/USTC_CG_25",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库许可仅覆盖原创内容；第三方资料权利归原作者",
+          "attribution": "USTC-CG",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "gh-cg-2020": "SqrtiZhang/CG_2020spring",
+    "gh-ustc-cg-25": "USTC-CG/USTC_CG_25"
+  }
+}

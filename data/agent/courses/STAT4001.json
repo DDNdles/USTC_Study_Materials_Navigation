@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "STAT4001",
+  "name": "属性数据分析",
+  "kind": "professional",
+  "tags": [
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

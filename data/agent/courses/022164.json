@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "022164",
+  "name": "大学物理-现代技术实验",
+  "kind": "professional",
+  "tags": [
+    "physics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

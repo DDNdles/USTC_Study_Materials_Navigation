@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "EE2506A",
+  "name": "模拟与数字电路A",
+  "kind": "professional",
+  "tags": [
+    "electronics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

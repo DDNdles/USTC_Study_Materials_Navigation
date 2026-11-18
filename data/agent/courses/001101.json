@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "code": "001101",
+  "name": "常微分方程",
+  "kind": "professional",
+  "tags": [
+    "math"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "mp-uexam-001101-2025-final-6b2823",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2025 期末",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2025；单元格：期末统考；文件：2025ODEfinal.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2025；单元格：期末统考；文件：2025ODEfinal.pdf；文本层可读；抽读前3页（共9页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025ODEfinal.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2025-midterm-fca109",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2025 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2025；单元格：期中统考；文件：2025ODEmid.pdf",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2025；单元格：期中统考；文件：2025ODEmid.pdf；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2025ODEmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2024-midterm-53a14e",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2024 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2024；单元格：答案；文件：2024ODEmid1.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2024；单元格：答案；文件：2024ODEmid1.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024ODEmid1.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2024-midterm-5637cb",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2024 期中",
+      "authors": [
+        "试题"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2024；单元格：试题；文件：2024ODEmid.pdf",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2024；单元格：试题；文件：2024ODEmid.pdf；无文本层（扫描件）；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2024ODEmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2023-midterm-08bcc6",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2023 期中",
+      "authors": [
+        "赵立丰"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2023；单元格：赵立丰；文件：2023ODEmid.pdf",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2023；单元格：赵立丰；文件：2023ODEmid.pdf；卷面/首页学期：2023—2024学年秋季学期；文本层可读；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2023ODEmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2020-midterm-5c2963",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2020 期中",
+      "authors": [
+        "赵立丰"
+      ],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2020；单元格：赵立丰；文件：2020ODEmid.pdf",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2020；单元格：赵立丰；文件：2020ODEmid.pdf；文本层几无中文；已读全2页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2020ODEmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2016-midterm-172038",
+      "type": "exams",
+      "title": "常微分方程、偏微分方程 2016 期中",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2016；单元格：统考；文件：2016ODEmid.pdf",
+      "coverage": {
+        "years": [
+          2016
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2016；单元格：统考；文件：2016ODEmid.pdf；文本层可读；已读全3页"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2016ODEmid.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2026-midterm-88ce6c",
+      "type": "homework",
+      "title": "常微分方程、偏微分方程 2026 小测",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2026；单元格：小测-赵立丰；文件：2026ODEmidB.pdf",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2026；单元格：小测-赵立丰；文件：2026ODEmidB.pdf；卷面/首页学期：2026—2027学年第一学期；首页可见日期 2026年10月；年份按首页考试日期 2026年10月；文本层可读；抽读前3页（共6页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026ODEmidB.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
+      "id": "mp-uexam-001101-2026-midterm-aa5484",
+      "type": "homework",
+      "title": "常微分方程、偏微分方程 2026 小测",
+      "authors": [],
+      "notes": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2026；单元格：小测-章俊彦；文件：2026ODEmidA.pdf",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": true,
+        "evidence_url": "https://ustcmathexam.github.io/APDE/",
+        "note": "课程目录页：https://ustcmathexam.github.io/APDE/；表头列：常微分方程；行年份：2026；单元格：小测-章俊彦；文件：2026ODEmidA.pdf；卷面/首页学期：2026—2027学年第一学期；首页可见日期 2026年9月；首页日期与所标学期不符，年份留空（不判定哪个为笔误）；文本层可读；抽读前3页（共5页），全文未逐页核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/APDE/",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2026ODEmidA.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "ustc-math-exam": "USTC 数学课程往年试卷"
+  }
+}

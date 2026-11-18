@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "NNM3004",
+  "name": "科学传播导论",
+  "kind": "professional",
+  "tags": [
+    "communications"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

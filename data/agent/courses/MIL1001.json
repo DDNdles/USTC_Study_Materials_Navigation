@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "code": "MIL1001",
+  "name": "军事理论",
+  "kind": "common",
+  "tags": [
+    "politics"
+  ],
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "hum-MIL1001-homework-feixu",
+      "type": "homework",
+      "title": "军事理论在线测试答案",
+      "authors": [],
+      "notes": "第一章至第五章测试答案，md 与 pdf 两种格式；locations 为两种格式文件页，非镜像。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88.pdf",
+        "note": "正文核对：军事理论各章测试题答案。"
+      },
+      "locations": [
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88.md",
+          "download_page": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88.md",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88.pdf",
+          "download_page": "https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88.pdf",
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点声明仅供学习、不得商用；不保存 sign 临时直链",
+          "attribution": "飞絮资料站（我的科大）",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    }
+  ],
+  "sources": {
+    "feixu-alist": "feixu 学习资料分享站（AList）"
+  }
+}

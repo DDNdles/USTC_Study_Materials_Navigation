@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "code": "STAT3003",
+  "name": "统计算法基础",
+  "kind": "professional",
+  "tags": [
+    "cs",
+    "statistics"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}

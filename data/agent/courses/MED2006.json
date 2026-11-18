@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "code": "MED2006",
+  "name": "预防医学",
+  "kind": "professional",
+  "tags": [
+    "medicine"
+  ],
+  "has_resources": false,
+  "resources": [],
+  "sources": {}
+}
