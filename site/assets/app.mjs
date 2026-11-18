@@ -107,6 +107,33 @@ function showLoadError(message) {
   if (status) status.textContent = '课程数据加载失败。';
 }
 
+/**
+ * 渲染预留的两项统计（「仓库浏览（近 14 天）」「网站累计浏览次数」）。
+ * 无真实非负整数数据时保持隐藏，绝不渲染占位数字，也不将两项相加。
+ */
+function renderSiteStats(stats) {
+  const container = document.getElementById('site-stats');
+  if (!container) return;
+  const keys = ['repo_views_14d', 'site_total_views'];
+  let visibleCount = 0;
+
+  for (const key of keys) {
+    const item = container.querySelector(`[data-stat-item="${key}"]`);
+    const valueNode = container.querySelector(`[data-stat-value="${key}"]`);
+    if (!item || !valueNode) continue;
+    const raw = stats?.[key];
+    if (Number.isInteger(raw) && raw >= 0) {
+      valueNode.textContent = raw.toLocaleString('zh-CN');
+      item.hidden = false;
+      visibleCount += 1;
+    } else {
+      valueNode.textContent = '';
+      item.hidden = true;
+    }
+  }
+  container.hidden = visibleCount === 0;
+}
+
 /* ============================== 首页 ============================== */
 
 function initIndex(catalog) {
@@ -215,6 +242,7 @@ function initIndex(catalog) {
   function changePage(delta) {
     page += delta;
     render(currentFilters ?? initial, { sync: false });
+    if (resultsHeading) resultsHeading.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
   function populateSelect(select, allLabel, items) {
@@ -244,7 +272,8 @@ function initIndex(catalog) {
       input.value = tag.id;
       input.id = `tag-${tag.id}`;
       label.htmlFor = input.id;
-      label.append(input, document.createTextNode(tag.label ?? tag.id));
+      const textSpan = el('span', 'tag-option-label', tag.label ?? tag.id);
+      label.append(input, textSpan);
       fragment.append(label);
     }
     tagOptions.replaceChildren(fragment);
@@ -346,6 +375,11 @@ function initIndex(catalog) {
     const total = catalog.courses.length;
     const withCount = results.filter((course) => courseResources(course).length > 0).length;
     const active = serializeFilters(filters).toString() !== '';
+    if (clearButton) {
+      if (active) clearButton.dataset.active = 'true';
+      else delete clearButton.dataset.active;
+    }
+
     let statusText;
     if (filters.status === 'none') {
       statusText = '两种收录状态都未勾选，因此没有课程可显示。请至少勾选一项。';
@@ -367,7 +401,10 @@ function initIndex(catalog) {
           '两种收录状态都未勾选，因此没有课程可显示。请勾选“已收录资料”或“暂未收录资料”，或点击下方按钮清除筛选。',
         );
       } else if (active) {
-        setText(noResultsText, `没有同时满足这些条件的课程：${describeFilters(filters, { kindLabels, tagLabels, typeLabels })}。可以清除部分条件后重试。`);
+        setText(
+          noResultsText,
+          `没有同时满足这些条件的课程：${describeFilters(filters, { kindLabels, tagLabels, typeLabels })}。可以清除部分条件后重试。`,
+        );
       } else {
         setText(noResultsText, '课程目录中没有可显示的课程，可能是构建数据缺失。');
       }
@@ -403,7 +440,11 @@ function describeFilters(filters, labels) {
   }
   if (filters.type !== 'all') {
     const typeLabel = labels.typeLabels.get(filters.type) ?? filters.type;
-    parts.push(filters.year === 'all' ? `资料类型“${typeLabel}”` : `资料类型“${typeLabel}”，年份“${filters.year === 'unknown' ? '待确认' : `${filters.year} 年`}”`);
+    parts.push(
+      filters.year === 'all'
+        ? `资料类型“${typeLabel}”`
+        : `资料类型“${typeLabel}”，年份“${filters.year === 'unknown' ? '待确认' : `${filters.year} 年`}”`,
+    );
   }
   if (filters.status === 'with') parts.push('仅已收录资料');
   if (filters.status === 'without') parts.push('仅暂未收录资料的课程');
@@ -412,35 +453,64 @@ function describeFilters(filters, labels) {
 }
 
 function renderCourseItem(course, labels) {
-  const item = el('li', 'course-item');
-  const main = el('div', 'course-main');
+  const summary = courseSummary(course, labels.typeLabels);
+  const hasRes = summary.total > 0;
+  const item = el('li', `course-item ${hasRes ? 'has-resources' : 'no-resources'}`);
+
+  const top = el('div', 'course-top');
   const link = el('a', 'course-link');
   link.href = courseHref(course.code);
-  link.append(el('span', 'course-code', course.code), document.createTextNode(` ${course.name}`));
+  link.append(
+    el('span', 'course-code', course.code),
+    el('span', 'course-name', course.name),
+  );
+  const status = el('span', `badge ${hasRes ? 'with' : 'without'}`);
+  status.textContent = hasRes ? '已收录资料' : '暂未收录资料';
+  top.append(link, status);
+  item.append(top);
 
-  main.append(link);
-  const summary = courseSummary(course, labels.typeLabels);
-  const descParts = [];
   const kindText = labels.kindLabels.get(course.kind);
-  if (kindText) descParts.push(kindText);
   const tagNames = (course.tags ?? []).map((tag) => labels.tagLabels.get(tag) ?? tag).filter(Boolean);
-  if (tagNames.length > 0) descParts.push(tagNames.join('、'));
-  if (summary.total > 0) {
-    descParts.push(`资料 ${summary.total} 份：${summary.types.map((entry) => `${entry.label} ${entry.count}`).join('、')}`);
+  if (course.kind || tagNames.length > 0) {
+    const submeta = el('div', 'course-submeta');
+    if (course.kind) {
+      const kindBadge = el('span', 'badge kind', kindText ?? course.kind);
+      kindBadge.dataset.kind = course.kind;
+      submeta.append(kindBadge);
+    }
+    if (tagNames.length > 0) {
+      submeta.append(el('span', 'meta-taxonomy', tagNames.join(' / ')));
+    }
+    item.append(submeta);
   }
-  if (summary.examYears.length > 0 || summary.hasUnknownExamYear) {
-    const years = summary.examYears.map((year) => `${year} 年`);
-    if (summary.hasUnknownExamYear) years.push('年份待确认');
-    descParts.push(`试题 ${years.join('、')}`);
-  }
-  if (descParts.length > 0) main.append(el('p', 'course-desc', descParts.join(' · ')));
 
-  const side = el('div', 'course-side');
-  const status = el('span', `badge ${summary.total > 0 ? 'with' : 'without'}`);
-  status.textContent = summary.total > 0 ? '已收录资料' : '暂未收录资料';
-  side.append(status);
-  if (course.kind) side.append(el('span', 'badge kind', kindText ?? course.kind));
-  item.append(main, side);
+  const hasYears = summary.examYears.length > 0 || summary.hasUnknownExamYear;
+  if (hasRes || hasYears) {
+    const inventory = el('div', 'course-inventory');
+    if (hasRes) {
+      const typesRow = el('div', 'inventory-types');
+      typesRow.append(el('span', 'inventory-total', `资料 ${summary.total} 份`));
+      for (const entry of summary.types) {
+        const chip = el('span', 'inventory-type');
+        chip.append(
+          document.createTextNode(`${entry.label} `),
+          el('strong', null, String(entry.count)),
+        );
+        typesRow.append(chip);
+      }
+      inventory.append(typesRow);
+    }
+    if (hasYears) {
+      const yearsRow = el('div', 'course-years-row');
+      yearsRow.append(el('span', 'years-prefix', '试题年份'));
+      const yearItems = summary.examYears.map((year) => `${year}`);
+      if (summary.hasUnknownExamYear) yearItems.push('待确认');
+      yearsRow.append(el('span', 'years-list', yearItems.join(' · ')));
+      inventory.append(yearsRow);
+    }
+    item.append(inventory);
+  }
+
   return item;
 }
 
@@ -450,6 +520,7 @@ function initCoursePage(catalog) {
   const title = document.getElementById('course-title');
   const meta = document.getElementById('course-meta');
   const status = document.getElementById('course-status');
+  const sectionNav = document.getElementById('section-nav');
   const content = document.getElementById('course-content');
   const sections = document.getElementById('resource-sections');
   const notFound = document.getElementById('not-found');
@@ -460,15 +531,25 @@ function initCoursePage(catalog) {
   if (!course) {
     if (notFound) notFound.hidden = false;
     if (content) content.hidden = true;
+    if (sectionNav) sectionNav.hidden = true;
     if (title) title.textContent = '未找到该课程';
     if (meta) meta.textContent = code ? `查询的课程代码：${code}` : '链接中缺少课程代码。';
-    if (status) status.textContent = '';
+    if (status) {
+      status.textContent = '';
+      status.hidden = true;
+    }
     document.title = '未找到该课程 · 中科大本科课程资料导航';
     return;
   }
 
   document.title = `${course.code} ${course.name} · 中科大本科课程资料导航`;
-  if (title) title.textContent = `${course.code} ${course.name}`;
+  if (title) {
+    title.replaceChildren(
+      el('span', 'course-title-code', course.code),
+      document.createTextNode(' '),
+      el('span', 'course-title-name', course.name),
+    );
+  }
   if (notFound) notFound.hidden = true;
   if (content) content.hidden = false;
 
@@ -487,11 +568,21 @@ function initCoursePage(catalog) {
 
   if (meta) {
     meta.replaceChildren();
-    meta.append(document.createTextNode(course.code));
+    meta.append(el('span', 'meta-pill code-pill', course.code));
     const kindText = labels.kind.get(course.kind);
-    if (kindText) meta.append(spanSep(), document.createTextNode(kindText));
+    if (kindText) {
+      const kindPill = el('span', 'meta-pill kind-pill', kindText);
+      if (course.kind) kindPill.dataset.kind = course.kind;
+      meta.append(spanSep(), kindPill);
+    }
     const tags = (course.tags ?? []).map((tag) => labels.tag.get(tag) ?? tag).filter(Boolean);
-    if (tags.length > 0) meta.append(spanSep(), document.createTextNode(tags.join('、')));
+    if (tags.length > 0) {
+      meta.append(spanSep());
+      tags.forEach((tag, idx) => {
+        if (idx > 0) meta.append(document.createTextNode(' '));
+        meta.append(el('span', 'meta-pill tag-pill', tag));
+      });
+    }
   }
 
   const resources = courseResources(course);
@@ -503,13 +594,36 @@ function initCoursePage(catalog) {
     if (groups.length === 0) {
       // 完全无资料时只展示一个空态，不再逐个类别重复“暂无”。
       status.textContent = '';
+      status.hidden = true;
     } else {
+      status.hidden = false;
       const summary = courseSummary(course, labels.type);
       const yearText = summary.examYears.map((year) => `${year} 年`).join('、');
       const parts = [`已收录 ${summary.total} 份已确认资料。`];
       if (yearText) parts.push(`试题年份：${yearText}。`);
       if (summary.hasUnknownExamYear) parts.push('另有未按公历年确认的试题（可能仅登记学年）。');
       status.textContent = parts.join('');
+    }
+  }
+
+  if (sectionNav) {
+    if (groups.length > 1) {
+      const navFrag = document.createDocumentFragment();
+      for (const group of groups) {
+        const anchor = el('a', 'section-nav-link');
+        anchor.href = `#section-${group.type}`;
+        anchor.append(
+          document.createTextNode(group.label ?? group.type),
+          document.createTextNode(' '),
+          el('span', 'section-nav-count', String(group.resources.length)),
+        );
+        navFrag.append(anchor);
+      }
+      sectionNav.replaceChildren(navFrag);
+      sectionNav.hidden = false;
+    } else {
+      sectionNav.replaceChildren();
+      sectionNav.hidden = true;
     }
   }
 
@@ -539,7 +653,8 @@ function spanSep() {
 
 function renderTypeSection(group, labels) {
   const section = el('section', 'resource-type');
-  const heading = el('h2');
+  section.id = `section-${group.type}`;
+  const heading = el('h2', 'resource-type-heading');
   heading.append(document.createTextNode(group.label ?? group.type));
   const count = el('span', 'type-count', `${group.resources.length} 份`);
   heading.append(document.createTextNode(' '), count);
@@ -568,28 +683,34 @@ function renderEmptyState() {
 function renderResource(resource, labels) {
   const type = normalizeResourceType(resource.type);
   const article = el('article', 'resource');
-  article.append(el('h3', null, resource.title || '未命名资料'));
+
+  const head = el('div', 'resource-head');
+  const titleWrap = el('div', 'resource-title-wrap');
+  titleWrap.append(el('h3', 'resource-title', resource.title || '未命名资料'));
 
   const facts = resourceFacts(resource, { examKind: labels.examKind, examForm: labels.examForm });
-  if (facts.length > 0) article.append(el('p', 'resource-meta mode-compact', facts.join(' · ')));
-
   const plan = resourceLinkPlan(resource);
   const markers = [...resourceMarkers(resource, { examForm: labels.examForm })];
   const access = plan.compact
     ? accessMarker(plan.compact.location?.access, { access: labels.access })
     : '';
   if (access) markers.push(access);
-  if (markers.length > 0) {
-    const line = el('p', 'resource-meta mode-compact');
-    for (const marker of markers) {
-      line.append(el('span', 'badge kind', marker), document.createTextNode(' '));
+
+  if (facts.length > 0 || markers.length > 0) {
+    const badgeRow = el('div', 'resource-badges mode-compact');
+    for (const fact of facts) {
+      badgeRow.append(el('span', 'badge fact-badge', fact));
     }
-    article.append(line);
+    for (const marker of markers) {
+      badgeRow.append(el('span', 'badge kind', marker));
+    }
+    titleWrap.append(badgeRow);
   }
+  head.append(titleWrap);
+  head.append(renderCompactLinks(plan, labels));
+  article.append(head);
 
-  article.append(renderCompactLinks(plan, labels));
-
-  const detail = el('div', 'mode-detail');
+  const detail = el('div', 'mode-detail resource-detail');
   const authorParts = [];
   if (Array.isArray(resource.authors) && resource.authors.length > 0) {
     authorParts.push(`作者 / 署名：${resource.authors.join('、')}`);
@@ -631,7 +752,7 @@ function renderResource(resource, labels) {
 
 /** 简洁行：原始出处与最直接的资料入口。 */
 function renderCompactLinks(plan, labels) {
-  const line = el('p', 'location-links mode-compact');
+  const line = el('div', 'location-links compact-links mode-compact');
   if (!plan.compact) {
     line.append(el('span', 'source-note', '尚未登记可公开访问的链接。'));
     return line;
@@ -639,14 +760,22 @@ function renderCompactLinks(plan, labels) {
   const compact = plan.compact;
   if (compact.original) {
     const { location, entry } = compact.original;
-    line.append(el('span', 'source-note', `来源：${sourceNames(labels.sourceNames, location.source_id)}`));
-    line.append(externalLink(entry.url, entry.label));
+    const group = el('div', 'compact-link-group');
+    group.append(
+      el('span', 'source-note', `来源：${sourceNames(labels.sourceNames, location.source_id)}`),
+      externalLink(entry.url, entry.label),
+    );
+    line.append(group);
   }
+  const mainGroup = el('div', 'compact-link-group');
   if (!compact.original || compact.original.location.source_id !== compact.location.source_id) {
     const label = compact.original ? '另见' : '来源';
-    line.append(el('span', 'source-note', `${label}：${sourceNames(labels.sourceNames, compact.location.source_id)}`));
+    mainGroup.append(
+      el('span', 'source-note', `${label}：${sourceNames(labels.sourceNames, compact.location.source_id)}`),
+    );
   }
-  line.append(externalLink(compact.entry.url, compact.entry.label));
+  mainGroup.append(externalLink(compact.entry.url, compact.entry.label));
+  line.append(mainGroup);
   return line;
 }
 
@@ -682,7 +811,7 @@ function renderCoverage(resource, type, labels) {
   if (rows.length === 0) return null;
   const list = el('dl', 'coverage');
   for (const [term, value] of rows) {
-    const item = el('div');
+    const item = el('div', 'coverage-item');
     item.append(el('dt', null, term), el('dd', null, value));
     list.append(item);
   }
@@ -694,7 +823,9 @@ function renderLocation({ location, entries }, labels, index) {
   const links = el('div', 'location-links');
   if (entries.length > 0) {
     for (const entry of entries) {
-      links.append(externalLink(entry.url, entry.label), renderHealth(entry, labels));
+      const pair = el('div', 'location-entry-pair');
+      pair.append(externalLink(entry.url, entry.label), renderHealth(entry, labels));
+      links.append(pair);
     }
   } else {
     links.append(el('span', 'source-note', '该位置没有可用的公开链接，或链接与上方重复。'));
@@ -716,11 +847,14 @@ function sourceNames(map, id) {
 }
 
 function externalLink(url, text) {
-  const link = el('a', 'link-button', text);
+  const isPrimary = text === '打开文件' || text === '文件页面';
+  const link = el('a', `link-button ${isPrimary ? 'primary-link' : 'secondary-link'}`, text);
   link.href = url;
   link.target = '_blank';
   link.rel = 'noopener noreferrer nofollow';
-  link.append(el('span', 'visually-hidden', '（新标签页打开）'));
+  const arrow = el('span', 'link-arrow', ' ↗');
+  arrow.setAttribute('aria-hidden', 'true');
+  link.append(arrow, el('span', 'visually-hidden', '（新标签页打开）'));
   return link;
 }
 
@@ -737,18 +871,21 @@ const HEALTH_REASON_TEXT = {
 function renderHealth(entry, labels) {
   const health = linkHealth(labels.links, entry.url);
   const evidence = classifyHealth(health);
-  const status = evidence === 'missing' ? 'missing'
-    : evidence === 'responded' && health.status === 'reachable' ? 'reachable'
-      : evidence === 'unchecked' ? 'unchecked' : 'unknown';
+  const status =
+    evidence === 'missing'
+      ? 'missing'
+      : evidence === 'responded' && health.status === 'reachable'
+        ? 'reachable'
+        : evidence === 'unchecked'
+          ? 'unchecked'
+          : 'unknown';
   const node = el('span', `health health-${status}`);
-  const symbol = el(
-    'span',
-    'health-symbol',
-    LINK_STATUS_SYMBOL[status],
-  );
+  const symbol = el('span', 'health-symbol', LINK_STATUS_SYMBOL[status]);
   symbol.setAttribute('aria-hidden', 'true');
-  const label = evidence === 'preflight' && health.http_status
-    ? '后续目标预检中止' : HEALTH_EVIDENCE_LABELS[evidence];
+  const label =
+    evidence === 'preflight' && health.http_status
+      ? '后续目标预检中止'
+      : HEALTH_EVIDENCE_LABELS[evidence];
   node.append(symbol, document.createTextNode(`自动检查：${label}`));
 
   const checkedAt = health.checked_at;
@@ -767,6 +904,7 @@ function renderHealth(entry, labels) {
 async function main() {
   const catalog = await loadCatalog();
   state.schema = schemaFromCatalog(catalog);
+  renderSiteStats(catalog.stats);
   const page = document.body.dataset.page;
   if (page === 'course') {
     initCoursePage(catalog);

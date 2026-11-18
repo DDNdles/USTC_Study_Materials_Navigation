@@ -15,17 +15,29 @@
 
     <header class="site-header">
       <div class="wrap header-inner">
-        <p class="brand"><a href="./">中科大本科课程资料导航</a></p>
-        <p class="site-note">只收录并导航公开课程资料，不转载第三方文件。</p>
-        <button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>详细模式</button>
+        <p class="brand">
+          <a href="./">
+            <span class="brand-mark" aria-hidden="true">USTC</span>
+            <span class="brand-text">中科大本科课程资料导航</span>
+          </a>
+        </p>
+        <nav class="site-nav" aria-label="主导航">
+          <a href="./" aria-current="page">课程目录</a>
+          <a href="sources.html">来源与致谢</a>
+        </nav>
       </div>
     </header>
 
     <main id="main" class="wrap" tabindex="-1">
-      <h1>课程资料导航</h1>
-      <p class="intro">
-        覆盖 2025 秋、2026 春、2026 夏、2026 秋本科开课。资料按官方课程代码归属；试题保留各自年份与卷型，来源附在条目下。
-      </p>
+      <header class="page-hero">
+        <div class="hero-main">
+          <h1>课程资料导航</h1>
+          <p class="intro">
+            覆盖 2025 秋、2026 春、2026 夏、2026 秋本科开课。资料按官方课程代码归属；试题保留各自年份与卷型，来源附在条目下。
+          </p>
+        </div>
+        <p class="site-note">只收录并导航公开课程资料，不转载第三方文件。</p>
+      </header>
 
       <search>
         <form id="filters" class="filters" method="get" action="./" aria-labelledby="filters-heading">
@@ -34,41 +46,49 @@
           <div class="query-row">
             <div class="query-field">
               <label for="q">课程代码或名称</label>
-              <input
-                id="q"
-                name="q"
-                type="search"
-                autocomplete="off"
-                autocapitalize="none"
-                autocorrect="off"
-                spellcheck="false"
-                enterkeyhint="search"
-                placeholder="例如 MATH1001 或 数学分析"
-              >
+              <div class="search-input-wrap">
+                <svg class="search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+                  <circle cx="8.5" cy="8.5" r="5.75"></circle>
+                  <path d="M13 13l4 4" stroke-linecap="round"></path>
+                </svg>
+                <input
+                  id="q"
+                  name="q"
+                  type="search"
+                  autocomplete="off"
+                  autocapitalize="none"
+                  autocorrect="off"
+                  spellcheck="false"
+                  enterkeyhint="search"
+                  placeholder="例如 MATH1001、001548 或 数学分析"
+                >
+              </div>
             </div>
-            <button type="submit" class="primary">搜索</button>
-            <button type="reset" id="clear-filters" class="secondary" form="filters">清除筛选</button>
+            <div class="query-actions">
+              <button type="submit" class="primary">搜索</button>
+              <button type="reset" id="clear-filters" class="secondary" form="filters">清除筛选</button>
+            </div>
           </div>
 
           <div class="filter-groups">
-            <fieldset class="filter-group">
+            <fieldset class="filter-group kind-group">
               <legend>类别</legend>
-              <div class="option-row">
-                <label class="option"><input type="radio" name="kind" value="all" checked> 全部</label>
-                <label class="option"><input type="radio" name="kind" value="common"> 通修</label>
-                <label class="option"><input type="radio" name="kind" value="general"> 通识</label>
-                <label class="option"><input type="radio" name="kind" value="professional"> 专业</label>
+              <div class="option-row segmented-options">
+                <label class="option"><input type="radio" name="kind" value="all" checked><span>全部</span></label>
+                <label class="option"><input type="radio" name="kind" value="common"><span>通修</span></label>
+                <label class="option"><input type="radio" name="kind" value="general"><span>通识</span></label>
+                <label class="option"><input type="radio" name="kind" value="professional"><span>专业</span></label>
               </div>
             </fieldset>
 
-            <div class="filter-group">
+            <div class="filter-group select-group">
               <label for="type">资料类型</label>
               <select id="type" name="type">
                 <option value="all">全部资料类型</option>
               </select>
             </div>
 
-            <div class="filter-group" id="year-group" hidden>
+            <div class="filter-group select-group" id="year-group" hidden>
               <label for="year">试题年份</label>
               <select id="year" name="year">
                 <option value="all">全部年份</option>
@@ -77,9 +97,9 @@
 
             <fieldset class="filter-group status-group">
               <legend>收录状态</legend>
-              <div class="option-row">
-                <label class="option"><input type="checkbox" name="status" value="with" checked> 已收录资料</label>
-                <label class="option"><input type="checkbox" name="status" value="without" checked> 暂未收录资料</label>
+              <div class="option-row check-pills">
+                <label class="option"><input type="checkbox" name="status" value="with" checked><span>已收录资料</span></label>
+                <label class="option"><input type="checkbox" name="status" value="without" checked><span>暂未收录资料</span></label>
               </div>
               <p class="field-hint">两项都勾选显示全部课程；都取消则不显示任何课程。</p>
             </fieldset>
@@ -90,16 +110,20 @@
               <span id="tag-group-label">学科</span>
               <span id="tag-count" class="tag-count" hidden></span>
             </summary>
-            <p class="field-hint">项目检索标签，非官方分类；同组内任一学科命中即可，不同筛选维度之间需同时满足。</p>
-            <div id="tag-options" class="tag-options" role="group" aria-labelledby="tag-group-label"></div>
+            <div class="tags-body">
+              <p class="field-hint">项目检索标签，非官方分类；同组内任一学科命中即可，不同筛选维度之间需同时满足。</p>
+              <div id="tag-options" class="tag-options" role="group" aria-labelledby="tag-group-label"></div>
+            </div>
           </details>
         </form>
       </search>
 
       <section class="results" aria-labelledby="results-heading">
         <div class="results-head">
-          <h2 id="results-heading" tabindex="-1">课程结果</h2>
-          <p id="result-status" class="result-status" role="status">正在加载课程数据…</p>
+          <div class="results-head-info">
+            <h2 id="results-heading" tabindex="-1">课程结果</h2>
+            <p id="result-status" class="result-status" role="status">正在加载课程数据…</p>
+          </div>
         </div>
 
         <p id="load-error" class="load-error" role="alert" hidden></p>
@@ -111,9 +135,9 @@
         <ul id="course-list" class="course-list" role="list"></ul>
 
         <nav id="pagination" class="pagination" aria-label="课程结果翻页" hidden>
-          <button type="button" id="prev-page" class="secondary" aria-controls="course-list">上一页</button>
+          <button type="button" id="prev-page" class="secondary" aria-controls="course-list">← 上一页</button>
           <p id="page-status" class="page-status" role="status"></p>
-          <button type="button" id="next-page" class="secondary" aria-controls="course-list">下一页</button>
+          <button type="button" id="next-page" class="secondary" aria-controls="course-list">下一页 →</button>
         </nav>
 
         <div id="no-results" class="empty-state" hidden>
@@ -124,9 +148,21 @@
     </main>
 
     <footer class="site-footer">
-      <div class="wrap">
-        <p>资料版权归原作者所有；本站只提供导航链接，不托管、不转载第三方文件。外链健康状态来自定期匿名检查，HTTP 可访问不代表课程、年份或授权已确认。</p>
-        <p><a href="sources.html">来源、检索记录与致谢</a></p>
+      <div class="wrap footer-inner">
+        <div class="footer-notes">
+          <p>资料版权归原作者所有；本站只提供导航链接，不托管、不转载第三方文件。外链健康状态来自定期匿名检查，HTTP 可访问不代表课程、年份或授权已确认。</p>
+          <p><a href="sources.html">来源、检索记录与致谢</a></p>
+        </div>
+        <dl id="site-stats" class="site-stats" aria-label="访问统计" hidden>
+          <div class="stat-pill" data-stat-item="repo_views_14d" hidden>
+            <dt>仓库浏览（近 14 天）</dt>
+            <dd data-stat-value="repo_views_14d"></dd>
+          </div>
+          <div class="stat-pill" data-stat-item="site_total_views" hidden>
+            <dt>网站累计浏览次数</dt>
+            <dd data-stat-value="site_total_views"></dd>
+          </div>
+        </dl>
       </div>
     </footer>
   </body>

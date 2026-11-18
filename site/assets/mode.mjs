@@ -34,12 +34,20 @@ function applyMode(mode) {
   if (detailed) document.body.dataset.mode = DETAILED;
   else delete document.body.dataset.mode;
 
+  const isIndex = document.body.dataset.page === 'index';
+  const prefix = isIndex ? '作用于课程详情页与来源页：' : '';
+
   for (const toggle of document.querySelectorAll('[data-mode-toggle]')) {
     toggle.hidden = false;
     toggle.setAttribute('aria-pressed', String(detailed));
     toggle.title = detailed
-      ? '当前为详细模式，点击切换到简洁模式'
-      : '当前为简洁模式，点击切换到详细模式';
+      ? `${prefix}当前为详细模式，点击切换到简洁模式`
+      : `${prefix}当前为简洁模式，点击切换到详细模式`;
+    for (const opt of toggle.querySelectorAll('[data-mode-opt]')) {
+      const active = opt.dataset.modeOpt === (detailed ? DETAILED : COMPACT);
+      if (active) opt.dataset.active = 'true';
+      else delete opt.dataset.active;
+    }
   }
 }
 

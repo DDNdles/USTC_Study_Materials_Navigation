@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
+import { buildCatalog, renderSourcesHtml } from '../scripts/build.mjs';
 
 import {
   accessMarker,
@@ -392,9 +393,10 @@ test('首页筛选结构：学科折叠、收录状态复选与模式脚本', as
     html,
     /<script type="module" src="assets\/mode\.mjs"><\/script>\s*<script type="module" src="assets\/app\.mjs"><\/script>/,
   );
+  assert.doesNotMatch(html, /data-mode-toggle/);
   assert.match(
     html,
-    /<button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>详细模式<\/button>/,
+    /<dl id="site-stats" class="site-stats" aria-label="访问统计" hidden>[\s\S]*<div class="stat-pill" data-stat-item="repo_views_14d" hidden>[\s\S]*<dt>仓库浏览（近 14 天）<\/dt>[\s\S]*<dd data-stat-value="repo_views_14d"><\/dd>[\s\S]*<div class="stat-pill" data-stat-item="site_total_views" hidden>[\s\S]*<dt>网站累计浏览次数<\/dt>[\s\S]*<dd data-stat-value="site_total_views"><\/dd>/,
   );
 });
 
@@ -875,10 +877,80 @@ test('课程详情页结构与模式脚本', async () => {
   assert.match(html, /<section id="not-found" class="empty-state" hidden/);
   assert.match(
     html,
-    /<button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>详细模式<\/button>/,
+    /<button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>[\s\S]*data-mode-opt="compact">简洁<\/span>[\s\S]*data-mode-opt="detailed">详细<\/span>[\s\S]*<\/button>/,
+  );
+  assert.match(
+    html,
+    /<dl id="site-stats" class="site-stats" aria-label="访问统计" hidden>[\s\S]*<dt>仓库浏览（近 14 天）<\/dt>[\s\S]*<dd data-stat-value="repo_views_14d"><\/dd>[\s\S]*<dt>网站累计浏览次数<\/dt>[\s\S]*<dd data-stat-value="site_total_views"><\/dd>/,
   );
   assert.match(
     html,
     /<script type="module" src="assets\/mode\.mjs"><\/script>\s*<script type="module" src="assets\/app\.mjs"><\/script>/,
+  );
+});
+
+test('来源页预留统计槽位在无数据时隐藏、有数据时独立展示，并含双态模式开关', () => {
+  const baseDataset = {
+    courses: [{ code: 'CS1001', name: '示例课程' }],
+    courseMetadata: { CS1001: { kind: 'common', tags: [] } },
+    tags: [],
+    resources: [],
+    sources: [],
+    monitoring: null,
+  };
+  const baseReport = {
+    coverage: [],
+    sources: [],
+    generalLogs: [],
+    courseLogs: [],
+    unmappedLogs: [],
+    blocked: [],
+    incomplete: [],
+    health: {},
+    checkedAt: null,
+    withResources: 0,
+    withoutResources: 1,
+    resources: 0,
+    courseCount: 1,
+    sourceCount: 0,
+    usedSourceCount: 0,
+    logCount: 0,
+  };
+
+  const emptyCatalog = buildCatalog(baseDataset);
+  assert.deepEqual(emptyCatalog.stats, { repo_views_14d: null, site_total_views: null });
+  const emptyHtml = renderSourcesHtml({ ...baseReport, catalog: emptyCatalog });
+  assert.match(emptyHtml, /<dl id="site-stats" class="site-stats" aria-label="访问统计" hidden>/);
+  assert.match(
+    emptyHtml,
+    /<div class="stat-pill" data-stat-item="repo_views_14d" hidden>[\s\S]*<dt>仓库浏览（近 14 天）<\/dt>[\s\S]*<dd data-stat-value="repo_views_14d"><\/dd>/,
+  );
+  assert.match(
+    emptyHtml,
+    /<div class="stat-pill" data-stat-item="site_total_views" hidden>[\s\S]*<dt>网站累计浏览次数<\/dt>[\s\S]*<dd data-stat-value="site_total_views"><\/dd>/,
+  );
+  assert.match(
+    emptyHtml,
+    /<button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>[\s\S]*data-mode-opt="compact">简洁<\/span>[\s\S]*data-mode-opt="detailed">详细<\/span>[\s\S]*<\/button>/,
+  );
+
+  const filledCatalog = buildCatalog({
+    ...baseDataset,
+    monitoring: {
+      links: [],
+      repositories: {},
+      stats: { repo_views_14d: 1234, site_total_views: 5678 },
+    },
+  });
+  assert.deepEqual(filledCatalog.stats, { repo_views_14d: 1234, site_total_views: 5678 });
+  const filledHtml = renderSourcesHtml({ ...baseReport, catalog: filledCatalog });
+  assert.match(filledHtml, /<dl id="site-stats" class="site-stats" aria-label="访问统计">/);
+  assert.match(
+    filledHtml,
+    /<div class="stat-pill" data-stat-item="repo_views_14d">\s*<dt>仓库浏览（近 14 天）<\/dt>\s*<dd data-stat-value="repo_views_14d">1,234<\/dd>/,
+  );
+  assert.match(
+    filledHtml,
+    /<div class="stat-pill" data-stat-item="site_total_views">\s*<dt>网站累计浏览次数<\/dt>\s*<dd data-stat-value="site_total_views">5,678<\/dd>/,
   );
 });

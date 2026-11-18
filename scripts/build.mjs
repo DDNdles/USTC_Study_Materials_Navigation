@@ -273,6 +273,15 @@ function buildCatalog(dataset) {
   }
 
   const withResources = courses.filter((course) => course.has_resources).length;
+  const rawStats = dataset.monitoring?.stats ?? {};
+  const repoViews14d =
+    Number.isInteger(rawStats.repo_views_14d) && rawStats.repo_views_14d >= 0
+      ? rawStats.repo_views_14d
+      : null;
+  const siteTotalViews =
+    Number.isInteger(rawStats.site_total_views) && rawStats.site_total_views >= 0
+      ? rawStats.site_total_views
+      : null;
 
   return {
     schema_version: 1,
@@ -282,6 +291,10 @@ function buildCatalog(dataset) {
       with_resources: withResources,
       without_resources: courses.length - withResources,
       resources: dataset.resources.length,
+    },
+    stats: {
+      repo_views_14d: repoViews14d,
+      site_total_views: siteTotalViews,
     },
     kinds: enumItems(COURSE_KINDS, COURSE_KIND_LABELS),
     resource_types: enumItems(RESOURCE_TYPES, RESOURCE_TYPE_LABELS),
@@ -660,6 +673,17 @@ function renderHtmlLogEntry(entry) {
 }
 
 function renderSourcesHtml(report) {
+  const stats = report.catalog?.stats ?? {};
+  const repoViews =
+    Number.isInteger(stats.repo_views_14d) && stats.repo_views_14d >= 0
+      ? stats.repo_views_14d.toLocaleString('zh-CN')
+      : null;
+  const siteViews =
+    Number.isInteger(stats.site_total_views) && stats.site_total_views >= 0
+      ? stats.site_total_views.toLocaleString('zh-CN')
+      : null;
+  const hasStats = repoViews !== null || siteViews !== null;
+
   const parts = [];
   parts.push(`<!doctype html>
 <html lang="zh-CN">
@@ -676,20 +700,64 @@ function renderSourcesHtml(report) {
     <a class="skip-link" href="#main">跳到主要内容</a>
     <header class="site-header">
       <div class="wrap header-inner">
-        <p class="brand"><a href="./">中科大本科课程资料导航</a></p>
-        <p class="site-note">只收录并导航公开课程资料，不转载第三方文件。</p>
-        <button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>详细模式</button>
+        <p class="brand">
+          <a href="./">
+            <span class="brand-mark" aria-hidden="true">USTC</span>
+            <span class="brand-text">中科大本科课程资料导航</span>
+          </a>
+        </p>
+        <nav class="site-nav" aria-label="主导航">
+          <a href="./">课程目录</a>
+          <a href="sources.html" aria-current="page">来源与致谢</a>
+        </nav>
       </div>
     </header>
     <main id="main" class="wrap" tabindex="-1">
-      <p class="breadcrumb"><a href="./">← 返回课程目录</a></p>
-      <h1>来源、检索记录与致谢</h1>
-      <p class="intro">本页由构建脚本从来源与检索记录生成。资料版权归原作者；具体授权以各来源和文件页面的声明为准。</p>
+      <div class="page-top-bar">
+        <p class="breadcrumb"><a href="./">← 返回课程目录</a></p>
+        <p class="site-note">只收录并导航公开课程资料，不转载第三方文件。</p>
+      </div>
+      <header class="page-hero">
+        <div class="hero-main">
+          <h1>来源、检索记录与致谢</h1>
+          <p class="intro">本页由构建脚本从来源与检索记录生成。资料版权归原作者；具体授权以各来源和文件页面的声明为准。</p>
+        </div>
+        <button type="button" class="secondary mode-switch" data-mode-toggle aria-pressed="false" hidden>
+          <span class="mode-switch-prefix">显示模式</span>
+          <span class="mode-switch-track" aria-hidden="true">
+            <span class="mode-switch-opt" data-mode-opt="compact">简洁</span>
+            <span class="mode-switch-opt" data-mode-opt="detailed">详细</span>
+          </span>
+          <span class="visually-hidden">（切换简洁或详细模式）</span>
+        </button>
+      </header>
 `);
 
-  parts.push(`      <section aria-labelledby="overview-heading">
+  parts.push(`      <section class="sources-section" aria-labelledby="overview-heading">
         <h2 id="overview-heading">概览</h2>
-        <ul>
+        <div class="overview-cards">
+          <div class="stat-card">
+            <span class="stat-label">开课目录总数</span>
+            <strong class="stat-number">${report.courseCount} <small>门</small></strong>
+            <span class="stat-sub">已收录 ${report.withResources} · 暂未收录 ${report.withoutResources}</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">已确认公开资料</span>
+            <strong class="stat-number">${report.resources} <small>条</small></strong>
+            <span class="stat-sub">覆盖 ${report.coverage.length} 门课程</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">登记来源</span>
+            <strong class="stat-number">${report.sourceCount} <small>个</small></strong>
+            <span class="stat-sub">正式资料引用 ${report.usedSourceCount} 个</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">核查检索记录</span>
+            <strong class="stat-number">${report.logCount} <small>条</small></strong>
+            <span class="stat-sub">已记录 ${report.courseLogs.length} 门课程</span>
+          </div>
+        </div>
+        <ul class="overview-list">
           <li>课程：${report.courseCount} 门（已收录资料 ${report.withResources} 门，暂未收录 ${report.withoutResources} 门）。</li>
           <li>资料：${report.resources} 条。</li>
           <li>来源：${report.sourceCount} 个登记来源，其中 ${report.usedSourceCount} 个被正式资料引用。</li>
@@ -697,11 +765,11 @@ function renderSourcesHtml(report) {
           <li>${report.incomplete.length} 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料。</li>
           <li>${report.checkedAt ? `外链最近检查：${escapeHtml(report.checkedAt)}；${escapeHtml(healthScopeText(report.health))}。逐类证据与判定口径见“外链健康检查”。` : '尚未运行外链检查，所有链接显示“从未检查”。'}</li>
         </ul>
-        <p class="mode-detail">详细模式显示逐条覆盖、来源备注、检索范围、受阻与排除项。</p>
+        <p class="mode-detail mode-banner">详细模式显示逐条覆盖、来源备注、检索范围、受阻与排除项。</p>
       </section>
 `);
 
-  parts.push('      <section aria-labelledby="sources-heading">\n        <h2 id="sources-heading">来源清单与声明</h2>\n        <ul class="source-list" role="list">');
+  parts.push('      <section class="sources-section" aria-labelledby="sources-heading">\n        <h2 id="sources-heading">来源清单与声明</h2>\n        <ul class="source-list" role="list">');
   for (const source of report.sources) {
     const meta = [
       `<span>类型：${escapeHtml(SOURCE_KIND_LABELS[source.kind] ?? source.kind ?? '未登记')}</span>`,
@@ -723,29 +791,32 @@ function renderSourcesHtml(report) {
   }
   parts.push('        </ul>\n      </section>\n');
 
-  parts.push(`      <section aria-labelledby="coverage-heading">
+  parts.push(`      <section class="sources-section" aria-labelledby="coverage-heading">
         <h2 id="coverage-heading">课程 × 资料类型 × 试题年份覆盖</h2>
         <p>以下 ${report.coverage.length} 门课程有已确认资料；逐条资料及年份可在详细模式查看。</p>
         <p class="mode-detail">试题按实际年份保留，学年区间不自动拆成两年，同年不同卷不去重。</p>
 `);
   if (report.coverage.length === 0) {
     parts.push('        <p>当前没有任何课程具备已确认资料。</p>\n');
-  }
-  for (const course of report.coverage) {
-    const meta = [course.kind, ...course.tags].filter(Boolean).join(' · ');
-    parts.push(`        <div class="mode-detail"><h3>${escapeHtml(course.code)} ${escapeHtml(course.name)}</h3>`);
-    if (meta) parts.push(`        <p class="meta-line">${escapeHtml(meta)}</p>`);
-    parts.push('        <ul>');
-    for (const group of course.lines) {
-      parts.push(`          <li><strong>${escapeHtml(group.label)}</strong><ul>`);
-      for (const line of group.lines) parts.push(`            <li>${escapeHtml(line)}</li>`);
-      parts.push('          </ul></li>');
+  } else {
+    parts.push('        <div class="coverage-grid mode-detail">');
+    for (const course of report.coverage) {
+      const meta = [course.kind, ...course.tags].filter(Boolean).join(' · ');
+      parts.push(`          <article class="coverage-card"><h3>${escapeHtml(course.code)} ${escapeHtml(course.name)}</h3>`);
+      if (meta) parts.push(`          <p class="meta-line">${escapeHtml(meta)}</p>`);
+      parts.push('          <ul>');
+      for (const group of course.lines) {
+        parts.push(`            <li><strong>${escapeHtml(group.label)}</strong><ul>`);
+        for (const line of group.lines) parts.push(`              <li>${escapeHtml(line)}</li>`);
+        parts.push('            </ul></li>');
+      }
+      parts.push('          </ul></article>');
     }
-    parts.push('        </ul></div>');
+    parts.push('        </div>\n');
   }
   parts.push('      </section>\n');
 
-  parts.push(`      <section class="mode-detail" aria-labelledby="logs-heading">
+  parts.push(`      <section class="sources-section mode-detail" aria-labelledby="logs-heading">
         <h2 id="logs-heading">检索记录</h2>
         <p>记录实际打开或检查过的页面、目录与文件，不是机械拼接的查询 URL。受阻不等于没有资料。</p>
 `);
@@ -755,7 +826,7 @@ function renderSourcesHtml(report) {
     parts.push('        </ul>');
   }
   for (const course of report.courseLogs) {
-    parts.push(`        <details>
+    parts.push(`        <details class="log-details">
           <summary>${escapeHtml(course.code)} ${escapeHtml(course.name)}（${course.entries.length} 条）</summary>
           <ul class="log-list" role="list">`);
     for (const entry of course.entries) parts.push(`            ${renderHtmlLogEntry(entry)}`);
@@ -768,11 +839,11 @@ function renderSourcesHtml(report) {
   }
   parts.push('      </section>\n');
 
-  parts.push('      <section class="mode-detail" aria-labelledby="blocked-heading">\n        <h2 id="blocked-heading">受阻、未核验候选与排除项</h2>');
+  parts.push('      <section class="sources-section mode-detail" aria-labelledby="blocked-heading">\n        <h2 id="blocked-heading">受阻、未核验候选与排除项</h2>');
   if (report.blocked.length === 0) {
     parts.push('        <p>当前没有登记受阻或排除项。</p>');
   } else {
-    parts.push('        <ul>');
+    parts.push('        <ul class="blocked-list">');
     for (const entry of report.blocked) {
       const channel = CHANNEL_LABELS[entry.channel] ?? entry.channel ?? '渠道未记录';
       const outcome = RESEARCH_OUTCOME_LABELS[entry.outcome] ?? entry.outcome;
@@ -785,8 +856,9 @@ function renderSourcesHtml(report) {
   }
   parts.push('      </section>\n');
 
-  parts.push(`      <section aria-labelledby="health-heading">
+  parts.push(`      <section class="sources-section" aria-labelledby="health-heading">
         <h2 id="health-heading">外链健康检查</h2>
+        <div class="health-card">
         ${
           report.checkedAt
             ? `<p>最近一次检查：${escapeHtml(report.checkedAt)}。</p>
@@ -802,14 +874,27 @@ function renderSourcesHtml(report) {
         <p class="mode-detail">判定口径：${escapeHtml(HEALTH_METHOD_NOTE)}</p>
         <p class="mode-detail">自动检查按固定频率匿名运行，只覆盖已登记的外部网址；逐 URL 的检查日期、状态与原因显示在各课程详情页。</p>
         <p>匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会删除资料或改变收录分区。</p>
+        </div>
       </section>
 `);
 
   parts.push(`    </main>
     <footer class="site-footer">
-      <div class="wrap">
-        <p>资料版权归原作者所有；本站只提供导航链接，不托管、不转载第三方文件。</p>
-        <p>仓库内同时保留可读版 <code>docs/sources-and-search.md</code>（构建生成）。</p>
+      <div class="wrap footer-inner">
+        <div class="footer-notes">
+          <p>资料版权归原作者所有；本站只提供导航链接，不托管、不转载第三方文件。</p>
+          <p>仓库内同时保留可读版 <code>docs/sources-and-search.md</code>（构建生成）。</p>
+        </div>
+        <dl id="site-stats" class="site-stats" aria-label="访问统计"${hasStats ? '' : ' hidden'}>
+          <div class="stat-pill" data-stat-item="repo_views_14d"${repoViews !== null ? '' : ' hidden'}>
+            <dt>仓库浏览（近 14 天）</dt>
+            <dd data-stat-value="repo_views_14d">${repoViews ?? ''}</dd>
+          </div>
+          <div class="stat-pill" data-stat-item="site_total_views"${siteViews !== null ? '' : ' hidden'}>
+            <dt>网站累计浏览次数</dt>
+            <dd data-stat-value="site_total_views">${siteViews ?? ''}</dd>
+          </div>
+        </dl>
       </div>
     </footer>
   </body>

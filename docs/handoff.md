@@ -12,9 +12,9 @@
 
 | 要改的东西 | 源文件 |
 | --- | --- |
-| 首页搜索与课程详情 | `site/index.html`、`site/course.html`、`site/assets/app.mjs`、`site/assets/style.css` |
+| 首页搜索与课程详情 | `site/index.html`、`site/course.html`、`site/assets/app.mjs`、`site/assets/style.css`（宽屏双栏卡片、语义色标、长学年换行防溢出） |
 | 搜索排序、过滤、资料分组、链接选取 | `site/assets/search.mjs`；对应 `tests/search.test.mjs` |
-| 简洁／详细模式 | `site/assets/mode.mjs`；`body[data-mode]`、`.mode-detail`、`.mode-compact`；选择通过 `localStorage` 在三页共享 |
+| 简洁／详细模式 | `site/assets/mode.mjs`；`body[data-mode]`、`.mode-detail`、`.mode-compact`；仅在 `course.html` 与 `sources.html` 页头显示分段开关 `[data-mode-toggle]`，首页同步 `localStorage` 不显示无效按钮 |
 | 来源页、浏览器目录、每课分区、来源文档 | `scripts/build.mjs`；不要手改 `dist/`、`data/with-resources/`、`data/without-resources/`、`data/generated-files.json` 或 `docs/sources-and-search.md` |
 | 官方课程、课程分类和学科关系 | `data/courses.json`、`data/course-metadata.json`、`data/tags.json`；官方采集入口 `scripts/collect-courses.mjs` |
 | 资料索引、来源、核查记录 | `data/resources.json`、`data/sources.json`、`data/research-log.jsonl`；校验在 `scripts/lib/data.mjs` 和 `scripts/validate.mjs` |
@@ -24,7 +24,7 @@
 
 给 Agent 的使用方式是 README 的简短提示词，以及 `data/agent/index.json` 和 `data/agent/courses/` 下的逐课 JSON；后者也随 `dist/` 发布。改版不要改变这些路径或字段，不另做 CLI、Skill 或 MCP。
 
-统计展示可放 README 和网页，分别标为「仓库浏览（近 14 天）」和「网站累计浏览次数」。Pages 尚未上线，当前没有网站计数来源：上线后接入经确认的统计服务（不发送搜索词）；仓库浏览统计须由有权限的后台任务读取 GitHub Traffic API 再发布聚合值，不在客户端公开凭据。无数据时不显示占位数字；两项不相加，也不标成访客人数。
+统计展示可放 README 和网页，分别标为「仓库浏览（近 14 天）」和「网站累计浏览次数」。三页页脚 `#site-stats` 与 `catalog.json`（`stats.repo_views_14d`、`stats.site_total_views`）已预留独立展示位置与绑定逻辑；Pages 尚未上线，当前没有网站计数来源：上线后接入经确认的统计服务（不发送搜索词）；仓库浏览统计须由有权限的后台任务读取 GitHub Traffic API 再发布聚合值，不在客户端公开凭据。无数据时保持 `hidden`、不显示占位数字；两项不相加，也不标成访客人数。
 
 ## 改版时保留什么
 
@@ -72,4 +72,4 @@
 
 使用 Node.js 24 或以上。资料或数据契约有改动时运行 `npm test`、`npm run validate -- --strict-research`、`npm run build`；纯界面改动也要构建实际产物，用 `npm run serve` 打开 `http://127.0.0.1:4173/` 检查改到的页面。联网诊断用 `npm run monitor -- --dry-run`，它不会写入数据或 GitHub。
 
-最近一轮 99 项测试通过，严格校验 0 错误、799 警告（794 条为未登记公开署名），分区互斥且覆盖 1,184 门。实际 Edge 验过首页键盘筛选、四种状态、加号课程码、三页模式、刷新、详情空态、复变文件页及三页 331 CSS px 下无横向溢出。原生 200% 缩放未验收；窄 iframe 或 DPR 模拟不能算作通过。改版后以新构建重新取证，不能沿用旧结果。
+最近一轮（前端改版后）共 100 项测试通过（`tests/search.test.mjs` + `tests/data.test.mjs` 65 项，含预留统计槽位单测；`tests/monitor.test.mjs` 35 项需放行本地回环端口运行），严格校验 0 错误、799 警告（794 条为未登记公开署名），分区互斥且覆盖 1,184 门、`data/agent/` 路径与字段未改。已由用户在本地 `http://127.0.0.1:4173/` 实际预览确认新版界面与交互；本轮会话中自动化浏览器遍历（含 331 CSS px 与原生 200% 缩放脚本检查）因等待原点访问授权弹窗超时未运行，接手方或发布前建议另跑一次浏览器回归。
