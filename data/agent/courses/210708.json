@@ -7,7 +7,39 @@
     "cs",
     "ai"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-210708-5a317b684d06910c",
+      "type": "projects",
+      "title": "数字图像处理B（2024 秋）实验代码 lab1–lab7",
+      "authors": [],
+      "notes": "仓库说明为「ustc 2024 fall dip B course labs」，目录 lab1–lab7。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Zhuyh1139/ustc-2024-fall-dip",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-zhuyh1139-dip",
+          "page_url": "https://github.com/Zhuyh1139/ustc-2024-fall-dip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "Zhuyh1139/ustc-2024-fall-dip（2024秋数字图像处理B实验）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-zhuyh1139-dip": "Zhuyh1139/ustc-2024-fall-dip（2024秋数字图像处理B实验）"
+  }
 }

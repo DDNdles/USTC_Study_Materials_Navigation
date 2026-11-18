@@ -36,7 +36,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8b687d0d4e77287597f58171f33d71ae6399033680deb098fdf908139e1e7902",
+            "bytes": 382002,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -67,7 +72,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "b89381bfedd8aac2316e9ab04302316eabf87df0e6651f99c671c6aa8162adda",
+            "bytes": 3097669,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -98,7 +108,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5089320962363a6e8164380013e8f75b50a21ad46657432992b177d6122f1b9c",
+            "bytes": 824533,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -131,7 +146,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "fe1fa1e751f7339ef0a31ebe29e00db39e99ba0a6e31663eb23463dcae3b0b8d",
+            "bytes": 258429,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -164,7 +184,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a8a89606546fd9a533c739ba32743597e22344ea8d150594caf93404119b69a5",
+            "bytes": 191592,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -197,7 +222,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6e19dd3cb1557854d3f4a8ddace9dd7387af532fcddc22d69af19741e68c96da",
+            "bytes": 530955,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -228,7 +258,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6b3a6ed21314688572b7b00b3f7462103ef5b21d4650084fa53cbade86ee94c6",
+            "bytes": 253192,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -261,7 +296,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "635e270b0a22784de3c1b27fe189701158ae464c78d211143fb02379e3b3dddb",
+            "bytes": 1299039,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -294,7 +334,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "af6b3c45ca76a5176ebe838728c4975cfe9ea237dd92f6e4d01cbecbf3826370",
+            "bytes": 99969,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -327,7 +372,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "4b4cff37e0577044f70d48064b6cbcf65030dac1e4cf1c6fede5dc641858c316",
+            "bytes": 353650,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -358,7 +408,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6d3240dfc20ca86c28d2eccfbceeb57d97aa37f900a57bde33220b2d697912b1",
+            "bytes": 976600,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -389,7 +444,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "7addd7ae60b2823034423582d2fbaeaf4a07c91068c70b3eef6a10c7e90b7789",
+            "bytes": 372877,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"

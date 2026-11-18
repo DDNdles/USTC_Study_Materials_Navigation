@@ -74,10 +74,40 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-DS3001-143662c5c813c123",
+      "type": "study",
+      "title": "数据科学导论（刘淇）2019 秋课程主页",
+      "authors": [],
+      "notes": "原点评公开引用的课程主页，匿名可访问；仅登记课程页入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~qiliuql/DS2019tuesday.html",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~qiliuql/DS2019tuesday.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course"
+    "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
   }
 }

@@ -8,7 +8,69 @@
     "instruments",
     "innovation"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-ME1501-4914caecd3c67e6c",
+      "type": "projects",
+      "title": "RoboGame 2022 机器人项目（BlackStar）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12737/#review-54537",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-deagle-blackstar-robogame",
+          "page_url": "https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "RoboGame 2022 机器人项目（BlackStar）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-ME1501-72547ad8405cfbc6",
+      "type": "projects",
+      "title": "RoboGame 机器人项目（epsilonGoal）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12737/#review-54537",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-michaelfw-robogame-epsilon",
+          "page_url": "https://github.com/MichaelFW-ui/RoboGame-epsilonGoal",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "RoboGame 机器人项目（epsilonGoal）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-deagle-blackstar-robogame": "Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+    "gh-michaelfw-robogame-epsilon": "MichaelFW-ui/RoboGame-epsilonGoal"
+  }
 }

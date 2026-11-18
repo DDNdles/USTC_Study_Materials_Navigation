@@ -83,6 +83,65 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011704-2030d4aaa0250e09",
+      "type": "study",
+      "title": "计算机系统概论 课程网站（acsa.ustc.edu.cn/ics）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。课程网站首页与作业、实验、讨论页均公开列出课程材料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://acsa.ustc.edu.cn/ics/",
+        "note": "课程网站首页与作业、实验、讨论页均公开列出课程材料；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "acsa-ustc-ics",
+          "page_url": "http://acsa.ustc.edu.cn/ics/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "acsa.ustc.edu.cn",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "acsa-ustc-ics",
+          "page_url": "http://acsa.ustc.edu.cn/ics/homework.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "acsa.ustc.edu.cn",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "acsa-ustc-ics",
+          "page_url": "http://acsa.ustc.edu.cn/ics/lab.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "acsa.ustc.edu.cn",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "acsa-ustc-ics",
+          "page_url": "http://acsa.ustc.edu.cn/ics/discuss.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "acsa.ustc.edu.cn",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-plus-011704",
       "type": "projects",
       "title": "计算机系统概论 作业与实验（ustc_course_plus）",
@@ -145,11 +204,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-011704-64c3d3c30f4e874f",
+      "type": "projects",
+      "title": "计算机系统概论(H) 2023 秋实验代码（GitHub 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为 2023 秋 ICS(H) 实验代码。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Ace-tyl/icsh-code",
+        "note": "GitHub 公开仓库；仓库说明为 2023 秋 ICS(H) 实验代码；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ace-tyl-icsh-code",
+          "page_url": "https://github.com/Ace-tyl/icsh-code",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "acsa-ustc-ics": "中国科学技术大学计算机系统概论课程网站",
     "gh-kobe972": "Kobe972/ustc_course_plus",
-    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources"
+    "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "gh-ace-tyl-icsh-code": "Ace-tyl/icsh-code"
   }
 }

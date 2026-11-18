@@ -35,7 +35,12 @@
           "access": "public",
           "license_note": "评课社区公开上传文件；站点未声明再分发许可，仅登记原文件入口",
           "attribution": "USTC 评课社区用户上传（2021 秋回忆版；课程 18419 丁虎班）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "dd533c49aaeafd13c009cc902e420b51a03f873cea5a4aadfdf3abbc9ed1d75c",
+            "bytes": 383480,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -68,7 +73,12 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "9aee8c96b1c83dcda99cf46453ac9b6639c3b0c5cc3e0f4347124522fbe28695",
+            "bytes": 1321,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -101,7 +111,12 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "5395885cd66e5763252e7f4204743ce77469e8ec0c19c1841450d6fbead3f92f",
+            "bytes": 1146,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -134,7 +149,12 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "d9995972752d54f995044c45908e91478e989f178339c8541f9be036ff895b64",
+            "bytes": 179865,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -235,7 +255,12 @@
           "access": "public",
           "license_note": "CC BY-NC-SA 4.0（第四版，作者发布页声明）",
           "attribution": "Oscar Levin · Open Math Books",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "da85572c79111d63ce90e18a116e0551732c6a3725b7bc08aa16b3f4557d55ac",
+            "bytes": 2401424,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"

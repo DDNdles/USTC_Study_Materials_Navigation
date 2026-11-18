@@ -35,6 +35,21 @@
           "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
           "attribution": "USTC-Resource/USTC-Course",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes/%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes/%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "5110ff4616ad341d48625aa115a71ba5d79b8f0ff0cf8551aca3ae0ab403399c",
+            "bytes": 376674,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"

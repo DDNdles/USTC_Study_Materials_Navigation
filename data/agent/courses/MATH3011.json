@@ -32,7 +32,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1c0514fe69977db67766addd19a5cae64f2e8ff5ce460c36df9389271ca8c55d",
+            "bytes": 182131,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -61,7 +66,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "dff4c806ce5ba55667f538f14c96fed2c55b38c08b0acfd7a90141d68ee8c567",
+            "bytes": 2298,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"

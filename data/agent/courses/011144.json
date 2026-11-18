@@ -240,6 +240,68 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011144-fa7b8d94d3e7a56e",
+      "type": "homework",
+      "title": "《计算机网络：自顶向下方法（第 7 版）》课后习题参考答案（食铁兽）",
+      "authors": [
+        "JackeyLea"
+      ],
+      "notes": "站点文章按章节给出第 7 版课后习题参考答案；页面公开、无登录，正文可读。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://feater.top/book/compute-network-top-down-mothed-answer/",
+        "note": "页面标题与正文核验；文章发布于 2020-04-09，未标课程年份。"
+      },
+      "locations": [
+        {
+          "source_id": "web-feater-top",
+          "page_url": "https://feater.top/book/compute-network-top-down-mothed-answer/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；内容权利归原作者/发布方，站点未声明逐文件再分发许可。",
+          "attribution": "食铁兽（JackeyLea）技术博客",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011144-06a15ca5182033ae",
+      "type": "homework",
+      "title": "《计算机网络：自顶向下方法》课后题、实验与编程作业答案",
+      "authors": [
+        "jzplp"
+      ],
+      "notes": "仓库含 Chapter-1… 复习题、习题、Wireshark 实验与 Socket 编程答案，共 193 个文件；原点评指向第 2 章 Wireshark DNS 答案文件，按仓库汇总为一条。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer",
+        "note": "核验仓库根目录与 Chapter-2 目录；GitHub 网页抽查触发限流，仓库经 API 与 raw 文件确认公开。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-jzplp-cn-answers",
+          "page_url": "https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 jzplp",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-homework-gh-ustc-course-plus-011144",
       "type": "homework",
       "title": "计算机网络 习题答案（ustc_course_plus）",
@@ -330,6 +392,71 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-011144-97381df6e5fa057b",
+      "type": "study",
+      "title": "《计算机网络：自顶向下方法》笔记、编程作业与 Wireshark 实验翻译",
+      "authors": [
+        "moranzcw"
+      ],
+      "notes": "仓库 README 与目录：Notes/ 为教材笔记，SocketProgrammingAssignment/ 为编程作业解答，Wireshark 实验文档翻译；共 201 个文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+        "note": "仓库 README 与文件树核验；为教材配套资料，未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-moranzcw-cn-notes",
+          "page_url": "https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 moranzcw",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011144-4aa7b37ba87c6672",
+      "type": "study",
+      "title": "计算机网络 课程资料包（笔记、测验答案、历年期中期末与复习资料）",
+      "authors": [],
+      "notes": "Google Drive 公开分享 net.zip（147,422,782 字节，65 个成员）；纯内存列目录见 net/note 1—8.md、net/quiz 课后测验与答案、net/review 2018—2022 期中期末与习题课资料、期中大抄等；另含教材第 8 版 PDF（权利归原出版方，不单列、不转存）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://drive.google.com/file/d/1rI8fScVBO7sz6oNwwGQNpbyGTFD8mDkH/view?usp=drive_link",
+        "note": "仅内存读取 zip 中央目录并列出成员名，未解压执行任何文件；未逐一读取正文。"
+      },
+      "locations": [
+        {
+          "source_id": "web-gdrive-net-pack",
+          "page_url": "https://drive.google.com/file/d/1rI8fScVBO7sz6oNwwGQNpbyGTFD8mDkH/view?usp=drive_link",
+          "download_page": null,
+          "download_url": "https://drive.usercontent.google.com/download?id=1rI8fScVBO7sz6oNwwGQNpbyGTFD8mDkH&export=download&confirm=t",
+          "access": "public",
+          "license_note": "评课社区用户公开分享的 Google Drive 链接，匿名可下载；包内教材 PDF 权利归原出版方，此处仅链接、不转存。",
+          "attribution": "评课社区用户公开分享（Google Drive）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "b446987f58ab0e17bb00823c4af1e0c1083948c0537d5dd588010fb9f7269f8f",
+            "bytes": 147422782,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "computing-lectures-gh-ustc-course-materi-011144",
@@ -426,6 +553,51 @@
           "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
           "attribution": "USTC-Resource/USTC-Course",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes/%E4%B8%AD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93%E7%BA%AF%E6%89%8B%E6%89%93.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes/%E4%B8%AD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93%E7%BA%AF%E6%89%8B%E6%89%93.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "5e5f8a4a1ca856c0154c13fdb13997545fa361f1d7674293cca1967bb555d5a1",
+            "bytes": 18192,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes/%E5%8F%8C%E9%9D%A2%E5%B0%8F%E6%8A%84.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes/%E5%8F%8C%E9%9D%A2%E5%B0%8F%E6%8A%84.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "fa2e9398defdc8ff3d7c3ee994be9ce6a4c198cecdbc54620954beb56deb85e4",
+            "bytes": 345200,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes/%E5%B0%8F%E6%8A%84%E6%80%BB%E7%BB%93.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes/%E5%B0%8F%E6%8A%84%E6%80%BB%E7%BB%93.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "36eaa2ccd3c571b8df59ab72596b5af0bb2dd776e6cc6b8f73cbe1eaf254c205",
+            "bytes": 1356584,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -554,6 +726,41 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011144-f46aba9a06648fba",
+      "type": "projects",
+      "title": "计算机网络 Lab1 DNS Relay 代码与实验报告",
+      "authors": [
+        "WalterSumbon"
+      ],
+      "notes": "仓库自述 Lab 1 for USTC Computer Networking 2020；含 dns_relay.py、三份配置文件与 report.md，共 8 个文件。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/WalterSumbon/DNS-Relay",
+        "note": "仓库描述明确 2020；实验为课程 Lab1。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-waltersumbon-dns-relay",
+          "page_url": "https://github.com/WalterSumbon/DNS-Relay",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 WalterSumbon",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-feixu-011144-labs",
       "type": "projects",
       "title": "计算机网络实验报告（EXP1—EXP6，sxl）",
@@ -639,10 +846,15 @@
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "web-feater-top": "食铁兽（JackeyLea）技术博客",
+    "gh-jzplp-cn-answers": "jzplp/Computer-Network-A-Top-Down-Approach-Answer",
     "gh-kobe972": "Kobe972/ustc_course_plus",
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "gh-moranzcw-cn-notes": "moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+    "web-gdrive-net-pack": "计算机网络课程资料包（Google Drive 公开分享）",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
-    "eng-github-melmaphother": "Melmaphother/ustc-course-resources"
+    "eng-github-melmaphother": "Melmaphother/ustc-course-resources",
+    "gh-waltersumbon-dns-relay": "WalterSumbon/DNS-Relay"
   }
 }

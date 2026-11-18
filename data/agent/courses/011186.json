@@ -215,6 +215,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011186-656ebb0a25b76359",
+      "type": "study",
+      "title": "大数据算法 课程笔记（聚类、分类等章节 Markdown）",
+      "authors": [],
+      "notes": "仓库含 README 与 chap7、chap10 等章节笔记（聚类/分类、谱聚类等），点评位于大数据算法课程页并直接列出该仓库；匿名核对仓库页与 README 可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/sigma-aster/Big-data-algorithms",
+        "note": "类型按仓库内容（课程笔记）判定；未核验笔记完整性。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-sigma-aster-bigdata-algo",
+          "page_url": "https://github.com/sigma-aster/Big-data-algorithms",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明许可证；仅导航原页面，不转存文件。",
+          "attribution": "GitHub @sigma-aster：Big-data-algorithms 笔记",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "homework-review-011186-bigdata-lecture1",
       "type": "study",
       "title": "大数据算法 Lecture 1：基础数学和统计工具",
@@ -277,10 +306,117 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011186-9ac924e5593c402c",
+      "type": "study",
+      "title": "大数据算法（2020 春）课程主页：课件讲义 PDF 列表",
+      "authors": [],
+      "notes": "教师课程页，列出大数据算法 2020 春季的课程简介与课件（introduction、PCA、JL、LSH、聚类、分类等 PDF）；匿名核对入口与页面链接可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~huding/data%20course.html",
+        "note": "类型按页面课程与课件列表判定；未逐份下载核验课件正文。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~huding/data%20course.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；页面未声明再分发许可，仅导航原页，不转存。",
+          "attribution": "丁虎（中国科学技术大学）课程主页",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011186-2e3cfe8116951eb7",
+      "type": "study",
+      "title": "Sketching Algorithms（Jelani Nelson 课程讲义 PDF）",
+      "authors": [
+        "Jelani Nelson"
+      ],
+      "notes": "点评在讨论大数据算法流式计算内容时给出该讲义 PDF；已匿名读取文件，确为“Sketching Algorithms”讲义（2020-12 版，含计数、流算法等章节）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.sketchingbigdata.org/fall20/lec/notes.pdf",
+        "note": "类型按讲义内容判定（作者公开的课程讲义，非教材）。"
+      },
+      "locations": [
+        {
+          "source_id": "sketchingbigdata-nelson",
+          "page_url": "https://www.sketchingbigdata.org/fall20/lec/notes.pdf",
+          "download_page": null,
+          "download_url": "https://www.sketchingbigdata.org/fall20/lec/notes.pdf",
+          "access": "public",
+          "license_note": "作者公开提供的完整讲义 PDF；未声明开放许可，仅导航原文件，不转存。",
+          "attribution": "Jelani Nelson",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "71880fa1ba61e74a594a9dbc5fe158d0836a40e2c042bbfa21f7cb555dede81d",
+            "bytes": 1560077,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011186-ba23441cc4ee12e6",
+      "type": "books",
+      "title": "Foundations of Data Science（Blum、Hopcroft、Kannan，作者公开完整 PDF）",
+      "authors": [
+        "Avrim Blum",
+        "John Hopcroft",
+        "Ravindran Kannan"
+      ],
+      "notes": "点评在讨论大数据算法课程参考书时直接给出该 PDF；已匿名读取文件，确为该书完整教材（2018 年版，含目录与正文）。按主题匹配，非中科大指定教材。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.cs.cornell.edu/jeh/book.pdf",
+        "note": "教材类：核对为作者公开的完整 PDF（首屏与目录），未逐章比对课程大纲。"
+      },
+      "locations": [
+        {
+          "source_id": "fds-blum-hopcroft-kannan",
+          "page_url": "https://www.cs.cornell.edu/jeh/book.pdf",
+          "download_page": null,
+          "download_url": "https://www.cs.cornell.edu/jeh/book.pdf",
+          "access": "public",
+          "license_note": "作者公开提供的完整 PDF；页面未声明开放许可，仅导航原文件，不转存。",
+          "attribution": "Avrim Blum, John Hopcroft, Ravindran Kannan",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "7412c43877d8f460ba73739e0e5da8d5a3d8b0262475d10bb4897fe569b449f8",
+            "bytes": 2493724,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-sigma-aster-bigdata-algo": "sigma-aster/Big-data-algorithms（大数据算法笔记）",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "sketchingbigdata-nelson": "Sketching Algorithms（Jelani Nelson 讲义）",
+    "fds-blum-hopcroft-kannan": "Foundations of Data Science（Blum, Hopcroft, Kannan）"
   }
 }

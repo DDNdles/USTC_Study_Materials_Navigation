@@ -40,6 +40,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-CS4009-c50bec8ed2bc40fe",
+      "type": "projects",
+      "title": "程序设计进阶与实践 大作业代码（experiment-codes）",
+      "authors": [],
+      "notes": "仓库说明为「USTC程序设计进阶课程大作业，可实时编译运行代码的桌面化程序，使用反射机制，Java」。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/SiriusPaul/experiment-codes",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-siriuspaul-experiment-codes",
+          "page_url": "https://github.com/SiriusPaul/experiment-codes",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "SiriusPaul/experiment-codes（程序设计进阶大作业）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-resour-cs4009",
       "type": "projects",
       "title": "程序设计进阶与实践 实验与课件（ustc-course-resource）",
@@ -73,6 +102,7 @@
   ],
   "sources": {
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "gh-siriuspaul-experiment-codes": "SiriusPaul/experiment-codes（程序设计进阶大作业）",
     "gh-wloner0809": "Wloner0809/ustc-course-resource"
   }
 }

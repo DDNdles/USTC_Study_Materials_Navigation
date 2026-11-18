@@ -6,7 +6,49 @@
   "tags": [
     "statistics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-017164-1b5c78707bf104cf",
+      "type": "study",
+      "title": "时间序列分析 讲义（李东风，北京大学）",
+      "authors": [],
+      "notes": "北京大学李东风公开课程讲义页（金融时间序列 fts 与应用时间序列 atsa）；匿名 200，HTML 目录页，未逐页打开 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12993/#review-14007",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "pku-lidf-notes",
+          "page_url": "http://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面，仅导航原页面；授权以原站声明为准。",
+          "attribution": "时间序列分析 讲义（李东风，北京大学）",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "pku-lidf-notes",
+          "page_url": "http://www.math.pku.edu.cn/teachers/lidf/course/atsa/atsanotes/html/_atsanotes/index.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面，仅导航原页面；授权以原站声明为准。",
+          "attribution": "时间序列分析 讲义（李东风，北京大学）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "pku-lidf-notes": "李东风 时间序列讲义"
+  }
 }

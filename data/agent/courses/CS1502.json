@@ -15,7 +15,7 @@
       "authors": [
         "USTC-Resource"
       ],
-      "notes": "5 个文件（tree 实际读取）；目录 计算机系统详解/codes",
+      "notes": "5 个文件（tree 实际读取）；目录 计算机系统详解/codes；既有条目，本轮核对目录文件数一致，无变更。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -23,7 +23,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes",
-        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+        "note": "核对目录文件数与既有条目一致。"
       },
       "locations": [
         {
@@ -37,7 +37,7 @@
           "page_kind": null
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     },
     {
       "id": "computing-projects-gh-ustc-cs-courses-re-cs1502-csapp",

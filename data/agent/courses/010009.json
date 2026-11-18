@@ -6,7 +6,45 @@
   "tags": [
     "ai"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-010009-089635e753e7d1b2",
+      "type": "projects",
+      "title": "模式识别 2020 秋 3 个实验源码",
+      "authors": [
+        "yxli2123"
+      ],
+      "notes": "仓库自述 3 experiments for Pattern Recognition course in USTC 2020fall；含 EigenFace.py、K-means.py、Linear-Classifier.py 与 README。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [
+          "2020-2021"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+        "note": "仓库描述明确 USTC 2020fall。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-yxli2123-pattern-recognition",
+          "page_url": "https://github.com/yxli2123/pattern-recognition-experiments",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 yxli2123",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-yxli2123-pattern-recognition": "yxli2123/pattern-recognition-experiments"
+  }
 }

@@ -41,9 +41,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-210037-f2cb61f5520f608e",
+      "type": "homework",
+      "title": "数理逻辑与图论（2023 秋，刘斌班）作业反馈与答案",
+      "authors": [],
+      "notes": "仓库说明为 2023 年秋季学期刘斌老师“数理逻辑与图论”的作业反馈，含“作业反馈”“作业答案”目录与习题课 PPT；匿名核对仓库页与目录结构可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+        "note": "类型按仓库说明与目录（作业反馈/答案）判定；未逐份核对答案正确性。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-minervazz-mathlogic-gt",
+          "page_url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明许可证；仅导航原页面，不转存文件。",
+          "attribution": "GitHub @minervazz：2023 秋数理逻辑与图论作业反馈",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-minervazz-mathlogic-gt": "minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory"
   }
 }

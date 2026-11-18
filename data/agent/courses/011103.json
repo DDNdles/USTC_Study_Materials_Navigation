@@ -109,6 +109,44 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011103-f41bcb560022b9d3",
+      "type": "exams",
+      "title": "代数结构 2022 年春季学期考试试卷",
+      "authors": [],
+      "notes": "评课社区公开图片（1228×1718；扩展名 .png，实际文件头为 JPEG）；卷头为中国科学技术大学计算机学院 2022 年春季学期考试试卷、考试科目代数结构，含 7 道大题。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [
+          "2021-2022"
+        ],
+        "exam_kind": "unknown",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/uploads/images/42474de035d8c2a7b4572265c5c9ae46aaad517b.png",
+        "note": "卷头为「2022 年春季学期考试试卷」，未明写期中/期末；未附答案。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/uploads/images/42474de035d8c2a7b4572265c5c9ae46aaad517b.png",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/42474de035d8c2a7b4572265c5c9ae46aaad517b.png",
+          "access": "public",
+          "license_note": "评课社区公开上传图片，匿名可见；附件扩展名 .png、实际为 JPEG 字节；权利归原作者或相关权利人，站点未声明逐文件再分发许可。",
+          "attribution": "USTC 评课社区（原点评公开上传）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "637e0f5c4b744095100fc3bd2dc76d2a47e9a518337ff0bd07eecd3f10b830b8",
+            "bytes": 249413,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-exam-guch-011103-algebraicstructure2022-pdf",
       "type": "exams",
       "title": "代数结构 2022 试卷",
@@ -300,6 +338,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011103-f2ab7bcba89afd02",
+      "type": "homework",
+      "title": "代数结构（孙淑玲）课后习题答案与讲义",
+      "authors": [
+        "Enguikong"
+      ],
+      "notes": "仓库 README 标明「中国科学技术大学 代数结构（孙淑玲）课后习题答案」；Answer/ 下第 1—4 章 PDF，资料/ 另含 1—8 章课后答案与代数结构讲义，共 64 个文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Enguikong/Algebraic_structure",
+        "note": "仓库 README 与目录结构核验；未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-enguikong-algebraic-structure",
+          "page_url": "https://github.com/Enguikong/Algebraic_structure",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 Enguikong",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-notes-gh-ustc-cs-resources-011103",
       "type": "study",
       "title": "代数结构 讲义与复习资料（USTC-CS-Resources）",
@@ -402,8 +471,10 @@
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "icourse-club": "USTC 评课社区",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
+    "gh-enguikong-algebraic-structure": "Enguikong/Algebraic_structure",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
     "eng-github-melmaphother": "Melmaphother/ustc-course-resources"
   }

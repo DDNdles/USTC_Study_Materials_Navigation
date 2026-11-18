@@ -35,13 +35,50 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "96b33613ea6f6dfdc1069ca2f1c38a31b86046f68caa2aed4c9f583c6137d8b7",
+            "bytes": 331900,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-022118-457c374e733740a5",
+      "type": "study",
+      "title": "固体物理 讲义（晶体结构、晶体结合、晶格振动等 PDF）",
+      "authors": [
+        "王冠中"
+      ],
+      "notes": "王冠中教授公开教学页，按章列出固体物理讲义 PDF：晶体结构 1—4、晶体结合、晶格振动 1—5 等；原点评以该页 PPT 自学本课程。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~gzwang/",
+        "note": "核验页面标题与讲义 PDF 链接列表；页面未标年份与课程号。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~gzwang/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "教师个人教学页公开列出的讲义；未声明再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "中国科学技术大学 王冠中教授教学页（固体物理）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "ustc-phy-exam": "USTC 物理课程往年试卷"
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
   }
 }

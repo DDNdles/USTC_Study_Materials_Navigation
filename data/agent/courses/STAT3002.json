@@ -7,7 +7,41 @@
     "cs",
     "statistics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-STAT3002-9eb41bae77118b72",
+      "type": "projects",
+      "title": "实用统计软件 期末项目：LOL 赛事数据分析报告",
+      "authors": [
+        "LUNARKN1GHT"
+      ],
+      "notes": "仓库含 lol_esports.ipynb、lol_esports.pdf、html 报告与数据处理代码（18 个文件）；原点评说明该课大作业从给定数据集选题，本仓库为自选 LOL 赛事数据的搜索报告。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/LUNARKN1GHT/lol_esports",
+        "note": "仓库文件与原点评说明核验；未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-lunarkn1ght-lol-esports",
+          "page_url": "https://github.com/LUNARKN1GHT/lol_esports",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 LUNARKN1GHT",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-lunarkn1ght-lol-esports": "LUNARKN1GHT/lol_esports"
+  }
 }

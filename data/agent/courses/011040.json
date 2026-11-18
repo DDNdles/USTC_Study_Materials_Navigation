@@ -469,10 +469,100 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-011040-73d387e9a26a46a5",
+      "type": "study",
+      "title": "USTC 图论课程答案与笔记（sakura0423）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2021秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/sakura0423/USTC_Graph_Theory",
+        "note": "评课社区公开点评（2021秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-sakura0423-ustc-graph-theory",
+          "page_url": "https://github.com/sakura0423/USTC_Graph_Theory",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 sakura0423/USTC_Graph_Theory",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011040-d9b97632d3142af9",
+      "type": "projects",
+      "title": "图论 答案与习题课 PPT（hwp-lab 整理）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2025秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Graph%20Theory",
+        "note": "评课社区公开点评（2025秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-hwp-lab-ustc-courses-data",
+          "page_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Graph%20Theory",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 hwp-lab/USTC-Courses-Data",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011040-cbd2d69a658823ac",
+      "type": "projects",
+      "title": "图论 作业与资料（Enguikong）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2022秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Enguikong/Graph_theory",
+        "note": "评课社区公开点评（2022秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-enguikong-graph-theory",
+          "page_url": "https://github.com/Enguikong/Graph_theory",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 Enguikong/Graph_theory",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-sakura0423-ustc-graph-theory": "USTC 图论课程答案与笔记",
+    "gh-hwp-lab-ustc-courses-data": "hwp-lab/USTC-Courses-Data（计算机学院课程资料）",
+    "gh-enguikong-graph-theory": "图论作业与资料"
   }
 }

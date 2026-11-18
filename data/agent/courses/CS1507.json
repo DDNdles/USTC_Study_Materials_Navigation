@@ -7,7 +7,39 @@
     "cs",
     "ai"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-CS1507-62f8b3f15e43d43b",
+      "type": "projects",
+      "title": "Python 与深度学习 课程作业（SqrtiZhang）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14421/#review-14439",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-sqrtizhang-ustc",
+          "page_url": "https://github.com/SqrtiZhang/USTC/tree/master/Spring.2019/Python%26DeepLearning",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "Python 与深度学习 课程作业（SqrtiZhang）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-sqrtizhang-ustc": "SqrtiZhang/USTC"
+  }
 }

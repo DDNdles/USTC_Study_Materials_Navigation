@@ -38,7 +38,12 @@
           "access": "public",
           "license_note": "评课社区附件直链，匿名可取；权利归原作者/教师，站点未声明逐文件再分发许可",
           "attribution": "USTC 评课社区（附件直链）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "cfb54dc5e6f5eb2481ee3c2d46ccd81349c23edf234ad44ed02dd9aa6d5cd84c",
+            "bytes": 404285,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -422,10 +427,44 @@
           "access": "public",
           "license_note": "站点模板 MIT 不覆盖试卷权利；文件为站点公开试卷",
           "attribution": "ustcmathexam.github.io（USTC/）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "e2defa20fa20b052f748dcc9068eaaf04c7fbb96a1770e8f1b67ba12060eb113",
+            "bytes": 267085,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-001548-3bb4a0e7bcdd7364",
+      "type": "homework",
+      "title": "复变函数B 习题解答（第 1—7 章）",
+      "authors": [],
+      "notes": "独立站点 USTC 复变函数B 习题解答，导航列第一至第七章；已核第一章正文（章节标题与逐题解答）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://fubianb.brealid.cn/2022/chapter1/",
+        "note": "站点按章节组织，第一章页标注 2022-07-01；未标课程年份。"
+      },
+      "locations": [
+        {
+          "source_id": "web-fubianb-answers",
+          "page_url": "https://fubianb.brealid.cn/2022/chapter1/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；内容权利归原作者/发布方，站点未声明逐文件再分发许可。",
+          "attribution": "USTC 复变函数B 习题解答站点",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-001548-study-f6259f",
@@ -460,6 +499,7 @@
   "sources": {
     "icourse-club": "USTC 评课社区",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "web-fubianb-answers": "USTC 复变函数B 习题解答"
   }
 }

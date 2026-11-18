@@ -7,7 +7,39 @@
     "cs",
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-001108-7ed58bf3da728f5e",
+      "type": "homework",
+      "title": "数学实验（001108）作业 Notebook（2023 秋）",
+      "authors": [],
+      "notes": "仓库含 2023Fall.001108.01 目录；点评称「我把课程作业的代码发在这里：Homework 1–4 & Project 1」。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/tiankaima/Notebooks",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-tiankaima-notebooks",
+          "page_url": "https://github.com/tiankaima/Notebooks",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "tiankaima/Notebooks（数学实验等课程 Notebook）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-tiankaima-notebooks": "tiankaima/Notebooks（数学实验等课程 Notebook）"
+  }
 }

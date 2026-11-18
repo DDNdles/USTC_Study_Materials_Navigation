@@ -162,11 +162,101 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-022012-9cbf5020290673c3",
+      "type": "projects",
+      "title": "计算物理A 课程代码与报告（elmer-sun）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24623/#review-88056",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-elmer-sun-computational-physics",
+          "page_url": "https://github.com/elmer-sun/computational-physics-from-ustc",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "计算物理A 课程代码与报告（elmer-sun）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-022012-0c18148bef32f96f",
+      "type": "projects",
+      "title": "计算物理A 课程作业（yesunhuang）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23457/#review-83378",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-yesunhuang-computational-physics",
+          "page_url": "https://github.com/yesunhuang/Computational-Physics",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "计算物理A 课程作业（yesunhuang）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-022012-a9331bbec57b16fa",
+      "type": "projects",
+      "title": "计算物理A 作业与报告（jingning42）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6307/#review-6920",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-jingning42-computational-physics",
+          "page_url": "https://github.com/jingning42/computational_physics_A",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "计算物理A 作业与报告（jingning42）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "rainzor-computational-physics": "Rainzor/Computational-Physics",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "gh-zhichen-cpa": "Zhichenzzz/Computational-Physics-A"
+    "gh-zhichen-cpa": "Zhichenzzz/Computational-Physics-A",
+    "gh-elmer-sun-computational-physics": "elmer-sun/computational-physics-from-ustc",
+    "gh-yesunhuang-computational-physics": "yesunhuang/Computational-Physics",
+    "gh-jingning42-computational-physics": "jingning42/Computational-Physics-A"
   }
 }

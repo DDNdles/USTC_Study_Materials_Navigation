@@ -132,6 +132,40 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-MARX1013-d2726d594a0a1800",
+      "type": "exams",
+      "title": "毛泽东思想和中国特色社会主义理论体系概论 期中试题（选择与问答）",
+      "authors": [],
+      "notes": "评课社区公开图片（2304×4096）；卷面含选择题 5 道与问答题 2 道，无年份、无课程号；据同页原点评说明为开卷期中考试，未附答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/uploads/files/8939bef23963b6c1c78c5a7613b3a3ffb9f81c45.jpg",
+        "note": "卷面为选择题与问答题各一页内容；年份未在卷面出现，故不填。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/uploads/files/8939bef23963b6c1c78c5a7613b3a3ffb9f81c45.jpg",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/8939bef23963b6c1c78c5a7613b3a3ffb9f81c45.jpg",
+          "access": "public",
+          "license_note": "评课社区公开上传图片，匿名可见；权利归原作者或相关权利人，站点未声明逐文件再分发许可。",
+          "attribution": "USTC 评课社区（原点评公开上传）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "44aa62c54c575139c22a0c46a9f9d42cdd8dd0a3345879714962e14473c46868",
+            "bytes": 2577499,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "hum-MARX1013-homework-duxiaoyang",
       "type": "homework",
       "title": "23版毛概课后习题答案",
@@ -279,6 +313,7 @@
   ],
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
     "gh-kobe972": "Kobe972/ustc_course_plus"

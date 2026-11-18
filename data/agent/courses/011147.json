@@ -173,11 +173,51 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-011147-af8eea98a6291b07",
+      "type": "projects",
+      "title": "数据库系统及应用 BankDB 课程项目（前后端）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2021春）附件；合集含 2 个文件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/guch8017/BankDBFrontend",
+        "note": "评课社区公开点评（2021春）附件；合集含 2 个文件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-guch8017-bankdb",
+          "page_url": "https://github.com/guch8017/BankDBFrontend",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 guch8017/BankDBFrontend",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "gh-guch8017-bankdb",
+          "page_url": "https://github.com/guch8017/BankDBBackend",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 guch8017/BankDBBackend",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "gh-guch8017-bankdb": "数据库课程 BankDB 项目（前端与后端两个仓库）"
   }
 }

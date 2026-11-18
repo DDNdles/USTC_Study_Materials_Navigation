@@ -6,7 +6,44 @@
   "tags": [
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-PHYS3003-695e82de835cdd30",
+      "type": "exams",
+      "title": "量子精密测量 考试三道大题",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为考试三道大题，匿名可见；卷别未在正文明确。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24007/#review-101201",
+        "note": "依据原点评公开正文的卷别描述与配图核验；未在正文明确的年份与解答情况不推断。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24007/#review-101201",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/174876154dd1731212df2a529978a393ac19698e.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "659015a1d194029af5d17c330e0e31d170ea660dccef07bcee8ac5d431818940",
+            "bytes": 158774,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

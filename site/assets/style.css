@@ -1929,6 +1929,11 @@
     color: var(--text-muted);
   }
 
+  .file-snapshot code {
+    font-family: var(--font-mono);
+    overflow-wrap: anywhere;
+  }
+
   .health {
     display: inline-flex;
     align-items: center;

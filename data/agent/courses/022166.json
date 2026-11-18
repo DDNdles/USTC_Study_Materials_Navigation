@@ -7,7 +7,44 @@
     "astronomy",
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-022166-415160ac66365c19",
+      "type": "study",
+      "title": "天文学导论 课程讲义（薛永泉课程主页）",
+      "authors": [],
+      "notes": "课程主页公开 PDF 讲义（Introduction to Astronomy and Cosmology）；匿名 200，application/pdf。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-38097",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "staff-ustc-xuey-iac",
+          "page_url": "http://staff.ustc.edu.cn/~xuey/IAC/",
+          "download_page": null,
+          "download_url": "http://staff.ustc.edu.cn/~xuey/IAC/000_Introduction_to_Astronomy_and_Cosmology.pdf",
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "天文学导论 课程讲义（薛永泉课程主页）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "692dae162d323b48bb414b5e2879481ce3c124fd7b503c2f77444e4b056182f8",
+            "bytes": 14552989,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "staff-ustc-xuey-iac": "薛永泉 天文学导论课程主页"
+  }
 }

@@ -273,7 +273,7 @@
         "exam_form": "original",
         "has_solutions": null,
         "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2017-2018%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf",
-        "note": "卷面：2018年1月9日，随机过程B，半开卷。"
+        "note": "卷面：2018年1月9日，随机过程B，半开卷。旧库固定 commit 副本 SHA-256 与 duxiaoyang 副本完全一致，互为镜像"
       },
       "locations": [
         {
@@ -290,14 +290,19 @@
           "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf",
           "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf",
-          "download_url": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf",
           "access": "public",
           "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
           "attribution": "GitHub @USTC-Resource/USTC-Course",
-          "page_kind": null
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "5c77d0d52336e57a6854a7d362511772076409f51b6238603515598241679d79",
+            "bytes": 168323,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     },
     {
       "id": "hum-017144-exam-2017-2",
@@ -435,52 +440,125 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
-        "note": "同目录试卷与 017144 随机过程B 文件 SHA 相同；homework 为教材/分章习题答案。"
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
+        "note": "同目录试卷与 017144 随机过程B 文件 SHA 相同；homework 为教材/分章习题答案。 已匿名验证 GitHub 目录入口及目录列表；不是文件直链。"
       },
       "locations": [
         {
           "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf",
           "download_page": null,
-          "download_url": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf",
           "access": "public",
-          "license_note": "仅链接原页面；资料权利归原作者。",
-          "attribution": "USTC-Resource",
-          "page_kind": "file"
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "d573d58a5d00a8831663070f1cf4db78d8c00b0b28f5ffa6ec7cdbc3a427dc39",
+            "bytes": 517326,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
           "download_page": null,
-          "download_url": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
           "access": "public",
-          "license_note": "仅链接原页面；资料权利归原作者。",
-          "attribution": "USTC-Resource",
-          "page_kind": "file"
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "fa1ed7a25ae358f92fd320d3bdbf7cf398420c18edff25793ad2275726c3bb52",
+            "bytes": 440172,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
           "download_page": null,
-          "download_url": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
           "access": "public",
-          "license_note": "仅链接原页面；资料权利归原作者。",
-          "attribution": "USTC-Resource",
-          "page_kind": "file"
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "cb035427cebd01ced48e28a0b4fd6d91bad4b688b49f14a69df848dce91e4923",
+            "bytes": 753019,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "gh-ustc-resource",
-          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
-          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework",
+          "download_page": null,
           "download_url": null,
           "access": "public",
           "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
           "attribution": "GitHub @USTC-Resource/USTC-Course",
-          "page_kind": null
+          "page_kind": "directory"
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-017144-aa15f204e104d28b",
+      "type": "study",
+      "title": "随机过程 复习资料（GitHub 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为随机过程复习资料合集。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Oyyko/USTC-Random-Process",
+        "note": "GitHub 公开仓库；仓库说明为随机过程复习资料合集；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-oyyko-random-process",
+          "page_url": "https://github.com/Oyyko/USTC-Random-Process",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-017144-b2ea88f1f0c7e225",
+      "type": "study",
+      "title": "随机过程 A4 复习纸（GitHub 文件页）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库文件页；文件为自制 A4 复习纸（docx）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ljy0ustc/USTC_Resources/blob/main/StochasticProcess/A4/ljy%E7%9A%84A4%E7%BA%B8.docx",
+        "note": "GitHub 公开仓库文件页；文件为自制 A4 复习纸（docx）；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ljy0ustc-resources",
+          "page_url": "https://github.com/ljy0ustc/USTC_Resources/blob/main/StochasticProcess/A4/ljy%E7%9A%84A4%E7%BA%B8.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "hum-017144-notes-ustcresource",
@@ -494,27 +572,59 @@
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
-        "note": "同目录试卷与 017144 随机过程B 文件 SHA 相同；notes 为课程复习/总结。"
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
+        "note": "同目录试卷与 017144 随机过程B 文件 SHA 相同；notes 为课程复习/总结。 已匿名验证 GitHub 目录入口及目录列表；不是文件直链。"
       },
       "locations": [
         {
           "source_id": "gh-ustc-resource",
-          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
-          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes",
+          "download_page": null,
           "download_url": null,
           "access": "public",
           "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
           "attribution": "GitHub @USTC-Resource/USTC-Course",
-          "page_kind": null
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes/%E5%A4%8D%E4%B9%A0.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes/%E5%A4%8D%E4%B9%A0.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "4b03e44541b1fb11d6c301d0008ffdbfa8acdadb0c41266c3cc66fdd2b70da40",
+            "bytes": 102213,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93-ksqsf.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93-ksqsf.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "3294da4d8f0497e8a0ca74e1b2b51644d076f17ec5c10ccc4aa7808701c9060c",
+            "bytes": 10542778,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "gh-oyyko-random-process": "Oyyko/USTC-Random-Process",
+    "gh-ljy0ustc-resources": "ljy0ustc/USTC_Resources"
   }
 }

@@ -6,7 +6,39 @@
   "tags": [
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-003158-236a51c987cf8ed9",
+      "type": "study",
+      "title": "量子物理习题课录像（2021-03-03）",
+      "authors": [],
+      "notes": "原点评公开列出该习题课录像，视频页标题与课程一致，公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.bilibili.com/video/BV1fX4y1G7tP",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "bilibili-course-recordings",
+          "page_url": "https://www.bilibili.com/video/BV1fX4y1G7tP",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "bilibili-course-recordings": "B 站课程习题课录像"
+  }
 }

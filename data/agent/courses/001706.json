@@ -36,7 +36,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ad461d91eeb97e8a7020709e2dfc85f686e3c89d2276b99ae17337c4de9dc5f2",
+            "bytes": 47737,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -79,7 +84,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "fd418a51a723f1183b34626191d739921d1afadfb98a5a50c35e85c056db38be",
+            "bytes": 344771,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -122,7 +132,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "c9d44c5fd1e0c9549f3ff1c70734b95eb14895232d9b1248ecee593a3d22b443",
+            "bytes": 117023,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -165,7 +180,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "041a46896e7afbfdd43358a185070323b0288f05ac3d2807c6dbbb23d667f17f",
+            "bytes": 287236,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -208,7 +228,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "e4b0f0d862e8ee3ce4b34967e9279fa6235c6600845c46e311baf9352fb5518e",
+            "bytes": 317624,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -272,7 +297,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ba51d891103ce2644550242fb4d3041f47697d0f89533dd35a07a6e0ecd6d55c",
+            "bytes": 280924,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -315,14 +345,54 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "9e12fd3508bc4cc44671b13e521ac658fd456325a992270a78caed3a79ab9d7e",
+            "bytes": 286907,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-001706-1a50614a029a1257",
+      "type": "study",
+      "title": "泛函分析(H) 讲义（lyuchangle2006）",
+      "authors": [],
+      "notes": "个人公开站点 PDF 讲义；匿名 200，application/pdf。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4008/#review-90340",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "lyuchangle-notes",
+          "page_url": "https://lyuchangle2006.github.io/files/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90(H)%E8%AE%B2%E4%B9%89.pdf",
+          "download_page": null,
+          "download_url": "https://lyuchangle2006.github.io/files/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90(H)%E8%AE%B2%E4%B9%89.pdf",
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "泛函分析(H) 讲义（lyuchangle2006）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "b6147d78a81f215d238c245945641ec862af26ecf7b8bca935b9aa601caea239",
+            "bytes": 765395,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "lyuchangle-notes": "lyuchangle2006 课程讲义"
   }
 }

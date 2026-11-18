@@ -7,7 +7,39 @@
     "mechanics",
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-022056-21d0e6d862125901",
+      "type": "projects",
+      "title": "理论力学 课程资料（qc-1）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4539/#review-96966",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-qc-1-course-materials",
+          "page_url": "https://github.com/qc-1/Course-Materials/tree/main/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "理论力学 课程资料（qc-1）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-qc-1-course-materials": "qc-1/Course-Materials"
+  }
 }

@@ -1033,6 +1033,144 @@ test('catalog 下发五类枚举、学年与显式位置类型', () => {
   assert.deepEqual(quiz.coverage.academic_years, ['2025-2026']);
 });
 
+/* ------------------------------------------------------------------ */
+/* 文件快照                                                            */
+/* ------------------------------------------------------------------ */
+
+const SNAPSHOT_SHA = 'c9a1ecd44feb9fa26d537eeed79985d9c0d10ea112b40c745e4e9f9524b3ff19';
+const SOLUTION_SHA = 'f8219467dfb07ffa44c5de1bc51faee3aa8afc154d6f6b7deaf0b0691feacb11';
+
+function makeSnapshot(overrides = {}) {
+  return {
+    sha256: SNAPSHOT_SHA,
+    bytes: 241152,
+    checked_at: '2026-11-19',
+    ...overrides,
+  };
+}
+
+/** 单条公开直链试卷；fileSnapshot 为 undefined 时不带 file_snapshot 字段。 */
+function examWithSnapshot(fileSnapshot, locationOverrides = {}) {
+  const data = validData();
+  data.resources = [
+    makeResource({
+      locations: [
+        makeLocation({
+          page_url: 'https://example.com/exam/2020-final.pdf',
+          download_url: 'https://example.com/exam/2020-final.pdf',
+          page_kind: 'file',
+          ...locationOverrides,
+          ...(fileSnapshot === undefined ? {} : { file_snapshot: fileSnapshot }),
+        }),
+      ],
+    }),
+  ];
+  return data;
+}
+
+test('公开直链的文件快照通过校验，目录按位置下发摘要且不虚构缺省快照', () => {
+  const data = validData();
+  data.resources = [
+    makeResource({
+      locations: [
+        makeLocation({
+          page_url: 'https://example.com/exam/2020-final.pdf',
+          download_url: 'https://example.com/exam/2020-final.pdf',
+          page_kind: 'file',
+          file_snapshot: makeSnapshot(),
+        }),
+        makeLocation({
+          page_url: 'https://example.com/exam/2020-notes',
+          page_kind: 'page',
+        }),
+      ],
+    }),
+  ];
+  const result = validateRepository(data);
+  assert.equal(result.errors.length, 0, messages(result));
+
+  const catalog = buildCatalog(data);
+  const exam = catalog.courses.find((course) => course.code === '001001').resources[0];
+  assert.deepEqual(exam.locations[0].file_snapshot, makeSnapshot());
+  assert.deepEqual(Object.keys(exam.locations[0].file_snapshot).sort(), [
+    'bytes',
+    'checked_at',
+    'sha256',
+  ]);
+  assert.ok(!('file_snapshot' in exam.locations[1]));
+  assert.ok(!('role' in exam.locations[0]));
+});
+
+test('配套解答直链可带独立快照，目录仍区分主入口与解答', () => {
+  const data = validData();
+  data.resources = [
+    makeResource({
+      id: 'hw-001',
+      type: 'homework',
+      title: '2020 数学分析作业',
+      coverage: plainCoverage({ years: [2020] }),
+      locations: [
+        makeLocation({
+          page_url: 'https://example.com/hw/2020.pdf',
+          download_url: 'https://example.com/hw/2020.pdf',
+          page_kind: 'file',
+          file_snapshot: makeSnapshot(),
+        }),
+        makeLocation({
+          page_url: 'https://example.com/hw/2020-solution.pdf',
+          download_url: 'https://example.com/hw/2020-solution.pdf',
+          page_kind: 'file',
+          role: 'solution',
+          file_snapshot: makeSnapshot({ sha256: SOLUTION_SHA, bytes: 98304 }),
+        }),
+      ],
+    }),
+  ];
+  const result = validateRepository(data);
+  assert.equal(result.errors.length, 0, messages(result));
+
+  const catalog = buildCatalog(data);
+  const homework = catalog.courses.find((course) => course.code === '001001').resources[0];
+  assert.equal(homework.locations[0].role, undefined);
+  assert.equal(homework.locations[1].role, 'solution');
+  assert.equal(homework.locations[0].file_snapshot.sha256, SNAPSHOT_SHA);
+  assert.equal(homework.locations[1].file_snapshot.sha256, SOLUTION_SHA);
+  assert.equal(homework.locations[1].file_snapshot.bytes, 98304);
+});
+
+test('文件快照拒绝短摘要、非法字节数、非法日期与多余字段', () => {
+  const cases = [
+    ['截断到 16 位', makeSnapshot({ sha256: SNAPSHOT_SHA.slice(0, 16) }), /完整的小写 SHA-256/],
+    ['大写摘要', makeSnapshot({ sha256: SNAPSHOT_SHA.toUpperCase() }), /完整的小写 SHA-256/],
+    ['字节数为 0', makeSnapshot({ bytes: 0 }), /文件字节数必须是正整数/],
+    ['字节数非整数', makeSnapshot({ bytes: 12.5 }), /文件字节数必须是正整数/],
+    ['日期格式错误', makeSnapshot({ checked_at: '2026/11/19' }), /取样日期/],
+    ['多余字段', makeSnapshot({ etag: 'W/"abc"' }), /不允许的字段“etag”/],
+  ];
+  for (const [label, snapshot, pattern] of cases) {
+    assert.match(messages(validateRepository(examWithSnapshot(snapshot))), pattern, label);
+  }
+  assert.match(messages(validateRepository(examWithSnapshot('abc'))), /文件快照必须是对象/);
+});
+
+test('文件快照只能附在免登录的公开直链上', () => {
+  const snapshot = makeSnapshot();
+  const missingDirect = messages(
+    validateRepository(examWithSnapshot(snapshot, { download_url: null })),
+  );
+  assert.match(missingDirect, /文件快照必须对应免登录的文件直链/);
+
+  const loginOnly = messages(
+    validateRepository(examWithSnapshot(snapshot, { access: 'login' })),
+  );
+  assert.match(loginOnly, /文件快照必须对应免登录的文件直链/);
+
+  const privateHost = messages(
+    validateRepository(examWithSnapshot(snapshot, { download_url: 'http://127.0.0.1/exam.pdf' })),
+  );
+  assert.match(privateHost, /本机\/私网/);
+});
+
 test('研究三路径缺口默认警告，strict 时为错误；blocked 不算零结果', () => {
   const missing = validData();
   missing.researchLog = missing.researchLog.filter(

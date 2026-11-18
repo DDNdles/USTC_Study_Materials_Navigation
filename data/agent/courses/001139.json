@@ -9,6 +9,64 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-001139-164f1ecab1096f93",
+      "type": "study",
+      "title": "数学建模 课程主页（陈仁杰，2026）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。教师课程主页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~renjiec/mm2026/",
+        "note": "教师课程主页；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "staff-ustc-renjiec-mm",
+          "page_url": "http://staff.ustc.edu.cn/~renjiec/mm2026/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-001139-bd14181e1ae78980",
+      "type": "projects",
+      "title": "数学建模 2026 春课程作业（GitHub 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为 2026 春数学建模作业。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/TheVaticanCameos/USTC_MM_26",
+        "note": "GitHub 公开仓库；仓库说明为 2026 春数学建模作业；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-vatican-mm26",
+          "page_url": "https://github.com/TheVaticanCameos/USTC_MM_26",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-gh-001139-projects-f8132b",
       "type": "projects",
       "title": "数学建模课程作业（2025春）",
@@ -39,6 +97,8 @@
     }
   ],
   "sources": {
+    "staff-ustc-renjiec-mm": "数学建模课程主页（陈仁杰，2026）",
+    "gh-vatican-mm26": "TheVaticanCameos/USTC_MM_26",
     "gh-vatican-mm": "TheVaticanCameos/USTC_MM_25"
   }
 }

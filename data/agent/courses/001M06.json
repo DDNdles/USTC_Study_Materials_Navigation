@@ -9,6 +9,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-001M06-a7f115f646377208",
+      "type": "study",
+      "title": "计算机图形学前沿 2023 暑期课程主页",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。实验室公开课程页；页面为 2023 暑期《计算机图形学》课程。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://gcl.ustc.edu.cn/Courses/SummerSchool_2023/index.html",
+        "note": "实验室公开课程页；页面为 2023 暑期《计算机图形学》课程；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gcl-ustc-summer-2023",
+          "page_url": "http://gcl.ustc.edu.cn/Courses/SummerSchool_2023/index.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "gcl.ustc.edu.cn",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-web-001m06-lectures-a429a8",
       "type": "study",
       "title": "计算机图形学前沿 课程主页资料",
@@ -39,6 +68,7 @@
     }
   ],
   "sources": {
+    "gcl-ustc-summer-2023": "2023 中科大计算机图形学暑期课程",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
   }
 }

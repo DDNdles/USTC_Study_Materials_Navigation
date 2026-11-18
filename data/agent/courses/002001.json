@@ -35,7 +35,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "b025e263b3d10286de1f5caa6d5a00b2dd1f5205ffcf8e8401092e1870489f1d",
+            "bytes": 114147,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -76,10 +81,83 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "61e06c4b99900e917083891ff0d750c93cf48308c7b0baa549a2a8cef873c564",
+            "bytes": 443414,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-002001-457c374e733740a5",
+      "type": "study",
+      "title": "固体物理 课程讲义（教师主页）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。教师主页提供固体物理课程 PPT 等资料。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~gzwang/",
+        "note": "教师主页提供固体物理课程 PPT 等资料；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "staff-ustc-gzwang",
+          "page_url": "http://staff.ustc.edu.cn/~gzwang/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-002001-1f8ef6770b7bd5a8",
+      "type": "study",
+      "title": "固体物理 课程主页（翁老师）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。Solid State Physics 课程页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~weng/index_SSP.html",
+        "note": "Solid State Physics 课程页；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "staff-ustc-weng-ssp",
+          "page_url": "http://staff.ustc.edu.cn/~weng/index_SSP.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "staff-ustc-weng-ssp",
+          "page_url": "http://staff.ustc.edu.cn/~weng/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-002001-study-81ad4a8b",
@@ -229,6 +307,8 @@
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "staff-ustc-gzwang": "固体物理课程讲义（教师主页）",
+    "staff-ustc-weng-ssp": "固体物理课程主页（翁老师）"
   }
 }

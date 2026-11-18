@@ -109,6 +109,72 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-CS4014-fff1096a7b2c609c",
+      "type": "homework",
+      "title": "体系结构 2023 春 作业、答案、实验报告与课件",
+      "authors": [
+        "JackieZ1412"
+      ],
+      "notes": "仓库 README 记录 CS4014 Spring 2023 所需材料，含 homework、hw_solution、lab_report 与 PPT 章节 1—5，共 42 个文件。",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [
+          "2022-2023"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/JackieZ1412/USTC-ComputerArchitecture-2023Spring",
+        "note": "README 明确 CS4014 Spring 2023。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-jackiez1412-ca2023",
+          "page_url": "https://github.com/JackieZ1412/USTC-ComputerArchitecture-2023Spring",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 JackieZ1412",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS4014-0cf32ce0b2ac8c13",
+      "type": "homework",
+      "title": "体系结构 作业与答案（HW1—HW6）",
+      "authors": [
+        "Oyyko"
+      ],
+      "notes": "仓库自述 USTC 体系结构 资料；含 1/、2/ 两套 HW1—HW6 与解答 PDF、作业说明，共 127 个文件；文件名中含学生学号者不复述。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Oyyko/USTC-Computer-Architecture",
+        "note": "核验 README 与文件树；两套作业未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-oyyko-ustc-ca",
+          "page_url": "https://github.com/Oyyko/USTC-Computer-Architecture",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 Oyyko",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-lectures-web-cs4014",
       "type": "study",
       "title": "计算机体系结构 课程网站（USTC�������ϵ�ṹ�γ���ҳ）",
@@ -138,10 +204,48 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-CS4014-cbf781e5033030c3",
+      "type": "projects",
+      "title": "体系结构 2019 夏季实验代码与要求（课程实验发布仓库）",
+      "authors": [
+        "Summer-Summer"
+      ],
+      "notes": "仓库 README：此仓库用于发布 USTC 体系结构课程 2019 年夏季学期的实验代码和要求，Lab1—Lab4（RISC-V 流水线 CPU、Cache、分支预测等），共 192 个文件。",
+      "coverage": {
+        "years": [
+          2019
+        ],
+        "academic_years": [
+          "2018-2019"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Summer-Summer/ComputerArchitectureLab",
+        "note": "README 明确 2019 年夏季学期与实验安排。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-summer-summer-ca-lab",
+          "page_url": "https://github.com/Summer-Summer/ComputerArchitectureLab",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 Summer-Summer",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+    "gh-jackiez1412-ca2023": "JackieZ1412/USTC-ComputerArchitecture-2023Spring",
+    "gh-oyyko-ustc-ca": "Oyyko/USTC-Computer-Architecture",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "gh-summer-summer-ca-lab": "Summer-Summer/ComputerArchitectureLab"
   }
 }

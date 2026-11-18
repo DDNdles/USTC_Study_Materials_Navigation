@@ -44,7 +44,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a876a37f13993c2020cda6ffe7870c20b833ed4a94cd56a7b12f0bfa0602b3b9",
+            "bytes": 346191,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -85,7 +90,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8966b9d764951b8443e94923d284dc28ffc46e9bb662afd3d4ff6fee17572201",
+            "bytes": 334863,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -188,7 +198,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8aad68d305f9c496ef1fcde141880587cfe296baa79d2e80d2bf2555e82e87d7",
+            "bytes": 272659,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -219,7 +234,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "74a99581ab87e4d17c51339d546e0f399f827eb16799a3179e995375772fc09b",
+            "bytes": 316591,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -260,7 +280,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "159563e90c61a65b6ad5be5bfc5edab059df643351cac2c5df2f3106d18fca4b",
+            "bytes": 339602,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -322,7 +347,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "eb0ee7262efbffa737e6b273efb2c0cc770209cb5cbb980e1bc7962bd14573f6",
+            "bytes": 59218,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -644,7 +674,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "10ba824905737fb14aaaa7c12fa6755dd8bc4c3d44fe5da6b3222eeda82da80a",
+            "bytes": 312895,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -708,6 +743,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-MATH1006-08be0d34e965c757",
+      "type": "exams",
+      "title": "数学分析(B) 历年考试真题汇编（2025 I 版）",
+      "authors": [
+        "吴天"
+      ],
+      "notes": "GitHub Release 公开 PDF（99 页）；首页标明「数学分析 (B) 历年考试真题 2025 I 版」，收录若干套测验、期中、期末真题及一套数学分析(A)样卷，覆盖 B1/B2，首页说明未附参考答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "original",
+        "has_solutions": false,
+        "evidence_url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/maexams_2025-v1.pdf",
+        "note": "首页说明收录多年测验/期中/期末真题且无参考答案；合集内各卷年份分散，首页未逐一列出，故不填年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-passiflora-sago-site",
+          "page_url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/maexams_2025-v1.pdf",
+          "download_page": "https://passiflora-sago.github.io/24FallMAB1.html",
+          "download_url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/maexams_2025-v1.pdf",
+          "access": "public",
+          "license_note": "GitHub Release 公开 PDF；作者注明仅供学习交流、未经许可请勿用于商业目的。",
+          "attribution": "GitHub 用户 Passiflora-sago；整理者吴天",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "92159603013dc3fabc3136bba2712cd30fa849d9de7c98515ed16ff7cae4269d",
+            "bytes": 528706,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-math1006-exams-b933f7",
@@ -835,7 +906,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "dbdd9108a3d3bd8eea1d3adbbcfbfbf40087a2c895fde426bb503cfa1cd80a4c",
+            "bytes": 4171973,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -866,7 +942,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "99c19eb0d9477eb454f80d0e8066258ac683abfe21d89d1ee9a8685406edb2e7",
+            "bytes": 32019,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -930,6 +1011,46 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-MATH1006-a4fa55f8299066c4",
+      "type": "study",
+      "title": "数学分析(B1) 2024 秋课程讲义（助教整理，v2.0）",
+      "authors": [
+        "刘越"
+      ],
+      "notes": "GitHub Release 公开 PDF（162 页）；首页标明「数学分析 (B1) 课程讲义」、作者助教刘越、时间 2024 秋、版本 2.0，为汪琥庭老师班讲义的 LaTeX 整理版，不含复习课内容。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [
+          "2024-2025"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf",
+        "note": "PDF 首页自标 2024 秋季学期与版本 2.0；共 162 页，已核首页。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-passiflora-sago-site",
+          "page_url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf",
+          "download_page": "https://passiflora-sago.github.io/24FallMAB1.html",
+          "download_url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf",
+          "access": "public",
+          "license_note": "GitHub Release 公开 PDF；作者注明仅供学习交流、未经许可请勿用于商业目的。",
+          "attribution": "GitHub 用户 Passiflora-sago（助教刘越）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "09c5f7c7f640d1e7abb387bb967635af85b3cf14f38c90989537dc84dd7f5aa4",
+            "bytes": 1541888,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-math1006-study-4fbb75",
       "type": "study",
       "title": "数学分析(B1)笔记",
@@ -990,6 +1111,7 @@
   ],
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "gh-passiflora-sago-site": "Passiflora-sago 课程主页与讲义发布"
   }
 }

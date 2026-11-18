@@ -7,7 +7,41 @@
     "cs",
     "communications"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-210060-174125b4ed88d236",
+      "type": "projects",
+      "title": "计算机网络课程实验文档（信息网络实验室 GitLab）",
+      "authors": [
+        "中国科学技术大学信息网络实验室"
+      ],
+      "notes": "公开 GitLab 项目，项目说明「计算机网络课程的实验文档」，README 列出实验 1—4（IP 组网、TCP/UDP 通信程序设计、RDT 通信程序设计、Internet 应用实例分析）；匿名可读 README 与项目页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/infonet/computer-network-experiment",
+        "note": "核验项目页与 README 原文；未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "git-ustc-infonet-cn-experiment",
+          "page_url": "https://git.ustc.edu.cn/infonet/computer-network-experiment",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；内容权利归原作者/发布方，站点未声明逐文件再分发许可。",
+          "attribution": "中国科学技术大学信息网络实验室（USTC GitLab）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "git-ustc-infonet-cn-experiment": "信息网络实验室 computer-network-experiment（USTC GitLab）"
+  }
 }

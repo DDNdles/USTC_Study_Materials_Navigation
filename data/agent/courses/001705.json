@@ -36,7 +36,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "842e1ba2c7e79b65380f89904f14e56b218f6073ad06bf1d981f53ec06868012",
+            "bytes": 2395270,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -69,7 +74,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ce783bb698a643a665fb63184fac6006eb3afdfc98c13a36ece25dcef2b16e2a",
+            "bytes": 1426370,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -102,7 +112,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1b1e1847ca75ca6125147a09c3dcfde2d30fa83951af2eeb8adb31ad13e4247c",
+            "bytes": 124249,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -135,7 +150,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8e3d39fc66dbae3b3007e704f46874b942b488038ca632fc068f8225bf60a675",
+            "bytes": 529971,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -168,7 +188,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "28e2145c02eb6a042bf529531a330ad61feb2fdf1380bbb9452f6757aadb0d9b",
+            "bytes": 529863,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -201,7 +226,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "84b838850577e61ef48d5126dd3c4ac5a897c3b8077dea9382ef2b8247e57a49",
+            "bytes": 305567,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -234,13 +264,48 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "58f5c0882947bdaf842b9c367b9202ec530f92aa03de9df76cca4947fbdccc24",
+            "bytes": 289469,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-001705-d83b1fd07d85af63",
+      "type": "study",
+      "title": "微分几何(H) 课程主页（刘世平，2025 秋讲义与习题索引）",
+      "authors": [],
+      "notes": "教师个人主页的 Teaching 页，按学期列出微分几何(H) 2025 秋季课程公告、讲课与习题安排，并可进入对应学期页面取得讲义；匿名核对入口可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~spliu/Teaching.html",
+        "note": "类型按页面内容（课程讲义与习题索引）判定；未逐份核验讲义文件。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~spliu/Teaching.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；页面未声明再分发许可，仅导航原页，不转存。",
+          "attribution": "刘世平（中国科学技术大学数学科学学院）教师主页",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
   }
 }

@@ -103,11 +103,71 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-CS3001H-b5822571d93fddfe",
+      "type": "projects",
+      "title": "计算机组成原理H 课程资料（2024，CODH-2024）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2024春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Zhenyu-Bo/CODH-2024",
+        "note": "评课社区公开点评（2024春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-zhenyu-bo-codh-2024",
+          "page_url": "https://github.com/Zhenyu-Bo/CODH-2024",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 Zhenyu-Bo/CODH-2024",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS3001H-b2c6fab2832f84c3",
+      "type": "projects",
+      "title": "计算机组成原理H 资料（Wloner0809 仓库）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2023春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+        "note": "评课社区公开点评（2023春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809-ustc-curriculum-resource",
+          "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 Wloner0809/ustc-curriculum-resource",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-melmaphother": "Melmaphother/ustc-course-resources",
     "gh-wloner0809": "Wloner0809/ustc-course-resource",
-    "gh-kobe972": "Kobe972/ustc_course_plus"
+    "gh-kobe972": "Kobe972/ustc_course_plus",
+    "gh-zhenyu-bo-codh-2024": "2024 计算机组成原理 H 课程资料",
+    "gh-wloner0809-ustc-curriculum-resource": "USTC 课程资源（计算机组成原理 H 等）"
   }
 }

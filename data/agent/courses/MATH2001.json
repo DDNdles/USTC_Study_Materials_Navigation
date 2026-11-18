@@ -159,7 +159,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "68f25ce56c64687ca62d1bc6f940ceb390c8f9f4e9a492b747d7a191d1fd58a4",
+            "bytes": 170957,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -1812,7 +1817,7 @@
       "type": "study",
       "title": "计算方法 计算方法（notes）",
       "authors": [],
-      "notes": "USTC-Resource-USTC-Course 目录 计算方法，33 个文件，例：1.cpp；1.docx；cm.nb；Lagrange.m；N128type1.png；N128type2.png",
+      "notes": "USTC-Resource-USTC-Course 目录 计算方法，33 个文件，例：1.cpp；1.docx；cm.nb；Lagrange.m；N128type1.png；N128type2.png；USTC-Resource-USTC-Course 目录 计算方法/notes，3 个文件（tree 实际读取）：README.md、cm-uncompleted.pdf、cm-uncompleted.tex；此前条目误记为 labs 实验文件，本轮改指 notes 目录。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -1831,6 +1836,31 @@
           "access": "public",
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "USTC-Resource 组织",
+          "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes/cm-uncompleted.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes/cm-uncompleted.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "703573b99c5d537582cfbf09ac4853a369944a74a07c901f7ae82f3a16f2f5d7",
+            "bytes": 172193,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
           "page_kind": null
         }
       ],
@@ -1866,19 +1896,48 @@
       "verified_at": "2026-11-18"
     },
     {
-      "id": "mp-gh-math2001-projects-730cce",
+      "id": "intake-MATH2001-164986f27582bdd4",
       "type": "projects",
-      "title": "计算方法 计算方法（projects）",
+      "title": "计算方法 2022 实验（GitHub 仓库）",
       "authors": [],
-      "notes": "USTC-Resource-USTC-Course 目录 计算方法，5 个文件，例：report2.md；report2.pdf；report3.md；report4.md；report5.md",
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为计算方法 2022 实验。",
       "coverage": {
         "years": [],
         "academic_years": [],
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95",
-        "note": "目录内容按文件名归类，未逐份读正文"
+        "evidence_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+        "note": "GitHub 公开仓库；仓库说明为计算方法 2022 实验；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-xxuhaiyang-computation2022",
+          "page_url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "mp-gh-math2001-projects-730cce",
+      "type": "projects",
+      "title": "计算方法 实验（USTC-Course）",
+      "authors": [],
+      "notes": "USTC-Resource-USTC-Course 目录 计算方法，5 个文件，例：report2.md；report2.pdf；report3.md；report4.md；report5.md；USTC-Resource-USTC-Course 目录 计算方法/labs，35 个文件（tree 实际读取）；lab1 求和差、lab2 Lagrange 插值、lab3 复化数值积分、lab4 非线性方程求根、lab5 迭代法解线性方程组；含 .m/.cpp 源码、结果图与 report2-5。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/labs",
+        "note": "读取 计算方法/labs/README.md（2019秋 陈先进）与目录核对；既有条目入口由计算方法根目录修正为 /labs。"
       },
       "locations": [
         {
@@ -1890,14 +1949,55 @@
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "USTC-Resource 组织",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/labs",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/labs",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-MATH2001-36601617f7f25cda",
+      "type": "projects",
+      "title": "计算方法 实验参考代码（GitHub 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为计算方法课程作业代码。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/mmengjiadai/Computational-Method",
+        "note": "GitHub 公开仓库；仓库说明为计算方法课程作业代码；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-mmengjiadai-computational-method",
+          "page_url": "https://github.com/mmengjiadai/Computational-Method",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "gh-xxuhaiyang-computation2022": "xXuHaiyang/USTC_Computation2022_Lab",
+    "gh-mmengjiadai-computational-method": "mmengjiadai/Computational-Method"
   }
 }

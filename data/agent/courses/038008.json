@@ -6,7 +6,39 @@
   "tags": [
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-038008-4dd4bc6dbdd5f509",
+      "type": "projects",
+      "title": "近代光学基础 编程作业（GitHub 仓库目录）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库目录；仓库说明为该课程编程作业。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/wangxiaoou2013/USTC-Course/tree/master/Fundamental%20of%20Advanced%20Optics",
+        "note": "GitHub 公开仓库目录；仓库说明为该课程编程作业；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wangxiaoou-ustc-course",
+          "page_url": "https://github.com/wangxiaoou2013/USTC-Course/tree/master/Fundamental%20of%20Advanced%20Optics",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-wangxiaoou-ustc-course": "wangxiaoou2013/USTC-Course（高等光学编程作业）"
+  }
 }

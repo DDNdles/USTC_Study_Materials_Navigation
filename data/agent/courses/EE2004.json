@@ -482,6 +482,64 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-EE2004-62151e9358ad50dc",
+      "type": "study",
+      "title": "计算机网络复习总结 PDF（USTC 自动化资料库）",
+      "authors": [],
+      "notes": "原点评公开说明复习总结 PDF 位于该公开仓库，仓库说明与课程资料一致。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/EpiHio/USTC_Automation.git",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-epihio-automation",
+          "page_url": "https://github.com/EpiHio/USTC_Automation.git",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-EE2004-b1627f5670cf79b0",
+      "type": "study",
+      "title": "计算机网络课程资料目录",
+      "authors": [],
+      "notes": "原点评公开以资料入口列出该仓库计网目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/qc-1/Course-Materials/tree/main/%E8%AE%A1%E7%BD%91",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-qc1-course-materials",
+          "page_url": "https://github.com/qc-1/Course-Materials/tree/main/%E8%AE%A1%E7%BD%91",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-lectures-ee2004-34e82ff7",
       "type": "study",
       "title": "计算机网络课件（2025）",
@@ -599,6 +657,7 @@
     "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-qc1-course-materials": "qc-1/Course-Materials",
     "eng-github-mrphilo-eeis": "Mr-Philo/USTC_EEIS_Courses（6系本科资料）"
   }
 }

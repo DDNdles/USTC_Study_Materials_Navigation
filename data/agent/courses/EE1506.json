@@ -7,7 +7,39 @@
     "electronics",
     "instruments"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-EE1506-5043ab33f8ff4397",
+      "type": "projects",
+      "title": "单片机大作业：任意信号发生器（GitLab 工程）",
+      "authors": [],
+      "notes": "原点评公开给出大作业工程的校内 GitLab 链接，仓库公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.lug.ustc.edu.cn/sharp/basic51",
+        "note": "依据原点评公开正文给出的项目入口与目标页实际可访问性核验；仅登记公开入口。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-git-sharp-basic51",
+          "page_url": "https://git.lug.ustc.edu.cn/sharp/basic51",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "ustc-git-sharp-basic51": "Sharp/basic51（USTC GitLab）"
+  }
 }

@@ -7,7 +7,44 @@
     "physics",
     "chemistry"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-003024-c4e7830417de658e",
+      "type": "study",
+      "title": "统计力学课程讲义（徐老师部分）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2021春）附件；首件 41 页；首屏文字核验为「2022 2 23」。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~suyupilemao/files/stamech.pdf",
+        "note": "评课社区公开点评（2021春）附件；首件 41 页；首屏文字核验为「2022 2 23」。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-home-suyupilemao",
+          "page_url": "http://home.ustc.edu.cn/~suyupilemao/files/stamech.pdf",
+          "download_page": null,
+          "download_url": "http://home.ustc.edu.cn/~suyupilemao/files/stamech.pdf",
+          "access": "public",
+          "license_note": "个人主页公开 PDF；仅链接原文件，授权以原作者声明为准",
+          "attribution": "USTC 个人主页公开讲义（home.ustc.edu.cn/~suyupilemao）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "eba5b2c5474c0357b6577d74e7f3b9d4e7eeedfacc7786e4d11d6ae881914c98",
+            "bytes": 405230,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "ustc-home-suyupilemao": "USTC 个人主页（suyupilemao）"
+  }
 }

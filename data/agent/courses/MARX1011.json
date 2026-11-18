@@ -171,6 +171,36 @@
           "license_note": "README 声明无特别声明资料 CC BY-NC-SA 4.0；第三方内容版权归原作者",
           "attribution": "GitHub @USTC-Resource/USTC-Course",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "3f93cdde69294a635c23cd956b9c9e523acee032fbd0ef389454b69d62fcdc4a",
+            "bytes": 13427,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes/%E5%AE%9A%E7%90%86%E5%8F%8A%E6%8E%A8%E8%AE%BA.md",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes/%E5%AE%9A%E7%90%86%E5%8F%8A%E6%8E%A8%E8%AE%BA.md",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "f067516457874f57d9c0dfc534f9d0774e281bb23235f771de76e5191f6a83c5",
+            "bytes": 7513,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"

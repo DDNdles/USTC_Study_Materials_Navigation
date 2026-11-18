@@ -117,23 +117,137 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011163-12d51ae531c20b85",
+      "type": "homework",
+      "title": "编译原理与技术 作业（GitHub 仓库，2019 秋）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为 2019 秋编译原理课程作业。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/lyc0930/Compiler-Homework",
+        "note": "GitHub 公开仓库；仓库说明为 2019 秋编译原理课程作业；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-lyc0930-compiler-homework",
+          "page_url": "https://github.com/lyc0930/Compiler-Homework",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011163-a0f3e43379ffd930",
+      "type": "study",
+      "title": "编译原理 课程资料（Wloner0809 仓库目录）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库的课程资料目录。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86",
+        "note": "GitHub 公开仓库的课程资料目录；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011163-3a953347c4559034",
+      "type": "study",
+      "title": "USTC 编译原理和技术 2023 课程网站",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。课程公开网站；站点为 2023 年课程主页。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustc-compiler-principles.github.io/2023/",
+        "note": "课程公开网站；站点为 2023 年课程主页；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-compiler-principles-2023",
+          "page_url": "https://ustc-compiler-principles.github.io/2023/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "ustc-compiler-principles.github.io",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011163-a93371eedf4e6060",
+      "type": "projects",
+      "title": "编译原理 2022 秋 PL0 编译器大作业（GitHub 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为 2022 秋 PL0 编译器大作业。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/txtxj/PL0-Compiler",
+        "note": "GitHub 公开仓库；仓库说明为 2022 秋 PL0 编译器大作业；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-txtxj-pl0-compiler",
+          "page_url": "https://github.com/txtxj/PL0-Compiler",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-011163-labs",
       "type": "projects",
       "title": "编译原理和技术 实验（USTC-Course）",
       "authors": [
         "USTC-Resource"
       ],
-      "notes": "72 个文件（tree 实际读取）；目录 编译原理和技术/labs",
+      "notes": "72 个文件（tree 实际读取）；目录 编译原理和技术/labs；既有条目，本轮核对目录文件数一致，无变更。",
       "coverage": {
-        "years": [
-          2019
-        ],
+        "years": [],
         "academic_years": [],
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs",
-        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+        "note": "核对目录文件数与既有条目一致。"
       },
       "locations": [
         {
@@ -147,12 +261,16 @@
           "page_kind": null
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "gh-lyc0930-compiler-homework": "lyc0930/Compiler-Homework",
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "ustc-compiler-principles-2023": "USTC 编译原理和技术 2023 课程网站",
+    "gh-txtxj-pl0-compiler": "txtxj/PL0-Compiler"
   }
 }

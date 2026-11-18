@@ -10,6 +10,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-CS4005-f1f6ee69a3c905b0",
+      "type": "projects",
+      "title": "形式化方法导引 课程项目：ROBDD 构造器（含 LALR 解析）",
+      "authors": [],
+      "notes": "仓库为 ROBDD 构造器实现（C++，含文法解析与测试），点评以“我的工作”指向该仓库且位于形式化方法导引课程页；匿名核对仓库页与文件列表可访问。是否为课程作业未在仓库内明示。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/catoverflow/ROBDD",
+        "note": "类型按仓库内容（课程相关程序项目）判定；未核验是否课程指定作业。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-catoverflow-robdd",
+          "page_url": "https://github.com/catoverflow/ROBDD",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库含 LICENSE 文件（未逐条核对条款）；仅导航原页面，不转存文件。",
+          "attribution": "GitHub @Catoverflow：ROBDD",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-plus-cs4005",
       "type": "projects",
       "title": "形式化方法导引 实验与报告（ustc_course_plus）",
@@ -42,6 +71,7 @@
     }
   ],
   "sources": {
+    "gh-catoverflow-robdd": "Catoverflow/ROBDD（ROBDD 构造器）",
     "gh-kobe972": "Kobe972/ustc_course_plus"
   }
 }

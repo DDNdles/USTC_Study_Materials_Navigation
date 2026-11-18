@@ -6,7 +6,39 @@
   "tags": [
     "cs"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-CS1514-9661f72809ec7c43",
+      "type": "projects",
+      "title": "面向交叉学科的 Python 程序设计与跨学科实践 课程实验（2020）",
+      "authors": [],
+      "notes": "仓库含实验题目列表、学习参考 PDF 与学生代码目录，点评出现在该课程页并指向此仓库；匿名核对仓库页与文件列表可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/zzx6869/2020_python_program_design",
+        "note": "类型按仓库内容（实验题目与代码）判定；2020 年课程与现课程号的对应依据点评所在课程页。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-zzx6869-python-design",
+          "page_url": "https://github.com/zzx6869/2020_python_program_design",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明许可证；仅导航原页面，不转存文件。",
+          "attribution": "GitHub @zzx6869：2020_python_program_design",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-zzx6869-python-design": "zzx6869/2020_python_program_design"
+  }
 }

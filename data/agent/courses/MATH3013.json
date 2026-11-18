@@ -7,7 +7,79 @@
     "math",
     "statistics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-MATH3013-28ea1bde5fb5ef6d",
+      "type": "study",
+      "title": "概率论进阶 课程思维导图",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为授课教师最后一节课的课程思维导图，匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21353/#review-93261",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21353/#review-93261",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/1153f311814f7ca05b591c7f586706261f64291b.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "c4fb9e67aaedea5402d961b7e818c311d59e5cd3986497b9b050cedc46a61432",
+            "bytes": 2621551,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-MATH3013-8b7892e427e0d9d4",
+      "type": "study",
+      "title": "概率论进阶课程笔记 PDF",
+      "authors": [],
+      "notes": "原点评公开列出该课程笔记 PDF，链接直接返回 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://yixiao-wang-stats.github.io/files/%E6%A6%82%E7%8E%87%E8%AE%BA%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.pdf",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "yixiao-wang-stats",
+          "page_url": "https://yixiao-wang-stats.github.io/files/%E6%A6%82%E7%8E%87%E8%AE%BA%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": "https://yixiao-wang-stats.github.io/files/%E6%A6%82%E7%8E%87%E8%AE%BA%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.pdf",
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "0d0ed8d08a21ff707ef8072a5709e6140b661e27c39903a425b03741deb2d57b",
+            "bytes": 10005342,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区",
+    "yixiao-wang-stats": "yixiao-wang-stats.github.io"
+  }
 }

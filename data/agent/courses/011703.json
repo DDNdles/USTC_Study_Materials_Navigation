@@ -41,9 +41,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-011703-f3038dd8595b8886",
+      "type": "projects",
+      "title": "编译原理(H) 2021 课程实验（Komorebi660）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5785/#review-42932",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-komorebi660-sysyf-compiler",
+          "page_url": "https://github.com/Komorebi660/SysYF-Compiler",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "编译原理(H) 2021 课程实验（Komorebi660）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "gh-komorebi660-sysyf-compiler": "Komorebi660/SysYF-Compiler"
   }
 }

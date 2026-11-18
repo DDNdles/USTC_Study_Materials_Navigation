@@ -408,6 +408,96 @@
           "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
           "attribution": "USTC-Resource/USTC-Course",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E5%8A%A9%E6%95%99%E7%AC%94%E8%AE%B0_%E8%B0%A2%E7%AD%A0%E5%BA%AD/%E7%AC%AC%E4%B8%80%E7%AB%A0.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E5%8A%A9%E6%95%99%E7%AC%94%E8%AE%B0_%E8%B0%A2%E7%AD%A0%E5%BA%AD/%E7%AC%AC%E4%B8%80%E7%AB%A0.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "18e8a0e3f2017a268a13306ca3a7a8ca5e1bbc2c49df1f79f43cfdedffc8449c",
+            "bytes": 3458156,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E5%8A%A9%E6%95%99%E7%AC%94%E8%AE%B0_%E8%B0%A2%E7%AD%A0%E5%BA%AD/%E7%AC%AC%E4%B8%89%E7%AB%A0.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E5%8A%A9%E6%95%99%E7%AC%94%E8%AE%B0_%E8%B0%A2%E7%AD%A0%E5%BA%AD/%E7%AC%AC%E4%B8%89%E7%AB%A0.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "dc386687ed92dd51bb09c6ce540d29b24f0a2e08da86b9cad2c0561fddc189c5",
+            "bytes": 2973581,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E5%8A%A9%E6%95%99%E7%AC%94%E8%AE%B0_%E8%B0%A2%E7%AD%A0%E5%BA%AD/%E7%AC%AC%E4%BA%8C%E7%AB%A0.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E5%8A%A9%E6%95%99%E7%AC%94%E8%AE%B0_%E8%B0%A2%E7%AD%A0%E5%BA%AD/%E7%AC%AC%E4%BA%8C%E7%AB%A0.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "d9f19a5f481bdcb7422e1cf74273f2dbbf44e04de60330c2cba84ee2b7eba3de",
+            "bytes": 4142394,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91-%E8%80%83%E8%AF%95%E5%BF%85%E5%A4%87-%E7%AB%A5%E4%B8%96%E7%82%9C.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91-%E8%80%83%E8%AF%95%E5%BF%85%E5%A4%87-%E7%AB%A5%E4%B8%96%E7%82%9C.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "0e1c55f3a10170843aa74164b81e15477e1ccb1e23ded2caa792e566dbd9213e",
+            "bytes": 489070,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%B0%8F%E6%8A%84.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%B0%8F%E6%8A%84.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "a5cb1e78a6c49b5ddc43958faf75622b3f44a95561d2eea16e83f226b8ead315",
+            "bytes": 1560796,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%AC%94%E8%AE%B0.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%AC%94%E8%AE%B0.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "81964e78b8757df93b89cb3d29ff4507d7ed23437e436df779a21d0d68f0e92f",
+            "bytes": 5770260,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -442,12 +532,108 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-CS2002-10b90309fc55986a",
+      "type": "study",
+      "title": "USTC 数理逻辑基础课程资源目录",
+      "authors": [],
+      "notes": "原点评公开说明复习笔记等资料位于该仓库目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809-curriculum",
+          "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS2002-5ac6e53b0cfd6234",
+      "type": "study",
+      "title": "USTC 数理逻辑基础课程资源目录（复习笔记）",
+      "authors": [],
+      "notes": "原点评公开列出该仓库的数理逻辑课程资料目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-melmaphother",
+          "page_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS2002-4ac660ab4cf9337c",
+      "type": "projects",
+      "title": "数理逻辑 system-L 命题证明脚本（USTC-Course）",
+      "authors": [
+        "mbinary"
+      ],
+      "notes": "读取 README 与脚本确认：作者 mbinary，2018-3-6，基于 system-L 的命题逻辑演绎证明脚本（公理 L1-L3、演绎定理、反证法）；同目录含 README 与 sys-L.png；固定 commit d091d4d43df88d6744e4c914825afa8f5019d95f。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/codes/mbinary/system_L.py",
+        "note": "读取 README 与脚本正文；数理逻辑目录按既有 notes/exams 条目归 CS2002（目录级），脚本为该目录 codes 下的独立作品。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/codes/mbinary/system_L.py",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/codes/mbinary/system_L.py",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5c0dbb6c5a687a731f53590d2c65481b985b6db09226aff60df81309551f320a",
+            "bytes": 13973,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "gh-kobe972": "Kobe972/ustc_course_plus",
-    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）"
+    "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "gh-wloner0809-curriculum": "Wloner0809/ustc-curriculum-resource",
+    "eng-github-melmaphother": "Melmaphother/ustc-course-resources"
   }
 }

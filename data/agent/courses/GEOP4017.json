@@ -6,7 +6,59 @@
   "tags": [
     "earth"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-GEOP4017-601f1bf70a463f9c",
+      "type": "study",
+      "title": "地质学与大地构造概论 A4 手写复习纸（2 页）",
+      "authors": [],
+      "notes": "评课社区公开点评附图（匿名页内联显示，可匿名取图）；点评附图 2 张，为半开卷 A4 手写复习纸，含术语、构造与岩石内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24774/#review-97432",
+        "note": "逐张查看附图内容后归类为手写笔记/复习纸；未逐页校对完整性"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24774/#review-97432",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/f6c812e39b4dc34efb80b342572a386c78ed80f6.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #97432）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "b88eb26fed46201ff717e943ed1893ed90f097d403dad128484635b65273e877",
+            "bytes": 8390023,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24774/#review-97432",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/6989c508c083cfb7fce7c96597f4fbe7d7829c1a.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #97432）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5b990d6b53ab2a677f2546208e80bfd0a567985a3ea73efec7c9dbbd54728dd9",
+            "bytes": 8200762,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

@@ -1749,6 +1749,7 @@ function validateResource(
         'attribution',
         'page_kind',
         'role',
+        'file_snapshot',
       ],
       file,
       locationPath,
@@ -1814,6 +1815,27 @@ function validateResource(
         collector,
         { allowNull: true },
       );
+    }
+    if (location.file_snapshot !== undefined) {
+      const snapshot = location.file_snapshot;
+      const snapshotPath = `${locationPath}.file_snapshot`;
+      if (location.access !== 'public' || !location.download_url) {
+        collector.error(file, snapshotPath, '文件快照必须对应免登录的文件直链');
+      }
+      if (!isPlainObject(snapshot)) {
+        collector.error(file, snapshotPath, '文件快照必须是对象');
+      } else {
+        checkExactKeys(snapshot, ['sha256', 'bytes', 'checked_at'], file, snapshotPath, collector);
+        if (typeof snapshot.sha256 !== 'string' || !/^[0-9a-f]{64}$/.test(snapshot.sha256)) {
+          collector.error(file, `${snapshotPath}.sha256`, '必须是完整的小写 SHA-256 十六进制值');
+        }
+        if (!Number.isSafeInteger(snapshot.bytes) || snapshot.bytes <= 0) {
+          collector.error(file, `${snapshotPath}.bytes`, '文件字节数必须是正整数');
+        }
+        if (!isIsoDate(snapshot.checked_at)) {
+          collector.error(file, `${snapshotPath}.checked_at`, '取样日期必须是有效日期 YYYY-MM-DD');
+        }
+      }
     }
     if (!ACCESS_SET.has(location.access)) {
       collector.error(file, `${locationPath}.access`, `未知访问级别：“${String(location.access)}”`);

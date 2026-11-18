@@ -334,23 +334,33 @@
           "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf",
           "download_page": null,
-          "download_url": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf",
           "access": "public",
-          "license_note": "仅链接原页面；资料权利归原作者。",
-          "attribution": "USTC-Resource",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "7ce401ea70d271edd43d9605cdd1a4e4c8e6495c10a08999757e63207c6f5e01",
+            "bytes": 644741,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "gh-ustc-resource",
           "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6_sol.pdf",
           "download_page": null,
-          "download_url": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6_sol.pdf",
           "access": "public",
-          "license_note": "仅链接原页面；资料权利归原作者。",
-          "attribution": "USTC-Resource",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "fd63f00455ab436d86702070609d445dca3e46d3a8a8eb863715c45695df5794",
+            "bytes": 386009,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "gh-ustc-resource",
@@ -361,6 +371,126 @@
           "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
           "attribution": "USTC-Resource/USTC-Course",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/1/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/1/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "ee4c196a8b65da6441a41680a15dc14de93080269462f8a2b706b2ec4e5001e8",
+            "bytes": 198584,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/2/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/2/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "5bf9dcb490ef16e5bea7b89801e3a51d2db0f7bf04b16146cbdd9272f63099cd",
+            "bytes": 180481,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/3/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/3/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "a7032521db9b1805a1f7cca3d2c14f424497d403ccbdd5ebd1fa766257e3aae4",
+            "bytes": 270590,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "57c198223ad4a5106d687155052bf7c404b0a169949b998d4ff2fc61ad067342",
+            "bytes": 567713,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/5/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/5/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "1b22d575d68bc0e43ed71bcde5ea228fe73852fe28ee7db50ccf78c257c601b9",
+            "bytes": 384137,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/6/hw6.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "1698170f05fc069f993d840849ddb1cb3b474a50d4003eea8d385c744c7d051b",
+            "bytes": 470233,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/7/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/7/PB16020923%2B%E6%9E%97%E7%A5%A5.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "ac727cce98506252f5bcb63c4669dae8124a02720d5e9f1692e859a8e06f6fe5",
+            "bytes": 768552,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/8/hw8.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/8/hw8.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "e1d493c5d83293ecd0c7a52a16000eb9028ad8196875a2314ffe3600d8b7d674",
+            "bytes": 237901,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -390,6 +520,51 @@
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "USTC-Resource",
           "page_kind": "directory"
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary/deadlock.md",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary/deadlock.md",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "4ed62b90499234e5086cdaacdcb710eeaa7f3d9a081264b82743cbbdd2dfb2f4",
+            "bytes": 6891,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary/linux-file-io.md",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary/linux-file-io.md",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "32f1b03a485416c3a80c7a0c8f987a62c3bd073061b583f52317540e1d6851be",
+            "bytes": 2432,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary/multiprocessor.md",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary/multiprocessor.md",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "7c49112132e6220bb61fb280cb582359a00491575d8efe8b2f43bff40a1efa2f",
+            "bytes": 9526,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -430,6 +605,136 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011174-66169bee560baf95",
+      "type": "study",
+      "title": "USTC OS Docs：操作系统实验与作业文档站",
+      "authors": [],
+      "notes": "操作系统实验文档站，含环境搭建、实验零至后续实验与 Homework 文档；点评出现在操作系统原理与设计课程页并讨论实验与助教安排，按该课归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~pzw2002/",
+        "note": "类型按站点内容（实验文档）判定；未逐页阅读实验文档正文。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-os-docs",
+          "page_url": "http://home.ustc.edu.cn/~pzw2002/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；站点未声明再分发许可，仅导航原页，不转存。",
+          "attribution": "USTC OS Docs（学生维护的操作系统实验文档站）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011174-254add364903ae2c",
+      "type": "projects",
+      "title": "操作系统原理与设计 实验报告 2（NachOS Fork/Exec/Join/Shell，USTC-Course）",
+      "authors": [
+        "林祥"
+      ],
+      "notes": "读取 PDF 正文确认：操作系统实验报告 2，实现 NachOS 的 Fork/Exec/Join/Shell 与动态优先级调度；固定 commit d091d4d43df88d6744e4c914825afa8f5019d95f。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab2_PB16020923.pdf",
+        "note": "读取 PDF 首页与正文，标题“操作系统实验报告 2”，作者林祥 [学号]；按目录归 011174 操作系统原理与设计。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab2_PB16020923.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab2_PB16020923.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ecc212c5483ad9c40da228dccdd17cecf44ba30d5d4e92b97dd50efd83f9201d",
+            "bytes": 656517,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011174-e90fd1afc92dd4e6",
+      "type": "projects",
+      "title": "操作系统原理与设计 实验报告 3（NachOS 文件系统，USTC-Course）",
+      "authors": [
+        "林祥"
+      ],
+      "notes": "读取 PDF 正文确认：操作系统实验报告 3，实现 NachOS 文件系统（FileHeader::Allocate/Deallocate、FileSystem::Open/Create/Remove/Recover 等）；固定 commit d091d4d43df88d6744e4c914825afa8f5019d95f。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab3_PB16020923.pdf",
+        "note": "读取 PDF 首页与正文，标题“操作系统实验报告 3”，作者林祥 [学号]；按目录归 011174 操作系统原理与设计。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab3_PB16020923.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab3_PB16020923.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ed93e7372085ae221f38a554622b61f9f6f2d082b7615cbad85a8e5e3c5bfe50",
+            "bytes": 786141,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011174-44fce24c77c4c603",
+      "type": "projects",
+      "title": "操作系统原理与设计 实验代码（USTC-OS-Lab-2022，lab1–lab4）",
+      "authors": [],
+      "notes": "仓库按 lab1–lab4 组织 2022 年操作系统实验代码；点评出现在操作系统原理与设计课程页并以“我的实验”指向该仓库，按该课归属。匿名核对仓库页与目录结构可访问；未逐份运行或核验实验报告。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Fluuuegel/USTC-OS-lab-2022",
+        "note": "类型按仓库目录（实验代码）判定；未确认具体学期与教学班。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-fluuuegel-os-lab-2022",
+          "page_url": "https://github.com/Fluuuegel/USTC-OS-lab-2022",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明许可证；仅导航原页面，不转存文件。",
+          "attribution": "GitHub @Fluuuegel：USTC-OS-Lab-2022",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-course-materials-011174",
       "type": "projects",
       "title": "操作系统原理与设计（陈香兰班）实验与理论资料",
@@ -468,6 +773,8 @@
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
+    "ustc-os-docs": "USTC OS Docs（操作系统实验文档）",
+    "gh-fluuuegel-os-lab-2022": "Fluuuegel/USTC-OS-Lab-2022（操作系统实验）",
     "gh-tinyrubbish-course-materials": "TinyRubbish/Course-Materials"
   }
 }

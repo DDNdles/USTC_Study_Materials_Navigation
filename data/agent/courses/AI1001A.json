@@ -10,6 +10,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-AI1001A-675a81d9fe9d1506",
+      "type": "study",
+      "title": "人工智能数学原理与算法 课程笔记（USTC-AI-Notes）",
+      "authors": [],
+      "notes": "仓库说明为「USTC 人工智能数学原理与算法笔记仓库」，目录按 00-公共基础、00-数学基础、01-人工智能概述 … 07-强化学习 分章；点评称为助教笔记。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/LUNARKN1GHT/USTC-AI-Notes",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-lunarknight-ai-notes",
+          "page_url": "https://github.com/LUNARKN1GHT/USTC-AI-Notes",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "LUNARKN1GHT/USTC-AI-Notes（人工智能数学原理与算法笔记）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-lectures-gh-ustc-ai-sgy-source-slides",
       "type": "study",
       "title": "人工智能数学原理与算法 课件（课程站点 source/slides）",
@@ -77,6 +106,7 @@
     }
   ],
   "sources": {
+    "gh-lunarknight-ai-notes": "LUNARKN1GHT/USTC-AI-Notes（人工智能数学原理与算法笔记）",
     "gh-ustc-ai-sgy-ustc-ai-sgy-io": "ustc-ai-sgy/ustc-ai-sgy.github.io"
   }
 }

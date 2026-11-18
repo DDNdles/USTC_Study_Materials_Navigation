@@ -34,7 +34,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "645f5a37dcd52b1390db0128da8c1332b7d56c160dde12b65966395d6818c70a",
+            "bytes": 239772,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -65,7 +70,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1e54d2b4cb1ab4510cc0fa5ebefe8c3048ece3c4e27e69d99bf94a31e972a6e2",
+            "bytes": 147330,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -96,7 +106,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "bf0826bc2466bf982256cc1d717e5a25a1b342b173fb07d9ce3533c315571a30",
+            "bytes": 548168,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -129,7 +144,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "9847ad2aebdaa0a552bb2597c495ba2d9505ac86a45330dcb96a8afc576e6b5c",
+            "bytes": 620014,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -162,7 +182,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "541643c98128d6b891f8099b2e08781439e1474ec24b59dfd2a350e0e5c294ce",
+            "bytes": 440205,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -195,7 +220,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6fdd9a3b4b14aaef1f510513887f9f57f6d6559ac5feb4573d3433f7c4beed7d",
+            "bytes": 661969,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -226,7 +256,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "70525be0d506824a0c51e3113a4bba5588f3ce8f1f99b8c64359f571402ec24e",
+            "bytes": 174528,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -258,7 +293,12 @@
           "access": "public",
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "1b0345fe6d68fe65e623d61611864750198a5e936910636517722af3f680f143",
+            "bytes": 611589,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "zhang-junyan-ustc-course",
@@ -269,7 +309,12 @@
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页发布",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "3af47dca0599bec9e16699ca52ad9fd33f05c4bde796c3fcaf0bc8cbacaa2c84",
+            "bytes": 2622140,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -301,7 +346,12 @@
           "access": "public",
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "d856758e71151b66b80b3c1f5650cc150ecc231f8f7dbb876c29b2472e0be9b2",
+            "bytes": 555407,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "zhang-junyan-ustc-course",
@@ -312,7 +362,12 @@
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页发布",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "d9da2339f6784461db86b5304d12a5a9a251787afdfef4f2e8e43ac657c5123b",
+            "bytes": 2680514,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -344,7 +399,12 @@
           "access": "public",
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "01f42df945d6956c77694db6cfa9971b310e3d3c6e80ff04510b4799ba4f11eb",
+            "bytes": 516045,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "zhang-junyan-ustc-course",
@@ -355,7 +415,12 @@
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页发布",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "0e4039251720007f2bc926c1ad734ea3dafd79697f88600686a7698b56c06dfa",
+            "bytes": 182876,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -387,7 +452,12 @@
           "access": "public",
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "cc1bddb26a7e401ef0032101232c4a8b5ce6327d026319d8d5f43a6cec99d698",
+            "bytes": 489550,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "zhang-junyan-ustc-course",
@@ -398,7 +468,12 @@
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页发布",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "1c8047cdf12702e71f4ff3e12129f71d411b138efdcdb8ba243e8a7584854109",
+            "bytes": 202654,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -430,7 +505,12 @@
           "access": "public",
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "6d4903bbafc8d67304e2ed109dc0a9cfaaf55d7fdfedb56044467a0601947df1",
+            "bytes": 573396,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "zhang-junyan-ustc-course",
@@ -441,7 +521,12 @@
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦课程主页发布",
           "page_kind": "file",
-          "role": "solution"
+          "role": "solution",
+          "file_snapshot": {
+            "sha256": "8e8c50535fe00edc5bd699237c3f8f3502812bef7e2604f73e92ecfae4a2d431",
+            "bytes": 863422,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -472,7 +557,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "35559adee844ceb1c9c8cbab1accc113f73208ec2da7fa3a22932a9b96f8e79a",
+            "bytes": 49803,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -501,7 +591,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "c990d8cff72c6117daafc1a1a1846468ab75516050acc9f0472b30ee6d9507dc",
+            "bytes": 1056208,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -534,7 +629,12 @@
           "access": "public",
           "license_note": "仅链接原页面；资料权利归原作者。",
           "attribution": "章俊彦",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "c2f4e383859568b0a602e1a236bdbb0a7e5a45687bfe0f45063524cf4f2a34c1",
+            "bytes": 2891126,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-19"

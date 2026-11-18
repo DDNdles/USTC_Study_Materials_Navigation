@@ -6,7 +6,119 @@
   "tags": [
     "economics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-FIN2001-c786136d756bd3d7",
+      "type": "study",
+      "title": "经济学基础 手写笔记（第 1—14 章，6 页）",
+      "authors": [],
+      "notes": "评课社区公开点评附图（匿名页内联显示，可匿名取图）；点评附图 6 张，为手写经济学笔记，覆盖第 1—2、3、5、6—8、10—12、13—14 章。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20334/#review-85098",
+        "note": "逐张查看附图内容后归类为手写笔记/复习纸；未逐页校对完整性"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-85098",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/0ee2732eddf33027a2ef17c07e3d2e2991a94a14.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #85098）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "9a569660ef909a141df6467936186973071be4d54f599761d9136956b8d64cbf",
+            "bytes": 3601434,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-85098",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/67030723d4d5da29bf65d09e3b9febc7453e3d9c.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #85098）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "2f77c54ece1726ecbfbf7602eb10319447270c49b8c11c4341f8159ea6a4ad15",
+            "bytes": 3427745,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-85098",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/f2328ccd474a134153121b6e01218e67f787fb7a.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #85098）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "d074483f2767b1e1fd48ad01e0ac9d355aba943f0e34644bcc757ecd2b518c7e",
+            "bytes": 3266711,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-85098",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/00a2f46a5d9970f73514fa7648554e48d5bff1dc.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #85098）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "2c8caaa958f851243e01939fb81bca356c5b945820ab8c7a41d5252d9591a06b",
+            "bytes": 3442445,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-85098",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/ccf4be4f96eec362392d13621ddc4775079e603e.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #85098）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "88324a76b7ca8877e11900a5124a57d5a9c9b4301886322d734de3730e7b18e2",
+            "bytes": 3782195,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20334/#review-85098",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/50b39fb001221d707b44effb804e81011effbc4f.jpg",
+          "access": "public",
+          "license_note": "评课社区用户上传的公开附件；页面未声明再分发许可，仅链接原文件，不转存。",
+          "attribution": "USTC 评课社区用户上传（点评 #85098）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "08bb600a84cffddab13fc94344a7ed660171d979e6ff08083b6d467de6199bbd",
+            "bytes": 3836144,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

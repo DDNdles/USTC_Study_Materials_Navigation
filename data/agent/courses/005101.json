@@ -7,7 +7,69 @@
     "mechanics",
     "math"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-005101-e42151d391d59310",
+      "type": "projects",
+      "title": "计算力学基础 课程代码（ADI、Roe、梁与热传导等）",
+      "authors": [],
+      "notes": "仓库含 ADI.m、ThreeDimensionBeam.m、TwoDimensionThermalTransform.m、roe.py、elastic.py 等；点评上下文为计算力学基础代码分享。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/NightGlow0826/ComputationalMechanics",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-nightglow-computationalmechanics",
+          "page_url": "https://github.com/NightGlow0826/ComputationalMechanics",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "NightGlow0826/ComputationalMechanics（计算力学基础代码）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-005101-a8e11e3494ebd301",
+      "type": "projects",
+      "title": "计算力学基础 有限元上机代码与往年题（FEMcode2016）",
+      "authors": [],
+      "notes": "仓库说明为「基于MATLAB的二维弹性力学有限元求解器，支持COMSOL网格导入」，含 src、上机考试要求汇总.pdf、往年题目录。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/zhengxiuyuanustc-cmd/FEMcode2016",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-zhengxiuyuan-femcode",
+          "page_url": "https://github.com/zhengxiuyuanustc-cmd/FEMcode2016",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "zhengxiuyuanustc-cmd/FEMcode2016（有限元上机代码与往年题）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-nightglow-computationalmechanics": "NightGlow0826/ComputationalMechanics（计算力学基础代码）",
+    "gh-zhengxiuyuan-femcode": "zhengxiuyuanustc-cmd/FEMcode2016（有限元上机代码与往年题）"
+  }
 }

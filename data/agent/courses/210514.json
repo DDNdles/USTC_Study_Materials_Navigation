@@ -9,6 +9,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-210514-db5ec0ff77c47cbe",
+      "type": "study",
+      "title": "数据库基础 课程笔记（公开站点）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。公开课程笔记站点。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://coursenotes.jonbgua.com/sql/",
+        "note": "公开课程笔记站点；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "jonbgua-coursenotes-sql",
+          "page_url": "https://coursenotes.jonbgua.com/sql/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "coursenotes.jonbgua.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-lectures-feixu-210514",
       "type": "study",
       "title": "数据库基础讲义与复习",
@@ -51,6 +80,7 @@
     }
   ],
   "sources": {
+    "jonbgua-coursenotes-sql": "数据库基础课程笔记（jonbgua.com）",
     "feixu-alist": "feixu 学习资料分享站（AList）"
   }
 }

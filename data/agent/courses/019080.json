@@ -6,7 +6,44 @@
   "tags": [
     "chemistry"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-019080-14e4e79c97d3d3f0",
+      "type": "study",
+      "title": "普通化学实验电子版实验报告",
+      "authors": [],
+      "notes": "原点评公开说明留下普通化学实验报告电子版，链接直接返回 PDF。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~shiyaowei040126/General_Chemistry_Experiment_Report.pdf",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "home-ustc-shiyaowei",
+          "page_url": "http://home.ustc.edu.cn/~shiyaowei040126/General_Chemistry_Experiment_Report.pdf",
+          "download_page": null,
+          "download_url": "http://home.ustc.edu.cn/~shiyaowei040126/General_Chemistry_Experiment_Report.pdf",
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "564e5b81a0c8aef8ca5f6676aae80df80623210375a18df001101bbdc7c8b84f",
+            "bytes": 1642679,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "home-ustc-shiyaowei": "home.ustc.edu.cn/~shiyaowei040126"
+  }
 }

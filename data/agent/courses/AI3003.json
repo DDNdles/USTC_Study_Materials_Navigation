@@ -6,7 +6,39 @@
   "tags": [
     "ai"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-AI3003-bf0792d702dd6821",
+      "type": "projects",
+      "title": "深度学习基础 大作业：模型实现与报告（点评作者作品）",
+      "authors": [],
+      "notes": "仓库含 configs、多组实验 outputs 与 report 目录，点评以“深度学习大作业参考”指向该仓库，课程页为深度学习基础；匿名核对仓库页与目录结构可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/cbyybc/deeplearning",
+        "note": "类型按仓库内容（课程大作业代码与报告）判定；未逐份核验报告正文与成绩归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-cbyybc-deeplearning",
+          "page_url": "https://github.com/cbyybc/deeplearning",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库未声明许可证；仅导航原页面，不转存文件。",
+          "attribution": "GitHub @cbyybc：深度学习大作业",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-cbyybc-deeplearning": "cbyybc/deeplearning（深度学习大作业）"
+  }
 }

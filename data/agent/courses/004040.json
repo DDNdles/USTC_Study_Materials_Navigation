@@ -35,7 +35,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "f8158e30255d04d1402b630717f8e680663464b2fa5e7c44d4a1e4884a1a5b40",
+            "bytes": 134988,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -66,10 +71,66 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "d5be96a7f5684335b06b9466d879622741c5657f155b8cb6abd08e760a3c7c46",
+            "bytes": 265621,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-004040-530c7834840f6d08",
+      "type": "exams",
+      "title": "计算物理B 2025 秋期末（手写试卷照片）",
+      "authors": [],
+      "notes": "点评正文注明“25秋试卷（手写将就着看）”；两张 3072×4096 页面照片，匿名 DOM 中为 img src 直链；依据公开点评上下文与图片页面核验（2026-11-19）。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "recollection",
+        "has_solutions": false,
+        "evidence_url": "https://icourse.club/course/24592/#review-98765",
+        "note": "依据点评正文“25秋试卷（手写）”与两张竖版页面照片核验；未确认解答。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24592/#review-98765",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/429bbf15bca961d2c4d6c0b75f2ccdaaefd525ca.jpg",
+          "access": "public",
+          "license_note": "仅链接评课社区公开图片；具体授权以原页面声明为准",
+          "attribution": "评课社区用户公开上传（见原点评）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "3060a127f33e7e5156d0b02c892b87ac7b789f77fce8804f1e6c10091c95b3f4",
+            "bytes": 3511535,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24592/#review-98765",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/f47945c2e9d8f9280f2f6e50a4a88c17c8d41ccf.jpg",
+          "access": "public",
+          "license_note": "仅链接评课社区公开图片；具体授权以原页面声明为准",
+          "attribution": "评课社区用户公开上传（见原点评）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "562940f07c22d2c8ccc9508424a043eddede845bb8a3f4d13aad7375b9779c22",
+            "bytes": 3870918,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-uexam-004040-2022-final-01c8a4",
@@ -97,7 +158,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6cfdfde37c34260b6ccd265907869ab6fafa47841d5c61b48aa3bb6278c4badf",
+            "bytes": 340380,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -169,7 +235,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "e80a328252303a20cfc4ebaa0212ea894ea3c6b4de2087e76be38672bd6eb85b",
+            "bytes": 161492,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -210,7 +281,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5f06966b3be0b0a40e7b7601cbb3dd2cfed8537dde8dd1e70af97aebb15df563",
+            "bytes": 57955,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -218,6 +294,7 @@
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "icourse-club": "USTC 评课社区",
     "feixu-alist": "feixu 学习资料分享站（AList）"
   }
 }

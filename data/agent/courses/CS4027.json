@@ -7,7 +7,69 @@
     "ai",
     "security"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-CS4027-b5c4d03e4ef4f6be",
+      "type": "projects",
+      "title": "机器学习/深度学习课程资料（magichear）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2025春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/magichear/Machine_Learning",
+        "note": "评课社区公开点评（2025春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-magichear-machine-learning",
+          "page_url": "https://github.com/magichear/Machine_Learning",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 magichear/Machine_Learning",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS4027-4f73e926db8ee769",
+      "type": "projects",
+      "title": "MNIST 入门教学仓库（ShirakawaSanae）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2025春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ShirakawaSanae/MNIST-intro",
+        "note": "评课社区公开点评（2025春）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-shirakawasanae-mnist-intro",
+          "page_url": "https://github.com/ShirakawaSanae/MNIST-intro",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 ShirakawaSanae/MNIST-intro",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-magichear-machine-learning": "机器学习/深度学习课程资料",
+    "gh-shirakawasanae-mnist-intro": "MNIST 入门教学仓库"
+  }
 }

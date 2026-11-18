@@ -36,7 +36,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "c1c0af32bd1a108ae8a3ddf995652f3376773b83127a3f82a0d43a588ef270be",
+            "bytes": 169586,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -69,7 +74,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "a184e5a2ef977446d34929114f1d302735e4872679aa5675644051bbd3b51421",
+            "bytes": 1900012,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -102,7 +112,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "dbfafd5788913afe9646a85efd90a19a7d5d46098baecd7979b33b60d3a34ab8",
+            "bytes": 1499796,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -135,7 +150,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "e3dd1a187656efe79cb33184bc889af5a26f679947c9f40f45248b77bce7db87",
+            "bytes": 398565,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -168,7 +188,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "3835973ece573bfe34416e9091119cddb54567431cfa5684ea2f055accd4ea6e",
+            "bytes": 1032147,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -199,7 +224,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "97f8b833ee4da38d952cfba756ccc6a4d29d539e9327b58593aa5504348e99f2",
+            "bytes": 925104,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -230,7 +260,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "2e34d2dcd422350a091767c39206e205da73f2a3c30d68250bb41b7db8302893",
+            "bytes": 386632,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -261,7 +296,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "427f097cb425370e3ed16661a718023c3b577fa782e225db5c6eef0affd05edb",
+            "bytes": 720126,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -271,7 +311,7 @@
       "type": "exams",
       "title": "2009-2010第二学期线性代数(B1)期中考试试卷",
       "authors": [],
-      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 f18473ac54f079…",
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -281,7 +321,7 @@
         "exam_form": "original",
         "has_solutions": false,
         "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2009%E2%80%942010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
-        "note": "2 页；2 页扫码卷；卷头「中国科学技术大学 2009—2010学年第二学期期中考试试卷／考试科目：线性代数」，未写 B1、无 A/B 卷标记；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，225183 字节，与本地副本一致；sha256 前缀 f18473ac54f079。"
+        "note": "2 页扫描卷；卷头「中国科学技术大学 2009—2010学年第二学期期中考试试卷／考试科目：线性代数」，未写 B1、无 A/B 卷标记；未见解答。"
       },
       "locations": [
         {
@@ -292,7 +332,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "f18473ac54f0794fa78ceab018658c85df429014c6c7590e86da4663aeef13b6",
+            "bytes": 225183,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -302,7 +347,7 @@
       "type": "exams",
       "title": "2010-2011第二学期线性代数(B1)期末考试试卷及答案",
       "authors": [],
-      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 1717ead32a84f3…",
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -312,7 +357,7 @@
         "exam_form": "original",
         "has_solutions": true,
         "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2010%E2%80%942011%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
-        "note": "10 页；10 页；卷头「中国科学技术大学 2010–2011 学年第二学期《线性代数》期终考试试卷」，第 7—8 页为参考答案（文本层可读）。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，143053 字节，与本地副本一致；sha256 前缀 1717ead32a84f3。"
+        "note": "10 页；卷头「中国科学技术大学 2010–2011 学年第二学期《线性代数》期终考试试卷」，第 7—8 页为参考答案（文本层可读）。"
       },
       "locations": [
         {
@@ -323,7 +368,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "1717ead32a84f33dcb8f28e07ee80759c127189d1e6fbf4c9f0d6f656f44e643",
+            "bytes": 143053,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -333,7 +383,7 @@
       "type": "exams",
       "title": "2011-2012第一学期线性代数(B1)期中考试试卷",
       "authors": [],
-      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 a62e471fb92d07…",
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -343,7 +393,7 @@
         "exam_form": "original",
         "has_solutions": false,
         "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2011%E2%80%942012%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
-        "note": "4 页；4 页；卷头「线性代数与解析几何(A)（2011.11.18）」，未写 B1；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，71611 字节，与本地副本一致；sha256 前缀 a62e471fb92d07。"
+        "note": "4 页；卷头「线性代数与解析几何(A)（2011.11.18）」，未写 B1；未见解答。"
       },
       "locations": [
         {
@@ -354,7 +404,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "a62e471fb92d077b2ae8b4e9a64277675c3a697609774bbc28c20ae1741abed9",
+            "bytes": 71611,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -364,7 +419,7 @@
       "type": "exams",
       "title": "2012-2013第二学期线性代数(B1)期终考试试卷",
       "authors": [],
-      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 d58464e9b4836d…",
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -374,7 +429,7 @@
         "exam_form": "original",
         "has_solutions": false,
         "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
-        "note": "3 页；3 页；卷头「中国科学技术大学 2012-2013学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；与「另一份」同场次同卷别但题目不同，两卷并存原因未知；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，100148 字节，与本地副本一致；sha256 前缀 d58464e9b4836d。"
+        "note": "3 页；卷头「中国科学技术大学 2012-2013学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；与「另一份」同场次同卷别但题目不同，两卷并存原因未知；未见解答。"
       },
       "locations": [
         {
@@ -385,7 +440,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "d58464e9b4836d90f32f0b5ac4b8894983686e503665575d789597dd9a181803",
+            "bytes": 100148,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -395,7 +455,7 @@
       "type": "exams",
       "title": "2012-2013第二学期线性代数(B1)期终考试试卷（另一份）",
       "authors": [],
-      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 11b9cc9e0fa44d…",
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -405,7 +465,7 @@
         "exam_form": "original",
         "has_solutions": false,
         "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
-        "note": "4 页；4 页；卷头「2012-2013学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；原 GitHub 文件名写作「期中」，与卷头不符，本地按卷头改名。与同场次另一份 3 页试卷（另资源）卷头同为第二学期期终 A 卷，但题目不同；仅凭两份文件无法判定差异原因（如分班/重考），二者并列保留，不合并、不自动挂载。未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，278686 字节，与本地副本一致；sha256 前缀 11b9cc9e0fa44d。"
+        "note": "4 页；卷头「2012-2013学年第二学期期终考试试卷(A)／考试科目：线性代数(B1)」；原 GitHub 文件名写作「期中」，与卷头不符。与另一个 3 页版本同场次、同卷别，但题目不同，原因未知，二者分别保留；未见解答。"
       },
       "locations": [
         {
@@ -416,7 +476,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "11b9cc9e0fa44d4e4e70771c2431fb9fa35bd689027cc54bcd13c3bdb86a86dd",
+            "bytes": 278686,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -426,7 +491,7 @@
       "type": "exams",
       "title": "2012-2013第一学期线性代数B1期末考试试卷",
       "authors": [],
-      "notes": "GitHub 原始扫描件（数学类/线性代数B1）；本地副本与 raw 下载字节数一致，md5 ff9c8b3b995aed…",
+      "notes": "GitHub 原始扫描件（数学类/线性代数B1）。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -436,7 +501,7 @@
         "exam_form": "original",
         "has_solutions": false,
         "evidence_url": "https://github.com/fandahao17/USTC-CS-Courses-Resource/blob/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2012%E2%80%942013%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf",
-        "note": "4 页；4 页；卷头「2012-2013学年第一学期期终考试试题／考试科目：线性代数B1」；未见解答。 raw.githubusercontent.com 匿名可取：HTTP 200 application/octet-stream，84325 字节，与本地副本一致；sha256 前缀 ff9c8b3b995aed。"
+        "note": "4 页；卷头「2012-2013学年第一学期期终考试试题／考试科目：线性代数B1」；未见解答。"
       },
       "locations": [
         {
@@ -447,7 +512,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "ff9c8b3b995aed017f2845e72d02e1aa4b538534b786ed1951c956f383c0c5a5",
+            "bytes": 84325,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -478,7 +548,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "2634e28a86bd34c6736e786bd7f5c268604a77dc5298736ff0c0b9a3b78199a8",
+            "bytes": 274502,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -509,7 +584,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "65a8a006ef59b7dedeea2b7f26864687b60f8ea9dbfd44c1647b1051995ee980",
+            "bytes": 165403,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -540,7 +620,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "97d44c5c220fb01290631ebcaa2b5dd709d5e5826a27fd8c840682226293ffe5",
+            "bytes": 81672,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -571,7 +656,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "0ee6f7a1ddddb6dd57c8983fa6f997d54118ea0c67e742e58e8df07391dc97a7",
+            "bytes": 75321,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -612,7 +702,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "628cbb630be4b05ff4149822c36983a6e64b7ed2c2213f46f3ab9d1598b693a8",
+            "bytes": 274310,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -643,7 +738,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "fdd1d8d4518d2605fbc14382547e9ae404bcb416b02885ec9cd49785d0c8105e",
+            "bytes": 79061,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -684,7 +784,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "ede7c5728a501c803c606f92164d3e299f42e07ec1db32a022e2288572996059",
+            "bytes": 287222,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -715,7 +820,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "7b4a1d95c9fa2fdd444c4e30b1fa6fd9aeba544bfa18348943b6728a25712409",
+            "bytes": 233757,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -746,7 +856,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 为 MIT（GitHub API 元数据）；试卷权利仍属原作者/课程教师，MIT 不当然覆盖第三方试卷内容",
           "attribution": "fandahao17/USTC-CS-Courses-Resource（GitHub）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "3f1d5a5aa7764848ceb20e875f51cba12f836bdbb56e5f6bddc5dff1c7223dec",
+            "bytes": 209417,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -814,7 +929,12 @@
           "access": "public",
           "license_note": "评课社区附件直链，匿名可取；权利归原作者/教师，站点未声明逐文件再分发许可",
           "attribution": "USTC 评课社区（附件直链）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "edc164deafeba0b05e2d884dc4f8c5dc3008cee2c0d58c86be482398a34ea5b8",
+            "bytes": 508538,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"

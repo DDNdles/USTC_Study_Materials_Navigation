@@ -6,7 +6,59 @@
   "tags": [
     "chemistry"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-CHEM4004-db059affbe8c8669",
+      "type": "exams",
+      "title": "金属有机化学导论 2025 春期末试题（2 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为当年期末试题，2 张图片匿名可见；解答未随附。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22509/#review-93063",
+        "note": "依据原点评公开正文的卷别描述与配图核验；未在正文明确的年份与解答情况不推断。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22509/#review-93063",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/856aa8e1b6dcc71d76f8d1f08424559252a9e1d2.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6ea6da517ca9910c281488aa5f372156c57fcda406d070c9b23cf3cfef41fe1a",
+            "bytes": 2498375,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22509/#review-93063",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/716d316a4683d38aa6e782ad0d31a742a2ad49f5.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "2bda82f74cfb0ed65552fe3cc0883e8f14701395fcae0063c4469e4d7fe43708",
+            "bytes": 1192512,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

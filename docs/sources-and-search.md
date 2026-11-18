@@ -4,13 +4,13 @@
 
 ## 概览
 
-- 课程：1184 门（已收录资料 219 门，暂未收录 965 门）。
-- 资料：1407 条（按资料类型与试题年份的覆盖见下一节）。
-- 来源：53 个登记来源，其中 50 个被正式资料引用。
-- 检索记录：4500 条，覆盖 1184 门课程。
+- 课程：1184 门（已收录资料 256 门，暂未收录 928 门）。
+- 资料：1557 条（按资料类型与试题年份的覆盖见下一节）。
+- 来源：165 个登记来源，其中 155 个被正式资料引用。
+- 检索记录：5470 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 1862 个网址，监控文件覆盖其中 1760 个。
-- 检查结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 102。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2184 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 429。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -62,6 +62,13 @@
 - **学习资料**
   - 2026 年：2026 秋 常微分方程（章俊彦班） · 课程讲义 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/ODELN-20261104.pdf
 
+### 001108 数学实验
+
+专业课 · 计算机 · 数学
+
+- **作业、习题与小测**
+  - 数学实验（001108）作业 Notebook（2023 秋） —— tiankaima/Notebooks（数学实验等课程 Notebook）；核验于 2026-11-19 https://github.com/tiankaima/Notebooks
+
 ### 001122 偏微分方程
 
 通修课 · 数学
@@ -87,7 +94,10 @@
 
 专业课 · 数学
 
+- **学习资料**
+  - 数学建模 课程主页（陈仁杰，2026） —— 数学建模课程主页（陈仁杰，2026）；核验于 2026-11-19 http://staff.ustc.edu.cn/~renjiec/mm2026/
 - **大作业与考核作品**
+  - 数学建模 2026 春课程作业（GitHub 仓库） —— TheVaticanCameos/USTC_MM_26；核验于 2026-11-19 https://github.com/TheVaticanCameos/USTC_MM_26
   - 数学建模课程作业（2025春） —— TheVaticanCameos/USTC_MM_25；核验于 2026-11-18 https://github.com/TheVaticanCameos/USTC_MM_25
 
 ### 001505 复变函数A
@@ -132,6 +142,8 @@
   - 2022—2023 学年（期末、回忆版、无解答）：2022-2023学年第一学期复变函数(B)期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.jpg（文件页）
   - 2003—2004 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2017—2018 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年、2022—2023 学年、2023—2024 学年、2024—2025 学年（期末、原题、解答情况不明）：复变函数历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 年份待确认（期末、原题、无解答）：复变函数历年真题集（2026版，A/B 期末题） —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/complexexams.pdf（资料目录）
+- **作业、习题与小测**
+  - 复变函数B 习题解答（第 1—7 章） —— USTC 复变函数B 习题解答；核验于 2026-11-19 https://fubianb.brealid.cn/2022/chapter1/（资料目录）
 - **学习资料**
   - 复变期末复习讲义-舒文炫 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AE%B2%E4%B9%89-%E8%88%92%E6%96%87%E7%82%AB.pdf（文件页）
 
@@ -140,7 +152,7 @@
 专业课 · 数学
 
 - **试题与解析**
-  - 2017 年（类型不明、形式不明、解答情况不明）：数理方程B 2017 试卷 —— USTC-Resource/USTC-Course https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf
+  - 2017 年（期末、原题、含解答）：数理方程B 2017 期末试题（含参考答案） —— USTC-Resource/USTC-Course https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题1 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%981.pdf（文件页）
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题2 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%982.pdf（文件页）
   - 年份待确认（类型不明、原题、解答情况不明）：数理方程B 试卷 —— Kobe972/ustc_course_plus https://raw.githubusercontent.com/Kobe972/ustc_course_plus/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%20%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB.pdf
@@ -175,6 +187,8 @@
   - 2016 年（期末、原题、含解答）：2016实分析H期末考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2016%E5%AE%9E%E5%88%86%E6%9E%90H%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2016 年（期中、原题、含解答）：2016实分析H期中考试 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2016%E5%AE%9E%E5%88%86%E6%9E%90H%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
   - 2016 年（期中、原题、含解答）：实分析 2016 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016realHmid.pdf
+- **学习资料**
+  - 实分析 课程主页（2018 春，王作勤） —— 实分析课程主页（2018 春，王作勤）；核验于 2026-11-19 http://staff.ustc.edu.cn/~wangzuoq/Courses/18S-RealAnalysis/index.html
 
 ### 001704 近世代数(H)
 
@@ -186,6 +200,8 @@
   - 2023 年（期末、原题、解答情况不明）：近世代数 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023alg2Hfinal.pdf
   - 2021 年（期中、形式不明、解答情况不明）：近世代数 2021 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021alg2Hmid.pdf
   - 2020 年（期末、原题、解答情况不明）：近世代数 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020alg2Hfinal.pdf
+- **学习资料**
+  - 近世代数(H) 讲义（lyuchangle2006） —— lyuchangle2006 课程讲义；核验于 2026-11-19 https://lyuchangle2006.github.io/files/%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0(H)%E8%AE%B2%E4%B9%89.pdf（文件页）
 
 ### 001705 微分几何(H)
 
@@ -199,6 +215,8 @@
   - 2020 年（期中、原题、解答情况不明）：微分几何 2020 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020DGHmid.pdf
   - 2019 年（期末、原题、解答情况不明）：微分几何 2018 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2018DGHfinal.pdf
   - 2017 年（期末、原题、解答情况不明）：微分几何 2017 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2017DGHfinal.pdf
+- **学习资料**
+  - 微分几何(H) 课程主页（刘世平，2025 秋讲义与习题索引） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~spliu/Teaching.html
 
 ### 001706 泛函分析(H)
 
@@ -213,6 +231,8 @@
   - 2017 年（期末、原题、解答情况不明）：2017泛函分析H期末考试 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2017%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90H%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2017 年（期末、原题、解答情况不明）：泛函分析 2017 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2017FAHfinal.pdf
   - 2016 年（期末、原题、解答情况不明）：2016泛函分析H期末考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2016%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90H%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
+- **学习资料**
+  - 泛函分析(H) 讲义（lyuchangle2006） —— lyuchangle2006 课程讲义；核验于 2026-11-19 https://lyuchangle2006.github.io/files/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90(H)%E8%AE%B2%E4%B9%89.pdf（文件页）
 
 ### 001707e 拓扑学(H)(英)
 
@@ -233,6 +253,7 @@
 专业课 · 计算机
 
 - **学习资料**
+  - 计算机图形学前沿 2023 暑期课程主页 —— 2023 中科大计算机图形学暑期课程；核验于 2026-11-19 http://gcl.ustc.edu.cn/Courses/SummerSchool_2023/index.html
   - 计算机图形学前沿 课程主页资料 —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~lgliu/
 
 ### 002001 固体物理A
@@ -243,16 +264,27 @@
   - 2026 年（期末、回忆版、解答情况不明）：固体物理 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpSSPAFinalZJ.pdf
   - 2019 年（期末、原题、解答情况不明）：固体物理A 2019期末考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86A%202019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
 - **学习资料**
+  - 固体物理 课程讲义（教师主页） —— 固体物理课程讲义（教师主页）；核验于 2026-11-19 http://staff.ustc.edu.cn/~gzwang/
+  - 固体物理 课程主页（翁老师） —— 固体物理课程主页（翁老师）；核验于 2026-11-19 http://staff.ustc.edu.cn/~weng/index_SSP.html
   - 固体物理期末笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 固体物理期末整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E6%95%B4%E7%90%86.pdf（文件页）
   - 固体物理期中整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E4%B8%AD%E6%95%B4%E7%90%86.pdf（文件页）
   - 固体物理知识点速记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9%E9%80%9F%E8%AE%B0.pdf（文件页）
   - 固体物理总复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%80%BB%E5%A4%8D%E4%B9%A0.pdf（文件页）
 
+### 003024 统计力学
+
+专业课 · 物理 · 化学
+
+- **学习资料**
+  - 统计力学课程讲义（徐老师部分） —— USTC 个人主页（suyupilemao）；核验于 2026-11-19 http://home.ustc.edu.cn/~suyupilemao/files/stamech.pdf（文件页）
+
 ### 003044 物理化学实验
 
 专业课 · 化学
 
+- **学习资料**
+  - 物理化学实验报告 LaTeX 模板仓库 —— Alberfish/Tex4PhyChe（USTC GitLab）；核验于 2026-11-19 https://git.ustc.edu.cn/Alberfish/tex4phyche（资料目录）
 - **大作业与考核作品**
   - 物理化学实验 实验报告 12 份（Op.155 No.1–12） —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C
 
@@ -262,6 +294,7 @@
 
 - **大作业与考核作品**
   - 物理化学基础实验（上/下）实验研究报告 15 份（材料系本科） —— flimmernz/course-note（材料系课程笔记与报告）；核验于 2026-11-18 https://github.com/flimmernz/course-note/tree/main/%E7%89%A9%E5%8C%96%E5%AE%9E%E9%AA%8C
+  - 物理化学基础实验(I) 实验代码与报告（Gitee 仓库） —— LinweiBi/experiment-of-physical-chemistry-i；核验于 2026-11-19 https://gitee.com/LinweiBi/experiment-of-physical-chemistry-i
 
 ### 003143 物理化学基础实验(下)
 
@@ -305,6 +338,13 @@
 - **大作业与考核作品**
   - 2024 年：物理化学 III · 课程报告：基于几何的经典力学与经典热力学 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-19 https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%2C%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A.pdf（文件页）
 
+### 003158 量子物理
+
+专业课 · 物理
+
+- **学习资料**
+  - 量子物理习题课录像（2021-03-03） —— B 站课程习题课录像；核验于 2026-11-19 https://www.bilibili.com/video/BV1fX4y1G7tP
+
 ### 004040 计算物理B
 
 专业课 · 计算机 · 物理
@@ -312,6 +352,7 @@
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：计算物理 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaCompPhyBFinalGY.pdf
   - 2025 年（期末、原题、解答情况不明）：计算物理 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpCompPhyBFinal.pdf
+  - 2025 年（期末、回忆版、无解答）：计算物理B 2025 秋期末（手写试卷照片） —— USTC 评课社区 https://icourse.club/uploads/files/429bbf15bca961d2c4d6c0b75f2ccdaaefd525ca.jpg（文件页）
   - 2022 年（期末、形式不明、解答情况不明）：计算物理 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaCompPhyBFinalWYS.jpg
   - 2022 年（期末、形式不明、解答情况不明）：计算物理B 2022期末（wys班） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86B%202022%E6%9C%9F%E6%9C%AB%EF%BC%88wys%E7%8F%AD%EF%BC%89.jpg（文件页）
   - 2022 年（期末、原题、解答情况不明）：计算物理B 2022期末（zzy班） —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86B%202022%E6%9C%9F%E6%9C%AB%EF%BC%88zzy%E7%8F%AD%EF%BC%89.pdf（文件页）
@@ -323,6 +364,14 @@
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：等离子体物理导论 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaIPPFinal.pdf
+
+### 005101 计算力学基础
+
+专业课 · 力学 · 数学
+
+- **大作业与考核作品**
+  - 计算力学基础 课程代码（ADI、Roe、梁与热传导等） —— NightGlow0826/ComputationalMechanics（计算力学基础代码）；核验于 2026-11-19 https://github.com/NightGlow0826/ComputationalMechanics
+  - 计算力学基础 有限元上机代码与往年题（FEMcode2016） —— zhengxiuyuanustc-cmd/FEMcode2016（有限元上机代码与往年题）；核验于 2026-11-19 https://github.com/zhengxiuyuanustc-cmd/FEMcode2016
 
 ### 006125 信息论A
 
@@ -357,6 +406,13 @@
   - 统计信号分析与处理复习资料 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E5%A4%8D%E4%B9%A0%20-%202025.pdf
   - 统计信号分析与处理课程PDF（绪论至第六章） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing
 
+### 006204 光通信网络基础
+
+专业课 · 通信
+
+- **学习资料**
+  - 光通信网络基础 课程讲义（朱庆珠课程页） —— 朱庆珠 光通信网络课程页；核验于 2026-11-19 https://www.zuqingzhu.info/OCN.html
+
 ### 006205 信号建模与算法实践
 
 专业课 · 通信 · 人工智能
@@ -384,6 +440,20 @@
 
 - **学习资料**
   - 药物化学（Medicinal Chemistry）分章课件：导论、药物筛选、先导优化、SAR、DMPK、前药、心血管药物等 —— Ke Ruan 课程页（bionmr.ustc.edu.cn/courses）；核验于 2026-11-18 http://bionmr.ustc.edu.cn/courses/
+
+### 009501 机械制图及CAD基础
+
+专业课 · 机械与仪器
+
+- **学习资料**
+  - 机械制图多媒体教程（分章 HTML 课件） —— 机械制图多媒体教程；核验于 2026-11-19 http://202.38.71.7/chap01/html/default.html（资料目录）
+
+### 010009 模式识别导论
+
+专业课 · 人工智能
+
+- **大作业与考核作品**
+  - 2020 年：模式识别 2020 秋 3 个实验源码 —— yxli2123/pattern-recognition-experiments；核验于 2026-11-19 https://github.com/yxli2123/pattern-recognition-experiments（资料目录）
 
 ### 010159 自动控制原理
 
@@ -427,6 +497,7 @@
 专业课 · 自动化 · 机械与仪器
 
 - **学习资料**
+  - 执行器技术 复习提纲（3 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/6eed366709c9e1580cc7c1c1f8a5750c3c8892b9.png
   - 执行器技术课件与作业（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF
 
 ### 010205 运动控制
@@ -492,13 +563,18 @@
   - 2019 年（期末、形式不明、含解答）：图论 2019 秋期末试题与答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
   - 2018 年（期末、回忆版、解答情况不明）：图论 2018 期末回忆版（许胤龙、吕敏班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2018F.pdf
   - 2018 年（期末、形式不明、含解答）：图论 2018 秋期末试题与答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
+- **学习资料**
+  - USTC 图论课程答案与笔记（sakura0423） —— USTC 图论课程答案与笔记；核验于 2026-11-19 https://github.com/sakura0423/USTC_Graph_Theory（资料目录）
+- **大作业与考核作品**
+  - 图论 答案与习题课 PPT（hwp-lab 整理） —— hwp-lab/USTC-Courses-Data（计算机学院课程资料）；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Graph%20Theory（资料目录）
+  - 图论 作业与资料（Enguikong） —— 图论作业与资料；核验于 2026-11-19 https://github.com/Enguikong/Graph_theory（资料目录）
 
 ### 011044 计算机导论
 
 专业课 · 计算机
 
 - **学习资料**
-  - 计算机导论课程报告（孙旭磊） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AD%99%E6%97%AD%E7%A3%8A%EF%BC%89.pdf（文件页）
+  - 计算机导论课程报告（孙旭磊） —— feixu 学习资料分享站（AList）；核验于 2026-11-19 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AD%99%E6%97%AD%E7%A3%8A%EF%BC%89.pdf（文件页）
 
 ### 011103 代数结构
 
@@ -508,12 +584,14 @@
   - 2023 年（期末、原题、解答情况不明）：2023代数结构期末试题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/2023%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
   - 2023 年（类型不明、形式不明、解答情况不明）：代数结构 2023 试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgebraicStructure2023.pdf
   - 2018 年、2019 年、2023 年（期中期末混合、原题、解答情况不明）：代数结构往年卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E5%BE%80%E5%B9%B4%E5%8D%B7.pdf（文件页）
+  - 2022 年（类型不明、原题、解答情况不明）：代数结构 2022 年春季学期考试试卷 —— USTC 评课社区 https://icourse.club/uploads/images/42474de035d8c2a7b4572265c5c9ae46aaad517b.png（文件页）
   - 2022 年（类型不明、形式不明、解答情况不明）：代数结构 2022 试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgebraicStructure2022.pdf
   - 2019 年（类型不明、原题、无解答）：代数结构 2019 试卷（徐宏力班） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgebraicStructure2019.pdf
   - 2018 年（期末、原题、无解答）：代数结构 2018 春期末试题（Lyncien 整理） —— USTC-Resource/USTC-Course、USTC-CS-Course-Resource/USTC-CS-Resources、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2020—2021 学年（期末、原题、解答情况不明）：代数结构 2020—2021 学年第二学期期末试题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/2021%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
   - 年份待确认（小测、原题、解答情况不明）：2020代数结构小测 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/2020%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E5%B0%8F%E6%B5%8B.pdf（文件页）
+  - 代数结构（孙淑玲）课后习题答案与讲义 —— Enguikong/Algebraic_structure；核验于 2026-11-19 https://github.com/Enguikong/Algebraic_structure（资料目录）
 - **学习资料**
   - 代数结构 讲义与复习资料（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84
   - 代数结构 课程网站（2020代数结构课程主页） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://home.ustc.edu.cn/~lt1378520056/
@@ -529,6 +607,10 @@
   - 2021 年（期末、原题、含解答）：人工智能基础 2021 期末试题及参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2021%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
   - 年份待确认（期末、原题、无解答）：人工智能基础 2020 春期末试题（011119，A 卷） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、USTC-CS-Course-Resource/USTC-CS-Resources、feixu 学习资料分享站（AList） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ArtificialIntelligence%202020%20Spring.pdf
   - 年份待确认（期末、原题、含解答）：人工智能基础 2020 期末试题参考答案（sxl，非官方） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/2020%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88sxl%EF%BC%88%E4%B8%8D%E4%B8%80%E5%AE%9A%E5%AF%B9%EF%BC%89.pdf（文件页）
+- **学习资料**
+  - 人工智能基础 课程资料包（实验、复习资料与 2019—2021 期末试卷） —— 人工智能基础课程资料包（Google Drive 公开分享）；核验于 2026-11-19 https://drive.usercontent.google.com/download?id=1wTV1vfdICaOfRIbpbx8mbsMqIng3mCY_&export=download&confirm=t（文件页）
+- **大作业与考核作品**
+  - 2022 年：人工智能基础 2022 实验代码与报告 —— xXuHaiyang/USTC_AI2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_AI2022_Lab（资料目录）
 
 ### 011144 计算机网络
 
@@ -541,9 +623,13 @@
   - 2018 年（期末、原题、无解答）：计算机网络 2018 秋期末试题 —— USTC-Resource/USTC-Course、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/exams/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2018 年（期中期末混合、形式不明、解答情况不明）：计算机网络期末试卷合集（2016—2017、2018 秋、2020—2021） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB%E5%90%88%E9%9B%86.pdf（文件页）
 - **作业、习题与小测**
+  - 《计算机网络：自顶向下方法（第 7 版）》课后习题参考答案（食铁兽） —— 食铁兽（JackeyLea）技术博客；核验于 2026-11-19 https://feater.top/book/compute-network-top-down-mothed-answer/
+  - 《计算机网络：自顶向下方法》课后题、实验与编程作业答案 —— jzplp/Computer-Network-A-Top-Down-Approach-Answer；核验于 2026-11-19 https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer（资料目录）
   - 计算机网络 习题答案（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
   - 计算机网络 作业（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/5-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/hw4.pdf（文件页）
 - **学习资料**
+  - 《计算机网络：自顶向下方法》笔记、编程作业与 Wireshark 实验翻译 —— moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES；核验于 2026-11-19 https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES（资料目录）
+  - 计算机网络 课程资料包（笔记、测验答案、历年期中期末与复习资料） —— 计算机网络课程资料包（Google Drive 公开分享）；核验于 2026-11-19 https://drive.usercontent.google.com/download?id=1rI8fScVBO7sz6oNwwGQNpbyGTFD8mDkH&export=download&confirm=t（文件页）
   - 2017 年、2018 年、2025 年：计算机网络 课件与试卷（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
   - 2017 年：计算机网络 课件与作业（USTC-CS-Courses-Resource，华蓓/v7/信明三套课件） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
   - 计算机网络 知识点与小抄（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes
@@ -551,6 +637,7 @@
   - 计算机网络期末大抄（标准版、详细版） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%9C%9F%E6%9C%AB%E5%A4%A7%E6%8A%84.docx（文件页）
   - 计算机网络期中大抄（标准版、5 号字版、详细版） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%9C%9F%E4%B8%AD%E5%A4%A7%E6%8A%84.docx（文件页）
 - **大作业与考核作品**
+  - 2020 年：计算机网络 Lab1 DNS Relay 代码与实验报告 —— WalterSumbon/DNS-Relay；核验于 2026-11-19 https://github.com/WalterSumbon/DNS-Relay（资料目录）
   - 计算机网络实验报告（EXP1—EXP6，sxl） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/sxl%20EXP1.pdf（文件页）
 
 ### 011145 计算机组成原理
@@ -559,17 +646,18 @@
 
 - **试题与解析**
   - 2017 年（期末、原题、解答情况不明）：计算机组成原理 2017 期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
-  - 2017 年（类型不明、形式不明、解答情况不明）：计算机组成原理 2017 试卷（README：授课未知） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf
+  - 2017 年（期末、回忆版、解答情况不明）：计算机组成原理 2017 试卷（2016-2017 学年第二学期，回忆版） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、USTC-Resource/USTC-Course https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf
 - **作业、习题与小测**
   - 计算机组成原理课本习题答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 2017 年：计算机组成原理 笔记（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/Computer-Organization-and-Design
+  - 计算机组成原理 读书笔记（IO/总线）（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/notes/mbinary（资料目录）
   - 2024 年、2025 年、2026 年：计算机组成原理 课程网站（计算机组成原理） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~llxx/cod/courseware.html
   - 2013 年、2025 年：计算机组成原理 课件与实验（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86
   - 2026 年：计算机组成原理 COD Lab 2026 春：实验教程 —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 https://soc.ustc.edu.cn/COD/
   - 计算机组成原理复习概要与重点 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E6%A6%82%E8%A6%81.pdf（文件页）
 - **大作业与考核作品**
-  - 计算机组成原理 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes
+  - 计算机组成原理 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes
   - 2023 年：计算机组成原理（卢建良班）2024 春实验（USTC-COD-SP24） —— lrel7/USTC-COD-SP24；核验于 2026-11-18 https://github.com/lrel7/USTC-COD-SP24/tree/master/
   - 2023 年、2025 年：计算机组成原理（卢建良班）实验与理论资料 —— TinyRubbish/Course-Materials；核验于 2026-11-18 https://github.com/TinyRubbish/Course-Materials/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%8D%A2%E5%BB%BA%E8%89%AF
 
@@ -601,14 +689,17 @@
   - 2009 年（期末、原题、含解答）：算法基础 2009 秋期末试题及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/2009%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.doc（文件页）
   - 2009 年（类型不明、形式不明、解答情况不明）：算法基础 2009 试卷（顾乃杰班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/FundamentalAlgorithms2009A.doc
   - 2009 年（类型不明、形式不明、解答情况不明）：算法基础 2009 试题（第二份） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/FundamentalAlgorithms2009Q.doc
+  - 年份待确认（期末、形式不明、含解答）：算法基础 2025 秋期末试卷部分答案（4 图） —— USTC 评课社区 https://icourse.club/uploads/files/1d8162c7faf4dd95053bae00185fe3e890666068.jpg
 - **学习资料**
+  - 算法基础 笔记与课件（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes（资料目录）
   - 算法基础 课程网站（��ӭ���ʡ��㷨�������γ̽�ѧ��ҳ） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~xuyun/algcs.htm
   - 2009 年：算法基础 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80
   - 算法基础 资料（ustc-course-resource） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80
   - 2018 年：算法基础 资料（ustc-course-resources） —— Melmaphother/ustc-course-resources；核验于 2026-11-18 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80
   - 算法基础期中/期末大抄（陈雪班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E5%A4%A7%E6%8A%84%EF%BC%88%E9%99%88%E9%9B%AA%E7%8F%AD%EF%BC%89.docx（文件页）
+  - CLRS（算法导论）习题解答（walkccc） —— walkccc/CLRS 习题解答；核验于 2026-11-19 https://walkccc.github.io/CLRS/
 - **大作业与考核作品**
-  - 2018 年：算法基础 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/labs
+  - 算法基础 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/labs
 
 ### 011147 数据库系统及应用
 
@@ -621,6 +712,16 @@
   - 2019 年（期末、原题、解答情况不明）：数据库系统与应用 2019 期末考试 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
 - **学习资料**
   - 2009 年、2010 年：数据库系统及应用 课程网站（<font size=5>���ݿ�ϵͳ��Ӧ��</font>） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~ywyu/DBSystem.html
+- **大作业与考核作品**
+  - 数据库系统及应用 BankDB 课程项目（前后端） —— 数据库课程 BankDB 项目（前端与后端两个仓库）；核验于 2026-11-19 https://github.com/guch8017/BankDBFrontend（资料目录）
+
+### 011152 模拟与数字电路实验
+
+专业课 · 电子
+
+- **大作业与考核作品**
+  - 模拟与数字电路实验课程资料与实验工程 —— hwp-lab/USTC-Courses-Data；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Analog%20and%20Digital%20Circuits%20Lab（资料目录）
+  - 数字电路实验 2021 秋大作业（LED 大作业生成器） —— txtxj/USTC-Digital-Logic-Lab10；核验于 2026-11-19 https://github.com/txtxj/USTC-Digital-Logic-Lab10（资料目录）
 
 ### 011163 编译原理和技术
 
@@ -630,8 +731,14 @@
   - 2026 年（期中、回忆版、解答情况不明）：编译原理和技术 2026 秋期中回忆版（李诚、徐伟班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CompilerPrinciples2026AutumnMid.md
   - 2018 年（期中、原题、含解答）：编译原理和技术 2018 期中试题与参考答案 —— USTC-Resource/USTC-Course、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/exams/2018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：编译原理历年真题合集 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+- **作业、习题与小测**
+  - 编译原理与技术 作业（GitHub 仓库，2019 秋） —— lyc0930/Compiler-Homework；核验于 2026-11-19 https://github.com/lyc0930/Compiler-Homework
+- **学习资料**
+  - 编译原理 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86（资料目录）
+  - USTC 编译原理和技术 2023 课程网站 —— USTC 编译原理和技术 2023 课程网站；核验于 2026-11-19 https://ustc-compiler-principles.github.io/2023/
 - **大作业与考核作品**
-  - 2019 年：编译原理和技术 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs
+  - 编译原理 2022 秋 PL0 编译器大作业（GitHub 仓库） —— txtxj/PL0-Compiler；核验于 2026-11-19 https://github.com/txtxj/PL0-Compiler
+  - 编译原理和技术 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs
 
 ### 011174 操作系统原理与设计
 
@@ -647,11 +754,15 @@
   - 2018 年（期末、回忆版、无解答）：操作系统原理与设计 2018 期末试卷回忆（secon） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md（文件页）
   - 年份待确认（类型不明、回忆版、无解答）：操作系统原理与设计 2017 试卷（回忆版） —— USTC-Resource/USTC-Course、guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2017%E5%B9%B4%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf
 - **作业、习题与小测**
-  - 操作系统原理与设计 作业（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf（文件页）
+  - 操作系统原理与设计 作业（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf（文件页）
 - **学习资料**
   - 操作系统读书笔记（死锁 / 文件 IO / 多处理器） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary（资料目录）
   - 2015 年、2016 年、2017 年：操作系统原理与设计 课件与实验（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1
+  - USTC OS Docs：操作系统实验与作业文档站 —— USTC OS Docs（操作系统实验文档）；核验于 2026-11-19 http://home.ustc.edu.cn/~pzw2002/
 - **大作业与考核作品**
+  - 操作系统原理与设计 实验报告 2（NachOS Fork/Exec/Join/Shell，USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab2_PB16020923.pdf
+  - 操作系统原理与设计 实验报告 3（NachOS 文件系统，USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab3_PB16020923.pdf
+  - 操作系统原理与设计 实验代码（USTC-OS-Lab-2022，lab1–lab4） —— Fluuuegel/USTC-OS-Lab-2022（操作系统实验）；核验于 2026-11-19 https://github.com/Fluuuegel/USTC-OS-lab-2022（资料目录）
   - 2025 年：操作系统原理与设计（陈香兰班）实验与理论资料 —— TinyRubbish/Course-Materials；核验于 2026-11-18 https://github.com/TinyRubbish/Course-Materials/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1-%E9%99%88%E9%A6%99%E5%85%B0
 
 ### 011179 Web信息处理与应用
@@ -659,9 +770,11 @@
 专业课 · 计算机
 
 - **学习资料**
+  - Web 信息处理与应用 复习提纲与总结（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes（资料目录）
   - 2017 年：Web 信息处理与应用 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8
+  - Web 信息处理与应用 A4 速查资料（ljyA4.docx） —— 中科大计算机学院学习资料（含 WebInfo）；核验于 2026-11-19 https://github.com/ljy0ustc/USTC_Resources/blob/main/WebInfo/ljyA4.docx（文件页）
 - **大作业与考核作品**
-  - Web 信息处理与应用 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs
+  - Web 信息处理与应用 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs
 
 ### 011186 大数据算法
 
@@ -676,8 +789,21 @@
 - **作业、习题与小测**
   - 大数据算法 作业（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
+  - 大数据算法 课程笔记（聚类、分类等章节 Markdown） —— sigma-aster/Big-data-algorithms（大数据算法笔记）；核验于 2026-11-19 https://github.com/sigma-aster/Big-data-algorithms（资料目录）
   - 2024 年：大数据算法 Lecture 1：基础数学和统计工具 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf（文件页）
   - 2025 年：大数据算法 Notes Lec5 流算法 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf（文件页）
+  - 大数据算法（2020 春）课程主页：课件讲义 PDF 列表 —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~huding/data%20course.html
+  - Sketching Algorithms（Jelani Nelson 课程讲义 PDF） —— Sketching Algorithms（Jelani Nelson 讲义）；核验于 2026-11-19 https://www.sketchingbigdata.org/fall20/lec/notes.pdf（文件页）
+- **教材与参考书**
+  - Foundations of Data Science（Blum、Hopcroft、Kannan，作者公开完整 PDF） —— Foundations of Data Science（Blum, Hopcroft, Kannan）；免登录公开全文 PDF；核验于 2026-11-19 https://www.cs.cornell.edu/jeh/book.pdf（文件页）
+
+### 011187 数据隐私的方法伦理和实践
+
+专业课 · 网络安全 · 计算机
+
+- **作业、习题与小测**
+  - 数据隐私作业与实验目录 —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81（资料目录）
+  - 数据隐私作业与实验目录 —— Melmaphother/ustc-course-resources；核验于 2026-11-19 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81（资料目录）
 
 ### 011703 编译原理和技术(H)
 
@@ -685,6 +811,8 @@
 
 - **学习资料**
   - 2017 年、2018 年：编译原理和技术(H) 课件与实验（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF(H)
+- **大作业与考核作品**
+  - 编译原理(H) 2021 课程实验（Komorebi660） —— Komorebi660/SysYF-Compiler；核验于 2026-11-19 https://github.com/Komorebi660/SysYF-Compiler（资料目录）
 
 ### 011704 计算机系统概论(H)
 
@@ -693,9 +821,12 @@
 - **作业、习题与小测**
   - 计算机系统概论 · Homework01（含参考解答） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-19 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf（文件页）
   - 2020 年：计算机系统概论 作业与实验（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
+- **学习资料**
+  - 计算机系统概论 课程网站（acsa.ustc.edu.cn/ics） —— 中国科学技术大学计算机系统概论课程网站；核验于 2026-11-19 http://acsa.ustc.edu.cn/ics/
 - **大作业与考核作品**
   - 计算机系统概论 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
   - 2015 年：计算机系统概论 作业与实验（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
+  - 计算机系统概论(H) 2023 秋实验代码（GitHub 仓库） —— Ace-tyl/icsh-code；核验于 2026-11-19 https://github.com/Ace-tyl/icsh-code
 
 ### 011705 操作系统原理与设计(H)
 
@@ -744,7 +875,7 @@
 专业课 · 经济
 
 - **学习资料**
-  - 微观经济学分章课件与复习提纲 —— 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6
+  - 微观经济学分章课件与复习提纲 —— 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-19 https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6
 
 ### 015039 市场营销学
 
@@ -796,9 +927,11 @@
   - 2016 年（期末、原题、解答情况不明）：随机过程B 2015-2016学年第二学期补考试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf
   - 2021—2022 学年（期末、原题、解答情况不明）：随机过程B 2021-2022学年秋季学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
 - **作业、习题与小测**
-  - 随机过程习题答案（方兆本教材/第三、四章） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 随机过程习题答案（方兆本教材/第三、四章） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
-  - 随机过程复习与总结 —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/blob/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes
+  - 随机过程 复习资料（GitHub 仓库） —— Oyyko/USTC-Random-Process；核验于 2026-11-19 https://github.com/Oyyko/USTC-Random-Process
+  - 随机过程 A4 复习纸（GitHub 文件页） —— ljy0ustc/USTC_Resources；核验于 2026-11-19 https://github.com/ljy0ustc/USTC_Resources/blob/main/StochasticProcess/A4/ljy%E7%9A%84A4%E7%BA%B8.docx
+  - 随机过程复习与总结 —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes（资料目录）
 
 ### 017146 回归分析
 
@@ -806,6 +939,13 @@
 
 - **作业、习题与小测**
   - 回归分析 2025 Lab1–4 讲义与作业 —— 中科大回归分析 2025 lab（IrvingYou）；核验于 2026-11-18 https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab1%20tutorial.pdf（文件页）
+
+### 017164 时间序列分析A
+
+专业课 · 统计
+
+- **学习资料**
+  - 时间序列分析 讲义（李东风，北京大学） —— 李东风 时间序列讲义；核验于 2026-11-19 http://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html
 
 ### 017165 时间序列分析B
 
@@ -834,6 +974,13 @@
   - 有机化学(AII) 2018—2019 学年习题课练习题参考答案（第二、三次） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2018-2019%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6AII%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%BB%83%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 有机化学(A2) 分章复习图（羧酸、胺、糖、杂环、周环反应等 9 张） —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/3490/
+
+### 019080 普通化学实验
+
+专业课 · 化学
+
+- **学习资料**
+  - 普通化学实验电子版实验报告 —— home.ustc.edu.cn/~shiyaowei040126；核验于 2026-11-19 http://home.ustc.edu.cn/~shiyaowei040126/General_Chemistry_Experiment_Report.pdf（文件页）
 
 ### 019147 无机化学基础实验(上)
 
@@ -926,6 +1073,17 @@
   - 计算物理A作业（蒙特卡洛/伊辛模型等） —— Zhichenzzz/Computational-Physics-A；核验于 2026-11-18 https://github.com/Zhichenzzz/Computational-Physics-A/blob/main/homework_1/report/report.pdf（文件页）
 - **学习资料**
   - 2022 年：2022 秋 计算物理 A · 丁泽军讲义：概论 —— Rainzor/Computational-Physics；核验于 2026-11-19 https://github.com/Rainzor/Computational-Physics/blob/master/Assignments/%E8%AE%B2%E4%B9%891.pdf（文件页）
+- **大作业与考核作品**
+  - 计算物理A 课程代码与报告（elmer-sun） —— elmer-sun/computational-physics-from-ustc；核验于 2026-11-19 https://github.com/elmer-sun/computational-physics-from-ustc（资料目录）
+  - 计算物理A 课程作业（yesunhuang） —— yesunhuang/Computational-Physics；核验于 2026-11-19 https://github.com/yesunhuang/Computational-Physics（资料目录）
+  - 计算物理A 作业与报告（jingning42） —— jingning42/Computational-Physics-A；核验于 2026-11-19 https://github.com/jingning42/computational_physics_A（资料目录）
+
+### 022056 理论力学B
+
+专业课 · 力学 · 物理
+
+- **大作业与考核作品**
+  - 理论力学 课程资料（qc-1） —— qc-1/Course-Materials；核验于 2026-11-19 https://github.com/qc-1/Course-Materials/tree/main/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6（资料目录）
 
 ### 022057 电动力学
 
@@ -1021,6 +1179,8 @@
 
 - **试题与解析**
   - 2026 年（期末、原题、解答情况不明）：固体物理 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpSSPBFinalZQJ.pdf
+- **学习资料**
+  - 固体物理 讲义（晶体结构、晶体结合、晶格振动等 PDF） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~gzwang/（资料目录）
 
 ### 022148 量子力学A
 
@@ -1055,6 +1215,13 @@
   - 年份待确认（期末、形式不明、解答情况不明）：量子力学 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaQMAFinalSMJ.pdf
 - **学习资料**
   - 量子力学知识点整理（杨焕雄班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.docx（文件页）
+
+### 022166 天文学导论
+
+专业课 · 天文 · 物理
+
+- **学习资料**
+  - 天文学导论 课程讲义（薛永泉课程主页） —— 薛永泉 天文学导论课程主页；核验于 2026-11-19 http://staff.ustc.edu.cn/~xuey/IAC/000_Introduction_to_Astronomy_and_Cosmology.pdf（文件页）
 
 ### 022169 天体力学与天体测量基础
 
@@ -1115,10 +1282,13 @@
   - 2019 年（期末、形式不明、含解答）：理论力学 2019 秋期末考试（袁业飞） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62019%E7%A7%8B%E8%A2%81%E4%B8%9A%E9%A3%9E%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2018 年（期末、原题、解答情况不明）：理论力学 2018 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/18FaTMAFinalPHJ.pdf
   - 2016 年（期末、形式不明、含解答）：理论力学 2016 秋期末考试及参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：理论力学A 考卷照片（2022 秋） —— USTC 评课社区 https://icourse.club/uploads/images/82706a20a51ba3a16006b4affefcd8b0e0066c53.jpg
 - **作业、习题与小测**
   - 理论力学期中练习题 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98.pdf（文件页）
 - **学习资料**
   - 理论力学讲义（朱界杰） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%EF%BC%88%E6%9C%B1%E7%95%8C%E6%9D%B0%EF%BC%89.pdf（文件页）
+  - 理论力学A 课程笔记（2 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/images/f16be3611a5b632b2446e66fdfa31717aab58202.png
+  - 理论力学A 期末复习 PPT 内容整理（选择题范围，10 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/237e50ff574e2ea7da0b1137b3f5f4c8ca92b7af.jpg
   - 理论力学A笔记（秦敢班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6A%E7%AC%94%E8%AE%B0%EF%BC%88%E7%A7%A6%E6%95%A2%E7%8F%AD%EF%BC%89.pdf（文件页）
 
 ### 023181 线性电子线路
@@ -1159,6 +1329,13 @@
   - 2006 年：信息论 讲义（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Information%20Theory%20A
   - 信息论 课件与作业（USTC-Course-Materials-Sharing，6系信息论B） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/6-%E4%BF%A1%E6%81%AF%E8%AE%BA
 
+### 038008 近代光学基础
+
+专业课 · 物理
+
+- **大作业与考核作品**
+  - 近代光学基础 编程作业（GitHub 仓库目录） —— wangxiaoou2013/USTC-Course（高等光学编程作业）；核验于 2026-11-19 https://github.com/wangxiaoou2013/USTC-Course/tree/master/Fundamental%20of%20Advanced%20Optics
+
 ### 210031 网络安全协议
 
 专业课 · 网络安全 · 计算机 · 通信
@@ -1172,6 +1349,8 @@
 
 - **试题与解析**
   - 2025 年（期末、形式不明、解答情况不明）：数理逻辑与图论 2025 秋期末（刘斌班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathLogicGT2025F.pdf
+- **作业、习题与小测**
+  - 数理逻辑与图论（2023 秋，刘斌班）作业反馈与答案 —— minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory；核验于 2026-11-19 https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory（资料目录）
 
 ### 210045 电路基本理论
 
@@ -1206,6 +1385,15 @@
 - **学习资料**
   - 数字逻辑电路 资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits
   - 2023 年：数字逻辑电路第一次习题课讲义（1—2、4 章） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-19 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx（文件页）
+- **大作业与考核作品**
+  - 数字逻辑电路 课程资料仓库 —— 数字逻辑电路课程资料整理；核验于 2026-11-19 https://github.com/xuzhen0913/digital-circuit（资料目录）
+
+### 210060 计算机网络
+
+专业课 · 计算机 · 通信
+
+- **大作业与考核作品**
+  - 计算机网络课程实验文档（信息网络实验室 GitLab） —— 信息网络实验室 computer-network-experiment（USTC GitLab）；核验于 2026-11-19 https://git.ustc.edu.cn/infonet/computer-network-experiment（资料目录）
 
 ### 210067 近世代数与数论
 
@@ -1235,6 +1423,10 @@
   - 数据结构错题集 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt（文件页）
   - 数据结构第二~五章习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf（文件页）
   - 数据结构及应用算法经验分享 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf（文件页）
+  - 数据结构实验讲义（n_exp.pdf） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf（文件页）
+- **大作业与考核作品**
+  - 数据结构及其算法 实验题解与优秀代码（顾为兵班，2019 秋） —— 2019 秋顾为兵《数据结构及其算法》实验题解与优秀代码；核验于 2026-11-19 https://github.com/mhy98/DSACodes（资料目录）
+  - 数据结构及其算法 LAB5 马踏棋盘 —— DSA LAB5 马踏棋盘实验；核验于 2026-11-19 https://github.com/invictus-z/Knight-Tour-Game（资料目录）
 
 ### 210073 电子技术实验I
 
@@ -1278,6 +1470,7 @@
 - **学习资料**
   - 电子系统设计 实验资料与课件（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1
 - **大作业与考核作品**
+  - 电子系统设计 课程资源（xuzhen0913） —— xuzhen0913/electronic-system-designation；核验于 2026-11-19 https://github.com/xuzhen0913/electronic-system-designation/tree/main（资料目录）
   - 2024 年：电子系统设计 实验（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1
   - 2024 年、2025 年、2026 年：电子系统设计 实验与报告（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20System%20Design
 
@@ -1295,7 +1488,15 @@
 专业课 · 计算机
 
 - **学习资料**
+  - 数据库基础 课程笔记（公开站点） —— 数据库基础课程笔记（jonbgua.com）；核验于 2026-11-19 https://coursenotes.jonbgua.com/sql/
   - 数据库基础讲义与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf（文件页）
+
+### 210708 数字图像处理B
+
+专业课 · 计算机 · 人工智能
+
+- **大作业与考核作品**
+  - 数字图像处理B（2024 秋）实验代码 lab1–lab7 —— Zhuyh1139/ustc-2024-fall-dip（2024秋数字图像处理B实验）；核验于 2026-11-19 https://github.com/Zhuyh1139/ustc-2024-fall-dip
 
 ### 210712 自然语言处理
 
@@ -1331,6 +1532,7 @@
 通修课 · 人工智能 · 数学
 
 - **学习资料**
+  - 人工智能数学原理与算法 课程笔记（USTC-AI-Notes） —— LUNARKN1GHT/USTC-AI-Notes（人工智能数学原理与算法笔记）；核验于 2026-11-19 https://github.com/LUNARKN1GHT/USTC-AI-Notes
   - 2025 年：人工智能数学原理与算法 课件（课程站点 source/slides） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides
   - 2025 年：人工智能数学原理与算法 实验（课程站点 source/experiment） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment
 
@@ -1360,12 +1562,35 @@
 - **学习资料**
   - 2022 年、2023 年、2024 年：人工智能导论 课件（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA
 
+### AI3001 机器学习A
+
+专业课 · 人工智能
+
+- **大作业与考核作品**
+  - 机器学习A 课程项目（Stardust-math） —— Stardust-math/Machine_Learning_A；核验于 2026-11-19 https://github.com/Stardust-math/Machine_Learning_A（资料目录）
+
+### AI3002 人工智能与机器学习基础
+
+专业课 · 人工智能
+
+- **学习资料**
+  - 2026 年：人工智能与机器学习基础 Lab1 指南（2026 秋，3 份 PDF） —— Wanglulu114514/ResourceforAIML26；核验于 2026-11-19 https://github.com/Wanglulu114514/ResourceforAIML26（资料目录）
+- **大作业与考核作品**
+  - 人工智能与机器学习基础 五子棋大作业（强化学习智能体） —— xinchengo/autoresearch-gomoku；核验于 2026-11-19 https://github.com/xinchengo/autoresearch-gomoku（资料目录）
+
+### AI3003 深度学习基础
+
+专业课 · 人工智能
+
+- **大作业与考核作品**
+  - 深度学习基础 大作业：模型实现与报告（点评作者作品） —— cbyybc/deeplearning（深度学习大作业）；核验于 2026-11-19 https://github.com/cbyybc/deeplearning（资料目录）
+
 ### BADM2003 会计学原理
 
 专业课 · 管理 · 金融
 
 - **学习资料**
-  - 会计学原理分章幻灯片与重点 —— 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86
+  - 会计学原理分章幻灯片与重点 —— 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-19 https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86
 
 ### BIO1504G 人体健康与疾病
 
@@ -1418,12 +1643,29 @@
 - **学习资料**
   - 化学动力学 笔记与作业 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E5%8A%A8%E5%8A%9B%E5%AD%A6
 
+### CHEM4004 金属有机化学导论
+
+专业课 · 化学
+
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：金属有机化学导论 2025 春期末试题（2 图） —— USTC 评课社区 https://icourse.club/uploads/files/856aa8e1b6dcc71d76f8d1f08424559252a9e1d2.jpg
+
 ### CS1002A 计算系统概论A
 
 通修课 · 计算机
 
 - **试题与解析**
   - 2023 年（期中、形式不明、解答情况不明）：计算系统概论A(ICS) 2023 期中（安虹班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ICS2023Mid.pdf
+- **作业、习题与小测**
+  - 《Introduction to Computing Systems》第 3 版教材习题解答（第三方） —— erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）；核验于 2026-11-19 https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems
+  - 计算机系统概论(H)（2020秋）教材课后习题答案（hehaha68） —— hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）；核验于 2026-11-19 https://github.com/hehaha68/USTC_2020Fall_Introduction-to-Computing-System/tree/master/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88
+  - 计算系统概论 教材课后题答案（第 3 版前 5 章部分，PDF） —— git.ustc.edu.cn W L / ics（ICS 课后题答案）；核验于 2026-11-19 https://git.ustc.edu.cn/flurry_lw/ics/-/raw/main/ics%E8%AF%BE%E5%90%8E%E9%A2%98.pdf（文件页）
+  - 计算系统概论 作业 hw1–hw7 与部分答案（USTC-Courses-Data） —— hwp-lab/USTC-Courses-Data（计算机学院课程资料）；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/homework
+- **大作业与考核作品**
+  - 计算系统概论 实验（labs，USTC-Courses-Data） —— hwp-lab/USTC-Courses-Data（计算机学院课程资料）；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/labs
+  - 计算系统概论A 附加实验：LC-3 汇编器与模拟器（ICS-Additional-Labs） —— Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）；核验于 2026-11-19 https://github.com/Wanglulu114514/ICS-Additional-Labs
+  - 计算系统概论A（2021）实验代码（zzx6869/ics_experiment_2021） —— zzx6869/ics_experiment_2021（2021 ICS 实验）；核验于 2026-11-19 https://github.com/zzx6869/ics_experiment_2021
+  - 计算系统概论A（2022秋）课程资料：作业与实验（KZ25T/2022ics） —— KZ25T/2022ics（2022秋计算系统概论A课程资料）；核验于 2026-11-19 https://github.com/KZ25T/2022ics
 
 ### CS1003 计算机程序设计
 
@@ -1465,7 +1707,7 @@
 通识课 · 计算机
 
 - **大作业与考核作品**
-  - 计算机系统详解 实验报告与代码（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes
+  - 计算机系统详解 实验报告与代码（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes
   - 2003 年、2014 年：计算机系统详解(csapp) 实验（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%85%AC%E9%80%89%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3(csapp)
 
 ### CS1505 Java软件开发基础
@@ -1475,6 +1717,20 @@
 - **学习资料**
   - Java 软件开发基础 复习提纲（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes
   - Java软件开发基础 课程网站（刘佳薇的个人主页） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://home.ustc.edu.cn/~ljw1222/
+
+### CS1507 Python与深度学习基础
+
+通识课 · 计算机 · 人工智能
+
+- **大作业与考核作品**
+  - Python 与深度学习 课程作业（SqrtiZhang） —— SqrtiZhang/USTC；核验于 2026-11-19 https://github.com/SqrtiZhang/USTC/tree/master/Spring.2019/Python%26DeepLearning（资料目录）
+
+### CS1514 面向交叉学科的Python程序设计与跨学科实践
+
+通识课 · 计算机
+
+- **大作业与考核作品**
+  - 面向交叉学科的 Python 程序设计与跨学科实践 课程实验（2020） —— zzx6869/2020_python_program_design；核验于 2026-11-19 https://github.com/zzx6869/2020_python_program_design（资料目录）
 
 ### CS1515 Python科学计算基础
 
@@ -1502,6 +1758,10 @@
 - **学习资料**
   - 数理逻辑 笔记（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes
   - 数理逻辑 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91
+  - USTC 数理逻辑基础课程资源目录 —— Wloner0809/ustc-curriculum-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80（资料目录）
+  - USTC 数理逻辑基础课程资源目录（复习笔记） —— Melmaphother/ustc-course-resources；核验于 2026-11-19 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91（资料目录）
+- **大作业与考核作品**
+  - 数理逻辑 system-L 命题证明脚本（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/codes/mbinary/system_L.py
 
 ### CS2003 系统程序设计基础
 
@@ -1511,6 +1771,7 @@
   - 2026 年（类型不明、回忆版、解答情况不明）：系统程序设计基础 2026 春回忆版（马建辉、王志强班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/SystemProgramming2026F.md
 - **学习资料**
   - 系统程序设计基础大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%A4%A7%E6%8A%84.pdf（文件页）
+  - 系统程序设计基础课程主页（USTC ISP） —— 系统程序设计基础（USTC ISP）；核验于 2026-11-19 https://ustc-isp.github.io/
 
 ### CS2502A 数据结构A
 
@@ -1519,12 +1780,13 @@
 - **试题与解析**
   - 2025 年（期末、回忆版、解答情况不明）：2025 秋数据结构 A 期末（两条学生回忆） —— USTC 评课社区 https://icourse.club/course/25970/#review-101531
 - **学习资料**
-  - 数据结构 代码实现（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes
   - 2024 年：数据结构 课件与作业（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
   - 2015 年：数据结构 课件与作业（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
   - 数据结构 资料（ustc-course-resource） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
   - 数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa
+  - 数据结构课程资料目录 —— hwp-lab/USTC-Courses-Data；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Data%20Structure（资料目录）
 - **大作业与考核作品**
+  - 数据结构 代码实现（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes
   - 2019 年、2026 年：数据结构 作业/实验/试卷（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
   - 数据结构 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
 
@@ -1545,6 +1807,8 @@
   - 2023 年：计算机组成原理(H) 资料（ustc-course-resource） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H
 - **大作业与考核作品**
   - 计算机组成原理(H) 实验报告与课件（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)
+  - 计算机组成原理H 课程资料（2024，CODH-2024） —— 2024 计算机组成原理 H 课程资料；核验于 2026-11-19 https://github.com/Zhenyu-Bo/CODH-2024（资料目录）
+  - 计算机组成原理H 资料（Wloner0809 仓库） —— USTC 课程资源（计算机组成原理 H 等）；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H（资料目录）
 
 ### CS3701 算法基础(H)
 
@@ -1566,6 +1830,7 @@
 专业课 · 计算机 · 数学
 
 - **大作业与考核作品**
+  - 形式化方法导引 课程项目：ROBDD 构造器（含 LALR 解析） —— Catoverflow/ROBDD（ROBDD 构造器）；核验于 2026-11-19 https://github.com/catoverflow/ROBDD（资料目录）
   - 形式化方法导引 实验与报告（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%AF%BC%E5%BC%95
 
 ### CS4009 程序设计进阶与实践
@@ -1575,6 +1840,7 @@
 - **学习资料**
   - 程序设计进阶与实践 课程网站（01117502 �������II） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~zhuang/clp.htm
 - **大作业与考核作品**
+  - 程序设计进阶与实践 大作业代码（experiment-codes） —— SiriusPaul/experiment-codes（程序设计进阶大作业）；核验于 2026-11-19 https://github.com/SiriusPaul/experiment-codes
   - 程序设计进阶与实践 实验与课件（ustc-course-resource） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5
 
 ### CS4012 运筹学基础
@@ -1599,8 +1865,13 @@
   - 2020 年（类型不明、形式不明、解答情况不明）：计算机体系结构 2020 春试卷（周学海班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ComputerArchitecture%202020%20Spring.pdf
   - 2019 年（类型不明、形式不明、解答情况不明）：计算机体系结构 2019 试卷（周学海班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ComputerArchitecture2019.pdf
   - 2016 年（类型不明、形式不明、解答情况不明）：计算机体系结构 2016 试卷（周学海班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ComputerArchitecture2016.pdf
+- **作业、习题与小测**
+  - 2023 年：体系结构 2023 春 作业、答案、实验报告与课件 —— JackieZ1412/USTC-ComputerArchitecture-2023Spring；核验于 2026-11-19 https://github.com/JackieZ1412/USTC-ComputerArchitecture-2023Spring（资料目录）
+  - 体系结构 作业与答案（HW1—HW6） —— Oyyko/USTC-Computer-Architecture；核验于 2026-11-19 https://github.com/Oyyko/USTC-Computer-Architecture（资料目录）
 - **学习资料**
   - 计算机体系结构 课程网站（USTC�������ϵ�ṹ�γ���ҳ） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~xhzhou/CA-Spring2020/CA.html
+- **大作业与考核作品**
+  - 2019 年：体系结构 2019 夏季实验代码与要求（课程实验发布仓库） —— Summer-Summer/ComputerArchitectureLab；核验于 2026-11-19 https://github.com/Summer-Summer/ComputerArchitectureLab（资料目录）
 
 ### CS4025 并行计算A
 
@@ -1612,6 +1883,14 @@
   - 2019 年（类型不明、形式不明、解答情况不明）：并行计算 2019 试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ParallelCompute2019.pdf
   - 2018 年（类型不明、形式不明、解答情况不明）：并行计算 2018 试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ParallelCompute2018.pdf
   - 2016 年（类型不明、形式不明、解答情况不明）：并行计算 2016 试卷（徐云班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ParallelCompute2016.pdf
+
+### CS4027 人工智能安全
+
+专业课 · 人工智能 · 网络安全
+
+- **大作业与考核作品**
+  - 机器学习/深度学习课程资料（magichear） —— 机器学习/深度学习课程资料；核验于 2026-11-19 https://github.com/magichear/Machine_Learning（资料目录）
+  - MNIST 入门教学仓库（ShirakawaSanae） —— MNIST 入门教学仓库；核验于 2026-11-19 https://github.com/ShirakawaSanae/MNIST-intro（资料目录）
 
 ### CS4033 网络系统实验
 
@@ -1628,6 +1907,7 @@
   - 2026 年（期末、回忆版、解答情况不明）：数据分析及实践 2026 春期末（刘淇、程明月班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataAnalysisPractice2026F.md
 - **学习资料**
   - 2021 年：数据分析及实践 课件与实验（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E8%B7%B5
+  - 数据科学导论（刘淇）2019 秋课程主页 —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~qiliuql/DS2019tuesday.html
 
 ### EE1501 物联网导论
 
@@ -1637,6 +1917,13 @@
   - 物联网导论课件 —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA/ppt
 - **大作业与考核作品**
   - 物联网导论读书报告与RFID/QRCode项目 —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA
+
+### EE1506 单片机应用
+
+通识课 · 电子 · 机械与仪器
+
+- **大作业与考核作品**
+  - 单片机大作业：任意信号发生器（GitLab 工程） —— Sharp/basic51（USTC GitLab）；核验于 2026-11-19 https://git.lug.ustc.edu.cn/sharp/basic51（资料目录）
 
 ### EE1508 电子设计实践基础
 
@@ -1662,7 +1949,7 @@
 - **学习资料**
   - 计嵌大抄（A4排版） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%A4%A7%E6%8A%84inA4.pdf
   - 计嵌复习提要（2024-05-23 版与 2025-05-22 v2） —— ly382965/USTC_learning_materials（6系课程资料）、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120240523.pdf
-  - 计算机原理与嵌入式系统大抄 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.pdf
+  - 计算机原理与嵌入式系统大抄 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-19 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.docx（文件页）
   - 计算机原理与嵌入式系统大抄 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E6%8A%84
   - 计算机原理与嵌入式系统复习资料 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%8D%E4%B9%A0
   - 计算机原理与嵌入式系统课件 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/ppt
@@ -1691,6 +1978,8 @@
 - **学习资料**
   - 计算机网络复习（2025秋） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B%E5%A4%8D%E4%B9%A0%EF%BC%882025%E7%A7%8B%29.pdf
   - 计算机网络复习与知识点总结 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Computer%20Network/%E8%AE%A1%E7%BD%91%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf
+  - 计算机网络复习总结 PDF（USTC 自动化资料库） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-19 https://github.com/EpiHio/USTC_Automation.git（资料目录）
+  - 计算机网络课程资料目录 —— qc-1/Course-Materials；核验于 2026-11-19 https://github.com/qc-1/Course-Materials/tree/main/%E8%AE%A1%E7%BD%91（资料目录）
   - 计算机网络课件（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6/cn-1%EF%BC%882025%EF%BC%89.pdf（文件页）
   - 计算机网络B复习记录与图示源码 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81/%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95.pdf（文件页）
 - **大作业与考核作品**
@@ -1792,6 +2081,13 @@
 - **学习资料**
   - 计算机控制基础常见公式表（CCS25Formula2col） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E5%B8%B8%E8%A7%81%E5%85%AC%E5%BC%8F-CCS25Formula2col.pdf（文件页）
 
+### EE3502 机器学习B
+
+专业课 · 人工智能
+
+- **大作业与考核作品**
+  - 机器学习B 课程项目（Stardust-math） —— Stardust-math/Machine_Learning_B；核验于 2026-11-19 https://github.com/Stardust-math/Machine_Learning_B（资料目录）
+
 ### EE4001 芯片设计实践
 
 专业课 · 集成电路 · 电子
@@ -1818,6 +2114,21 @@
 - **大作业与考核作品**
   - 数字图像处理项目一/二源码与结果 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86
   - 数字图像处理A实验源码（Python） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A/%E5%AE%9E%E9%AA%8C%E6%BA%90%E7%A0%81
+
+### FIN2001 经济学基础
+
+专业课 · 经济
+
+- **学习资料**
+  - 经济学基础 手写笔记（第 1—14 章，6 页） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/0ee2732eddf33027a2ef17c07e3d2e2991a94a14.jpg
+
+### FL1005 英语读写I
+
+通修课 · 外语
+
+- **学习资料**
+  - 英语读写I 2023 秋课程内容图示（阅读写作方法、课文讲解与课程总结，4 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/images/50d4877da32b3de113e64b0851ed87539bc9ff1f.png
+  - 英语读写I 阅读策略课件内容（4 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/da9241d07b090536381b937b0512e0ac40ad8868.png
 
 ### FL1006 英语读写II
 
@@ -1853,6 +2164,22 @@
 
 - **学习资料**
   - 德国语言与文化(初级)（USTC 慕课，徐筱春） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000002827.html
+
+### FS1001 “科学与社会”研讨课
+
+通识课 · 哲学 · 历史
+
+- **学习资料**
+  - 怎样写一篇学位论文（USTC 教师公开写作指南） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 https://faculty.ustc.edu.cn/yqliang/files/howtowriteapaper.htm
+- **大作业与考核作品**
+  - 摄像头手写数字识别项目（CNN + MNIST） —— Calvino-Elon/MINIST-and-camera-based-written-number-recognition；核验于 2026-11-19 https://github.com/Calvino-Elon/MINIST-and-camera-based-written-number-recognition（资料目录）
+
+### GEOP4017 地质学与大地构造概论
+
+专业课 · 地球科学
+
+- **学习资料**
+  - 地质学与大地构造概论 A4 手写复习纸（2 页） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/f6c812e39b4dc34efb80b342572a386c78ed80f6.jpg
 
 ### HS1528 日本社会文化解读(双语课程)
 
@@ -1918,6 +2245,13 @@
 - **学习资料**
   - 科学、技术与工程导论手写开卷资料 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E5%85%B6%E4%BB%96/%E7%A7%91%E5%AD%A6%E3%80%81%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AF%BC%E8%AE%BA%E5%A4%A7%E6%8A%84.pdf（文件页）
 
+### IS3002 复杂系统分析
+
+专业课 · 计算机 · 数学
+
+- **大作业与考核作品**
+  - 复杂系统分析 课程项目（antonio_liz） —— antonio_liz/ustc（中国科大 Git）；核验于 2026-11-19 https://git.ustc.edu.cn/antonio_liz/ustc（资料目录）
+
 ### IS3003 密码工程原理与实践
 
 专业课 · 网络安全 · 计算机
@@ -1930,7 +2264,10 @@
 通修课 · 思政 · 历史
 
 - **作业、习题与小测**
-  - 中国近现代史纲要题库（2022春） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.xls（文件页）
+  - 年份待确认（小测、原题、解答情况不明）：中国近现代史纲要 最后一次课小测题目（2 图） —— USTC 评课社区 https://icourse.club/uploads/files/740766acb98dd0e332082de270f431562b81bfc0.jpg
+  - 中国近现代史纲要题库（2022春） —— feixu 学习资料分享站（AList）；核验于 2026-11-19 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.xls（文件页）
+- **学习资料**
+  - 中国近现代史纲要 课堂内容记录 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/1b66acb0502febd20945ccb4ade01373d028b94e.png
 
 ### MARX1011 马克思主义基本原理
 
@@ -1964,6 +2301,7 @@
   - 2025 年（期末、原题、无解答）：毛概 2025年春季学期期末试卷（A卷） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%822025%E6%9C%9F%E6%9C%AB-1.jpg（文件页）
   - 2023 年（期末、模拟练习、含解答）：毛概 2023年春季学期参考题及部分解答 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2023%E6%98%A5%E6%9C%9F%E6%9C%AB.docx（文件页）
   - 2022 年（期末、原题、无解答）：毛概 2022年春季学期期末考试试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B2022%E6%98%A5%E6%9C%9F%E6%9C%AB.docx（文件页）
+  - 年份待确认（期中、原题、无解答）：毛泽东思想和中国特色社会主义理论体系概论 期中试题（选择与问答） —— USTC 评课社区 https://icourse.club/uploads/files/8939bef23963b6c1c78c5a7613b3a3ffb9f81c45.jpg（文件页）
 - **作业、习题与小测**
   - 23版毛概课后习题答案 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/23%E7%89%88%E6%AF%9B%E6%A6%82%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf
 - **学习资料**
@@ -2079,6 +2417,8 @@
   - 年份待确认（期中期末混合、原题、无解答）：线性代数(B) 历年真题（B1/B2/A 合集） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
   - 线性代数习题解答（配套王新茂讲义） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%8E%8B%E6%96%B0%E8%8C%82%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
+- **教材与参考书**
+  - Linear Algebra Done Right（第 4 版，作者开放获取） —— Linear Algebra Done Right（Sheldon Axler）；免登录公开全文 PDF；核验于 2026-11-19 https://linear.axler.net/LADR4e.pdf（文件页）
 
 ### MATH1005 线性代数(A2)
 
@@ -2130,6 +2470,7 @@
   - 2017 年（期末、形式不明、解答情况不明）：2017秋数学分析(B1)期末考试解析与评分细则 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2017%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
   - 2017 年（期中、形式不明、解答情况不明）：2017秋数学分析(B1)期中参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2017%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（期中、原题、含解答）：2019秋数学分析(B1)期中考试解析与评分细则 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
+  - 年份待确认（期中期末混合、原题、无解答）：数学分析(B) 历年考试真题汇编（2025 I 版） —— Passiflora-sago 课程主页与讲义发布 https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/maexams_2025-v1.pdf（文件页）
   - 2003—2004 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2011—2012 学年、2012—2013 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年（期中期末混合、原题、解答情况不明）：数学分析(B)历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(B1)历年真题压轴题及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8E%8B%E8%BD%B4%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(B1)历年真题sxl答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf（文件页）
@@ -2139,6 +2480,7 @@
 - **学习资料**
   - 第1-3章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC1-3%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第4-7章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC4-7%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
+  - 2024 年：数学分析(B1) 2024 秋课程讲义（助教整理，v2.0） —— Passiflora-sago 课程主页与讲义发布；核验于 2026-11-19 https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf（文件页）
   - 数学分析(B1)笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 数学分析(B1)习题课讲义 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf（文件页）
 
@@ -2249,6 +2591,13 @@
   - 2020 年（期中、形式不明、解答情况不明）：2020线性代数(B2)期中 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2020%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf（文件页）
   - 年份待确认（期中期末混合、原题、无解答）：线性代数(B) 历年真题（B1/B2/A 合集） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 
+### MATH1012 微积分II
+
+通修课 · 数学
+
+- **学习资料**
+  - 微积分 课程主页：教材信息与教案 PPT 入口 —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~rui/courses/calculus.html
+
 ### MATH2001 计算方法
 
 专业课 · 计算机 · 数学
@@ -2316,7 +2665,9 @@
   - 计算方法 计算方法（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
   - 计算方法 计算方法（notes） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
 - **大作业与考核作品**
-  - 计算方法 计算方法（projects） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
+  - 计算方法 2022 实验（GitHub 仓库） —— xXuHaiyang/USTC_Computation2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_Computation2022_Lab
+  - 计算方法 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
+  - 计算方法 实验参考代码（GitHub 仓库） —— mmengjiadai/Computational-Method；核验于 2026-11-19 https://github.com/mmengjiadai/Computational-Method
 
 ### MATH2003 几何学基础
 
@@ -2330,6 +2681,7 @@
   - 2023 年（期中、形式不明、解答情况不明）：几何学基础2023期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
   - 2021 年（期中、原题、解答情况不明）：几何学基础2021期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802021%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
 - **学习资料**
+  - 几何学基础（2022 秋）课程主页：讲义与习题 PDF —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~wangzuoq/Courses/22F-Geometry/index.html
   - 几何学基础习题课讲义 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf（文件页）
 
 ### MATH2004 代数学基础
@@ -2421,6 +2773,7 @@
 - **学习资料**
   - 实分析 实分析Real Analysis（lectures） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
   - 实分析 实分析Real Analysis（notes） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
+  - 实分析（2026 春，刘聪文）课程主页：讲义、作业与习题课材料 —— 实分析 2026 春课程主页（刘聪文）；核验于 2026-11-19 https://cardigan0214.github.io/course/26SpringRA.html
 
 ### MATH3003 拓扑学
 
@@ -2610,6 +2963,21 @@
 - **大作业与考核作品**
   - 运筹学 运筹学（projects） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6
 
+### MATH3013 概率论进阶
+
+专业课 · 数学 · 统计
+
+- **学习资料**
+  - 概率论进阶 课程思维导图 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/1153f311814f7ca05b591c7f586706261f64291b.jpg
+  - 概率论进阶课程笔记 PDF —— yixiao-wang-stats.github.io；核验于 2026-11-19 https://yixiao-wang-stats.github.io/files/%E6%A6%82%E7%8E%87%E8%AE%BA%E8%BF%9B%E9%98%B6%E7%AC%94%E8%AE%B0.pdf（文件页）
+
+### MATH3015 组合学进阶
+
+专业课 · 数学
+
+- **学习资料**
+  - 极值与概率图论 课程讲义（马杰，2020 春） —— 马杰 极值与概率图论课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~jiema/ExtrGT2020/（资料目录）
+
 ### MATH4001 回归分析
 
 专业课 · 数学 · 统计
@@ -2622,8 +2990,18 @@
 
 专业课 · 计算机 · 数学
 
+- **作业、习题与小测**
+  - 《算法导论》（CLRS）第三版习题解答（walkccc CLRS Solutions） —— walkccc/CLRS 习题解答；核验于 2026-11-19 https://walkccc.github.io/CLRS/
 - **大作业与考核作品**
   - 算法基础 2022SP 实验（陈雪） —— txtxj/USTC-Algorithm；核验于 2026-11-18 https://github.com/txtxj/USTC-Algorithm
+
+### ME1501 机器人设计与制作
+
+通识课 · 自动化 · 机械与仪器 · 创新创业
+
+- **大作业与考核作品**
+  - RoboGame 2022 机器人项目（BlackStar） —— Deagle-PrintStream/BlackStar_ustc_robogame_2022；核验于 2026-11-19 https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022（资料目录）
+  - RoboGame 机器人项目（epsilonGoal） —— MichaelFW-ui/RoboGame-epsilonGoal；核验于 2026-11-19 https://github.com/MichaelFW-ui/RoboGame-epsilonGoal（资料目录）
 
 ### MED1502 人体结构、功能与疾病
 
@@ -2730,7 +3108,15 @@
   - 2023—2024 学年（期末、原题、解答情况不明）：光学A2023-2024学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2024—2025 学年（期末、原题、解答情况不明）：光学A2024-2025学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2024-2025%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
+  - 光学A 助教习题课讲义（Optics2023.pdf） —— 光学A 助教习题课讲义（home.ustc.edu.cn）；核验于 2026-11-19 http://home.ustc.edu.cn/~shiyaowei040126/Optics2023.pdf（文件页）
   - 光学A笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A%E7%AC%94%E8%AE%B0.pdf（文件页）
+
+### PHYS1003B 光学B
+
+通修课 · 物理
+
+- **学习资料**
+  - 《光学B》第一次习题课录像 —— B 站课程习题课录像；核验于 2026-11-19 https://www.bilibili.com/video/BV1L34y1V7V2
 
 ### PHYS1004A 电磁学A
 
@@ -2816,6 +3202,8 @@
 
 通修课 · 物理
 
+- **作业、习题与小测**
+  - 年份待确认（小测、原题、解答情况不明）：大学物理-基础实验B 入门/出门测题目 —— USTC 评课社区 https://icourse.club/uploads/images/84940ec6e2d1e28ffe03a1da67dab1f1f81c4735.jpg
 - **学习资料**
   - 大学物理·基础实验讲义与指导（含绪论与实验指导） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%C2%B7%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89%E4%B8%8E%E6%8C%87%E5%AF%BC.zip（文件页）
   - 大学物理实验报告 LaTeX 模板 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8ALatex%E6%A8%A1%E6%9D%BF.zip（文件页）
@@ -2866,6 +3254,13 @@
   - README —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/README.md（文件页）
   - README —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/README.md（文件页）
 
+### PHYS3003 量子精密测量
+
+专业课 · 物理
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：量子精密测量 考试三道大题 —— USTC 评课社区 https://icourse.club/uploads/files/174876154dd1731212df2a529978a393ac19698e.jpg
+
 ### PHYS4002 核与粒子物理导论
 
 专业课 · 核科学 · 物理
@@ -2894,6 +3289,7 @@
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版，含手写页） —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版） —— feixu 学习资料分享站（AList）、USTC 评课社区、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
+  - 《概率论与数理统计》（缪柏其、张伟平）参考答案（GitHub 仓库） —— Stardust-math/Reference-Answer；核验于 2026-11-19 https://github.com/Stardust-math/Reference-Answer
   - 概率论与数理统计 概率论与数理统计（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/HW%20answer.pdf（文件页）
   - 概率论与数理统计 试卷 —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://raw.githubusercontent.com/Wloner0809/ustc-course-resource/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E9%9B%86%E7%AD%94%E6%A1%88.pdf
 - **学习资料**
@@ -2903,10 +3299,19 @@
   - 概率论与数理统计 概率论与数理统计（notes） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
+  - 概率论与数理统计 课程主页（张伟平） —— 张伟平 概率论与数理统计课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm
+  - 概率论与数理统计 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 概率论与数理统计 试卷 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Prob_Stat_Concepts_Examples.pdf
   - 概率论与数理统计笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.md（文件页）
   - 概率论与数理统计笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 概率论与数理统计公式 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%85%AC%E5%BC%8F.doc（文件页）
+
+### STAT3002 实用统计软件
+
+专业课 · 计算机 · 统计
+
+- **大作业与考核作品**
+  - 实用统计软件 期末项目：LOL 赛事数据分析报告 —— LUNARKN1GHT/lol_esports；核验于 2026-11-19 https://github.com/LUNARKN1GHT/lol_esports（资料目录）
 
 ### WZ206001M 人工智能原理与算法
 
@@ -3011,7 +3416,7 @@
 - 维护者：EpiHio
 - GitHub：EpiHio/USTC_Automation（分支 main）
 - 说明：README声明为自动化专业本科课程资料，按学期+课程目录；含笔记/课本答案/作业/往年题/实验。本轮仅登记公开原页面。
-- 被正式资料引用：40 处
+- 被正式资料引用：41 处
 
 ### guch8017/USTC_CS_EXAM（跨课试卷索引）
 
@@ -3038,7 +3443,7 @@
 - 维护者：Melmaphother
 - GitHub：Melmaphother/ustc-course-resources（分支 main）
 - 说明：课程资源补充；量子物理/计算机网络等目录。计算机网络目录仅README，不计资料。 branch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明个人课程资源记录。2026-11-18 读取完整 git tree 核对目录。
-- 被正式资料引用：5 处
+- 被正式资料引用：7 处
 
 ### Mr-Philo/USTC_EEIS_Courses（6系本科资料）
 
@@ -3199,7 +3604,7 @@
 - 维护者：USTC-Resource
 - GitHub：USTC-Resource/USTC-Course（分支 master）
 - 说明：跨课程资料库；数理方程、概率统计、计算方法、近世代数等目录；未见根 LICENSE。 README的CC声明不覆盖仓库内全部第三方文件；本轮仅登记已确认课程目录页。 branch=master 经 GitHub API repos 元数据核验；仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者。2026-11-18 读取完整 git tree 核对目录。 学生原创笔记、总结与经验；README 声明无特别声明资料按 CC BY-NC-SA 4.0，第三方内容版权归原作者，仅原页导航。
-- 被正式资料引用：35 处
+- 被正式资料引用：81 处
 
 ### TheVaticanCameos/USTC_MM_25
 
@@ -3225,8 +3630,8 @@
 - 地址：<https://github.com/Wloner0809/ustc-course-resource>
 - 维护者：Wloner0809
 - GitHub：Wloner0809/ustc-course-resource（分支 main）
-- 说明：课程review/作业；数理方程B、概统、线代B1；未见根 LICENSE。 branch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明维护者与最后更新时间。2026-11-18 读取完整 git tree 核对目录。
-- 被正式资料引用：21 处
+- 说明：课程review/作业；数理方程B、概统、线代B1；未见根 LICENSE。 branch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明维护者与最后更新时间。2026-11-18 读取完整 git tree 核对目录。 评课社区点评中公开分享的 USTC 课程资料仓库；匿名可访问。
+- 被正式资料引用：24 处
 
 ### Zhichenzzz/Computational-Physics-A
 
@@ -3287,8 +3692,8 @@
 - 类型：网站
 - 地址：<https://icourse.club/>
 - 维护者：USTC评课社区（jenny42 等）
-- 说明：公开课程页可核对课程号和开课信息（课程号可能附教学班后缀），点评内部分附件要求登录，未绕过。旧索引提供的复变函数 B 与线代 B1 两个附件直链实测匿名返回 206 application/pdf；只登记已证实公开可取的直链，文件权利归原作者。
-- 被正式资料引用：23 处
+- 说明：公开课程页可核对课程号和开课信息（课程号可能附教学班后缀），点评内部分附件要求登录，未绕过。旧索引提供的复变函数 B 与线代 B1 两个附件直链实测匿名返回 206 application/pdf；只登记已证实公开可取的直链，文件权利归原作者。 评课社区历史资料线索回查起点：2026-10-29T09:33:55Z（北京时间 2026-10-29 17:33:55）。以后增量回查从此刻（含）开始；此前不全站重复筛查。本次包内未能匿名核验的链接不计收录。
+- 被正式资料引用：74 处
 
 ### USTC 数学课程往年试卷
 
@@ -3322,7 +3727,7 @@
 - 地址：<https://staff.ustc.edu.cn/>
 - 维护者：各课程授课教师
 - 说明：经评课社区课程页外链定位到 staff/faculty 课程主页；仅登记含课件/资料链接的页面，材料权利归教师。 教师个人课程主页/院系课程站点；课件权利归授课教师，页面多无再分发许可，本站只导航原页。2026-11-18 通过搜索引擎定位并实际打开页面核对标题与文件列表。
-- 被正式资料引用：15 处
+- 被正式资料引用：23 处
 
 ### USTC 课程资料簿（GitBook）
 
@@ -3384,12 +3789,988 @@
 - 说明：README 明确为中科大 2022 秋计算物理 A 作业和讲义。
 - 被正式资料引用：3 处
 
+### 薛永泉 天文学导论课程主页
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~xuey/IAC/>
+- 维护者：中国科学技术大学
+- 说明：评课社区公开点评外链定位到的教师课程主页；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### lyuchangle2006 课程讲义
+
+- 类型：网站
+- 地址：<https://lyuchangle2006.github.io/>
+- 维护者：lyuchangle2006
+- 说明：评课社区公开点评外链定位到的公开讲义站点；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：2 处
+
+### 李东风 时间序列讲义
+
+- 类型：网站
+- 地址：<http://www.math.pku.edu.cn/teachers/lidf/course/>
+- 维护者：李东风（北京大学）
+- 说明：评课社区公开点评外链定位到的教师课程讲义页；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：2 处
+
+### 马杰 极值与概率图论课程页
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~jiema/ExtrGT2020/>
+- 维护者：中国科学技术大学
+- 说明：评课社区公开点评外链定位到的教师课程页；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### 查理大学图论课程讲义
+
+- 类型：网站
+- 地址：<https://iuuk.mff.cuni.cz/~rakdver/kgiii/>
+- 维护者：查理大学
+- 说明：评课社区公开点评外链定位到的公开课程讲义页；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：0 处
+
+### 朱庆珠 光通信网络课程页
+
+- 类型：网站
+- 地址：<https://www.zuqingzhu.info/OCN.html>
+- 维护者：朱庆珠
+- 说明：评课社区公开点评外链定位到的教师课程页；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### jingning42/Computational-Physics-A
+
+- 类型：资料库
+- 地址：<https://github.com/jingning42/computational_physics_A>
+- 维护者：GitHub @jingning42
+- GitHub：jingning42/computational_physics_A（分支 master）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### elmer-sun/computational-physics-from-ustc
+
+- 类型：资料库
+- 地址：<https://github.com/elmer-sun/computational-physics-from-ustc>
+- 维护者：GitHub @elmer-sun
+- GitHub：elmer-sun/computational-physics-from-ustc（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### yesunhuang/Computational-Physics
+
+- 类型：资料库
+- 地址：<https://github.com/yesunhuang/Computational-Physics>
+- 维护者：GitHub @yesunhuang
+- GitHub：yesunhuang/Computational-Physics（分支 master）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### xuzhen0913/electronic-system-designation
+
+- 类型：资料库
+- 地址：<https://github.com/xuzhen0913/electronic-system-designation>
+- 维护者：GitHub @xuzhen0913
+- GitHub：xuzhen0913/electronic-system-designation（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### MichaelFW-ui/RoboGame-epsilonGoal
+
+- 类型：资料库
+- 地址：<https://github.com/MichaelFW-ui/RoboGame-epsilonGoal>
+- 维护者：GitHub @MichaelFW-ui
+- GitHub：MichaelFW-ui/RoboGame-epsilonGoal（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Deagle-PrintStream/BlackStar_ustc_robogame_2022
+
+- 类型：资料库
+- 地址：<https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022>
+- 维护者：GitHub @Deagle-PrintStream
+- GitHub：Deagle-PrintStream/BlackStar_ustc_robogame_2022（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### qc-1/Course-Materials
+
+- 类型：资料库
+- 地址：<https://github.com/qc-1/Course-Materials>
+- 维护者：GitHub @qc-1
+- GitHub：qc-1/Course-Materials（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Stardust-math/Machine_Learning_A
+
+- 类型：资料库
+- 地址：<https://github.com/Stardust-math/Machine_Learning_A>
+- 维护者：GitHub @Stardust-math
+- GitHub：Stardust-math/Machine_Learning_A（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Stardust-math/Machine_Learning_B
+
+- 类型：资料库
+- 地址：<https://github.com/Stardust-math/Machine_Learning_B>
+- 维护者：GitHub @Stardust-math
+- GitHub：Stardust-math/Machine_Learning_B（分支 main）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Komorebi660/SysYF-Compiler
+
+- 类型：资料库
+- 地址：<https://github.com/Komorebi660/SysYF-Compiler>
+- 维护者：GitHub @Komorebi660
+- GitHub：Komorebi660/SysYF-Compiler（分支 master）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### SqrtiZhang/USTC
+
+- 类型：资料库
+- 地址：<https://github.com/SqrtiZhang/USTC>
+- 维护者：GitHub @SqrtiZhang
+- GitHub：SqrtiZhang/USTC（分支 master）
+- 说明：评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### antonio_liz/ustc（中国科大 Git）
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/antonio_liz/ustc>
+- 维护者：中国科大 Git 用户 antonio_liz
+- 说明：评课社区公开点评外链定位到的校内 Git 仓库；本轮匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### 2019 秋顾为兵《数据结构及其算法》实验题解与优秀代码
+
+- 类型：资料库
+- 地址：<https://github.com/mhy98/DSACodes>
+- 维护者：mhy98
+- GitHub：mhy98/DSACodes（分支 master）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### DSA LAB5 马踏棋盘实验
+
+- 类型：资料库
+- 地址：<https://github.com/invictus-z/Knight-Tour-Game>
+- 维护者：invictus-z
+- GitHub：invictus-z/Knight-Tour-Game（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### 数字逻辑电路课程资料整理
+
+- 类型：资料库
+- 地址：<https://github.com/xuzhen0913/digital-circuit>
+- 维护者：xuzhen0913
+- GitHub：xuzhen0913/digital-circuit（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### 中科大计算机学院学习资料（含 WebInfo）
+
+- 类型：资料库
+- 地址：<https://github.com/ljy0ustc/USTC_Resources>
+- 维护者：ljy0ustc
+- GitHub：ljy0ustc/USTC_Resources（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### hwp-lab/USTC-Courses-Data（计算机学院课程资料）
+
+- 类型：资料库
+- 地址：<https://github.com/hwp-lab/USTC-Courses-Data>
+- 维护者：hwp-lab
+- GitHub：hwp-lab/USTC-Courses-Data（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。；评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：3 处
+
+### 图论作业与资料
+
+- 类型：资料库
+- 地址：<https://github.com/Enguikong/Graph_theory>
+- 维护者：Enguikong
+- GitHub：Enguikong/Graph_theory（分支 master）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### USTC 图论课程答案与笔记
+
+- 类型：资料库
+- 地址：<https://github.com/sakura0423/USTC_Graph_Theory>
+- 维护者：sakura0423
+- GitHub：sakura0423/USTC_Graph_Theory（分支 master）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### 数据库课程 BankDB 项目（前端与后端两个仓库）
+
+- 类型：资料库
+- 地址：<https://github.com/guch8017/BankDBFrontend>
+- 维护者：guch8017
+- GitHub：guch8017/BankDBFrontend（分支 master）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：2 处
+
+### 2024 计算机组成原理 H 课程资料
+
+- 类型：资料库
+- 地址：<https://github.com/Zhenyu-Bo/CODH-2024>
+- 维护者：Zhenyu-Bo
+- GitHub：Zhenyu-Bo/CODH-2024（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### USTC 课程资源（计算机组成原理 H 等）
+
+- 类型：资料库
+- 地址：<https://github.com/Wloner0809/ustc-curriculum-resource>
+- 维护者：Wloner0809
+- GitHub：Wloner0809/ustc-curriculum-resource（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### 机器学习/深度学习课程资料
+
+- 类型：资料库
+- 地址：<https://github.com/magichear/Machine_Learning>
+- 维护者：magichear
+- GitHub：magichear/Machine_Learning（分支 master）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### MNIST 入门教学仓库
+
+- 类型：资料库
+- 地址：<https://github.com/ShirakawaSanae/MNIST-intro>
+- 维护者：ShirakawaSanae
+- GitHub：ShirakawaSanae/MNIST-intro（分支 main）
+- 说明：评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。
+- 被正式资料引用：1 处
+
+### USTC 个人主页（suyupilemao）
+
+- 类型：网站
+- 地址：<http://home.ustc.edu.cn/~suyupilemao/>
+- 维护者：suyupilemao
+- 说明：评课社区点评引用的课程讲义所在个人主页；2026-11-19 匿名核验 PDF 可下载。
+- 被正式资料引用：1 处
+
+### A Solution Manual for ESL（yuhangzhou88.github.io）
+
+- 类型：网站
+- 地址：<https://yuhangzhou88.github.io/ESL_Solution/>
+- 维护者：yuhangzhou88
+- GitHub：yuhangzhou88/ESL_Solution（分支 main）
+- 说明：评课社区点评提供的公开《The Elements of Statistical Learning》题解站点；2026-11-19 匿名核验可访问。
+- 被正式资料引用：0 处
+
+### erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）
+
+- 类型：资料库
+- 地址：<https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems>
+- 维护者：erkamuzuncayir
+- GitHub：erkamuzuncayir/solutions-of-introduction-to-computing-systems（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）
+
+- 类型：资料库
+- 地址：<https://github.com/hehaha68/USTC_2020Fall_Introduction-to-Computing-System>
+- 维护者：hehaha68
+- GitHub：hehaha68/USTC_2020Fall_Introduction-to-Computing-System（分支 master）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### 计算系统概论 FA22 班级课程主页（ics.liuly.moe）
+
+- 类型：网站
+- 地址：<https://ics.liuly.moe/>
+- 维护者：CS1002A.03 助教
+- 说明：评课社区点评提供的公开课程主页；2026-11-19 匿名核验可访问。
+- 被正式资料引用：0 处
+
+### 计算系统概论 FA23 班级课程主页（ics01-23.github.io）
+
+- 类型：网站
+- 地址：<https://ics01-23.github.io/>
+- 维护者：CS1002A.01 助教
+- 说明：评课社区点评提供的公开课程主页；2026-11-19 匿名核验可访问。
+- 被正式资料引用：0 处
+
+### KZ25T/2022ics（2022秋计算系统概论A课程资料）
+
+- 类型：资料库
+- 地址：<https://github.com/KZ25T/2022ics>
+- 维护者：KZ25T
+- GitHub：KZ25T/2022ics（分支 master）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### LUNARKN1GHT/USTC-AI-Notes（人工智能数学原理与算法笔记）
+
+- 类型：资料库
+- 地址：<https://github.com/LUNARKN1GHT/USTC-AI-Notes>
+- 维护者：LUNARKN1GHT
+- GitHub：LUNARKN1GHT/USTC-AI-Notes（分支 main）
+- 说明：评课社区点评提供的公开仓库；助教自建笔记；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### NightGlow0826/ComputationalMechanics（计算力学基础代码）
+
+- 类型：资料库
+- 地址：<https://github.com/NightGlow0826/ComputationalMechanics>
+- 维护者：NightGlow0826
+- GitHub：NightGlow0826/ComputationalMechanics（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### SiriusPaul/experiment-codes（程序设计进阶大作业）
+
+- 类型：资料库
+- 地址：<https://github.com/SiriusPaul/experiment-codes>
+- 维护者：SiriusPaul
+- GitHub：SiriusPaul/experiment-codes（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### tiankaima/Notebooks（数学实验等课程 Notebook）
+
+- 类型：资料库
+- 地址：<https://github.com/tiankaima/Notebooks>
+- 维护者：tiankaima
+- GitHub：tiankaima/Notebooks（分支 master）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### Vertsineu/jpegify（JPEG 编解码实验代码）
+
+- 类型：资料库
+- 地址：<https://github.com/Vertsineu/jpegify>
+- 维护者：Vertsineu
+- GitHub：Vertsineu/jpegify（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：0 处
+
+### Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）
+
+- 类型：资料库
+- 地址：<https://github.com/Wanglulu114514/ICS-Additional-Labs>
+- 维护者：Wanglulu114514
+- GitHub：Wanglulu114514/ICS-Additional-Labs（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### zhengxiuyuanustc-cmd/FEMcode2016（有限元上机代码与往年题）
+
+- 类型：资料库
+- 地址：<https://github.com/zhengxiuyuanustc-cmd/FEMcode2016>
+- 维护者：zhengxiuyuanustc-cmd
+- GitHub：zhengxiuyuanustc-cmd/FEMcode2016（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### Zhuyh1139/ustc-2024-fall-dip（2024秋数字图像处理B实验）
+
+- 类型：资料库
+- 地址：<https://github.com/Zhuyh1139/ustc-2024-fall-dip>
+- 维护者：Zhuyh1139
+- GitHub：Zhuyh1139/ustc-2024-fall-dip（分支 master）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### zzx6869/ics_experiment_2021（2021 ICS 实验）
+
+- 类型：资料库
+- 地址：<https://github.com/zzx6869/ics_experiment_2021>
+- 维护者：zzx6869
+- GitHub：zzx6869/ics_experiment_2021（分支 main）
+- 说明：评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。
+- 被正式资料引用：1 处
+
+### git.ustc.edu.cn W L / ics（ICS 课后题答案）
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/flurry_lw/ics>
+- 维护者：flurry_lw（USTC GitLab）
+- 说明：评课社区点评提供的公开 USTC GitLab 仓库；2026-11-19 匿名核验 PDF 直链可取。
+- 被正式资料引用：1 处
+
+### home.ustc.edu.cn/~pscgylotti（运筹学回忆卷）
+
+- 类型：网站
+- 地址：<http://home.ustc.edu.cn/~pscgylotti/>
+- 维护者：pscgylotti
+- 说明：评课社区点评提供的个人主页文件；2026-11-19 匿名核验 PDF 可取。
+- 被正式资料引用：0 处
+
+### 计算系统概论课程组主页（acsa.ustc.edu.cn/ics）
+
+- 类型：网站
+- 地址：<https://acsa.ustc.edu.cn/ics/>
+- 维护者：USTC 计算系统概论课程组
+- 说明：评课社区点评提供的公开课程主页；2026-11-19 匿名核验可访问。
+- 被正式资料引用：0 处
+
+### walkccc/CLRS 习题解答
+
+- 类型：网站
+- 地址：<https://walkccc.github.io/CLRS/>
+- 维护者：walkccc
+- 说明：评课社区点评提供的公开《算法导论》第三版题解站点；2026-11-19 匿名核验可访问。；CLRS（算法导论）习题解答公开站点；原点评用于课程习题参考。第三方整理，非课程官方。
+- 被正式资料引用：2 处
+
+### Passiflora-sago 课程主页与讲义发布
+
+- 类型：资料库
+- 地址：<https://github.com/Passiflora-sago/Passiflora-sago.github.io>
+- 维护者：Passiflora-sago
+- GitHub：Passiflora-sago/Passiflora-sago.github.io（分支 main）
+- 说明：数学分析(B1) 课程讲义与历年真题 PDF 的 GitHub Release 发布仓库
+- 被正式资料引用：2 处
+
+### USTC 复变函数B 习题解答
+
+- 类型：网站
+- 地址：<https://fubianb.brealid.cn/>
+- 维护者：USTC 复变函数B 习题解答站点
+- 说明：复变函数B 第一至第七章习题解答公开站点
+- 被正式资料引用：1 处
+
+### WalterSumbon/DNS-Relay
+
+- 类型：资料库
+- 地址：<https://github.com/WalterSumbon/DNS-Relay>
+- 维护者：WalterSumbon
+- GitHub：WalterSumbon/DNS-Relay（分支 main）
+- 说明：USTC 计算机网络 2020 Lab1 DNS Relay 代码与报告
+- 被正式资料引用：1 处
+
+### 计算机网络课程资料包（Google Drive 公开分享）
+
+- 类型：网站
+- 地址：<https://drive.google.com/file/d/1rI8fScVBO7sz6oNwwGQNpbyGTFD8mDkH/view?usp=drive_link>
+- 维护者：评课社区用户公开分享
+- 说明：net.zip：计算机网络笔记、课后测验与答案、历年期中期末与复习资料合集
+- 被正式资料引用：1 处
+
+### 食铁兽（JackeyLea）技术博客
+
+- 类型：网站
+- 地址：<https://feater.top/>
+- 维护者：JackeyLea
+- 说明：《计算机网络：自顶向下方法（第 7 版）》课后习题参考答案页面所在站点
+- 被正式资料引用：1 处
+
+### moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES
+
+- 类型：资料库
+- 地址：<https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES>
+- 维护者：moranzcw
+- GitHub：moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES（分支 master）
+- 说明：《计算机网络：自顶向下方法》笔记、编程作业解答与 Wireshark 实验文档翻译
+- 被正式资料引用：1 处
+
+### jzplp/Computer-Network-A-Top-Down-Approach-Answer
+
+- 类型：资料库
+- 地址：<https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer>
+- 维护者：jzplp
+- GitHub：jzplp/Computer-Network-A-Top-Down-Approach-Answer（分支 master）
+- 说明：《计算机网络：自顶向下方法》课后题、实验与编程作业答案
+- 被正式资料引用：1 处
+
+### Enguikong/Algebraic_structure
+
+- 类型：资料库
+- 地址：<https://github.com/Enguikong/Algebraic_structure>
+- 维护者：Enguikong
+- GitHub：Enguikong/Algebraic_structure（分支 master）
+- 说明：中国科学技术大学代数结构（孙淑玲）课后习题答案与讲义
+- 被正式资料引用：1 处
+
+### xXuHaiyang/USTC_AI2022_Lab
+
+- 类型：资料库
+- 地址：<https://github.com/xXuHaiyang/USTC_AI2022_Lab>
+- 维护者：xXuHaiyang
+- GitHub：xXuHaiyang/USTC_AI2022_Lab（分支 main）
+- 说明：USTC 人工智能基础 2022 实验代码与报告
+- 被正式资料引用：1 处
+
+### 人工智能基础课程资料包（Google Drive 公开分享）
+
+- 类型：网站
+- 地址：<https://drive.google.com/file/d/1wTV1vfdICaOfRIbpbx8mbsMqIng3mCY_/view?usp=drive_link>
+- 维护者：评课社区用户公开分享
+- 说明：ai.zip：人工智能导论实验、复习资料与 2019—2021 期末试卷合集
+- 被正式资料引用：1 处
+
+### 信息网络实验室 computer-network-experiment（USTC GitLab）
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/infonet/computer-network-experiment>
+- 维护者：中国科学技术大学信息网络实验室
+- 说明：计算机网络课程实验文档（USTC GitLab 公开项目）
+- 被正式资料引用：1 处
+
+### xinchengo/autoresearch-gomoku
+
+- 类型：资料库
+- 地址：<https://github.com/xinchengo/autoresearch-gomoku>
+- 维护者：xinchengo
+- GitHub：xinchengo/autoresearch-gomoku（分支 main）
+- 说明：AI3002 五子棋强化学习大作业与自动研究实验
+- 被正式资料引用：1 处
+
+### Wanglulu114514/ResourceforAIML26
+
+- 类型：资料库
+- 地址：<https://github.com/Wanglulu114514/ResourceforAIML26>
+- 维护者：Wanglulu114514
+- GitHub：Wanglulu114514/ResourceforAIML26（分支 main）
+- 说明：USTC AI3002 2026 秋 Lab1 指南与数据采样说明
+- 被正式资料引用：1 处
+
+### Summer-Summer/ComputerArchitectureLab
+
+- 类型：资料库
+- 地址：<https://github.com/Summer-Summer/ComputerArchitectureLab>
+- 维护者：Summer-Summer
+- GitHub：Summer-Summer/ComputerArchitectureLab（分支 master）
+- 说明：USTC 体系结构 2019 夏季学期实验代码与要求发布仓库
+- 被正式资料引用：1 处
+
+### Oyyko/USTC-Computer-Architecture
+
+- 类型：资料库
+- 地址：<https://github.com/Oyyko/USTC-Computer-Architecture>
+- 维护者：Oyyko
+- GitHub：Oyyko/USTC-Computer-Architecture（分支 main）
+- 说明：USTC 体系结构作业与答案资料
+- 被正式资料引用：1 处
+
+### JackieZ1412/USTC-ComputerArchitecture-2023Spring
+
+- 类型：资料库
+- 地址：<https://github.com/JackieZ1412/USTC-ComputerArchitecture-2023Spring>
+- 维护者：JackieZ1412
+- GitHub：JackieZ1412/USTC-ComputerArchitecture-2023Spring（分支 main）
+- 说明：USTC CS4014 体系结构 2023 春作业、答案、实验报告与课件
+- 被正式资料引用：1 处
+
+### LUNARKN1GHT/lol_esports
+
+- 类型：资料库
+- 地址：<https://github.com/LUNARKN1GHT/lol_esports>
+- 维护者：LUNARKN1GHT
+- GitHub：LUNARKN1GHT/lol_esports（分支 main）
+- 说明：实用统计软件课程期末项目：LOL 赛事数据分析报告
+- 被正式资料引用：1 处
+
+### yxli2123/pattern-recognition-experiments
+
+- 类型：资料库
+- 地址：<https://github.com/yxli2123/pattern-recognition-experiments>
+- 维护者：yxli2123
+- GitHub：yxli2123/pattern-recognition-experiments（分支 main）
+- 说明：USTC 模式识别 2020 秋三个实验源码
+- 被正式资料引用：1 处
+
+### 机械制图多媒体教程
+
+- 类型：网站
+- 地址：<http://202.38.71.7/chap01/html/default.html>
+- 维护者：站点维护方未公开
+- 说明：机械制图多媒体教程课程网站（分章 HTML 课件）
+- 被正式资料引用：1 处
+
+### Wloner0809/ustc-curriculum-resource
+
+- 类型：资料库
+- 地址：<https://github.com/Wloner0809/ustc-curriculum-resource>
+- 维护者：Wloner0809
+- GitHub：Wloner0809/ustc-curriculum-resource（分支 main）
+- 说明：USTC 课程资源；评课点评引用的数理逻辑基础目录。无许可声明。
+- 被正式资料引用：1 处
+
+### B 站课程习题课录像
+
+- 类型：网站
+- 地址：<https://www.bilibili.com/>
+- 维护者：B 站公开上传者
+- 说明：评课社区点评中公开的课程习题课录像；仅登记视频页，权利归上传者。
+- 被正式资料引用：2 处
+
+### hwp-lab/USTC-Courses-Data
+
+- 类型：资料库
+- 地址：<https://github.com/hwp-lab/USTC-Courses-Data>
+- 维护者：hwp-lab
+- GitHub：hwp-lab/USTC-Courses-Data（分支 main）
+- 说明：USTC 计算机专业课程资料；评课点评引用的数电实验与数据结构目录。无许可声明。
+- 被正式资料引用：2 处
+
+### txtxj/USTC-Digital-Logic-Lab10
+
+- 类型：资料库
+- 地址：<https://github.com/txtxj/USTC-Digital-Logic-Lab10>
+- 维护者：txtxj
+- GitHub：txtxj/USTC-Digital-Logic-Lab10（分支 main）
+- 说明：数字电路实验 2021 秋大作业；无许可声明。
+- 被正式资料引用：1 处
+
+### Calvino-Elon/MINIST-and-camera-based-written-number-recognition
+
+- 类型：资料库
+- 地址：<https://github.com/Calvino-Elon/MINIST-and-camera-based-written-number-recognition>
+- 维护者：Calvino-Elon
+- GitHub：Calvino-Elon/MINIST-and-camera-based-written-number-recognition（分支 master）
+- 说明：摄像头手写数字识别课程项目；无许可声明。
+- 被正式资料引用：1 处
+
+### qc-1/Course-Materials
+
+- 类型：资料库
+- 地址：<https://github.com/qc-1/Course-Materials>
+- 维护者：qc-1
+- GitHub：qc-1/Course-Materials（分支 main）
+- 说明：USTC 课程资料；评课点评引用的计网目录。无许可声明。
+- 被正式资料引用：1 处
+
+### home.ustc.edu.cn/~shiyaowei040126
+
+- 类型：网站
+- 地址：<http://home.ustc.edu.cn/~shiyaowei040126/>
+- 维护者：学生个人主页
+- 说明：学生个人公开主页上的普通化学实验报告；仅链接原文件。
+- 被正式资料引用：1 处
+
+### yixiao-wang-stats.github.io
+
+- 类型：网站
+- 地址：<https://yixiao-wang-stats.github.io/>
+- 维护者：yixiao-wang-stats
+- 说明：个人公开站点上的概率论进阶课程笔记；仅链接原文件。
+- 被正式资料引用：1 处
+
+### Alberfish/Tex4PhyChe（USTC GitLab）
+
+- 类型：资料库
+- 地址：<https://git.ustc.edu.cn/Alberfish/tex4phyche>
+- 维护者：Alberfish
+- 说明：物理化学实验报告 LaTeX 模板；校内 GitLab 公开仓库。
+- 被正式资料引用：1 处
+
+### Sharp/basic51（USTC GitLab）
+
+- 类型：资料库
+- 地址：<https://git.lug.ustc.edu.cn/sharp/basic51>
+- 维护者：Sharp
+- 说明：单片机课程大作业工程（任意信号发生器）；校内 GitLab 公开仓库。
+- 被正式资料引用：1 处
+
+### 系统程序设计基础（USTC ISP）
+
+- 类型：网站
+- 地址：<https://ustc-isp.github.io/>
+- 维护者：USTC ISP 课程组
+- 说明：系统程序设计基础课程主页；评课点评列为资料入口。
+- 被正式资料引用：1 处
+
+### Linear Algebra Done Right（Sheldon Axler）
+
+- 类型：网站
+- 地址：<https://linear.axler.net/>
+- 维护者：Sheldon Axler
+- 说明：作者发布页标注第 4 版为 Open Access 并提供完整 PDF；匿名可取。
+- 被正式资料引用：1 处
+
+### 固体物理课程讲义（教师主页）
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~gzwang/>
+- 维护者：中国科学技术大学
+- 说明：评课社区点评外链的教师主页，提供固体物理课程 PPT；匿名可访问。
+- 被正式资料引用：1 处
+
+### USTC 编译原理和技术 2023 课程网站
+
+- 类型：网站
+- 地址：<https://ustc-compiler-principles.github.io/2023/>
+- 维护者：USTC 编译原理课程组
+- 说明：评课社区点评外链的课程网站；匿名可访问。
+- 被正式资料引用：1 处
+
+### wangxiaoou2013/USTC-Course（高等光学编程作业）
+
+- 类型：资料库
+- 地址：<https://github.com/wangxiaoou2013/USTC-Course>
+- 维护者：wangxiaoou2013
+- GitHub：wangxiaoou2013/USTC-Course（分支 master）
+- 说明：评课社区点评外链的课程编程作业仓库目录；匿名可访问。
+- 被正式资料引用：1 处
+
+### 固体物理课程主页（翁老师）
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~weng/index_SSP.html>
+- 维护者：中国科学技术大学
+- 说明：评课社区点评外链的 Solid State Physics 课程页；匿名可访问。
+- 被正式资料引用：2 处
+
+### 实分析课程主页（2018 春，王作勤）
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~wangzuoq/Courses/18S-RealAnalysis/index.html>
+- 维护者：中国科学技术大学
+- 说明：评课社区点评外链的实分析课程主页；匿名可访问（页面编码异常，未逐条解析）。
+- 被正式资料引用：1 处
+
+### mmengjiadai/Computational-Method
+
+- 类型：资料库
+- 地址：<https://github.com/mmengjiadai/Computational-Method>
+- 维护者：mmengjiadai
+- GitHub：mmengjiadai/Computational-Method（分支 main）
+- 说明：评课社区点评外链的计算方法课程作业代码仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### xXuHaiyang/USTC_Computation2022_Lab
+
+- 类型：资料库
+- 地址：<https://github.com/xXuHaiyang/USTC_Computation2022_Lab>
+- 维护者：xXuHaiyang
+- GitHub：xXuHaiyang/USTC_Computation2022_Lab（分支 main）
+- 说明：评课社区点评外链的计算方法 2022 实验仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### 张伟平 概率论与数理统计课程页
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm>
+- 维护者：中国科学技术大学
+- 说明：教师课程主页，评课社区点评外链；匿名可访问。
+- 被正式资料引用：1 处
+
+### Stardust-math/Reference-Answer
+
+- 类型：资料库
+- 地址：<https://github.com/Stardust-math/Reference-Answer>
+- 维护者：Stardust-math
+- GitHub：Stardust-math/Reference-Answer（分支 main）
+- 说明：评课社区点评作者公开的《概率论与数理统计》参考答案仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### 光学A 助教习题课讲义（home.ustc.edu.cn）
+
+- 类型：网站
+- 地址：<http://home.ustc.edu.cn/~shiyaowei040126/>
+- 维护者：中国科学技术大学学生主页
+- 说明：评课社区点评外链的光学A 助教讲义 PDF；匿名可取（application/pdf）。
+- 被正式资料引用：1 处
+
+### 数学建模课程主页（陈仁杰，2026）
+
+- 类型：网站
+- 地址：<http://staff.ustc.edu.cn/~renjiec/mm2026/>
+- 维护者：中国科学技术大学
+- 说明：评课社区点评外链的数学建模课程主页；匿名可访问。
+- 被正式资料引用：1 处
+
+### LinweiBi/experiment-of-physical-chemistry-i
+
+- 类型：资料库
+- 地址：<https://gitee.com/LinweiBi/experiment-of-physical-chemistry-i>
+- 维护者：LinweiBi
+- 说明：评课社区点评外链的物化实验报告/数据处理仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### TheVaticanCameos/USTC_MM_26
+
+- 类型：资料库
+- 地址：<https://github.com/TheVaticanCameos/USTC_MM_26>
+- 维护者：TheVaticanCameos
+- GitHub：TheVaticanCameos/USTC_MM_26（分支 main）
+- 说明：评课社区点评外链的数学建模 2026 春作业仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### 数据库基础课程笔记（jonbgua.com）
+
+- 类型：网站
+- 地址：<https://coursenotes.jonbgua.com/sql/>
+- 维护者：jonbgua
+- 说明：评课社区点评外链的公开课程笔记站点；匿名可访问。
+- 被正式资料引用：1 处
+
+### txtxj/PL0-Compiler
+
+- 类型：资料库
+- 地址：<https://github.com/txtxj/PL0-Compiler>
+- 维护者：txtxj
+- GitHub：txtxj/PL0-Compiler（分支 main）
+- 说明：评课社区点评外链的编译原理 2022 秋大作业仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### lyc0930/Compiler-Homework
+
+- 类型：资料库
+- 地址：<https://github.com/lyc0930/Compiler-Homework>
+- 维护者：lyc0930
+- GitHub：lyc0930/Compiler-Homework（分支 master）
+- 说明：评课社区点评外链的编译原理作业仓库（2019 秋）；匿名可访问。
+- 被正式资料引用：1 处
+
+### 2023 中科大计算机图形学暑期课程
+
+- 类型：网站
+- 地址：<http://gcl.ustc.edu.cn/Courses/SummerSchool_2023/index.html>
+- 维护者：中国科学技术大学 GCL 实验室
+- 说明：评课社区点评外链的暑期课程主页；匿名可访问。
+- 被正式资料引用：1 处
+
+### 中国科学技术大学计算机系统概论课程网站
+
+- 类型：网站
+- 地址：<http://acsa.ustc.edu.cn/ics/>
+- 维护者：中国科学技术大学
+- 说明：评课社区公开点评外链的课程网站，列有作业、实验与考试栏目；匿名可访问。
+- 被正式资料引用：4 处
+
+### Ace-tyl/icsh-code
+
+- 类型：资料库
+- 地址：<https://github.com/Ace-tyl/icsh-code>
+- 维护者：Ace-tyl
+- GitHub：Ace-tyl/icsh-code（分支 main）
+- 说明：评课社区点评外链的 ICS(H) 2023 秋实验代码仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### ljy0ustc/USTC_Resources
+
+- 类型：资料库
+- 地址：<https://github.com/ljy0ustc/USTC_Resources>
+- 维护者：ljy0ustc
+- GitHub：ljy0ustc/USTC_Resources（分支 main）
+- 说明：评课社区点评外链的中科大计算机学院学习资料仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### Oyyko/USTC-Random-Process
+
+- 类型：资料库
+- 地址：<https://github.com/Oyyko/USTC-Random-Process>
+- 维护者：Oyyko
+- GitHub：Oyyko/USTC-Random-Process（分支 master）
+- 说明：评课社区点评外链的随机过程复习资料仓库；匿名可访问。
+- 被正式资料引用：1 处
+
+### Fluuuegel/USTC-OS-Lab-2022（操作系统实验）
+
+- 类型：资料库
+- 地址：<https://github.com/Fluuuegel/USTC-OS-lab-2022>
+- 维护者：GitHub @Fluuuegel
+- GitHub：Fluuuegel/USTC-OS-Lab-2022（分支 main）
+- 说明：评课社区公开点评外链定位到的实验仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### USTC OS Docs（操作系统实验文档）
+
+- 类型：网站
+- 地址：<http://home.ustc.edu.cn/~pzw2002/>
+- 维护者：中国科学技术大学学生
+- 说明：评课社区公开点评外链定位到的操作系统实验文档站；匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### 实分析 2026 春课程主页（刘聪文）
+
+- 类型：网站
+- 地址：<https://cardigan0214.github.io/course/26SpringRA.html>
+- 维护者：cardigan0214
+- 说明：评课社区公开点评外链定位到的课程主页；匿名核对入口可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### sigma-aster/Big-data-algorithms（大数据算法笔记）
+
+- 类型：资料库
+- 地址：<https://github.com/sigma-aster/Big-data-algorithms>
+- 维护者：GitHub @sigma-aster
+- GitHub：sigma-aster/Big-data-algorithms（分支 main）
+- 说明：评课社区公开点评外链定位到的课程笔记仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Foundations of Data Science（Blum, Hopcroft, Kannan）
+
+- 类型：网站
+- 地址：<https://www.cs.cornell.edu/jeh/book.pdf>
+- 维护者：Avrim Blum, John Hopcroft, Ravindran Kannan
+- 说明：作者公开提供的完整教材 PDF；评课社区点评将其列为该课参考资料。
+- 被正式资料引用：1 处
+
+### Sketching Algorithms（Jelani Nelson 讲义）
+
+- 类型：网站
+- 地址：<https://www.sketchingbigdata.org/fall20/lec/notes.pdf>
+- 维护者：Jelani Nelson
+- 说明：作者公开提供的完整讲义 PDF；评课社区点评将其列为该课参考资料。
+- 被正式资料引用：1 处
+
+### cbyybc/deeplearning（深度学习大作业）
+
+- 类型：资料库
+- 地址：<https://github.com/cbyybc/deeplearning>
+- 维护者：GitHub @cbyybc
+- GitHub：cbyybc/deeplearning（分支 main）
+- 说明：评课社区公开点评外链定位到的大作业仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Catoverflow/ROBDD（ROBDD 构造器）
+
+- 类型：资料库
+- 地址：<https://github.com/Catoverflow/ROBDD>
+- 维护者：GitHub @Catoverflow
+- GitHub：Catoverflow/ROBDD（分支 master）
+- 说明：评课社区公开点评外链定位到的课程项目仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory
+
+- 类型：资料库
+- 地址：<https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory>
+- 维护者：GitHub @minervazz
+- GitHub：StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory（分支 main）
+- 说明：评课社区公开点评外链定位到的作业反馈与答案仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### zzx6869/2020_python_program_design
+
+- 类型：资料库
+- 地址：<https://github.com/zzx6869/2020_python_program_design>
+- 维护者：GitHub @zzx6869
+- GitHub：zzx6869/2020_python_program_design（分支 master）
+- 说明：评课社区公开点评外链定位到的课程实验仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
 ## 检索记录
 
 记录的是实际打开或检查过的页面、目录与文件，不是机械拼接的查询 URL。受阻不等于没有资料。
 
 ### 通用来源检索
 
+- 2026-11-19 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E8%80%83%E5%89%8D%E8%A1%A5%E5%85%85%E9%A2%98.pdf>
+  - 查询：旧库历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 16 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：两页均为图片扫描，文本层仅 2 个字符且嵌入字体无 ToUnicode，无法匿名读取内容；文件名仅提示考前补充题，材料性质与课程归属（A/B）均无法确证，不计新增；README 仅一行课程主页链接（home.ustc.edu.cn/~weihuang/pde/），无独立学习内容。；README 仅徐云课程主页链接（staff.ustc.edu.cn/~xuyun/algcs.htm），无独立学习内容。
+  - 来源 ID：gh-ustc-resource
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区快照资料核验与致谢
+  - 检查范围：核对评课数据包快照 19194 个课程页、50248 条点评及其附件/外链；起点 2026-10-29T09:33:55Z
+  - 说明：致谢：感谢 GitHub 用户 Amsors（https://github.com/Amsors）提供评课数据包；经本次复核与查重，由该包取得 144 条净新增资料。
+  - 来源 ID：icourse-club
 - 2026-11-18 · 官方开课目录 · 已查看 · <https://catalog.ustc.edu.cn/api/teach/semester/list>
   - 查询：npm run collect:courses真实直连采集验收
   - 检查范围：带官方Referer的采集脚本成功读取四学期全部响应；本科1567/1525/49/1609条、独立课程600/628/42/633、合并1184；排除研究生3587条；无无效记录、名称变化、分类变化或最终类别冲突
@@ -4511,6 +5892,18 @@
 
 ### 001046 数值分析
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2710/#review-64403>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：001046
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2710/#review-64183>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：001046
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：数值分析 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4537,6 +5930,36 @@
 
 ### 001065 计算机图形学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6120/#review-102909>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；单页课件/板书截图，非独立学习材料；自学指南导航页，非本课程材料
+  - 来源 ID：icourse-club
+  - 课程代码：001065
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/6120/#review-96705>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：001065
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6120/#review-102909>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：001065
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6120/#review-96705>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：001065
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/6120/#review-96705>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一仓库已由既有条目收录，重复
+  - 来源 ID：icourse-club
+  - 课程代码：001065
 - 2026-11-18 · GitHub · 已查看 · <https://ustcmathexam.github.io/AMCM/>
   - 查询：计算机图形学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4564,6 +5987,12 @@
   - 说明：收录 5 次作业（答案附于同条）和一份独立讲义；不混挂其他教学班。
   - 来源 ID：zhang-junyan-ustc-course
   - 课程代码：001101
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26099/#review-97320>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：001101
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%20USTC&type=repositories>
   - 查询：常微分方程 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4584,6 +6013,24 @@
 
 ### 001108 数学实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23417/#review-73147>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：目标链接失效（404）；站点首页，非具体材料；GitHub 站点首页，非具体材料
+  - 来源 ID：icourse-club
+  - 课程代码：001108
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23417/#review-73147>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、gh-tiankaima-notebooks
+  - 课程代码：001108
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23417/#review-73147>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：目标返回 403 或人机验证，匿名无法核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：001108
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%95%B0%E5%AD%A6%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：数学实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4609,6 +6056,12 @@
   - 说明：收录 4 次作业（答案附于同条）和一份独立讲义；不混挂其他教学班。
   - 来源 ID：zhang-junyan-ustc-course
   - 课程代码：001122
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26100/#review-97436>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：001122
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%20USTC&type=repositories>
   - 查询：偏微分方程 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4629,6 +6082,36 @@
 
 ### 001125 数值代数
 
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/13476/#review-15914>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：001125
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25956/#review-98092>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：目标返回 403 或人机验证，匿名无法核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：001125
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25956/#review-98108>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料
+  - 来源 ID：icourse-club
+  - 课程代码：001125
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13476/#review-15914>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开点评内嵌图片，匿名可取并核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：001125
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/13476/#review-15914>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与同一点评内的首张图片同属一份材料，合并为同一条目。
+  - 来源 ID：icourse-club
+  - 课程代码：001125
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%95%B0%E5%80%BC%E4%BB%A3%E6%95%B0%20USTC&type=repositories>
   - 查询：数值代数 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4654,6 +6137,18 @@
 
 ### 001139 数学建模
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25073/#review-93395>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、staff-ustc-renjiec-mm、gh-vatican-mm26
+  - 课程代码：001139
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25073/#review-93381>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：001139
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%20USTC&type=repositories>
   - 查询：数学建模 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4674,6 +6169,12 @@
 
 ### 001362 小波分析
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2131/#review-105866>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：001362
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：小波分析 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4704,6 +6205,18 @@
 
 ### 001505 复变函数A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1651/#review-16776>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 32 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 32 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；网盘分享，匿名无法核对内容与提取条件；共享文档无访问权限，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：001505
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1651/#review-87453>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 21 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料；试卷/笔记片段截图，未构成可独立使用的完整材料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：001505
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>
   - 查询：我的科大：/数学类/复变函数/2019-2020学年第一学期复变函数(A)期末试卷及答案.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -4748,6 +6261,18 @@
 
 ### 001506 数理方程A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2980/#review-103091>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 24 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 24 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：书目、付费或非权利方公开的整书，按规则不收；附件仅有哈希文件名，公开上下文不足以确认具体内容；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：001506
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2980/#review-34121>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位；按门槛判 blocked
+  - 来源 ID：icourse-club
+  - 课程代码：001506
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BA%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/数理方程/数理方程A历年真题.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -4840,6 +6365,24 @@
 
 ### 001548 复变函数B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20626/#review-97761>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 39 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 39 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；该附件直链已作为既有资料 mp-icourse-001548-exams-87cd 登记；匿名原点评仍只显示登录入口，本轮不重复收录、不新增公开链接。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20626/#review-97833>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 30 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 30 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片匿名访问返回 404，无法核对内容。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；该页面已是既有资料的出处页，无新增。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21917/#review-87356>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、web-fubianb-answers
+  - 课程代码：001548
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2017-2018%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf>
   - 查询：我的科大：/数学类/复变函数/2017-2018学年第一学期复变函数(B)期末试卷.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -5124,6 +6667,24 @@
   - 说明：补已有资料的具体入口：mp-gh-001549-lectures-a44a32。
   - 来源 ID：gh-kobe972
   - 课程代码：001549
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017.pdf>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 4 条候选；有效或补入口 3 条；结果 duplicate。 主要理由：既有 2017 条目此前登记的是配套答案文件；本轮改挂题面并补答案为 solution 入口，题面与答案逐题对应；配套答案文件，不另计一条资料，作为 solution 入口挂回既有 2017 题面条目，答案与题面五题逐题对应；既有 001549 study 条目指向课程目录；补 notes 下 6 份复习/总结 PDF 文件级入口。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21190/#review-64490>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 51 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 51 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21190/#review-64291>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 29 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 29 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料；外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录；附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：001549
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/数理方程/数理方程B历年真题.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -5376,6 +6937,12 @@
 
 ### 001665 分析II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/17989/#review-21347>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：001665
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90II%20USTC&type=repositories>
   - 查询：分析II USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -5471,6 +7038,12 @@
 
 ### 001672 分析IV
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 8 条候选，覆盖 2 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 8 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：001672
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%88%86%E6%9E%90IV%20USTC&type=repositories>
   - 查询：分析IV USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -5528,6 +7101,12 @@
 
 ### 001673 代数IV
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20587/#review-105028>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外链为参考页面，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：001673
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0IV%20USTC&type=repositories>
   - 查询：代数IV USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -6103,6 +7682,24 @@
 
 ### 001702 实分析(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2061/#review-45093>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：001702
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2061/#review-84183>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、staff-ustc-wangzuoq-ra
+  - 课程代码：001702
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2061/#review-46422>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；dead_link_or_generic_page；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：001702
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2021%E5%AE%9E%E5%88%86%E6%9E%90H%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf>
   - 查询：我的科大：/数学类/实分析/2021实分析H期中考试.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -6243,6 +7840,24 @@
 
 ### 001704 近世代数(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6524/#review-22852>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：001704
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6524/#review-84435>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_invalid_url
+  - 来源 ID：icourse-club
+  - 课程代码：001704
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6524/#review-84435>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、lyuchangle-notes
+  - 课程代码：001704
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/Resource-USTC-Course>
   - 查询：近世代数(H) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -6297,6 +7912,24 @@
 
 ### 001705 微分几何(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21906/#review-98492>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 25 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 25 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：001705
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21906/#review-98492>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 47 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 47 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：页面内容与该课学习资料无关。；视频或录播页面，不构成可独立检索的学习资料。；站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。
+  - 来源 ID：icourse-club
+  - 课程代码：001705
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21906/#review-98492>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：001705
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%28H%29%20USTC&type=repositories>
   - 查询：微分几何(H) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -6369,6 +8002,24 @@
 
 ### 001706 泛函分析(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4008/#review-99576>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：001706
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4008/#review-99576>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；dead_link_or_invalid_url
+  - 来源 ID：icourse-club
+  - 课程代码：001706
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4008/#review-90340>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、lyuchangle-notes
+  - 课程代码：001706
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2018%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90H%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf>
   - 查询：我的科大：/数学类/泛函分析/2018泛函分析H期末考试.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -6534,6 +8185,24 @@
 
 ### 001M06 计算机图形学前沿
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6125/#review-103906>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；review_image_not_study_material；dead_link_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：001M06
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6125/#review-71837>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gcl-ustc-summer-2023
+  - 课程代码：001M06
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6125/#review-71808>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：001M06
 - 2026-11-18 · GitHub · 已查看 · <http://staff.ustc.edu.cn/~lgliu/>
   - 查询：计算机图形学前沿 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -6560,6 +8229,24 @@
 
 ### 002001 固体物理A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1386/#review-94517>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 3 条；结果 reviewed。
+  - 来源 ID：icourse-club、staff-ustc-gzwang、staff-ustc-weng-ssp
+  - 课程代码：002001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13854/#review-52114>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：002001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1386/#review-85446>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；not_course_material_or_admin_doc；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：002001
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86>
   - 查询：固体物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -6656,6 +8343,12 @@
 
 ### 002122 半导体器件原理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1168/#review-103157>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：002122
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%99%A8%E4%BB%B6%E5%8E%9F%E7%90%86%20USTC&type=repositories>
   - 查询：半导体器件原理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -6680,6 +8373,12 @@
 
 ### 003019 化学物理实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13235/#review-1764>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：003019
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -6699,6 +8398,12 @@
 
 ### 003024 统计力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 22 条候选，覆盖 2 个课程页、6 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 1 条、判非资料或重复 18 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、ustc-home-suyupilemao
+  - 课程代码：003024
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%20in%3Areadme&type=repositories>
   - 查询：GitHub 仓库检索 USTC 物理化学 in:readme + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -6718,6 +8423,24 @@
 
 ### 003044 物理化学实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20634/#review-40145>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；网盘或非授权整书来源，不符合公开授权要求
+  - 来源 ID：icourse-club
+  - 课程代码：003044
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：003044
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18958/#review-29695>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开给出自写 LaTeX 模板的校内 GitLab 仓库，匿名可访问。
+  - 来源 ID：icourse-club、ustc-git-alberfish-tex4phyche
+  - 课程代码：003044
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -6738,6 +8461,18 @@
 
 ### 003056 物理化学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4255/#review-51137>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：003056
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4255/#review-51137>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；视频或录播页面，不构成可独立检索的学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：003056
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
   - 检查范围：相关课程页点评附件文件名列表（003056 四次小测；003154 2025年秋季期末试题；019161 2024Fall Final；019060 2021/2021A/2425/小测合并；CHEM4004 2023 考试题_答案；BIO3701 期末试卷讲解）
@@ -6763,6 +8498,24 @@
 
 ### 003142 物理化学基础实验(上)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12453/#review-1815>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；not_course_material_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：003142
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25994/#review-97000>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gitee-linweibi-physical-chemistry
+  - 课程代码：003142
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20635/#review-40927>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：003142
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -6853,6 +8606,12 @@
 
 ### 003145 化学物理进展
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21725/#review-52815>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：003145
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E7%89%A9%E7%90%86%E8%BF%9B%E5%B1%95>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -6873,6 +8632,12 @@
 
 ### 003151 量子化学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 10 条候选，覆盖 2 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 7 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：003151
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -6921,6 +8686,18 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：仅凭文件名和扫描形态，正文未核
   - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003154
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4267/#review-92410>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：003154
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4267/#review-92410>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：既有条目已覆盖该仓库的课程材料，不重复计入。；点评附图为回忆版试卷结语页，不含题目内容，不收。；点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
   - 课程代码：003154
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
@@ -7034,6 +8811,12 @@
   - 说明：作为独立资料收录：homework-review-003156-physical-chemistry-report。
   - 来源 ID：chembio-daswalpurgis
   - 课程代码：003156
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：003156
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III,%E7%BB%9F%E8%AE%A1%E5%8A%9B%E5%AD%A6>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -7066,6 +8849,24 @@
 
 ### 003158 量子物理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：003158
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13498/#review-28595>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开列出该习题课录像，视频页标题与课程一致，公开可访问。
+  - 来源 ID：icourse-club、bilibili-course-recordings
+  - 课程代码：003158
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/17995/#review-21141>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；主页/人物页/书目页，无具体学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：003158
 - 2026-11-18 · GitHub · 候选未确认 · <https://github.com/Kobe972/ustc_course_plus/tree/main/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86>
   - 查询：完整文件树检查 Kobe972/ustc_course_plus
   - 检查范围：1976 个 blob 完整文件树中的“量子物理/习题共享”目录（第一至第四章 readme 与配图）
@@ -7101,6 +8902,12 @@
 
 ### 003159 化学物理仪器基础与实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1109/#review-93571>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：003159
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -7144,6 +8951,12 @@
 
 ### 004031 核电子学实验
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3798/#review-56236>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：004031
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%A0%B8%E7%94%B5%E5%AD%90%E5%AD%A6%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：核电子学实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7188,6 +9001,24 @@
 
 ### 004040 计算物理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24592/#review-98765>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：点评正文明确为 25 秋试卷照片；匿名 DOM 中为 img src 直链
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18285/#review-38282>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 22 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 22 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外链非具体公开学习材料；图片为成绩、截图或板书照片，未证明是独立学习材料；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18285/#review-38282>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 27 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 27 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位；按门槛判 blocked
+  - 来源 ID：icourse-club
+  - 课程代码：004040
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86>
   - 查询：计算物理B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7233,6 +9064,18 @@
 
 ### 004074 物理学专业基础实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22454/#review-92392>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：004074
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21210/#review-45272>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：004074
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：物理学专业基础实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7252,6 +9095,12 @@
 
 ### 004120 气体放电原理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3959/#review-102964>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：004120
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%B0%94%E4%BD%93%E6%94%BE%E7%94%B5%E5%8E%9F%E7%90%86%20USTC&type=repositories>
   - 查询：气体放电原理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7276,6 +9125,12 @@
 
 ### 004122 等离子体诊断导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12845/#review-87149>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：004122
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93%E8%AF%8A%E6%96%AD%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：等离子体诊断导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7301,6 +9156,12 @@
 
 ### 004137 近代数学物理方法
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：004137
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%BF%91%E4%BB%A3%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95%20USTC&type=repositories>
   - 查询：近代数学物理方法 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7320,6 +9181,12 @@
 
 ### 004139 等离子体物理导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5245/#review-98874>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：004139
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/AppPhy/>
   - 查询：等离子体物理导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7359,6 +9226,12 @@
 
 ### 005007 流体力学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22218/#review-91730>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：005007
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：005007 流体力学基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7460,6 +9333,30 @@
 
 ### 005101 计算力学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6070/#review-72331>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人主页，非具体材料
+  - 来源 ID：icourse-club
+  - 课程代码：005101
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6070/#review-103054>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：网盘分享需提取码，匿名无法核对内容
+  - 来源 ID：icourse-club
+  - 课程代码：005101
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6070/#review-87124>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 3 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。；公开点评内嵌图片，匿名可取并核对内容。
+  - 来源 ID：icourse-club、gh-nightglow-computationalmechanics、gh-zhengxiuyuan-femcode
+  - 课程代码：005101
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/6070/#review-103054>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：005101
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：005101 计算力学基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7542,6 +9439,12 @@
 
 ### 005151 实验力学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26254/#review-104071>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：005151
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：005151 实验力学
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7561,6 +9464,18 @@
 
 ### 006125 信息论A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：006125
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/592/#review-103096>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：006125
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Information%20Theory%20A/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0%E5%AE%9D%E5%85%B8.pdf>
   - 查询：006125 信息论A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7599,6 +9514,12 @@
   - 说明：补已有资料的具体入口：eng-lectures-006174-5e4c8af6。
   - 来源 ID：gh-li-qi-lin
   - 课程代码：006174
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 2 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：006174
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3FA%20Electromagnetic%20Field%20Theory/22%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：006174 电磁场理论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7631,6 +9552,24 @@
 
 ### 006196 多媒体技术基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1750/#review-97789>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：商业软件页面，非学习材料；个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：006196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1750/#review-97789>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、gh-vertsineu-jpegify
+  - 课程代码：006196
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/1750/#review-97789>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+  - 来源 ID：icourse-club、gh-vertsineu-jpegify
+  - 课程代码：006196
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：006196 多媒体技术基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7669,6 +9608,12 @@
 
 ### 006198 移动通信原理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5144/#review-105374>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：006198
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：006198 移动通信原理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7698,6 +9643,18 @@
   - 查询：评课社区：统计信号分析与处理（叶中付、刘军、徐旭）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：006200
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26601/#review-102740>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：006200
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25093/#review-93689>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
   - 来源 ID：icourse-club
   - 课程代码：006200
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf>
@@ -7745,6 +9702,12 @@
 
 ### 006204 光通信网络基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18965/#review-97192>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、zuqingzhu-ocn
+  - 课程代码：006204
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：006204 光通信网络基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7790,6 +9753,18 @@
 
 ### 006502 信号与系统B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21212/#review-105239>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21214/#review-102914>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：006502 信号与系统B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -7809,6 +9784,12 @@
 
 ### 007001 流体力学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21997/#review-79594>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：007001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>
   - 查询：流体力学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7923,6 +9904,12 @@
 
 ### 007167 普通天文学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：007167
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%99%AE%E9%80%9A%E5%A4%A9%E6%96%87%E5%AD%A6%20USTC&type=repositories>
   - 查询：普通天文学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -7967,6 +9954,18 @@
 
 ### 007185 等离子体物理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5229/#review-1964>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：书目/出版社或书目检索页，非权利方公开免费全文，不收录。；课程讨论板页面，非独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：007185
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5229/#review-59492>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：007185
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/UmataHasrick/College_Physics_Experiment_V_Report>
   - 查询：等离子体物理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8024,6 +10023,12 @@
 
 ### 007242 地震学原理与应用
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1529/#review-31324>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_admin_doc；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：007242
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：地震学原理与应用 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8049,6 +10054,18 @@
 
 ### 007249 地球化学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13571/#review-56951>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：007249
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24601/#review-88549>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：007249
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6%20USTC&type=repositories>
   - 查询：地球化学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8106,6 +10123,12 @@
 
 ### 007277 大气探测学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：007277
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E6%8E%A2%E6%B5%8B%E5%AD%A6%20USTC&type=repositories>
   - 查询：大气探测学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8163,6 +10186,12 @@
 
 ### 007281 遥感气象学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：007281
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%81%A5%E6%84%9F%E6%B0%94%E8%B1%A1%E5%AD%A6%20USTC&type=repositories>
   - 查询：遥感气象学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8182,6 +10211,12 @@
 
 ### 007282 空间探测仪器原理与方法
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 21 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 17 条、登录占位/无法匿名核验受阻 4 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：007282
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E4%BB%AA%E5%99%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E6%96%B9%E6%B3%95%20USTC&type=repositories>
   - 查询：空间探测仪器原理与方法 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8201,6 +10236,12 @@
 
 ### 007286 天气学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2000/#review-46782>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：007286
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E6%B0%94%E5%AD%A6%20USTC&type=repositories>
   - 查询：天气学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8220,6 +10261,12 @@
 
 ### 007290 矿床学与矿相学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24066/#review-95221>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：007290
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%9F%BF%E5%BA%8A%E5%AD%A6%E4%B8%8E%E7%9F%BF%E7%9B%B8%E5%AD%A6%20USTC&type=repositories>
   - 查询：矿床学与矿相学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8277,6 +10324,12 @@
 
 ### 007314 科学计算与程序设计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 13 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 11 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：007314
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：科学计算与程序设计 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8301,6 +10354,18 @@
 
 ### 008007 微生物学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13575/#review-49387>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：008007
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13575/#review-51383>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：008007
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8320,6 +10385,12 @@
 
 ### 008062 植物生理学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3835/#review-48551>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：008062
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8339,6 +10410,18 @@
 
 ### 008074 遗传学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22030/#review-57436>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：008074
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23435/#review-100705>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：008074
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8358,6 +10441,18 @@
 
 ### 008108 生理学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23039/#review-93599>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：008108
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24483/#review-94032>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：008108
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8421,6 +10516,12 @@
 
 ### 008144 普通生物学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20216/#review-85697>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：008144
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8446,6 +10547,18 @@
 
 ### 008158 生物学野外实习
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20566/#review-89620>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：008158
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20566/#review-89485>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：008158
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8541,6 +10654,12 @@
 
 ### 008184 生物技术导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：008184
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8560,6 +10679,12 @@
 
 ### 008185 分子生物学I
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21223/#review-93086>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：008185
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8598,6 +10723,12 @@
 
 ### 008190 免疫生物学I
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 8 条候选，覆盖 4 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 7 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：008190
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8617,6 +10748,18 @@
 
 ### 008191 生理学实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12720/#review-82846>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：008191
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：008191
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8636,6 +10779,18 @@
 
 ### 008193 免疫生物学II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20260/#review-102574>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：008193
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20260/#review-102570>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：008193
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8674,6 +10829,12 @@
 
 ### 008197 合成生物学导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1301/#review-89511>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：008197
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8693,6 +10854,12 @@
 
 ### 008198 基础生态学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24071/#review-102185>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：008198
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8750,6 +10917,12 @@
 
 ### 008206 细胞生物学基础实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5557/#review-84377>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：008206
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8774,6 +10947,12 @@
 
 ### 008208 微生物学实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2458/#review-85487>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：008208
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8812,6 +10991,12 @@
 
 ### 008508 分子生物学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18306/#review-58095>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：008508
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8831,6 +11016,18 @@
 
 ### 008704 细胞生物学I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18307/#review-68181>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：008704
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18307/#review-88853>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：008704
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8850,6 +11047,12 @@
 
 ### 008711 科研实习
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/10555/#review-97547>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：008711
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8869,6 +11072,12 @@
 
 ### 008714 生物科技文献阅读
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：008714
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -8907,6 +11116,12 @@
 
 ### 009103 自动控制原理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22467/#review-87592>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：009103
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：009103 自动控制原理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -8945,6 +11160,12 @@
 
 ### 009171 机械制图及CAD(B)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：009171
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：009171 机械制图及CAD(B)
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -8964,6 +11185,12 @@
 
 ### 009175 传感器及测试技术
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：009175
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：009175 传感器及测试技术
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9059,6 +11286,18 @@
 
 ### 009501 机械制图及CAD基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25815/#review-104669>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：009501
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25815/#review-104669>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、web-mechdrawing-tutorial
+  - 课程代码：009501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：009501 机械制图及CAD基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9078,6 +11317,24 @@
 
 ### 010009 模式识别导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3900/#review-26952>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。；自动化专业综合资料仓库，未见与本课程对应的具体材料，不按本课收录。
+  - 来源 ID：icourse-club
+  - 课程代码：010009
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23043/#review-104683>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：010009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3900/#review-26952>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-yxli2123-pattern-recognition
+  - 课程代码：010009
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：010009 模式识别导论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9097,6 +11354,18 @@
 
 ### 010159 自动控制原理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20653/#review-94340>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 31 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：010159
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20653/#review-102763>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_admin_doc；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：010159
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E5%BE%80%E5%B9%B4%E9%A2%98/2021-2022%E6%9C%9F%E6%9C%AB%20%281%29%281%29.pdf>
   - 查询：010159 自动控制原理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9159,6 +11428,30 @@
   - 说明：补已有资料的具体入口：eng-lectures-010177-a6fec94a。
   - 来源 ID：eng-github-epihio-automation
   - 课程代码：010177
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4455/#review-104682>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：010177
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4455/#review-104682>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book；review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：010177
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4455/#review-97190>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club
+  - 课程代码：010177
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/4455/#review-97190>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：010177
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%95%E5%8D%B7/22-23%281%29.pdf>
   - 查询：010177 现代控制理论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9191,6 +11484,12 @@
 
 ### 010190 系统与控制实验(2)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18981/#review-102101>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；duplicate_existing_entry
+  - 来源 ID：icourse-club
+  - 课程代码：010190
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：010190 系统与控制实验(2)
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9210,6 +11509,24 @@
 
 ### 010196 传感器原理与技术
 
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/425/#review-93159>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：该仓库已在现有来源 eng-github-epihio-automation 下收录多条资料，仓库根入口不重复计
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/425/#review-46085>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/425/#review-93157>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 34 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 34 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：010196
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E4%BC%A0%E6%84%9F%E5%99%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%80%BB%E7%BB%93>
   - 查询：010196 传感器原理与技术
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9236,6 +11553,24 @@
 
 ### 010197 执行器技术
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12799/#review-92027>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 3 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为作者应约制作的复习提纲，3 张图片匿名可见。
+  - 来源 ID：icourse-club
+  - 课程代码：010197
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12799/#review-92027>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：010197
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 34 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 34 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：010197
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF>
   - 查询：010197 执行器技术
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9274,6 +11609,12 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：010205
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6490/#review-96920>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：010205
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control>
   - 查询：010205 运动控制
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9300,6 +11641,12 @@
 
 ### 010209 系统工程概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 28 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 26 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：010209
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：010209 系统工程概论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9368,6 +11715,12 @@
   - 说明：已有课程速查笔记，未证实独立版本
   - 来源 ID：eng-github-epihio-automation
   - 课程代码：010214
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：010214
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E9%9B%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98%E9%9B%86/2001%E7%BA%A7%E8%AF%95%E5%8D%B7.pdf>
   - 查询：010214 计算机控制
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9400,6 +11753,18 @@
 
 ### 010216 面向对象技术
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18311/#review-83507>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：010216
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18311/#review-83507>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：010216
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：010216 面向对象技术
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9419,6 +11784,18 @@
 
 ### 010217 系统与控制实验(1)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23440/#review-104678>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：010217
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23440/#review-106570>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：010217
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：010217 系统与控制实验(1)
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -9438,6 +11815,12 @@
 
 ### 011040 图论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 29 条候选，覆盖 3 个课程页、21 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 3 条、判非资料或重复 13 条、登录占位/无法匿名核验受阻 13 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-hwp-lab-ustc-courses-data、gh-enguikong-graph-theory、gh-sakura0423-ustc-graph-theory
+  - 课程代码：011040
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%9B%BE%E8%AE%BA%20USTC&type=repositories>
   - 查询：图论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -9458,6 +11841,24 @@
 
 ### 011044 计算机导论
 
+- 2026-11-19 · 公开网页 · 已查看 · <https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AD%99%E6%97%AD%E7%A3%8A%EF%BC%89.pdf>
+  - 查询：计算机导论课程报告（孙旭磊）
+  - 检查范围：匿名复核：文件页正常提供 LaTeX 源码及同报告的 PDF 渲染版；保留站内文件页，下载地址由原站临时生成。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：feixu-alist
+  - 课程代码：011044
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18983/#review-65894>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：011044
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18312/#review-76976>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：011044
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：计算机导论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -9478,6 +11879,30 @@
 
 ### 011103 代数结构
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12381/#review-63220>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-enguikong-algebraic-structure
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12381/#review-83757>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12381/#review-84897>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。；视频/音频或录播页面，非独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%20USTC&type=repositories>
   - 查询：代数结构 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、USTC-CS-Course-Resource/USTC-CS-Resources
@@ -9546,6 +11971,24 @@
 
 ### 011119 人工智能基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25103/#review-92951>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 22 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 22 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：在线工具、软件下载或平台文档，非课程学习材料。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；GitHub 站点首页，非具体资料。
+  - 来源 ID：icourse-club
+  - 课程代码：011119
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25103/#review-97212>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011119
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14364/#review-46253>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-xxuhaiyang-ustc-ai2022-lab、web-gdrive-ai-pack
+  - 课程代码：011119
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：人工智能基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 guidongnan/ustc_ds_undergraduate_course
@@ -9602,6 +12045,30 @@
   - 说明：教师专用，禁止分发
   - 来源 ID：gh-kobe972
   - 课程代码：011144
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 2 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 011144 study 条目已覆盖 notes 目录；补 3 份知识点/小抄 PDF 文件级入口。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6259/#review-81239>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人主页、课程主页或站点首页，无具体可核对材料，不因出现在点评而收录。；视频/音频或录播页面，非独立学习材料。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12994/#review-28493>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 5 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-waltersumbon-dns-relay、web-gdrive-net-pack、web-feater-top、gh-moranzcw-cn-notes、gh-jzplp-cn-answers
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12994/#review-91203>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 33 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 33 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20USTC&type=repositories>
   - 查询：计算机网络 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog、guidongnan/ustc_ds_undergraduate_course
@@ -9634,6 +12101,30 @@
 
 ### 011145 计算机组成原理
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/exams/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 2 条候选；有效或补入口 2 条；结果 duplicate。 主要理由：与既有 eng-github-guch8017 的 COD2017.pdf 字节完全相同（SHA-256 fe91600b3e64ef81…，212733B），同卷镜像，补旧库稳定入口并校正卷型为回忆版；既有目录条目已覆盖（158 文件核对一致）；Lab6 含 CPU & UART on ebaz4205，CPU+UART 已涵盖；无新增。
+  - 来源 ID：gh-ustc-resource、eng-github-guch8017
+  - 课程代码：011145
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/notes/mbinary>
+  - 查询：旧库历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：旧库 notes/mbinary 目录，4 篇 Markdown 读书笔记：IO 设备、IO 硬件、IO 软件、总线；学生原创笔记，公开可访问。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011145
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13327/#review-56387>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：011145
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13327/#review-56387>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；duplicate_existing_entry；dead_link_or_invalid_url
+  - 来源 ID：icourse-club
+  - 课程代码：011145
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%20USTC&type=repositories>
   - 查询：计算机组成原理 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、USTC-Resource/USTC-Course、15172658790/Blog
@@ -9654,6 +12145,42 @@
 
 ### 011146 算法基础
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes>
+  - 查询：旧库历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：旧库 notes 目录：mbinary 下 10 篇 Markdown 算法专题笔记（排序/树/图/哈希/字符串/数论/红黑树/B树/Fib堆/综述）加 1 份红黑树 FSM 课件；学生原创笔记，公开可访问。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011146
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/labs>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 3 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（17 文件核对一致）；无新增。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 28 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 28 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/21469/#review-50478>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一 GitHub 仓库已作为 MATH4002 算法基础 2022SP 实验收录，无新增；同一课程主页已作为 011146 课程网站收录；与已接受的 walkccc.github.io/CLRS 为同一习题解答站点的镜像域名
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22469/#review-67127>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：主页/人物页/书目页，无具体学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；泛视频链接，非课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25896/#review-101106>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 5 条；结果 reviewed。 主要理由：原点评在公开正文中标注配图为期末考试试卷部分答案，4 张图片匿名可见。；原点评公开列出该习题解答站点，用于课程教材习题参考；第三方整理，非课程官方。
+  - 来源 ID：icourse-club、walkccc-clrs
+  - 课程代码：011146
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：算法基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource、Melmaphother/ustc-course-resources
@@ -9680,6 +12207,12 @@
 
 ### 011147 数据库系统及应用
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 25 条候选，覆盖 5 个课程页、15 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 1 条、判非资料或重复 18 条、登录占位/无法匿名核验受阻 6 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-guch8017-bankdb
+  - 课程代码：011147
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%8F%8A%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：数据库系统及应用 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -9700,6 +12233,24 @@
 
 ### 011152 模拟与数字电路实验
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：011152
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3912/#review-43550>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：011152
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21093/#review-101630>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评公开指向该仓库的数电实验目录，匿名可访问；仅登记目录入口。；原点评公开给出该大作业仓库地址，仓库描述与课程大作业一致。
+  - 来源 ID：icourse-club、gh-hwp-lab-courses、gh-txtxj-digital-logic-lab10
+  - 课程代码：011152
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%A8%A1%E6%8B%9F%E4%B8%8E%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：模拟与数字电路实验 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Kobe972/ustc_course_plus
@@ -9720,6 +12271,30 @@
 
 ### 011163 编译原理和技术
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 2 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（72 文件核对一致）；CMinus 编译器在 lab3-1；无新增。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011163
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14088/#review-11474>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 42 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 42 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：011163
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14088/#review-82793>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 4 条；结果 reviewed。
+  - 来源 ID：icourse-club、ustc-compiler-principles-2023、gh-txtxj-pl0-compiler、gh-wloner0809、gh-lyc0930-compiler-homework
+  - 课程代码：011163
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14088/#review-62314>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011163
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF%20USTC&type=repositories>
   - 查询：编译原理和技术 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource、USTC-Resource/USTC-Course
@@ -9764,6 +12339,36 @@
   - 说明：作为独立资料收录：homework-review-011174-os-reading-notes。
   - 来源 ID：gh-ustc-resource
   - 课程代码：011174
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 4 条候选；有效或补入口 2 条；结果 duplicate。 主要理由：既有 011174 读书笔记条目已覆盖 notes/mbinary 目录；补 deadlock/linux-file-io/multiprocessor 三个文件级入口与摘要。；既有 011174 homework 条目已覆盖 homeworks 目录并含 hw4_sol/hw6_sol；补齐其余 8 个作业文件级入口，不新增条目。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011174
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs>
+  - 查询：旧库历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：读取 PDF 正文确认为操作系统实验报告 2（NachOS Fork/Exec/Join/Shell/动态优先级调度），作者林祥 [学号]；目录归 011174；无既有条目覆盖该 labs 目录。；读取 PDF 正文确认为操作系统实验报告 3（NachOS 文件系统 FileHeader/FileSystem），作者林祥 [学号]；目录归 011174；无既有条目覆盖。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21230/#review-51544>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-fluuuegel-os-lab-2022、ustc-os-docs
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21230/#review-49986>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：工具、软件文档或他校课程文档，非本课程学习资料。；网页快照，非原始学习资料。；页面内容与该课学习资料无关。
+  - 来源 ID：icourse-club
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21230/#review-49986>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011174
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：操作系统原理与设计 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog、Kobe972/ustc_course_plus
@@ -9802,6 +12407,24 @@
 
 ### 011179 Web信息处理与应用
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes>
+  - 查询：旧库历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：旧库 notes 目录，3 份 PDF：Web Mining 复习提纲-2018、web 复习总结（熊家靖）、web 信息处理与应用复习提纲详细总结；学生整理复习材料，公开可访问。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011179
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（119 文件核对一致）；lab1 搜索引擎、lab2 数据；实验题面与学生报告不跨学期配对；无新增。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：011179
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 32 条候选，覆盖 2 个课程页、22 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 1 条、判非资料或重复 21 条、登录占位/无法匿名核验受阻 10 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-ljy0ustc-ustc-resources
+  - 课程代码：011179
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=Web%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：Web信息处理与应用 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Wloner0809/ustc-course-resource
@@ -9846,6 +12469,24 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：011186
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24076/#review-86501>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。；点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；点评附图仅为单页公式/定理片段，不构成独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：011186
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18025/#review-92594>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011186
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24076/#review-86501>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 4 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-sigma-aster-bigdata-algo、ustc-teacher-pages、fds-blum-hopcroft-kannan、sketchingbigdata-nelson
+  - 课程代码：011186
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%97%E6%B3%95%20USTC&type=repositories>
   - 查询：大数据算法 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -9866,6 +12507,24 @@
 
 ### 011187 数据隐私的方法伦理和实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18026/#review-87326>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：011187
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：011187
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18026/#review-73779>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评公开说明数据隐私作业与实验位于该仓库目录，匿名可访问；仅登记目录入口。
+  - 来源 ID：icourse-club、eng-github-melmaphother、gh-wloner0809
+  - 课程代码：011187
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81%E7%9A%84%E6%96%B9%E6%B3%95%E4%BC%A6%E7%90%86%E5%92%8C%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：数据隐私的方法伦理和实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -9885,6 +12544,24 @@
 
 ### 011703 编译原理和技术(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5785/#review-2791>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：011703
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5785/#review-62549>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：site_page_copy；not_course_material_or_generic_page；dead_link_or_invalid_url
+  - 来源 ID：icourse-club
+  - 课程代码：011703
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5785/#review-42932>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-komorebi660-sysyf-compiler
+  - 课程代码：011703
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF(H)%20USTC&type=repositories>
   - 查询：编译原理和技术(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource、USTC-Resource/USTC-Course
@@ -9923,6 +12600,24 @@
   - 说明：教材答案来源与可公开分发性未确认
   - 来源 ID：gh-guidongnan
   - 课程代码：011704
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6242/#review-19345>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：011704
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6242/#review-12751>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 4 条；结果 reviewed。
+  - 来源 ID：icourse-club、acsa-ustc-ics、gh-ace-tyl-icsh-code
+  - 课程代码：011704
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6242/#review-12751>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 30 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 30 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；not_course_material_or_generic_page；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：011704
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA(H)%20USTC&type=repositories>
   - 查询：计算机系统概论(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 USTC-CS-Course-Resource/USTC-CS-Resources、Kobe972/ustc_course_plus、guidongnan/ustc_ds_undergraduate_course
@@ -9943,6 +12638,18 @@
 
 ### 011705 操作系统原理与设计(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2681/#review-70892>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：011705
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2681/#review-70892>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 44 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 44 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录；来源站点首页、论坛或课程主页，非具体资料文件；外链非具体公开学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：011705
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)%20USTC&type=repositories>
   - 查询：操作系统原理与设计(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog、Kobe972/ustc_course_plus
@@ -10044,6 +12751,12 @@
 
 ### 013099 热力设备原理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26267/#review-101907>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：013099
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：013099 热力设备原理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -10120,6 +12833,12 @@
 
 ### 013149 工程热力学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22471/#review-80636>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：013149
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：013149 工程热力学B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -10158,6 +12877,12 @@
 
 ### 013X08 张量初步
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2312/#review-9625>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：013X08
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：013X08 张量初步
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -10177,6 +12902,18 @@
 
 ### 014007 固体材料结构基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20660/#review-42250>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人资料页说明所有资源经科大云盘分享、需统一身份认证；匿名无法核对具体材料。；该页已是既有资料 chembio-014007-lectures-2023 的出处，无新增内容。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：014007
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1374/#review-25588>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：014007
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/flimmernz/course-note/blob/main/space%20groups%20for%20solid.pdf>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 材料 课程
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -10203,6 +12940,12 @@
 
 ### 014014 固体物理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18031/#review-34604>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：014014
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%20in%3Areadme&type=repositories>
   - 查询：GitHub 仓库检索 USTC 物理化学 in:readme + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -10241,6 +12984,12 @@
 
 ### 014127 材料物性
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18987/#review-39826>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：014127
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E6%9D%90%E6%96%99%20%E8%AF%BE%E7%A8%8B&type=repositories>
   - 查询：GitHub 仓库检索 USTC 材料 课程 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -10303,6 +13052,18 @@
 
 ### 014145 材料制备与加工
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3669/#review-31957>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：014145
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3669/#review-31957>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：unidentified_file_url_only；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：014145
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/22782/>
   - 查询：icourse.club 搜索：材料制备与加工
   - 检查范围：课程页点评附件列表
@@ -10329,6 +13090,12 @@
 
 ### 015005 微观经济学
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E8%87%AA%E7%94%B1%E9%80%89%E4%BF%AE-%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6>
+  - 查询：微观经济学分章课件与复习提纲
+  - 检查范围：匿名访问 GitHub 目录页，返回 HTTP 200，确认显示目录清单。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：eng-github-ustcwpz-cs
+  - 课程代码：015005
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："微观经济学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10368,6 +13135,12 @@
 
 ### 015039 市场营销学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：015039
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："市场营销学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10406,6 +13179,18 @@
 
 ### 015123 数据库技术及应用
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2892/#review-16799>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；泛视频链接，非课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：015123
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：015123
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："数据库技术及应用" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10729,6 +13514,12 @@
 
 ### 017048 概率论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3843/#review-21630>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：017048
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%A6%82%E7%8E%87%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："概率论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10748,6 +13539,18 @@
 
 ### 017063 数理统计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25111/#review-92610>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：017063
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25111/#review-92610>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：017063
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："数理统计" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10768,6 +13571,18 @@
 
 ### 017123 计量经济学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6325/#review-97519>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：资源下载站首页，非课程学习材料。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：017123
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6325/#review-88099>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：017123
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："计量经济学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10806,6 +13621,18 @@
 
 ### 017129 实用随机过程
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 40 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 40 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：017129
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2092/#review-17567>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：017129
 - 2026-11-18 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E6%96%B9%E5%85%86%E6%9C%AC%E3%80%81%E7%BC%AA%E6%9F%8F%E5%85%B6%E3%80%8A%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E3%80%8B%E7%AD%94%E6%A1%88.pdf>
   - 查询：我的科大：/数学类/随机过程/方兆本、缪柏其《随机过程》答案.pdf
   - 检查范围：公开列表及可取得的文件/关联证据；未作为正式课程资料入库。
@@ -10861,6 +13688,12 @@
 
 ### 017131 随机过程A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/9237/#review-3533>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：017131
 - 2026-11-18 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E6%96%B9%E5%85%86%E6%9C%AC%E3%80%81%E7%BC%AA%E6%9F%8F%E5%85%B6%E3%80%8A%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E3%80%8B%E7%AD%94%E6%A1%88.pdf>
   - 查询：我的科大：/数学类/随机过程/方兆本、缪柏其《随机过程》答案.pdf
   - 检查范围：公开列表及可取得的文件/关联证据；未作为正式课程资料入库。
@@ -10935,6 +13768,12 @@
 
 ### 017137 金融学导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6718/#review-60325>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：017137
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%87%91%E8%9E%8D%E5%AD%A6%E5%AF%BC%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："金融学导论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -10972,6 +13811,18 @@
   - 说明：仅见图片列表，未核和PDF有无增量
   - 来源 ID：github-rachel-finance-minor
   - 课程代码：017139
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18995/#review-28814>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料
+  - 来源 ID：icourse-club
+  - 课程代码：017139
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22099/#review-90068>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：017139
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："金融经济学基础" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11008,6 +13859,42 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：hum-017144-homework-ustcresource。
   - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework>
+  - 查询：随机过程习题答案（方兆本教材/第三、四章）
+  - 检查范围：匿名访问 GitHub 目录页，返回 HTTP 200，确认显示目录清单。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes>
+  - 查询：随机过程复习与总结
+  - 检查范围：匿名访问 GitHub 目录页，返回 HTTP 200，确认显示目录清单。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 3 条候选；有效或补入口 3 条；结果 duplicate。 主要理由：该旧库文件已登记为 hum-017144-exam-2018-1 的入口；本轮补稳定直链与字节摘要，并与 duxiaoyang 副本互证镜像；既有 017144 study 条目已覆盖 notes 目录；补复习.pdf 与随机过程总结两份文件级入口。；既有 017144 homework 条目已含 3 份答案；补齐文件级入口并统一抽样哈希，不新增条目。
+  - 来源 ID：gh-ustc-resource、eng-github-duxiaoyang-materials
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12406/#review-27113>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 63 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 63 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6777/#review-48952>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-ljy0ustc-resources、gh-oyyko-random-process
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12406/#review-1395>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_emoticon_or_avatar；review_image_not_study_material；not_course_material_for_this_course
+  - 来源 ID：icourse-club
   - 课程代码：017144
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%28B%292018%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/随机过程/随机过程(B)2018期末考题.pdf
@@ -11107,6 +13994,18 @@
   - 说明：补已有资料的具体入口：hum-017146-homework-regression。
   - 来源 ID：github-irvingyou-regression-lab
   - 课程代码：017146
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1350/#review-57649>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频或录播页面，不构成可独立检索的学习资料。；书目/馆藏检索或商业图书页，未提供可公开获取的全文。；页面内容与该课学习资料无关。
+  - 来源 ID：icourse-club
+  - 课程代码：017146
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14377/#review-13040>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：017146
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："回归分析" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19 个公开课程仓库文件树 + 仓库 IrvingYou/USTC-Regression-Analysis-lab2025 的 README 与递归文件树
@@ -11146,6 +14045,12 @@
 
 ### 017156 非参数统计
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25112/#review-96342>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：017156
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%9D%9E%E5%8F%82%E6%95%B0%E7%BB%9F%E8%AE%A1%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："非参数统计" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11184,6 +14089,18 @@
 
 ### 017162 多元统计分析A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1707/#review-13036>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：017162
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1707/#review-63518>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：017162
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%9A%E5%85%83%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："多元统计分析A" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11203,6 +14120,24 @@
 
 ### 017164 时间序列分析A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12993/#review-21632>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：017164
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12993/#review-14007>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：017164
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12993/#review-14007>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、pku-lidf-notes
+  - 课程代码：017164
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："时间序列分析A" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11235,6 +14170,12 @@
   - 说明：补已有资料的具体入口：hum-017165-homework-timeseries。
   - 来源 ID：github-hehaha68-time-series-b
   - 课程代码：017165
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25613/#review-103240>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：017165
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90B%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："时间序列分析B" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19 个公开课程仓库文件树 + 仓库 hehaha68/USTC_2022Spring_Time-Series-Analysis-B 的 README 与递归文件树
@@ -11255,6 +14196,12 @@
 
 ### 017166 凸优化
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24082/#review-98834>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：017166
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%87%B8%E4%BC%98%E5%8C%96%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："凸优化" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11274,6 +14221,12 @@
 
 ### 017168 抽样调查与试验设计
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20667/#review-58802>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：泛视频链接，非课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：017168
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%8A%BD%E6%A0%B7%E8%B0%83%E6%9F%A5%E4%B8%8E%E8%AF%95%E9%AA%8C%E8%AE%BE%E8%AE%A1%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："抽样调查与试验设计" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11293,6 +14246,18 @@
 
 ### 017703 金融衍生品
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6736/#review-18250>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：017703
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6736/#review-46654>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：017703
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%87%91%E8%9E%8D%E8%A1%8D%E7%94%9F%E5%93%81%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："金融衍生品" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -11312,6 +14277,18 @@
 
 ### 019011 有机化学(A1)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26009/#review-99678>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019011
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18345/#review-82919>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_admin_doc；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：019011
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11356,6 +14333,18 @@
 
 ### 019012 有机化学(A2)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3490/#review-45480>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：019012
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20016/#review-31268>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：019012
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11400,6 +14389,18 @@
 
 ### 019029 仪器分析实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21240/#review-69169>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；review_image_fragment_not_standalone_material；dead_link_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：019029
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26275/#review-102034>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019029
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11429,6 +14430,18 @@
 
 ### 019040 环境化学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22477/#review-101912>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。
+  - 来源 ID：icourse-club
+  - 课程代码：019040
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22477/#review-101912>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019040
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/>
   - 查询：icourse.club 搜索：环境化学
   - 检查范围：019040 课程页点评附件“环境化学复习笔记（大学搜题酱截图版）.pdf”与云盘外链
@@ -11454,6 +14467,12 @@
 
 ### 019047 有机化学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 19 条候选，覆盖 4 个课程页、8 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 9 条、登录占位/无法匿名核验受阻 10 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：019047
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11473,6 +14492,18 @@
 
 ### 019060 物理有机化学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4309/#review-99682>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：培训机构页面，非课程材料；试卷/笔记片段截图，未构成可独立使用的完整材料；个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：019060
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4309/#review-99682>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：019060
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
   - 检查范围：相关课程页点评附件文件名列表（003056 四次小测；003154 2025年秋季期末试题；019161 2024Fall Final；019060 2021/2021A/2425/小测合并；CHEM4004 2023 考试题_答案；BIO3701 期末试卷讲解）
@@ -11523,6 +14554,18 @@
 
 ### 019080 普通化学实验
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20672/#review-39405>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开说明留下普通化学实验报告电子版，链接直接返回 PDF。
+  - 来源 ID：icourse-club、home-ustc-shiyaowei
+  - 课程代码：019080
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13338/#review-28885>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：019080
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11609,6 +14652,18 @@
 
 ### 019128 化工原理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1140/#review-96901>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：019128
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1140/#review-40975>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：019128
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11647,6 +14702,12 @@
 
 ### 019145 结晶化学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5586/#review-46760>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_admin_doc；paid_scan_or_pirated_copy
+  - 来源 ID：icourse-club
+  - 课程代码：019145
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11695,6 +14756,12 @@
 
 ### 019147 无机化学基础实验(上)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18350/#review-101380>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料；个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：019147
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -11761,6 +14828,12 @@
 
 ### 019148 无机化学基础实验(下)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26276/#review-105124>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料
+  - 来源 ID：icourse-club
+  - 课程代码：019148
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11795,6 +14868,18 @@
 
 ### 019149 分析化学基础实验(上)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/918/#review-467>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：019149
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21935/#review-54045>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：019149
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11855,6 +14940,12 @@
 
 ### 019150 分析化学基础实验(下)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/920/#review-1955>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名请求返回 404，链接已失效；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：019150
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -11884,6 +14975,12 @@
 
 ### 019151 有机化学基础实验(上)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 2 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：019151
 - 2026-11-18 · 评课社区 · 无相关结果 · <https://icourse.club/course/>
   - 查询：icourse.club 搜索：有机化学基础实验(上)
   - 检查范围：搜索结果为“有机化学基础实验/有机化学实验”多教学班页面，未见该课专属附件
@@ -11973,6 +15070,18 @@
 
 ### 019161 化学原理A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1078/#review-79816>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1078/#review-90529>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；点评附图为课程群聊天截图，非学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
   - 检查范围：相关课程页点评附件文件名列表（003056 四次小测；003154 2025年秋季期末试题；019161 2024Fall Final；019060 2021/2021A/2425/小测合并；CHEM4004 2023 考试题_答案；BIO3701 期末试卷讲解）
@@ -11998,6 +15107,12 @@
 
 ### 019163 化学原理B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12862/#review-24427>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 31 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019163
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12017,6 +15132,12 @@
 
 ### 019165 普通化学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13429/#review-87608>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019165
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12036,6 +15157,18 @@
 
 ### 019166 无机化学I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24088/#review-93784>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：019166
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21245/#review-84119>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019166
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12055,6 +15188,12 @@
 
 ### 019167 合成化学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1299/#review-27653>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：019167
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12112,6 +15251,12 @@
 
 ### 019172 应用量子化学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12592/#review-103163>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019172
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/blob/main/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6/%E5%BA%94%E7%94%A8%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E4%BD%9C%E4%B8%9A.pdf>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -12144,6 +15289,12 @@
 
 ### 019173 有机结构分析
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13562/#review-32011>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：019173
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12216,6 +15367,18 @@
   - 说明：补已有资料的具体入口：chembio-019175-hw-2025。
   - 来源 ID：chembio-gold3fluoride-019175
   - 课程代码：019175
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/912/#review-68974>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料；图书馆馆藏记录，非资料文件；单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：019175
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/912/#review-106582>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；网盘分享需提取码，匿名无法核对内容
+  - 来源 ID：icourse-club
+  - 课程代码：019175
 - 2026-11-18 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md>
   - 查询：USTC课程资料簿 分析化学I 页试卷条目
   - 检查范围：索引页条目 + easylink.cc/fkpdui 在浏览器打开（显示“分析化学期末卷（答案有错）.pdf”，PDF 预览加载中）
@@ -12248,6 +15411,12 @@
 
 ### 019176 分析化学II
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 2 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 0 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：019176
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12311,6 +15480,18 @@
 
 ### 020011 高分子化学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26614/#review-103479>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：020011
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26614/#review-103479>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：020011
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -12449,6 +15630,18 @@
 
 ### 022007 实测天体物理学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2074/#review-33965>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：022007
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2074/#review-33965>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：022007
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%AE%9E%E6%B5%8B%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6%20USTC&type=repositories>
   - 查询：实测天体物理学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12512,6 +15705,24 @@
   - 说明：补已有资料的具体入口：mp-feixu-022012-exams-8643f4。
   - 来源 ID：rainzor-computational-physics
   - 课程代码：022012
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6307/#review-9010>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page；duplicate_existing_entry
+  - 来源 ID：icourse-club
+  - 课程代码：022012
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6307/#review-9010>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：022012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6307/#review-6920>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 5 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-jingning42-computational-physics、gh-elmer-sun-computational-physics、gh-yesunhuang-computational-physics
+  - 课程代码：022012
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86>
   - 查询：计算物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12533,6 +15744,24 @@
 
 ### 022056 理论力学B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26615/#review-104686>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：unidentified_generic_name；duplicate_existing_entry；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：022056
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4539/#review-96966>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-qc-1-course-materials
+  - 课程代码：022056
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26615/#review-104686>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：022056
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6B%20USTC&type=repositories>
   - 查询：理论力学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12558,6 +15787,30 @@
 
 ### 022057 电动力学
 
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21755/#review-46857>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4781/#review-85330>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 38 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 38 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；视频或录播页面，不构成可独立检索的学习资料。；新闻报道或评论文章，非课程学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21755/#review-46857>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4781/#review-15421>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 47 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 47 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6>
   - 查询：电动力学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12584,6 +15837,18 @@
 
 ### 022059 量子力学B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6658/#review-99098>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：022059
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6658/#review-99098>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 29 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 29 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：022059
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：量子力学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12610,6 +15875,18 @@
   - 说明：已有同课程同期中，未确认是否异卷，不另计
   - 来源 ID：feixu-alist
   - 课程代码：022062
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12612/#review-32627>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；个人主页、课程主页或站点首页，无具体可核对材料，不因出现在点评而收录。；匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。
+  - 来源 ID：icourse-club
+  - 课程代码：022062
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12612/#review-73703>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：022062
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：热力学与统计物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12630,6 +15907,18 @@
 
 ### 022063 热力学与统计物理B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：022063
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4124/#review-30513>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：022063
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：热力学与统计物理B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12650,6 +15939,18 @@
 
 ### 022075 天体物理概论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14268/#review-15823>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_blocked；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：022075
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14268/#review-47594>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：022075
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/Other/>
   - 查询：天体物理概论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12670,6 +15971,18 @@
 
 ### 022095 量子力学C
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21885/#review-97291>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21885/#review-97083>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评附图仅为单张试题截图，无法确认完整卷面与年份，不单独计入。；书目/馆藏检索或商业图书页，未提供可公开获取的全文。；点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6C%20USTC&type=repositories>
   - 查询：量子力学C USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12695,6 +16008,24 @@
 
 ### 022118 固体物理B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1398/#review-48135>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：022118
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1398/#review-71583>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：022118
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1395/#review-35685>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：022118
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：固体物理B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12715,6 +16046,18 @@
 
 ### 022148 量子力学A
 
+- 2026-11-19 · 公开网页 · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/2023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.html>
+  - 查询：量子力学 2023 期中考试参考解答
+  - 检查范围：匿名复核：原站文件页提供实际 HTML 文件，正文含试题及参考解答；网页外壳不是资料。保留站内文件页，不保存临时下载地址。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：feixu-alist
+  - 课程代码：022148
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 62 条候选，覆盖 9 个课程页、30 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 48 条、登录占位/无法匿名核验受阻 14 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：022148
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：量子力学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12741,6 +16084,18 @@
 
 ### 022164 大学物理-现代技术实验
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1768/#review-20002>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：短链跳转提示无法访问，匿名无法核对；匿名访问失败（超时/连接错误/验证页），无法核对内容
+  - 来源 ID：icourse-club
+  - 课程代码：022164
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22483/#review-65392>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；个人照片或无关图片，不是学习资料；期刊论文摘要页，非课程材料
+  - 来源 ID：icourse-club
+  - 课程代码：022164
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%8E%B0%E4%BB%A3%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：大学物理-现代技术实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12760,6 +16115,12 @@
 
 ### 022165 大学物理-研究性实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：022165
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%A0%94%E7%A9%B6%E6%80%A7%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：大学物理-研究性实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12779,6 +16140,24 @@
 
 ### 022166 天文学导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1992/#review-98194>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 38 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 38 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1992/#review-19024>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：directory_index_covered_by_material；review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-38097>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、staff-ustc-xuey-iac
+  - 课程代码：022166
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：天文学导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12828,6 +16207,18 @@
 
 ### 022169 天体力学与天体测量基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1970/#review-21113>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：022169
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1970/#review-23789>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：022169
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/Other/>
   - 查询：天体力学与天体测量基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12867,6 +16258,18 @@
 
 ### 022171 恒星物理基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13087/#review-36813>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名请求返回 404，链接已失效；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：022171
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：022171
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/Other/>
   - 查询：恒星物理基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12893,6 +16296,18 @@
 
 ### 022172 时间和空间
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20688/#review-38383>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：022172
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12959/#review-28636>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：物理论坛讨论帖，非学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：022172
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/Other/>
   - 查询：时间和空间 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12913,6 +16328,24 @@
 
 ### 022392 理论力学A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21889/#review-106719>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 54 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 54 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；泛视频链接，非课程独立学习材料；网盘或非授权整书来源，不符合公开授权要求
+  - 来源 ID：icourse-club
+  - 课程代码：022392
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19017/#review-90138>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 16 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为考前整理的 PPT 内容要点（选择题范围），10 张图片匿名可见。；原点评在公开正文中说明配图为当年考卷照片，4 张图片匿名可见；卷别与年份未在正文明确。；原点评在公开正文中标注配图为课程笔记，2 张图片匿名可见。
+  - 来源 ID：icourse-club
+  - 课程代码：022392
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 53 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 53 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：022392
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/SeniorPhy/>
   - 查询：理论力学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -12952,6 +16385,12 @@
 
 ### 023150 半导体器件物理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19636/#review-65843>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：023150
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：023150 半导体器件物理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -12994,6 +16433,18 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：eng-homework-023181-847d2143。
   - 来源 ID：gh-li-qi-lin
+  - 课程代码：023181
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14404/#review-96980>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录；附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：023181
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14406/#review-61408>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 22 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 22 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
   - 课程代码：023181
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/19%E6%98%A5%281%29.pdf>
   - 查询：023181 线性电子线路
@@ -13077,6 +16528,12 @@
 
 ### 023317 电磁场与波
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18370/#review-29594>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：023317
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：023317 电磁场与波
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -13115,6 +16572,12 @@
 
 ### 025148 新闻学概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3193/#review-91402>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：025148
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%96%B0%E9%97%BB%E5%AD%A6%E6%A6%82%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："新闻学概论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -13134,6 +16597,12 @@
 
 ### 025150 现代心理学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4450/#review-38145>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：025150
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%8E%B0%E4%BB%A3%E5%BF%83%E7%90%86%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："现代心理学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -13210,6 +16679,18 @@
 
 ### 033001 编译原理B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18063/#review-75047>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：033001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18063/#review-89664>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：033001
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86B%20USTC&type=repositories>
   - 查询：编译原理B USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Wloner0809/ustc-course-resource、Melmaphother/ustc-course-resources
@@ -13230,6 +16711,18 @@
 
 ### 033002 信息论B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18064/#review-44247>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：033002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18064/#review-44247>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频/频道页面，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：033002
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E4%BF%A1%E6%81%AF%E8%AE%BAB%20USTC&type=repositories>
   - 查询：信息论B USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -13269,6 +16762,18 @@
 
 ### 038008 近代光学基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18065/#review-22345>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-wangxiaoou-ustc-course
+  - 课程代码：038008
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18065/#review-19958>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_fragment_not_standalone_material；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：038008
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%BF%91%E4%BB%A3%E5%85%89%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：近代光学基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -13293,6 +16798,18 @@
 
 ### 038011 量子信息导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6613/#review-91362>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：038011
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6613/#review-73739>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_no_concrete_link；anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：038011
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：量子信息导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -13388,6 +16905,12 @@
 
 ### 203001 先进光子物理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12570/#review-85118>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：203001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%88%E8%BF%9B%E5%85%89%E5%AD%90%E7%89%A9%E7%90%86%20USTC&type=repositories>
   - 查询：先进光子物理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -13407,6 +16930,12 @@
 
 ### 203006 生物物理II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18382/#review-40090>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：203006
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86II%20USTC&type=repositories>
   - 查询：生物物理II USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -13426,6 +16955,12 @@
 
 ### 206501 有机化学C
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13251/#review-25681>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；dead_link_or_generic_page；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：206501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -13546,6 +17081,18 @@
 
 ### 206M07 CASTEP/Materials Studio计算材料学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：206M07
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/99/#review-86777>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：206M07
 - 2026-11-18 · 公开网页 · 候选未确认 · <https://q2chemistry.net/teaching.html>
   - 查询：李震宇教学页 Computational Materials Science 板块
   - 检查范围：教学页“Computational Materials Science (计算材料学) [2008, 2009, 2018-2025]”板块（英文授课，未列课程资料与课程号）
@@ -13665,6 +17212,12 @@
 
 ### 209011 工程科学实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24109/#review-87162>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 21 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：209011
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：209011 工程科学实践
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -13684,6 +17237,18 @@
 
 ### 210002 操作系统
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22008/#review-75460>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：210002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22008/#review-75279>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料；外链非具体公开学习材料；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：210002
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20USTC&type=repositories>
   - 查询：操作系统 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -13704,6 +17269,18 @@
 
 ### 210004 密码学导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2117/#review-32033>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：210004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21256/#review-66586>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210004
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%AF%86%E7%A0%81%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：密码学导论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -13723,6 +17300,18 @@
 
 ### 210008 计算机安全
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6142/#review-84080>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：210008
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6142/#review-84100>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210008
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8%20USTC&type=repositories>
   - 查询：计算机安全 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -13742,6 +17331,18 @@
 
 ### 210031 网络安全协议
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24112/#review-83705>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：210031
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24112/#review-83710>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210031
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE%20USTC&type=repositories>
   - 查询：网络安全协议 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -13780,6 +17381,24 @@
 
 ### 210037 数理逻辑与图论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3018/#review-91725>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：210037
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3018/#review-36443>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210037
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3018/#review-70618>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-minervazz-mathlogic-gt
+  - 课程代码：210037
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E4%B8%8E%E5%9B%BE%E8%AE%BA%20USTC&type=repositories>
   - 查询：数理逻辑与图论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -13878,6 +17497,12 @@
 
 ### 210045 电路基本理论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 56 条候选，覆盖 4 个课程页、16 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 36 条、登录占位/无法匿名核验受阻 20 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%20USTC&type=repositories>
   - 查询：电路基本理论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 duxiaoyang-creator/USTC-Course-Materials
@@ -13903,6 +17528,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：作为独立资料收录：homework-review-210050-digital-logic-tutorial。
   - 来源 ID：gh-li-qi-lin
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 39 条候选，覆盖 5 个课程页、10 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 1 条、判非资料或重复 17 条、登录占位/无法匿名核验受阻 21 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-xuzhen0913-digital-circuit
   - 课程代码：210050
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%20USTC&type=repositories>
   - 查询：数字逻辑电路 USTC（type=repositories）
@@ -13936,6 +17567,24 @@
 
 ### 210060 计算机网络
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6263/#review-92490>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、git-ustc-infonet-cn-experiment
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6267/#review-57526>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频/音频或录播页面，非独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18387/#review-29470>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 23 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 23 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%20USTC&type=repositories>
   - 查询：计算机网络 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog、guidongnan/ustc_ds_undergraduate_course
@@ -13962,6 +17611,12 @@
 
 ### 210067 近世代数与数论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：210067
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0%E4%B8%8E%E6%95%B0%E8%AE%BA%20USTC&type=repositories>
   - 查询：近世代数与数论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14004,6 +17659,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
+  - 课程代码：210070
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 44 条候选，覆盖 8 个课程页、16 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 3 条、判非资料或重复 32 条、登录占位/无法匿名核验受阻 9 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-mhy98-dsacodes、gh-invictus-z-knight-tour、ustc-teacher-pages
   - 课程代码：210070
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%20USTC&type=repositories>
   - 查询：数据结构及其算法 USTC（type=repositories）
@@ -14115,6 +17776,18 @@
 
 ### 210072 算法分析与设计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18088/#review-32551>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210072
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18088/#review-102462>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：210072
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：算法分析与设计 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -14134,6 +17807,12 @@
 
 ### 210073 电子技术实验I
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：210073
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8CI%20USTC&type=repositories>
   - 查询：电子技术实验I USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 duxiaoyang-creator/USTC-Course-Materials
@@ -14154,6 +17833,18 @@
 
 ### 210074 电子技术实验II
 
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/18390/#review-84045>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：该仓库已在现有来源 eng-github-ly382965-materials 下按课程收录多条资料，仓库根入口不重复计
+  - 来源 ID：icourse-club
+  - 课程代码：210074
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18390/#review-84045>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：210074
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8CII%20USTC&type=repositories>
   - 查询：电子技术实验II USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14194,6 +17885,12 @@
 
 ### 210077 非线性电子线路
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18391/#review-88474>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210077
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%20USTC&type=repositories>
   - 查询：非线性电子线路 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -14214,6 +17911,24 @@
 
 ### 210078 电子系统设计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4842/#review-97726>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4842/#review-73292>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；duplicate_existing_entry；unidentified_hashed_pdf
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4842/#review-73292>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-xuzhen0913-electronic-system-design
+  - 课程代码：210078
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：电子系统设计 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 duxiaoyang-creator/USTC-Course-Materials
@@ -14234,6 +17949,12 @@
 
 ### 210503 数据结构与数据库
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2940/#review-26257>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：210503
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%BA%93%20USTC&type=repositories>
   - 查询：数据结构与数据库 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14260,6 +17981,18 @@
 
 ### 210514 数据库基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2878/#review-52913>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、jonbgua-coursenotes-sql
+  - 课程代码：210514
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2878/#review-52913>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：210514
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：数据库基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14279,6 +18012,18 @@
 
 ### 210515 电子线路
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4856/#review-96687>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评附图为试卷清单与课程替代关系截图，非试卷本体。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22050/#review-54440>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%20USTC&type=repositories>
   - 查询：电子线路 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14318,6 +18063,12 @@
 
 ### 210703 电子设计实践I
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12444/#review-3894>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210703
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5I%20USTC&type=repositories>
   - 查询：电子设计实践I USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14338,6 +18089,12 @@
 
 ### 210704 电子设计实践II
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12618/#review-17334>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问失败（空响应），无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：210704
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5II%20USTC&type=repositories>
   - 查询：电子设计实践II USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14357,6 +18114,12 @@
 
 ### 210706 脑与认知科学导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13727/#review-87110>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：210706
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%84%91%E4%B8%8E%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：脑与认知科学导论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -14377,6 +18140,18 @@
 
 ### 210708 数字图像处理B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13729/#review-34134>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：210708
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13729/#review-91579>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、gh-zhuyh1139-dip
+  - 课程代码：210708
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86B%20USTC&type=repositories>
   - 查询：数字图像处理B USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 duxiaoyang-creator/USTC-Course-Materials
@@ -14416,6 +18191,24 @@
 
 ### 210712 自然语言处理
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 210712 study 条目已覆盖 notes 目录；补 docx 与 pdf 两份 A4 复习纸文件级入口。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：210712
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14092/#review-84708>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：210712
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14092/#review-38674>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：210712
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%20USTC&type=repositories>
   - 查询：自然语言处理 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 USTC-Resource/USTC-Course
@@ -14436,6 +18229,12 @@
 
 ### 210716 深度学习实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25130/#review-92544>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：210716
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：深度学习实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -14475,6 +18274,18 @@
 
 ### 219001 量子物理B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20698/#review-39743>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：219001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：219001
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：219001 量子物理B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -14539,6 +18350,12 @@
 
 ### 219004 微电子专业基础实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21259/#review-51202>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book；not_course_material_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：219004
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：219004 微电子专业基础实验
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -14558,6 +18375,12 @@
 
 ### 219005 数字集成电路设计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21260/#review-52154>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：219005
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：219005 数字集成电路设计
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -14577,6 +18400,12 @@
 
 ### 219006 集成电路工艺原理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18104/#review-46025>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：219006
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：219006 集成电路工艺原理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -14596,6 +18425,18 @@
 
 ### 221001 网络空间安全导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：221001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23468/#review-96681>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：221001
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：网络空间安全导论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14615,6 +18456,12 @@
 
 ### 221002 量子信息与安全
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19038/#review-53941>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：其他学校课程或转载镜像页面，非原始出处。
+  - 来源 ID：icourse-club
+  - 课程代码：221002
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E4%B8%8E%E5%AE%89%E5%85%A8%20USTC&type=repositories>
   - 查询：量子信息与安全 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -14651,6 +18498,18 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：作为独立资料收录：homework-review-229001-discrete-math-solutions。
   - 来源 ID：gh-guidongnan
+  - 课程代码：229001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22485/#review-102166>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：229001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22485/#review-94493>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 23 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 23 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；copyright_textbook_or_book；unidentified_generic_name
+  - 来源 ID：icourse-club
   - 课程代码：229001
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%20USTC&type=repositories>
   - 查询：离散数学 USTC（type=repositories）
@@ -14974,6 +18833,12 @@
 
 ### 910016 医学细胞生物学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：910016
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15012,6 +18877,12 @@
 
 ### 910029 系统解剖学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21675/#review-46562>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：910029
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15069,6 +18940,24 @@
 
 ### AI1001A 人工智能数学原理与算法A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26873/#review-106009>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、gh-lunarknight-ai-notes
+  - 课程代码：AI1001A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26873/#review-106009>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：助教个人主页（课程信息页），无具体学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：AI1001A
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/26873/#review-106009>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一套 AI 课程笔记的静态阅读站点，仓库条目已收录，不重复计；与同一入口的首条候选重复（同页/同文件）。
+  - 来源 ID：icourse-club
+  - 课程代码：AI1001A
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%97%E6%B3%95A%20USTC&type=repositories>
   - 查询：人工智能数学原理与算法A USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -15088,6 +18977,18 @@
 
 ### AI1001B 人工智能数学原理与算法B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26879/#review-106646>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：该点评未出现在课程匿名页，无法确认匿名可见。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：AI1001B
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26875/#review-106029>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频或录播页面，不构成可独立检索的学习资料。；点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。
+  - 来源 ID：icourse-club
+  - 课程代码：AI1001B
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AE%97%E6%B3%95B%20USTC&type=repositories>
   - 查询：人工智能数学原理与算法B USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -15107,6 +19008,12 @@
 
 ### AI1501 生成式人工智能概述
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26227/#review-97021>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：AI1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A6%82%E8%BF%B0%20USTC&type=repositories>
   - 查询：生成式人工智能概述 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -15145,6 +19052,12 @@
 
 ### AI2001A 人工智能导论A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 18 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 15 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：AI2001A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BAA%20USTC&type=repositories>
   - 查询：人工智能导论A USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog、duxiaoyang-creator/USTC-Course-Materials
@@ -15165,6 +19078,12 @@
 
 ### AI2001B 人工智能导论B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：AI2001B
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BAB%20USTC&type=repositories>
   - 查询：人工智能导论B USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog、duxiaoyang-creator/USTC-Course-Materials
@@ -15185,6 +19104,24 @@
 
 ### AI3001 机器学习A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26224/#review-97235>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：AI3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26224/#review-97252>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-stardust-math-ml-a
+  - 课程代码：AI3001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26224/#review-97242>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：AI3001
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0A%20USTC&type=repositories>
   - 查询：机器学习A USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -15205,6 +19142,24 @@
 
 ### AI3002 人工智能与机器学习基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26106/#review-97655>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-xinchengo-autoresearch-gomoku、gh-wanglulu-aiml26
+  - 课程代码：AI3002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26106/#review-97655>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；在线工具、软件下载或平台文档，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26106/#review-97655>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3002
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：人工智能与机器学习基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -15224,6 +19179,24 @@
 
 ### AI3003 深度学习基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26299/#review-105018>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26300/#review-101682>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-cbyybc-deeplearning
+  - 课程代码：AI3003
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26299/#review-101916>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：深度学习基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -15243,6 +19216,12 @@
 
 ### AI3004 优化理论基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26885/#review-106049>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3004
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：优化理论基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -15262,6 +19241,18 @@
 
 ### ASTRON1501 天体物理概观
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1979/#review-6958>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：ASTRON1501
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1979/#review-20639>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：ASTRON1501
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E6%A6%82%E8%A7%82%20USTC&type=repositories>
   - 查询：天体物理概观 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -15439,6 +19430,12 @@
 
 ### BADM1501 大学生科研团队管理沟通
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24128/#review-83634>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：BADM1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86%E6%B2%9F%E9%80%9A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："大学生科研团队管理沟通" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -15477,6 +19474,12 @@
 
 ### BADM1901 科学计量学导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26309/#review-103576>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：BADM1901
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A7%91%E5%AD%A6%E8%AE%A1%E9%87%8F%E5%AD%A6%E5%AF%BC%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："科学计量学导论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -15534,6 +19537,12 @@
 
 ### BADM2003 会计学原理
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E8%87%AA%E7%94%B1%E9%80%89%E4%BF%AE-%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86>
+  - 查询：会计学原理分章幻灯片与重点
+  - 检查范围：匿名访问 GitHub 目录页，返回 HTTP 200，确认显示目录清单。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：eng-github-ustcwpz-cs
+  - 课程代码：BADM2003
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："会计学原理" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -15686,6 +19695,12 @@
 
 ### BIO1501 生命科学导论实验
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20725/#review-85436>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15705,6 +19720,12 @@
 
 ### BIO1502 生命科学与医学导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24648/#review-92267>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1502
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15743,6 +19764,12 @@
 
 ### BIO1504G 人体健康与疾病
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24649/#review-100698>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 28 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 28 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名点评页内嵌图片返回 HTTP 404，文件已不可取。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1504G
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15762,6 +19789,18 @@
 
 ### BIO1505G 生物技术与生命科学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24650/#review-100701>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1505G
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24650/#review-97303>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1505G
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15781,6 +19820,12 @@
 
 ### BIO1506G 脑科学与认知科学导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24651/#review-101989>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1506G
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15800,6 +19845,12 @@
 
 ### BIO1508G 免疫系统与人体健康
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1508G
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15819,6 +19870,12 @@
 
 ### BIO1509G 人体微生物与健康
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26311/#review-105931>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1509G
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15838,6 +19895,18 @@
 
 ### BIO1510 解码生命信息
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24654/#review-88281>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1510
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24654/#review-88281>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1510
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15876,6 +19945,12 @@
 
 ### BIO1512 生物学与生活
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 4 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1512
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -15977,6 +20052,12 @@
 
 ### BIO2701 生命科学前沿I
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24658/#review-91761>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：BIO2701
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16015,6 +20096,12 @@
 
 ### BIO3001 生物化学A1
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22046/#review-95952>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3001
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16034,6 +20121,12 @@
 
 ### BIO3002 生物化学A2
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 5 条候选，覆盖 2 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 4 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3002
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16072,6 +20165,18 @@
 
 ### BIO3004 分子生物学研讨
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24497/#review-92966>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3004
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24137/#review-92496>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3004
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16091,6 +20196,12 @@
 
 ### BIO3005 细胞生物学研讨
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3005
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%94%9F%E7%89%A9&type=repositories>
   - 查询：GitHub 仓库检索 USTC 生物 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16129,6 +20240,12 @@
 
 ### BIO3701 生物医学论文写作
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24662/#review-90549>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：校内网盘服务已停止/无法匿名核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3701
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
   - 检查范围：相关课程页点评附件文件名列表（003056 四次小测；003154 2025年秋季期末试题；019161 2024Fall Final；019060 2021/2021A/2425/小测合并；CHEM4004 2023 考试题_答案；BIO3701 期末试卷讲解）
@@ -16266,6 +20383,12 @@
 
 ### CHEM1501 生活中的化学科普实验
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 10 条候选，覆盖 1 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 6 条、登录占位/无法匿名核验受阻 4 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16304,6 +20427,12 @@
 
 ### CHEM1505 厨房化学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24677/#review-87395>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM1505
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16323,6 +20452,12 @@
 
 ### CHEM2001M 化学实验安全知识
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24160/#review-97088>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM2001M
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16377,6 +20512,12 @@
 
 ### CHEM2801 科技写作与学术表达
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 9 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 9 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM2801
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16434,6 +20575,12 @@
 
 ### CHEM3002 分子光谱学基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26643/#review-101843>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM3002
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/tree/main/%E5%88%86%E5%AD%90%E5%85%89%E8%B0%B1%E5%AD%A6>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -16454,6 +20601,18 @@
 
 ### CHEM3003 化学动力学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24162/#review-102773>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM3003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24162/#review-102773>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM3003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/dasWalpurgis/USTC/tree/main/%E5%8C%96%E5%AD%A6%E5%8A%A8%E5%8A%9B%E5%AD%A6>
   - 查询：完整文件树匹配 + GitHub 仓库检索 USTC 化学
   - 检查范围：仓库完整文件树（recursive，未截断）中课程目录/README 归属核对
@@ -16518,6 +20677,18 @@
 
 ### CHEM4004 金属有机化学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22509/#review-93063>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为当年期末试题，2 张图片匿名可见；解答未随附。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM4004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM4004
 - 2026-11-18 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>
   - 查询：icourse.club 课程页点评附件（逐课见 chembio-ic-<code> 行）
   - 检查范围：相关课程页点评附件文件名列表（003056 四次小测；003154 2025年秋季期末试题；019161 2024Fall Final；019060 2021/2021A/2425/小测合并；CHEM4004 2023 考试题_答案；BIO3701 期末试卷讲解）
@@ -16543,6 +20714,12 @@
 
 ### CHEM4006 物理化学III(A)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26003/#review-96871>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料；成绩/分数/分布截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM4006
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%96%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 化学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -16600,6 +20777,12 @@
 
 ### COMM1503 人际沟通与公共表达
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12665/#review-91369>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：COMM1503
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%BA%BA%E9%99%85%E6%B2%9F%E9%80%9A%E4%B8%8E%E5%85%AC%E5%85%B1%E8%A1%A8%E8%BE%BE%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："人际沟通与公共表达" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -16619,6 +20802,12 @@
 
 ### COMM1507 电子信息检索
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4787/#review-27328>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：COMM1507
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："电子信息检索" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -16638,6 +20827,36 @@
 
 ### CS1002A 计算系统概论A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23536/#review-98848>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问失败（超时/连接错误/验证页），无法核对内容；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；校内网盘分享，匿名无法核对内容与访问权限
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23536/#review-101654>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 12 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。；公开点评内嵌图片，匿名可取并核对内容。
+  - 来源 ID：icourse-club、gh-erkamuzuncayir-ics-solutions、gh-hwp-lab-ustc-courses-data、ustc-ics-course、gh-kz25t-2022ics、git-ustc-flurry-ics、gh-zzx6869-ics-2021、gh-ics01-23-site、gh-ics-fa22-site、gh-wanglulu-ics-labs、gh-hehaha68-ics-2020
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/20777/#review-54084>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与已收录的 KZ25T/2022ics 为同一套 2022 秋课程资料的 GitLab 镜像，不重复计；与同一入口的首条候选重复（同页/同文件）。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23536/#review-100386>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 56 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 56 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料；试卷/笔记片段截图，未构成可独立使用的完整材料；他校（南京大学）ICS 课程实验指导，非本课程材料
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/23536/#review-98865>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案；缺少原页内容或归属核验证据，移出最终提案
+  - 来源 ID：icourse-club、ustc-ics-course、gh-ics01-23-site、gh-ics-fa22-site
+  - 课程代码：CS1002A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BAA%20USTC&type=repositories>
   - 查询：计算系统概论A USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Wloner0809/ustc-course-resource
@@ -16664,6 +20883,12 @@
 
 ### CS1003 计算机程序设计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25828/#review-103950>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：计算机程序设计 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 duxiaoyang-creator/USTC-Course-Materials
@@ -16684,6 +20909,12 @@
 
 ### CS1003L 计算机程序设计(L)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25885/#review-96896>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003L
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(L)%20USTC&type=repositories>
   - 查询：计算机程序设计(L) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 duxiaoyang-creator/USTC-Course-Materials
@@ -16704,6 +20935,24 @@
 
 ### CS1502 计算机系统详解
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（5 文件核对一致）；无新增。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：CS1502
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6246/#review-87231>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：CS1502
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6246/#review-143>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：CS1502
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3%20USTC&type=repositories>
   - 查询：计算机系统详解 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 USTC-Resource/USTC-Course
@@ -16724,6 +20973,12 @@
 
 ### CS1504 量化金融工程：从理论到实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13717/#review-36556>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：CS1504
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E9%87%8F%E5%8C%96%E9%87%91%E8%9E%8D%E5%B7%A5%E7%A8%8B%EF%BC%9A%E4%BB%8E%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：量化金融工程：从理论到实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -16743,6 +20998,12 @@
 
 ### CS1505 Java软件开发基础
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有课程 study 条目已覆盖 notes 目录；补 Java 复习提纲 PDF 文件级入口。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：CS1505
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：Java软件开发基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 USTC-Resource/USTC-Course
@@ -16763,6 +21024,24 @@
 
 ### CS1507 Python与深度学习基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14421/#review-14439>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-sqrtizhang-ustc
+  - 课程代码：CS1507
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20039/#review-52986>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：CS1507
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20039/#review-72303>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：CS1507
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=Python%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：Python与深度学习基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -16782,6 +21061,12 @@
 
 ### CS1508 Matlab编程及其应用
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1508
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=Matlab%E7%BC%96%E7%A8%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：Matlab编程及其应用 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -16801,6 +21086,18 @@
 
 ### CS1514 面向交叉学科的Python程序设计与跨学科实践
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20044/#review-36551>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-zzx6869-python-design
+  - 课程代码：CS1514
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20044/#review-36551>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1514
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%A2%E5%90%91%E4%BA%A4%E5%8F%89%E5%AD%A6%E7%A7%91%E7%9A%84Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E8%B7%A8%E5%AD%A6%E7%A7%91%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：面向交叉学科的Python程序设计与跨学科实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -16820,6 +21117,12 @@
 
 ### CS1515 Python科学计算基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20778/#review-41858>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1515
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=Python%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：Python科学计算基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -16881,6 +21184,36 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs2002。
   - 来源 ID：gh-kobe972
+  - 课程代码：CS2002
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 3 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 CS2002 study 条目已覆盖 notes 目录；补助教笔记 3 章加 3 份考试/笔记 PDF 文件级入口。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：CS2002
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/codes>
+  - 查询：旧库历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：system-L 命题逻辑证明脚本，README 说明实现与用法；数理逻辑目录已按既有 notes/exams 条目归 CS2002（目录级）；codes 目录无既有条目覆盖。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：CS2002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CS2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21278/#review-65006>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评公开说明复习笔记等资料位于该仓库目录，匿名可访问；仅登记目录入口。；原点评公开列出该仓库的数理逻辑课程资料目录，匿名可访问；仅登记目录入口。
+  - 来源 ID：icourse-club、gh-wloner0809-curriculum、eng-github-melmaphother
+  - 课程代码：CS2002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22510/#review-92145>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；主页/人物页/书目页，无具体学习材料
+  - 来源 ID：icourse-club
   - 课程代码：CS2002
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：数理逻辑基础 USTC（type=repositories）
@@ -16980,6 +21313,24 @@
 
 ### CS2003 系统程序设计基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26652/#review-103053>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开列出课程主页作为资料入口，页面标题与课程一致。
+  - 来源 ID：icourse-club、ustc-isp-site
+  - 课程代码：CS2003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CS2003
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26652/#review-105878>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：CS2003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：系统程序设计基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -16999,6 +21350,30 @@
 
 ### CS2502A 数据结构A
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（24 文件核对一致）；无新增。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：CS2502A
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CS2502A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25192/#review-96409>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；泛视频链接，非课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：CS2502A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25971/#review-101669>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开附该仓库数据结构目录，匿名可访问；仅登记目录入口。
+  - 来源 ID：icourse-club、gh-hwp-lab-courses
+  - 课程代码：CS2502A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84A%20USTC&type=repositories>
   - 查询：数据结构A USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 USTC-CS-Course-Resource/USTC-CS-Resources、USTC-Resource/USTC-Course、duxiaoyang-creator/USTC-Course-Materials
@@ -17075,6 +21450,18 @@
 
 ### CS2701 图论(H)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26020/#review-100082>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_book_or_solution_manual；review_image_fragment_not_standalone_material；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：CS2701
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26020/#review-100082>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：CS2701
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%9B%BE%E8%AE%BA(H)%20USTC&type=repositories>
   - 查询：图论(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -17095,6 +21482,12 @@
 
 ### CS3001H 计算机组成原理(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 8 条候选，覆盖 2 个课程页、6 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 2 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-zhenyu-bo-codh-2024、gh-wloner0809-ustc-curriculum-resource
+  - 课程代码：CS3001H
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)%20USTC&type=repositories>
   - 查询：计算机组成原理(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 ustcwpz/USTC-CS-Courses-Resource、USTC-Resource/USTC-Course、15172658790/Blog
@@ -17115,6 +21508,12 @@
 
 ### CS3002H 计算机体系结构(H)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：CS3002H
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84(H)%20USTC&type=repositories>
   - 查询：计算机体系结构(H) USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -17175,6 +21574,12 @@
 
 ### CS4001 数字图像处理与分析
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4001
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%B8%8E%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：数字图像处理与分析 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -17194,6 +21599,12 @@
 
 ### CS4002 计算机图形学理论和应用
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20048/#review-61866>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：在线工具、软件下载或平台文档，非课程学习材料。；OpenGL 工程模板仓库，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4002
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6%E7%90%86%E8%AE%BA%E5%92%8C%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：计算机图形学理论和应用 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（repository search，仅第一页）已查看
@@ -17213,6 +21624,18 @@
 
 ### CS4004 区块链技术与应用
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20049/#review-96447>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；网盘分享/校内云盘，匿名无法核对内容与权限；页面要求浏览器验证，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：CS4004
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20049/#review-33084>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：跨课程综合资料仓库根，未指向具体材料；个人博客文章，非课程材料；播客页面，非课程材料
+  - 来源 ID：icourse-club
+  - 课程代码：CS4004
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：区块链技术与应用 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -17232,6 +21655,18 @@
 
 ### CS4005 形式化方法导引
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20498/#review-94175>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；新闻报道或评论文章，非课程学习资料。；视频或录播页面，不构成可独立检索的学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4005
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21280/#review-52126>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-catoverflow-robdd
+  - 课程代码：CS4005
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%BD%A2%E5%BC%8F%E5%8C%96%E6%96%B9%E6%B3%95%E5%AF%BC%E5%BC%95%20USTC&type=repositories>
   - 查询：形式化方法导引 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Kobe972/ustc_course_plus
@@ -17252,6 +21687,12 @@
 
 ### CS4008 软件工程实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20780/#review-57379>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：通用 Spring Boot 示例仓库，非本课程材料。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4008
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：软件工程实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -17271,6 +21712,24 @@
 
 ### CS4009 程序设计进阶与实践
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21281/#review-52454>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CS4009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22514/#review-96941>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、gh-siriuspaul-experiment-codes
+  - 课程代码：CS4009
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21281/#review-63634>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：CS4009
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：程序设计进阶与实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Wloner0809/ustc-course-resource
@@ -17291,6 +21750,12 @@
 
 ### CS4010 数理逻辑进阶与应用
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21950/#review-74781>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：CS4010
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E8%BF%9B%E9%98%B6%E4%B8%8E%E5%BA%94%E7%94%A8%20USTC&type=repositories>
   - 查询：数理逻辑进阶与应用 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -17395,6 +21860,36 @@
   - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs4012。
   - 来源 ID：gh-kobe972
   - 课程代码：CS4012
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13533/#review-24500>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：CS4012
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/13533/#review-53010>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一目录已由既有条目收录，重复
+  - 来源 ID：icourse-club
+  - 课程代码：CS4012
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/13533/#review-32873>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+  - 来源 ID：icourse-club、home-pscgylotti
+  - 课程代码：CS4012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13533/#review-32873>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、home-pscgylotti
+  - 课程代码：CS4012
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13533/#review-32796>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料；网页/聊天/软件界面截图，不是学习资料；目标链接失效（404）
+  - 来源 ID：icourse-club
+  - 课程代码：CS4012
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：运筹学基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Kobe972/ustc_course_plus、ustcwpz/USTC-CS-Courses-Resource、15172658790/Blog
@@ -17445,6 +21940,24 @@
 
 ### CS4014 计算机体系结构
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6099/#review-13661>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 3 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-summer-summer-ca-lab、gh-oyyko-ustc-ca、gh-jackiez1412-ca2023
+  - 课程代码：CS4014
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6099/#review-4844>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：书目/出版社或书目检索页，非权利方公开免费全文，不收录。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4014
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6099/#review-4844>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4014
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%20USTC&type=repositories>
   - 查询：计算机体系结构 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -17484,6 +21997,18 @@
 
 ### CS4018 量子计算与机器学习
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25777/#review-97095>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：CS4018
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25777/#review-97095>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：CS4018
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20USTC&type=repositories>
   - 查询：量子计算与机器学习 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17503,6 +22028,12 @@
 
 ### CS4019 计算系统综合实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24700/#review-87725>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录
+  - 来源 ID：icourse-club
+  - 课程代码：CS4019
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F%E7%BB%BC%E5%90%88%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：计算系统综合实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17522,6 +22053,12 @@
 
 ### CS4023 数据科学导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21122/#review-82925>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名请求返回 404，链接已失效
+  - 来源 ID：icourse-club
+  - 课程代码：CS4023
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：数据科学导论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 15172658790/Blog
@@ -17542,6 +22079,12 @@
 
 ### CS4024 面向科学问题求解的编程实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18027/#review-91724>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：书目、付费或非权利方公开的整书，按规则不收；外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：CS4024
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%A2%E5%90%91%E7%A7%91%E5%AD%A6%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E7%9A%84%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：面向科学问题求解的编程实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17581,6 +22124,12 @@
 
 ### CS4026 计算机安全原理与实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25196/#review-103279>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：CS4026
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：计算机安全原理与实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17600,6 +22149,12 @@
 
 ### CS4027 人工智能安全
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 6 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 2 条、判非资料或重复 4 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club、gh-magichear-machine-learning、gh-shirakawasanae-mnist-intro
+  - 课程代码：CS4027
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%89%E5%85%A8%20USTC&type=repositories>
   - 查询：人工智能安全 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17619,6 +22174,12 @@
 
 ### CS4028 深度学习原理与实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25198/#review-96545>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录；附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：CS4028
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：深度学习原理与实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -17638,6 +22199,12 @@
 
 ### CS4029 国产算力平台创新实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/27273/#review-105884>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：CS4029
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E5%B9%B3%E5%8F%B0%E5%88%9B%E6%96%B0%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：国产算力平台创新实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -17676,6 +22243,12 @@
 
 ### CS4031 智能计算软件优化
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26022/#review-100438>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：CS4031
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97%E8%BD%AF%E4%BB%B6%E4%BC%98%E5%8C%96%20USTC&type=repositories>
   - 查询：智能计算软件优化 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17714,6 +22287,12 @@
 
 ### CS4033 网络系统实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21229/#review-46554>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：CS4033
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：网络系统实验 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 Kobe972/ustc_course_plus
@@ -17779,6 +22358,18 @@
 
 ### DS2002 数据库系统概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21283/#review-102215>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：DS2002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21283/#review-101747>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_not_study_material；not_course_material_or_admin_doc
+  - 来源 ID：icourse-club
+  - 课程代码：DS2002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA%20USTC&type=repositories>
   - 查询：数据库系统概论 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -17798,6 +22389,24 @@
 
 ### DS3001 数据分析及实践
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：DS3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20053/#review-93456>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开引用的课程主页，匿名可访问；仅登记课程页入口。
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：DS3001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24511/#review-102091>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 50 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 50 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：DS3001
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：数据分析及实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页 + 已登记种子仓库完整 tree 按课程名/代码匹配；命中 guidongnan/ustc_ds_undergraduate_course
@@ -17856,6 +22465,12 @@
 
 ### EE1501 物联网导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4320/#review-20369>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：付费课程平台页面，非公开学习材料；个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE1501
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA/ppt>
   - 查询：EE1501 物联网导论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17882,6 +22497,12 @@
 
 ### EE1504 机器人DIY
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12747/#review-84606>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：新闻报道或评论文章，非课程学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：EE1504
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE1504 机器人DIY
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17901,6 +22522,24 @@
 
 ### EE1506 单片机应用
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14006/#review-52950>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；匿名请求返回 404，链接已失效
+  - 来源 ID：icourse-club
+  - 课程代码：EE1506
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：EE1506
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24193/#review-84078>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开给出大作业工程的校内 GitLab 链接，仓库公开可访问。
+  - 来源 ID：icourse-club、ustc-git-sharp-basic51
+  - 课程代码：EE1506
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE1506 单片机应用
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17920,6 +22559,18 @@
 
 ### EE1508 电子设计实践基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14423/#review-94935>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：EE1508
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14423/#review-65121>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外链非具体公开学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：EE1508
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80>
   - 查询：EE1508 电子设计实践基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17946,6 +22597,12 @@
 
 ### EE1509 多媒体内容智能分析导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 7 条候选，覆盖 2 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 7 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：EE1509
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE1509 多媒体内容智能分析导论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -17984,6 +22641,12 @@
 
 ### EE1512 AI博弈方法实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：EE1512
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE1512 AI博弈方法实践
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18003,6 +22666,18 @@
 
 ### EE1513 文本表征学习
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22521/#review-86006>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频/音频或录播页面，非独立学习材料。；校外课程讲义 PDF，非本课程发布材料。；在线工具、软件下载或平台文档，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：EE1513
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22521/#review-86006>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：EE1513
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE1513 文本表征学习
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18033,6 +22708,24 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：eng-homework-ee2003-0b157da3。
   - 来源 ID：gh-li-qi-lin
+  - 课程代码：EE2003
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.docx>
+  - 查询：计算机原理与嵌入式系统大抄
+  - 检查范围：旧 PDF 返回 404；匿名回查同作者 DOCX 原件，并与仓库其他 PDF 区分。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25202/#review-92780>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 53 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 53 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21285/#review-66120>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；duplicate_existing_entry；review_image_not_study_material
+  - 来源 ID：icourse-club
   - 课程代码：EE2003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/2020%E6%98%A5%E5%BE%AE%E5%B5%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf>
   - 查询：EE2003 计算机原理与嵌入式系统
@@ -18101,6 +22794,18 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：eng-lectures-ee2004-34e82ff7。
   - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：EE2004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21862/#review-96835>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评公开以资料入口列出该仓库计网目录，匿名可访问；仅登记目录入口。；原点评公开说明复习总结 PDF 位于该公开仓库，仓库说明与课程资料一致。
+  - 来源 ID：icourse-club、gh-qc1-course-materials、eng-github-epihio-automation
+  - 课程代码：EE2004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
   - 课程代码：EE2004
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%95%E5%8D%B7/2018%E7%A7%8B%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：EE2004 计算机网络B
@@ -18252,6 +22957,18 @@
   - 说明：与编号32字节相同
   - 来源 ID：eng-github-duxiaoyang-materials
   - 课程代码：EE2007
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25857/#review-104677>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_admin_doc；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：EE2007
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25857/#review-104677>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2007
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/2025%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98/%E8%BF%90%E7%AD%B9%E5%AD%A625-26%E5%AD%A6%E5%B9%B4%E8%AF%95%E9%A2%98.pdf>
   - 查询：EE2007 运筹学A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18284,6 +23001,18 @@
 
 ### EE2009 数字信号处理A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25882/#review-98342>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：EE2009
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25882/#review-99351>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：EE2009
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE2009 数字信号处理A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18303,6 +23032,18 @@
 
 ### EE2501 电子技术基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24195/#review-95418>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：单页课件/板书截图，非独立学习材料；个人照片或无关图片，不是学习资料；个人模板仓库，非课程材料
+  - 来源 ID：icourse-club
+  - 课程代码：EE2501
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21877/#review-78586>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：EE2501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE2501 电子技术基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18329,6 +23070,18 @@
 
 ### EE2502 数字电路
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21879/#review-100467>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；not_course_material_or_generic_page；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：EE2502
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21880/#review-100969>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2502
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalCircuit2025F.md>
   - 查询：EE2502 数字电路
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18407,6 +23160,18 @@
 
 ### EE2506A 模拟与数字电路A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25968/#review-100319>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频/频道页面，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：EE2506A
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25969/#review-100641>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：扫描分享页需脚本渲染，匿名无法核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：EE2506A
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE2506A 模拟与数字电路A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18455,6 +23220,12 @@
   - 查询：评课社区：微波技术基础（陈卫东）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE3003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24519/#review-102926>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
   - 来源 ID：icourse-club
   - 课程代码：EE3003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E5%BE%AE%E6%B3%A2%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80>
@@ -18508,6 +23279,18 @@
 
 ### EE3005 现代通信原理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4491/#review-87916>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：EE3005
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4495/#review-90474>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：EE3005
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E7%8E%B0%E4%BB%A3%E9%80%9A%E4%BF%A1%E5%8E%9F%E7%90%86>
   - 查询：EE3005 现代通信原理
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18540,6 +23323,12 @@
 
 ### EE3006 计算机控制基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21863/#review-56334>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：EE3006
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE3006 计算机控制基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18559,6 +23348,12 @@
 
 ### EE3007 机器人创新实践
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：EE3007
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE3007 机器人创新实践
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18597,6 +23392,12 @@
 
 ### EE3502 机器学习B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24708/#review-101825>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-stardust-math-ml-b
+  - 课程代码：EE3502
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE3502 机器学习B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18642,6 +23443,12 @@
 
 ### EE4002 现代信息技术概览
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21844/#review-80559>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：EE4002
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE4002 现代信息技术概览
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18837,6 +23644,12 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：EE4011A
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25210/#review-94287>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：EE4011A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DIP-A2025S.md>
   - 查询：EE4011A 数字图像处理A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18913,6 +23726,12 @@
 
 ### EE4501 脑机接口
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：EE4501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：EE4501 脑机接口
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -18951,6 +23770,12 @@
 
 ### ENVS1501 漫谈双碳科技
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23561/#review-100628>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：ENVS1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%8E%AF%E5%A2%83&type=repositories>
   - 查询：GitHub 仓库检索 USTC 环境 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -18970,6 +23795,12 @@
 
 ### ENVS3001 环境科学与工程导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20055/#review-92646>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：ENVS3001
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E7%8E%AF%E5%A2%83&type=repositories>
   - 查询：GitHub 仓库检索 USTC 环境 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -19413,6 +24244,12 @@
 
 ### ESS1505 珠宝玉石鉴赏
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24722/#review-91056>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1505
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%8F%A0%E5%AE%9D%E7%8E%89%E7%9F%B3%E9%89%B4%E8%B5%8F%20USTC&type=repositories>
   - 查询：珠宝玉石鉴赏 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19451,6 +24288,12 @@
 
 ### ESS1507 地球探索与野外考察II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25237/#review-105769>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1507
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E6%8E%A2%E7%B4%A2%E4%B8%8E%E9%87%8E%E5%A4%96%E8%80%83%E5%AF%9FII%20USTC&type=repositories>
   - 查询：地球探索与野外考察II USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19470,6 +24313,12 @@
 
 ### ESS1509 地球物理与地球演化
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21291/#review-84298>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1509
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E4%B8%8E%E5%9C%B0%E7%90%83%E6%BC%94%E5%8C%96%20USTC&type=repositories>
   - 查询：地球物理与地球演化 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19489,6 +24338,12 @@
 
 ### ESS1510 宇宙宜居性：行星揭秘
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20058/#review-63936>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1510
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%AE%87%E5%AE%99%E5%AE%9C%E5%B1%85%E6%80%A7%EF%BC%9A%E8%A1%8C%E6%98%9F%E6%8F%AD%E7%A7%98%20USTC&type=repositories>
   - 查询：宇宙宜居性：行星揭秘 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19527,6 +24382,12 @@
 
 ### ESS1512 南极：从探险到科学研究
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24212/#review-88637>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1512
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8D%97%E6%9E%81%EF%BC%9A%E4%BB%8E%E6%8E%A2%E9%99%A9%E5%88%B0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%20USTC&type=repositories>
   - 查询：南极：从探险到科学研究 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19546,6 +24407,12 @@
 
 ### ESS1513 气象与摄影
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24213/#review-86302>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1513
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%B0%94%E8%B1%A1%E4%B8%8E%E6%91%84%E5%BD%B1%20USTC&type=repositories>
   - 查询：气象与摄影 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19565,6 +24432,12 @@
 
 ### ESS1515 探秘华夏名山
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24978/#review-98750>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1515
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%8E%A2%E7%A7%98%E5%8D%8E%E5%A4%8F%E5%90%8D%E5%B1%B1%20USTC&type=repositories>
   - 查询：探秘华夏名山 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19584,6 +24457,18 @@
 
 ### ESS2006 地球和空间科学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22015/#review-105901>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS2006
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22015/#review-90992>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS2006
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E5%92%8C%E7%A9%BA%E9%97%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：地球和空间科学基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19747,6 +24632,12 @@
 
 ### ESS4002 航天电子电路设计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23569/#review-91407>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：ESS4002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%88%AA%E5%A4%A9%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>
   - 查询：航天电子电路设计 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19772,6 +24663,18 @@
 
 ### ESS4004 航天器轨道动力学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23094/#review-78812>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：ESS4004
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23094/#review-78812>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ESS4004
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%88%AA%E5%A4%A9%E5%99%A8%E8%BD%A8%E9%81%93%E5%8A%A8%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>
   - 查询：航天器轨道动力学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -19848,6 +24751,12 @@
 
 ### FIN1502 诺贝尔经济学经典选读
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN1502
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%BB%8F%E5%85%B8%E9%80%89%E8%AF%BB%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："诺贝尔经济学经典选读" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -19867,6 +24776,18 @@
 
 ### FIN1503 证券理论与实务
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6343/#review-101348>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：FIN1503
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6343/#review-27681>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：FIN1503
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AF%81%E5%88%B8%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E5%8A%A1%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："证券理论与实务" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -19886,6 +24807,12 @@
 
 ### FIN1506 微观经济学原理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20795/#review-101707>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN1506
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："微观经济学原理" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -19924,6 +24851,24 @@
 
 ### FIN2001 经济学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20334/#review-101820>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：FIN2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20334/#review-85098>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 6 条；结果 reviewed。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN2001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20334/#review-60332>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN2001
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："经济学基础" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -19962,6 +24907,12 @@
 
 ### FIN3002 货币金融学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21296/#review-50119>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：FIN3002
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%B4%A7%E5%B8%81%E9%87%91%E8%9E%8D%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："货币金融学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20019,6 +24970,18 @@
 
 ### FL1003 英语交流I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19192/#review-26294>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；纪录片下载站页面，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19192/#review-26294>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1003
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语交流I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20038,6 +25001,18 @@
 
 ### FL1004 英语交流II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25242/#review-92547>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 26 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 26 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；配图为 48×47 的 GIF 表情，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：FL1004
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语交流II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20057,6 +25032,24 @@
 
 ### FL1005 英语读写I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19205/#review-89272>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 8 条；结果 reviewed。 主要理由：原点评在公开正文中列出本学期阅读策略内容并附配图，4 张图片匿名可见。；原点评在公开正文中以图号标注阅读写作方法、课文讲解与课程总结配图，4 张图片匿名可见。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1005
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19205/#review-89272>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 20 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 20 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1005
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：FL1005
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E8%AF%BB%E5%86%99I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语读写I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20076,6 +25069,18 @@
 
 ### FL1006 英语读写II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20076/#review-87098>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1006
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20079/#review-104883>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1006
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E8%AF%BB%E5%86%99II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语读写II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20095,6 +25100,18 @@
 
 ### FL1007 英语交流进阶I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22069/#review-74728>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：FL1007
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19210/#review-88339>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：FL1007
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81%E8%BF%9B%E9%98%B6I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语交流进阶I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20114,6 +25131,18 @@
 
 ### FL1008 英语交流进阶II
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20082/#review-35132>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：FL1008
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25243/#review-93407>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频、社交平台或工具站点，非稳定可检索的独立学习材料；外链非具体公开学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：FL1008
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81%E8%BF%9B%E9%98%B6II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语交流进阶II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20133,6 +25162,12 @@
 
 ### FL1009 英语交流进阶III
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 11 条候选，覆盖 5 个课程页、8 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 11 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1009
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81%E8%BF%9B%E9%98%B6III%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语交流进阶III" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20152,6 +25187,18 @@
 
 ### FL1010 英语读写进阶I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19213/#review-78811>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；新闻门户文章，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1010
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19213/#review-75731>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1010
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E8%AF%BB%E5%86%99%E8%BF%9B%E9%98%B6I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语读写进阶I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20171,6 +25218,12 @@
 
 ### FL1011 英语读写进阶II
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 13 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 11 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1011
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E8%AF%BB%E5%86%99%E8%BF%9B%E9%98%B6II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语读写进阶II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20304,6 +25357,12 @@
 
 ### FL1100 大学英语
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12474/#review-59743>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1100
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："大学英语" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20323,6 +25382,12 @@
 
 ### FL1102A 科普英语交流A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13600/#review-5617>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：主页/人物页/书目页，无具体学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1102A
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A7%91%E6%99%AE%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："科普英语交流A" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20342,6 +25407,12 @@
 
 ### FL1102B 科普英语交流B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18776/#review-44469>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1102B
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A7%91%E6%99%AE%E8%8B%B1%E8%AF%AD%E4%BA%A4%E6%B5%81B%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："科普英语交流B" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20361,6 +25432,18 @@
 
 ### FL1103A 跨文化交流
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6421/#review-106540>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1103A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6421/#review-106540>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1103A
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%B7%A8%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："跨文化交流" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20380,6 +25463,12 @@
 
 ### FL1105A 学术英语读写
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22110/#review-55134>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1105A
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%AD%A6%E6%9C%AF%E8%8B%B1%E8%AF%AD%E8%AF%BB%E5%86%99%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："学术英语读写" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20399,6 +25488,12 @@
 
 ### FL1106A 批判性思维与英语沟通
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25647/#review-99107>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：FL1106A
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%89%B9%E5%88%A4%E6%80%A7%E6%80%9D%E7%BB%B4%E4%B8%8E%E8%8B%B1%E8%AF%AD%E6%B2%9F%E9%80%9A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："批判性思维与英语沟通" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20418,6 +25513,18 @@
 
 ### FL1110A 英语文化与沟通
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21789/#review-92898>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；图片为成绩、截图或板书照片，未证明是独立学习材料；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1110A
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20091/#review-38542>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：FL1110A
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%8B%B1%E8%AF%AD%E6%96%87%E5%8C%96%E4%B8%8E%E6%B2%9F%E9%80%9A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："英语文化与沟通" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20437,6 +25544,12 @@
 
 ### FL1115A 高级英语口语
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21810/#review-83880>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：FL1115A
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%AB%98%E7%BA%A7%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："高级英语口语" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20475,6 +25588,12 @@
 
 ### FL1501 西南联大英文导读
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19218/#review-32582>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7%E8%8B%B1%E6%96%87%E5%AF%BC%E8%AF%BB%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："西南联大英文导读" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20533,6 +25652,18 @@
 
 ### FL1506 德国语言与文化(初级)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：FL1506
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2545/#review-40642>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：FL1506
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%BE%B7%E5%9B%BD%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%96%87%E5%8C%96(%E5%88%9D%E7%BA%A7)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："德国语言与文化(初级)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20552,6 +25683,12 @@
 
 ### FL1507 德国语言与文化(中级)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 0 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1507
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%BE%B7%E5%9B%BD%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%96%87%E5%8C%96(%E4%B8%AD%E7%BA%A7)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："德国语言与文化(中级)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20609,6 +25746,24 @@
 
 ### FS1001 “科学与社会”研讨课
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：FS1001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21145/#review-71797>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评公开引用该写作指南，页面标题与内容主题一致，公开可访问。；原点评公开给出项目代码仓库，仓库描述与课程项目一致，代码公开可访问。
+  - 来源 ID：icourse-club、ustc-teacher-pages、gh-calvino-elon-mnist
+  - 课程代码：FS1001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19907/#review-105918>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：FS1001
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E2%80%9C%E7%A7%91%E5%AD%A6%E4%B8%8E%E7%A4%BE%E4%BC%9A%E2%80%9D%E7%A0%94%E8%AE%A8%E8%AF%BE%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："“科学与社会”研讨课" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -20666,6 +25821,12 @@
 
 ### GEOL3003 岩石学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOL3003
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%B2%A9%E7%9F%B3%E5%AD%A6%20USTC&type=repositories>
   - 查询：岩石学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20704,6 +25865,12 @@
 
 ### GEOL4002 地球化学野外综合实习
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25599/#review-97699>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOL4002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6%E9%87%8E%E5%A4%96%E7%BB%BC%E5%90%88%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>
   - 查询：地球化学野外综合实习 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20799,6 +25966,12 @@
 
 ### GEOP2701 地质学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26093/#review-106711>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP2701
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E8%B4%A8%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：地质学基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20875,6 +26048,12 @@
 
 ### GEOP3003 重力与固体潮
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6579/#review-86366>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3003
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8D%E5%8A%9B%E4%B8%8E%E5%9B%BA%E4%BD%93%E6%BD%AE%20USTC&type=repositories>
   - 查询：重力与固体潮 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20913,6 +26092,12 @@
 
 ### GEOP3005 空间探测基础实习
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3005
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E5%9F%BA%E7%A1%80%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>
   - 查询：空间探测基础实习 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20932,6 +26117,18 @@
 
 ### GEOP3006 空间探测综合实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22552/#review-87348>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：在线工具、软件下载或平台文档，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3006
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22552/#review-86812>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3006
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：空间探测综合实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20951,6 +26148,18 @@
 
 ### GEOP3007 流体力学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12858/#review-97861>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：target_not_found_404；anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3007
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12858/#review-79634>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3007
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>
   - 查询：流体力学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20970,6 +26179,12 @@
 
 ### GEOP3008 磁流体力学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 5 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3008
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A3%81%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>
   - 查询：磁流体力学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -20989,6 +26204,12 @@
 
 ### GEOP3009 空间物理学导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 15 条候选，覆盖 1 个课程页、4 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 9 条、登录占位/无法匿名核验受阻 6 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3009
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E7%89%A9%E7%90%86%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：空间物理学导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21019,6 +26240,12 @@
 
 ### GEOP4002 地球物理数据处理和分析
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22554/#review-83346>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%92%8C%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：地球物理数据处理和分析 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21038,6 +26265,18 @@
 
 ### GEOP4003 地震勘探引论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1526/#review-30312>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：unidentified_generic_name
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1526/#review-30312>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4003
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E9%9C%87%E5%8B%98%E6%8E%A2%E5%BC%95%E8%AE%BA%20USTC&type=repositories>
   - 查询：地震勘探引论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21057,6 +26296,12 @@
 
 ### GEOP4004 人工智能与地球物理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23632/#review-101774>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4004
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%20USTC&type=repositories>
   - 查询：人工智能与地球物理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21114,6 +26359,12 @@
 
 ### GEOP4010 空间环境与航天工程
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22019/#review-63420>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4010
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E7%8E%AF%E5%A2%83%E4%B8%8E%E8%88%AA%E5%A4%A9%E5%B7%A5%E7%A8%8B%20USTC&type=repositories>
   - 查询：空间环境与航天工程 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21133,6 +26384,18 @@
 
 ### GEOP4011 遥感技术
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22000/#review-61918>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4011
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22000/#review-61918>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4011
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%81%A5%E6%84%9F%E6%8A%80%E6%9C%AF%20USTC&type=repositories>
   - 查询：遥感技术 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21158,6 +26421,18 @@
 
 ### GEOP4013 行星大气
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23637/#review-88033>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4013
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23637/#review-79561>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4013
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E5%A4%A7%E6%B0%94%20USTC&type=repositories>
   - 查询：行星大气 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21221,6 +26496,18 @@
 
 ### GEOP4017 地质学与大地构造概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24774/#review-97432>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4017
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24774/#review-97432>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4017
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E8%B4%A8%E5%AD%A6%E4%B8%8E%E5%A4%A7%E5%9C%B0%E6%9E%84%E9%80%A0%E6%A6%82%E8%AE%BA%20USTC&type=repositories>
   - 查询：地质学与大地构造概论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -21259,6 +26546,12 @@
 
 ### HS1504 科技考古概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20896/#review-89127>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：HS1504
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A7%91%E6%8A%80%E8%80%83%E5%8F%A4%E6%A6%82%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："科技考古概论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21297,6 +26590,18 @@
 
 ### HS1509M 经济与社会：如何用决策思维洞察生活
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1509M
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19460/#review-27343>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1509M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%A4%BE%E4%BC%9A%EF%BC%9A%E5%A6%82%E4%BD%95%E7%94%A8%E5%86%B3%E7%AD%96%E6%80%9D%E7%BB%B4%E6%B4%9E%E5%AF%9F%E7%94%9F%E6%B4%BB%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："经济与社会：如何用决策思维洞察生活" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21316,6 +26621,18 @@
 
 ### HS1514M 逻辑学导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19465/#review-69177>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1514M
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19465/#review-97929>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：HS1514M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%80%BB%E8%BE%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："逻辑学导论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21336,6 +26653,12 @@
 
 ### HS1517 表达技巧与朗诵艺术
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19468/#review-55446>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1517
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%A1%A8%E8%BE%BE%E6%8A%80%E5%B7%A7%E4%B8%8E%E6%9C%97%E8%AF%B5%E8%89%BA%E6%9C%AF%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："表达技巧与朗诵艺术" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21355,6 +26678,18 @@
 
 ### HS1519 中国文化史
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/229/#review-86254>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1519
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/229/#review-32966>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1519
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："中国文化史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21393,6 +26728,18 @@
 
 ### HS1521 天文学史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18372/#review-38191>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1521
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18372/#review-38191>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1521
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A9%E6%96%87%E5%AD%A6%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："天文学史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21412,6 +26759,12 @@
 
 ### HS1523 科学之美
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18062/#review-34835>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频、社交平台或工具站点，非稳定可检索的独立学习材料；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1523
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A7%91%E5%AD%A6%E4%B9%8B%E7%BE%8E%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："科学之美" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21431,6 +26784,18 @@
 
 ### HS1524 物理学思想史
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18066/#review-96552>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：HS1524
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18066/#review-85846>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：HS1524
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%89%A9%E7%90%86%E5%AD%A6%E6%80%9D%E6%83%B3%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："物理学思想史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21456,6 +26821,18 @@
   - 说明：课程论文且已有记录，不增含个人标识的文件级入口
   - 来源 ID：chembio-daswalpurgis
   - 课程代码：HS1528
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3263/#review-40369>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料；视频、社交平台或工具站点，非稳定可检索的独立学习材料；外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录
+  - 来源 ID：icourse-club
+  - 课程代码：HS1528
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3263/#review-104073>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：HS1528
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB(%E5%8F%8C%E8%AF%AD%E8%AF%BE%E7%A8%8B)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："日本社会文化解读(双语课程)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21475,6 +26852,18 @@
 
 ### HS1531 大学生心理学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25265/#review-92859>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；匿名访问失败（超时/连接错误/验证页），无法核对内容；目标返回 403 或人机验证，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：HS1531
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25265/#review-92859>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 31 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 31 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料；网页/聊天/软件界面截图，不是学习资料；单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1531
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BF%83%E7%90%86%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："大学生心理学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21494,6 +26883,12 @@
 
 ### HS1532 大学生交往训练
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1781/#review-34586>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：单页课件/板书截图，非独立学习材料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1532
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BA%A4%E5%BE%80%E8%AE%AD%E7%BB%83%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："大学生交往训练" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21519,6 +26914,18 @@
   - 说明：已有记录，正文含学生学号
   - 来源 ID：gh-li-qi-lin
   - 课程代码：HS1534
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5056/#review-88393>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1534
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5056/#review-34460>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1534
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："社会心理学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21538,6 +26945,12 @@
 
 ### HS1536 大学生健康教育
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1536
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："大学生健康教育" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21557,6 +26970,12 @@
 
 ### HS1538 西方社会思想简史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13746/#review-50031>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：HS1538
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%A5%BF%E6%96%B9%E7%A4%BE%E4%BC%9A%E6%80%9D%E6%83%B3%E7%AE%80%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："西方社会思想简史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21596,6 +27015,12 @@
 
 ### HS1547 日本美术导览
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3264/#review-47784>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1547
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%97%A5%E6%9C%AC%E7%BE%8E%E6%9C%AF%E5%AF%BC%E8%A7%88%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："日本美术导览" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21615,6 +27040,18 @@
 
 ### HS1548 西方油画艺术赏析
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6040/#review-96550>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1548
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6040/#review-88665>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频或录播页面，不构成可独立检索的学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1548
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%A5%BF%E6%96%B9%E6%B2%B9%E7%94%BB%E8%89%BA%E6%9C%AF%E8%B5%8F%E6%9E%90%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："西方油画艺术赏析" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21634,6 +27071,12 @@
 
 ### HS1549 中国审美文化
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13745/#review-47936>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1549
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B8%AD%E5%9B%BD%E5%AE%A1%E7%BE%8E%E6%96%87%E5%8C%96%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："中国审美文化" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21677,6 +27120,18 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：课程论文且已有记录，不增含个人标识的文件级入口
   - 来源 ID：chembio-daswalpurgis
+  - 课程代码：HS1551
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/294/#review-89765>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1551
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/294/#review-103942>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；视频/音频或录播页面，非独立学习材料。
+  - 来源 ID：icourse-club
   - 课程代码：HS1551
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："交响乐赏析" USTC in:readme
@@ -21754,6 +27209,12 @@
 
 ### HS1559 大学生情绪管理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1559
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%83%85%E7%BB%AA%E7%AE%A1%E7%90%86%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："大学生情绪管理" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21773,6 +27234,18 @@
 
 ### HS1560 电影音乐艺术
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20135/#review-44363>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：网盘分享/校内云盘，匿名无法核对内容与权限
+  - 来源 ID：icourse-club
+  - 课程代码：HS1560
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20135/#review-46896>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：B 站专栏文章，非学习材料；站点首页，非具体材料；单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1560
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E7%94%B5%E5%BD%B1%E9%9F%B3%E4%B9%90%E8%89%BA%E6%9C%AF%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："电影音乐艺术" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19 个公开课程仓库文件树 + 仓库 LuckytoeUSTC/the-last-emperor-film-music 的 README 与递归文件树
@@ -21793,6 +27266,12 @@
 
 ### HS1561 油画技法
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20136/#review-79267>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1561
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%B2%B9%E7%94%BB%E6%8A%80%E6%B3%95%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："油画技法" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21812,6 +27291,12 @@
 
 ### HS1566 人工智能与技术伦理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26380/#review-101771>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1566
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%8A%80%E6%9C%AF%E4%BC%A6%E7%90%86%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："人工智能与技术伦理" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21850,6 +27335,18 @@
 
 ### HS1577M 欧洲文明的现代历程
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19690/#review-95997>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1577M
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19690/#review-95029>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：HS1577M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%AC%A7%E6%B4%B2%E6%96%87%E6%98%8E%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%8E%86%E7%A8%8B%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："欧洲文明的现代历程" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21888,6 +27385,18 @@
 
 ### HS1581 中国传统医学思想与文化
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20899/#review-88227>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1581
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1581
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E5%8C%BB%E5%AD%A6%E6%80%9D%E6%83%B3%E4%B8%8E%E6%96%87%E5%8C%96%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："中国传统医学思想与文化" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21907,6 +27416,12 @@
 
 ### HS1583 陶瓷文化史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20901/#review-58824>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1583
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%99%B6%E7%93%B7%E6%96%87%E5%8C%96%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："陶瓷文化史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21927,6 +27442,12 @@
 
 ### HS1584 当代科技艺术
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20902/#review-42496>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频/频道页面，非独立学习材料；个人照片或无关图片，不是学习资料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1584
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E5%BD%93%E4%BB%A3%E7%A7%91%E6%8A%80%E8%89%BA%E6%9C%AF%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："当代科技艺术" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21946,6 +27467,12 @@
 
 ### HS1585M 新青年·习党史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25736/#review-97428>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；外链非具体公开学习材料；教务/图书馆页面或政策说明，非课程学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1585M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%96%B0%E9%9D%92%E5%B9%B4%C2%B7%E4%B9%A0%E5%85%9A%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："新青年·习党史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -21966,6 +27493,12 @@
 
 ### HS1587 馆窥世界史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1587
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%A6%86%E7%AA%A5%E4%B8%96%E7%95%8C%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："馆窥世界史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22006,6 +27539,18 @@
 
 ### HS1590 中国纸墨笔砚
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21335/#review-62914>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：泛视频链接，非课程独立学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1590
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1590
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B8%AD%E5%9B%BD%E7%BA%B8%E5%A2%A8%E7%AC%94%E7%A0%9A%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："中国纸墨笔砚" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22063,6 +27608,18 @@
 
 ### HS1593 西方文明史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21813/#review-102731>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1593
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1593
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%A5%BF%E6%96%B9%E6%96%87%E6%98%8E%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："西方文明史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22082,6 +27639,18 @@
 
 ### HS1594 物理学简史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21944/#review-86032>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1594
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21944/#review-85844>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1594
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%89%A9%E7%90%86%E5%AD%A6%E7%AE%80%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："物理学简史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22158,6 +27727,18 @@
 
 ### HS1606 化学与艺术-手工印染
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22560/#review-69217>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 21 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1606
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24243/#review-96783>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：HS1606
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%8C%96%E5%AD%A6%E4%B8%8E%E8%89%BA%E6%9C%AF-%E6%89%8B%E5%B7%A5%E5%8D%B0%E6%9F%93%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："化学与艺术-手工印染" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22196,6 +27777,12 @@
 
 ### HS1610M 中国古典诗词中的品格与修养
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22563/#review-95813>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1610M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E8%AF%97%E8%AF%8D%E4%B8%AD%E7%9A%84%E5%93%81%E6%A0%BC%E4%B8%8E%E4%BF%AE%E5%85%BB%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："中国古典诗词中的品格与修养" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22215,6 +27802,18 @@
 
 ### HS1611 当我们谈论科学时
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22564/#review-103209>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1611
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22564/#review-105223>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1611
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%BD%93%E6%88%91%E4%BB%AC%E8%B0%88%E8%AE%BA%E7%A7%91%E5%AD%A6%E6%97%B6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："当我们谈论科学时" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22234,6 +27833,12 @@
 
 ### HS1612 欧阳询楷书技法训练
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22565/#review-84560>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1612
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%AC%A7%E9%98%B3%E8%AF%A2%E6%A5%B7%E4%B9%A6%E6%8A%80%E6%B3%95%E8%AE%AD%E7%BB%83%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："欧阳询楷书技法训练" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22273,6 +27878,12 @@
 
 ### HS1620 钢琴演奏入门
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22573/#review-78884>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：HS1620
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%92%A2%E7%90%B4%E6%BC%94%E5%A5%8F%E5%85%A5%E9%97%A8%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："钢琴演奏入门" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22311,6 +27922,12 @@
 
 ### HS1623 元素周期表里的考古学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22576/#review-91438>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1623
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8%E9%87%8C%E7%9A%84%E8%80%83%E5%8F%A4%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："元素周期表里的考古学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22330,6 +27947,12 @@
 
 ### HS1624 化学简史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24783/#review-106084>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：HS1624
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%8C%96%E5%AD%A6%E7%AE%80%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："化学简史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22388,6 +28011,12 @@
 
 ### HS1629 王羲之行书技法训练
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23647/#review-99799>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1629
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%8E%8B%E7%BE%B2%E4%B9%8B%E8%A1%8C%E4%B9%A6%E6%8A%80%E6%B3%95%E8%AE%AD%E7%BB%83%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："王羲之行书技法训练" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22426,6 +28055,12 @@
 
 ### HS1633 民族管弦乐艺术的科学、文化与实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23651/#review-91487>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：HS1633
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%B0%91%E6%97%8F%E7%AE%A1%E5%BC%A6%E4%B9%90%E8%89%BA%E6%9C%AF%E7%9A%84%E7%A7%91%E5%AD%A6%E3%80%81%E6%96%87%E5%8C%96%E4%B8%8E%E5%AE%9E%E8%B7%B5%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："民族管弦乐艺术的科学、文化与实践" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22445,6 +28080,12 @@
 
 ### HS1634 宋代美学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1634
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%AE%8B%E4%BB%A3%E7%BE%8E%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："宋代美学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22540,6 +28181,18 @@
 
 ### HS1639 语言科学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24245/#review-83426>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：目标返回 403 或人机验证，匿名无法核对；匿名访问失败（超时/连接错误/验证页），无法核对内容；公众号页面需验证，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：HS1639
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24245/#review-83426>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：官方课程目录页，非学习资料；论文页面，非课程材料；单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1639
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AF%AD%E8%A8%80%E7%A7%91%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："语言科学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22578,6 +28231,12 @@
 
 ### HS1647 速写技法
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24252/#review-84550>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1647
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%80%9F%E5%86%99%E6%8A%80%E6%B3%95%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："速写技法" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22613,6 +28272,18 @@
   - 查询：评课社区：生活中的公共事务（尚虎平）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1648
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24784/#review-104750>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：HS1648
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24784/#review-91600>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：微博主页，需访客验证且非课程材料；视频/频道页面，非独立学习材料；成绩/分数/分布截图，不是学习资料
   - 来源 ID：icourse-club
   - 课程代码：HS1648
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1%22%20USTC%20in%3Areadme&per_page=5>
@@ -22672,6 +28343,18 @@
 
 ### HS1651 西方音乐通史
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24787/#review-92936>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1651
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24787/#review-88429>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1651
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%A5%BF%E6%96%B9%E9%9F%B3%E4%B9%90%E9%80%9A%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："西方音乐通史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22710,6 +28393,18 @@
 
 ### HS1653 音乐来信——走进交响世界
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24789/#review-87471>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：单页课件/板书截图，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1653
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24789/#review-93041>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；公众号页面需验证，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：HS1653
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%9F%B3%E4%B9%90%E6%9D%A5%E4%BF%A1%E2%80%94%E2%80%94%E8%B5%B0%E8%BF%9B%E4%BA%A4%E5%93%8D%E4%B8%96%E7%95%8C%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："音乐来信——走进交响世界" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22767,6 +28462,12 @@
 
 ### HS1658 硬笔楷书技法训练
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25268/#review-93813>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：试卷/笔记片段截图，未构成可独立使用的完整材料
+  - 来源 ID：icourse-club
+  - 课程代码：HS1658
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A1%AC%E7%AC%94%E6%A5%B7%E4%B9%A6%E6%8A%80%E6%B3%95%E8%AE%AD%E7%BB%83%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："硬笔楷书技法训练" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22844,6 +28545,12 @@
 
 ### HS1665 生物学之美
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26038/#review-100733>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS1665
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%94%9F%E7%89%A9%E5%AD%A6%E4%B9%8B%E7%BE%8E%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："生物学之美" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22901,6 +28608,12 @@
 
 ### HS1668 音乐基础理论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26384/#review-102956>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；社交平台账号页，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1668
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%9F%B3%E4%B9%90%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："音乐基础理论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -22979,6 +28692,12 @@
 
 ### HS1672 电影中的科学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26388/#review-102816>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1672
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%94%B5%E5%BD%B1%E4%B8%AD%E7%9A%84%E7%A7%91%E5%AD%A6%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："电影中的科学" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23094,6 +28813,12 @@
 
 ### HS2002 科技写作与表达
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20114/#review-96580>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：HS2002
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A7%91%E6%8A%80%E5%86%99%E4%BD%9C%E4%B8%8E%E8%A1%A8%E8%BE%BE%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："科技写作与表达" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23113,6 +28838,12 @@
 
 ### IC1901 芯片科技概论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25013/#review-88761>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：IC1901
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：IC1901 芯片科技概论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -23132,6 +28863,12 @@
 
 ### IC2701 集成电路科技导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23656/#review-98129>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：外部仓库未在现有来源契约登记，或仅为工具/组织主页，未收录；外链非具体公开学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：IC2701
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：IC2701 集成电路科技导论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -23246,6 +28983,12 @@
 
 ### INEE1505 设计创新思维
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：INEE1505
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AE%BE%E8%AE%A1%E5%88%9B%E6%96%B0%E6%80%9D%E7%BB%B4%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："设计创新思维" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23265,6 +29008,12 @@
 
 ### INEE1506 设计创新实践 I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19478/#review-103962>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：INEE1506
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AE%BE%E8%AE%A1%E5%88%9B%E6%96%B0%E5%AE%9E%E8%B7%B5%20I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："设计创新实践 I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23285,6 +29034,12 @@
 
 ### INEE1507 设计创新实践 II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：INEE1507
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%AE%BE%E8%AE%A1%E5%88%9B%E6%96%B0%E5%AE%9E%E8%B7%B5%20II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："设计创新实践 II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23304,6 +29059,12 @@
 
 ### INEE1509 创业会计与财务
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22578/#review-71043>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：INEE1509
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%88%9B%E4%B8%9A%E4%BC%9A%E8%AE%A1%E4%B8%8E%E8%B4%A2%E5%8A%A1%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："创业会计与财务" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23494,6 +29255,12 @@
 
 ### IS3002 复杂系统分析
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25834/#review-106546>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、git-ustc-antonio-liz
+  - 课程代码：IS3002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：复杂系统分析 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -23532,6 +29299,12 @@
 
 ### IS3004 数据建模与分析基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26398/#review-102477>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：IS3004
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：数据建模与分析基础 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -23551,6 +29324,12 @@
 
 ### IS3005 网络安全设计与实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26399/#review-103503>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：IS3005
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：网络安全设计与实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页请求受限
@@ -23589,6 +29368,12 @@
 
 ### IS4006 网络安全基础实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25273/#review-92632>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：IS4006
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A1%80%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>
   - 查询：网络安全基础实践 USTC（type=repositories）
   - 检查范围：GitHub 仓库搜索首页（name/description）与已登记种子仓库完整 tree
@@ -23627,6 +29412,12 @@
 
 ### MARX1005 思想政治理论课实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21721/#review-104666>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_admin_doc
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1005
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E5%AE%9E%E8%B7%B5%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："思想政治理论课实践" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23665,6 +29456,30 @@
 
 ### MARX1010 中国近现代史纲要
 
+- 2026-11-19 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.xls>
+  - 查询：中国近现代史纲要题库（2022春）
+  - 检查范围：匿名复核：.doc 下载内容是可用 Word 打开的 HTML 文档；同条 XLS、DOCX 和 PDF 格式亦可下载。保留原站文件页。
+  - 说明：保留可复查的稳定入口，不登记临时签名。
+  - 来源 ID：feixu-alist
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 24 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 24 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21339/#review-96401>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 30 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 30 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；主页/人物页/书目页，无具体学习材料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21340/#review-85221>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 3 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为最后一次课小测题目，2 张图片匿名可见。；原点评在公开正文中说明配图为作者自己的课堂内容记录，匿名可见。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："中国近现代史纲要" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23691,6 +29506,36 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：MARX1011
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 MARX1011 study 条目已覆盖 notes 目录；补基本概念、定理及推论两份 Markdown 文件级入口。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20920/#review-91762>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 30 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 30 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评附图仅为个人小论文思路图，不构成课程学习资料。；论坛讨论帖，非课程学习资料。；点评附图为课程群二维码海报，非学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/23671/#review-98420>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20920/#review-88766>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 69 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 69 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23671/#review-98420>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："马克思主义基本原理" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23710,6 +29555,18 @@
 
 ### MARX1012 思想道德与法治
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20925/#review-86242>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20925/#review-59852>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；在线工具、软件下载或平台文档，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："思想道德与法治" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23735,6 +29592,24 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18075/#review-93198>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22581/#review-95895>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 26 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 26 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；学生思政课作品集，非可检索的学习资料。；GitHub 站点首页，非具体资料。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25279/#review-92449>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
 - 2026-11-18 · GitHub · 已查看 · <https://api.github.com/search/repositories?q=%22%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："毛泽东思想和中国特色社会主义理论体系概论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23755,6 +29630,18 @@
 
 ### MARX1014 习近平新时代中国特色社会主义思想概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24800/#review-98600>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 24 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 24 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；公众号页面需验证，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22345/#review-80464>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料；成绩/分数/分布截图，不是学习资料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："习近平新时代中国特色社会主义思想概论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23774,6 +29661,12 @@
 
 ### MARX1501M 社会主义发展史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21577/#review-49993>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1501M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%8F%91%E5%B1%95%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："社会主义发展史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23794,6 +29687,12 @@
 
 ### MARX1502M 新中国史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21870/#review-106643>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_admin_doc
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1502M
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%96%B0%E4%B8%AD%E5%9B%BD%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："新中国史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23813,6 +29712,18 @@
 
 ### MARX1503 改革开放史
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22584/#review-83598>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；在线工具、软件下载或平台文档，非课程学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1503
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22584/#review-83598>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1503
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："改革开放史" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -23832,6 +29743,12 @@
 
 ### MATH1001 数学分析(A1)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2826/#review-106>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；书目/馆藏检索或商业图书页，未提供可公开获取的全文。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1001
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A1%29%E7%9C%9F%E9%A2%98/2019%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A1%29%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：我的科大：/数学类/数学分析/数学分析(A1)真题/2019数学分析(A1)期末.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -23894,6 +29811,18 @@
 
 ### MATH1002 数学分析(A2)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12392/#review-23487>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；dead_link_or_generic_page；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12392/#review-23487>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2020%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf>
   - 查询：我的科大：/数学类/数学分析/数学分析(A2)真题/2020数学分析(A2)期末.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -23962,6 +29891,18 @@
 
 ### MATH1003 数学分析(A3)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13494/#review-97513>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1003
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E7%9C%9F%E9%A2%98/2020%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E6%9C%9F%E4%B8%AD.pdf>
   - 查询：我的科大：/数学类/数学分析/数学分析(A3)真题/2020数学分析(A3)期中.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -24006,6 +29947,24 @@
 
 ### MATH1004 线性代数(A1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12386/#review-85775>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、linear-axler-ladr
+  - 课程代码：MATH1004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12386/#review-84696>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1004
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12386/#review-102460>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；review_image_not_study_material；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1004
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/线性代数/线性代数(A)历年真题/线性代数(A)历年真题.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -24068,6 +30027,18 @@
 
 ### MATH1005 线性代数(A2)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18270/#review-97532>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；copyright_textbook_or_book；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1005
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18270/#review-72509>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1005
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/线性代数/线性代数(A)历年真题/线性代数(A)历年真题.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -24136,6 +30107,24 @@
 
 ### MATH1006 数学分析(B1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19509/#review-91734>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-passiflora-sago-site
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2842/#review-91128>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 64 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 64 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；视频/音频或录播页面，非独立学习材料。；校外课程大纲页，非本课程材料。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26560/#review-99720>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 132 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 132 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%AC%94%E8%AE%B0.pdf>
   - 查询：我的科大：/数学类/数学分析/数学分析(B1)笔记.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -24312,6 +30301,18 @@
 
 ### MATH1007 数学分析(B2)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21345/#review-85766>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 87 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 87 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21345/#review-85766>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 58 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 58 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频、社交平台或工具站点，非稳定可检索的独立学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E7%AC%94%E8%AE%B0.pdf>
   - 查询：我的科大：/数学类/数学分析/数学分析(B2)笔记.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -24428,6 +30429,24 @@
 
 ### MATH1008 数学分析(B3)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14210/#review-75944>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1008
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14210/#review-90095>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1008
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/14210/#review-87955>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与既有条目 mp-uexam-math1008-2024-final-b96212 为同一份试卷（2024—2025 学年第一学期期末，数学分析(B3)），不重复计入。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1008
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/数学分析/数学分析(B)历年真题.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -24460,6 +30479,12 @@
 
 ### MATH1009 线性代数(B1)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 204 条候选，覆盖 27 个课程页、63 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 154 条、登录占位/无法匿名核验受阻 50 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/线性代数/线性代数(B)历年真题/线性代数(B)历年真题.pdf
   - 检查范围：公开文件页、卷头/目录或正文抽读。
@@ -24799,6 +30824,24 @@
 
 ### MATH1010 线性代数(B2)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5494/#review-58315>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/5495/#review-88028>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同场 2024 秋线性代数B2 期末已有收录，本条为手写回忆版，不重复计
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5495/#review-39296>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；成绩/分数/分布截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf>
   - 查询：我的科大：/数学类/线性代数/线性代数(B)历年真题/2021线性代数(B2)期中.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -24862,6 +30905,12 @@
 
 ### MATH1012 微积分II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21348/#review-51619>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：MATH1012
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E7%A7%AF%E5%88%86II%20USTC&type=repositories>
   - 查询：微积分II USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -24900,6 +30949,30 @@
 
 ### MATH2001 计算方法
 
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 2 条候选；有效或补入口 2 条；结果 duplicate。 主要理由：既有 MATH2001 study 条目指向课程目录；补 cm-uncompleted 复习提纲 PDF 文件级入口（.tex 为源文件不单列）。；既有 notes 条目 mp-gh-math2001-notes-730cce 误指计算方法根目录并描述 labs 文件（1.cpp、Lagrange.m、N*type*.png 等）；应指向 /notes（README.md、cm-uncompleted.pdf/tex 共 3 文件），不误记实验。；既有 projects 条目 mp-gh-math2001-projects-730cce 误指计算方法根目录；应指向 /labs（lab1-lab5，35 文件）；notes 不误记。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20952/#review-94108>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-mmengjiadai-computational-method、gh-xxuhaiyang-computation2022
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20952/#review-94108>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 30 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 30 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20952/#review-56666>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 53 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 53 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_admin_doc；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2011-2012%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%287%29.JPG>
   - 查询：我的科大：/数学类/计算方法/2011-2012第一学期/2011-2012第一学期 (7).JPG
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -25263,6 +31336,24 @@
 
 ### MATH2003 几何学基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23682/#review-87770>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2003
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21922/#review-59696>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；视频或录播页面，不构成可独立检索的学习资料。；页面属于拓扑学课程，不能确证属于本课（几何学基础）。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21922/#review-60309>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、ustc-teacher-pages
+  - 课程代码：MATH2003
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%87%A0%E4%BD%95%E5%AD%A6%E5%9F%BA%E7%A1%802023%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf>
   - 查询：我的科大：/数学类/几何学基础/几何学基础2023期中考试.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -25325,6 +31416,18 @@
 
 ### MATH2004 代数学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20624/#review-43529>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人博客书目介绍，非课程材料；豆瓣图书书目页，非免费公开教材
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20624/#review-41945>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；匿名访问失败（TLS 连接失败），无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2004
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%9C%9F%E4%B8%AD%E6%A8%A1%E6%8B%9F.pdf>
   - 查询：我的科大：/数学类/代数学基础/期中模拟.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -25405,6 +31508,12 @@
 
 ### MATH2501 复变函数(化学)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 4 条候选，覆盖 2 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2501
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course>
   - 查询：复变函数(化学) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -25424,6 +31533,18 @@
 
 ### MATH2502 微分方程概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22362/#review-101241>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2502
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22362/#review-88918>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2502
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E6%A6%82%E8%AE%BA%20USTC&type=repositories>
   - 查询：微分方程概论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -25487,6 +31608,36 @@
 
 ### MATH3001 近世代数
 
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/6520/#review-67558>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与同一点评内的首张图片同属一份材料，合并为同一条目。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/6520/#review-67558>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/17980/#review-26131>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 21 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；个人照片或无关图片，不是学习资料；试卷/笔记片段截图，未构成可独立使用的完整材料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6520/#review-83625>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；页面无可辨识正文（脚本渲染），匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6520/#review-67558>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开点评内嵌图片，匿名可取并核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/Resource-USTC-Course>
   - 查询：近世代数 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -25524,6 +31675,24 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：mp-gh-math3002-homework-d85aab。
   - 来源 ID：gh-weiyu-mathstat
+  - 课程代码：MATH3002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12373/#review-67036>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24273/#review-83659>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。；点评附图为课程进度/安排截图，非学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12373/#review-103016>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、cardigan0214-ra-2026
   - 课程代码：MATH3002
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2023%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf>
   - 查询：我的科大：/数学类/实分析/2023实分析期末考试.pdf
@@ -25636,6 +31805,12 @@
   - 说明：补已有资料的具体入口：mp-gh-math3003-homework-fb5d8e。
   - 来源 ID：gh-weiyu-mathstat
   - 课程代码：MATH3003
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Weiyu/USTC-USTCmath-stat>
   - 查询：拓扑学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -25669,6 +31844,18 @@
 
 ### MATH3004 泛函分析
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4006/#review-88678>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。；第三方专栏文章，非课程原始材料。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24812/#review-88389>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3004
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/2019%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf>
   - 查询：我的科大：/数学类/泛函分析/2019泛函分析期中考试.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -25750,6 +31937,18 @@
 
 ### MATH3005 数理统计
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12817/#review-87942>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3005
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12817/#review-88272>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。；书目/馆藏检索或商业图书页，未提供可公开获取的全文。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3005
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2021%E6%9C%9F%E4%B8%AD.pdf>
   - 查询：我的科大：/数学类/概率论与数理统计/数理统计（数学专业）/2021期中.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -25782,6 +31981,12 @@
 
 ### MATH3006 应用随机过程
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 6 条候选，覆盖 1 个课程页、4 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 6 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3006
 - 2026-11-18 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E6%96%B9%E5%85%86%E6%9C%AC%E3%80%81%E7%BC%AA%E6%9F%8F%E5%85%B6%E3%80%8A%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E3%80%8B%E7%AD%94%E6%A1%88.pdf>
   - 查询：我的科大：/数学类/随机过程/方兆本、缪柏其《随机过程》答案.pdf
   - 检查范围：公开列表及可取得的文件/关联证据；未作为正式课程资料入库。
@@ -25838,6 +32043,36 @@
 
 ### MATH3007 概率论
 
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/3839/#review-95955>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：概率/统计往年试卷页已在既有条目中作为入口收录，本条不重复计；该图即 2024 秋《概率论》期末试题（2024.12.25），与既有 2024Fprobfinal 原卷逐题一致，不重复计
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3839/#review-95955>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 31 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；公众号页面需验证，匿名无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/3839/#review-87982>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-87982>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开点评内嵌照片，匿名可取并已核对卷面；为 2025 秋《概率论》期末（数统班），既有条目为 2025 春卷，题面不同，计新增。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3839/#review-92588>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 34 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 34 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料；试卷/笔记片段截图，未构成可独立使用的完整材料；目标链接失效（404）
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2015%E6%98%A5%E6%9C%9F%E4%B8%AD.pdf>
   - 查询：我的科大：/数学类/概率论与数理统计/概率论（数学专业）/2015春期中.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -25936,6 +32171,12 @@
 
 ### MATH3008 复分析
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 12 条候选，覆盖 3 个课程页、7 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 8 条、登录占位/无法匿名核验受阻 4 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3008
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2016%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%951.pdf>
   - 查询：我的科大：/数学类/复分析/2016复分析期末考试1.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -26058,6 +32299,18 @@
 
 ### MATH3009 微分几何
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21912/#review-79725>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3009
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2348/#review-88620>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；unidentified_file_url_only；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3009
 - 2026-11-18 · GitHub · 已查看 · <https://ustcmathexam.github.io/GeoTopo/>
   - 查询：微分几何 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26084,6 +32337,18 @@
 
 ### MATH3010 组合学
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20622/#review-104285>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：该页面已是既有资料的出处页，无新增。；逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；校外奥数题目目录页，非本课程材料。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3010
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20622/#review-87889>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3010
 - 2026-11-18 · GitHub · 已查看 · <https://ustcmathexam.github.io/AMCM/>
   - 查询：组合学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26116,6 +32381,18 @@
   - 说明：补已有资料的具体入口：mp-gh-math3011-lectures-9ec5d2。
   - 来源 ID：gh-guidongnan
   - 课程代码：MATH3011
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23685/#review-99701>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3011
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23685/#review-90556>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3011
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/guidongnan/ustc_ds_undergraduate_course>
   - 查询：运筹学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26142,6 +32419,24 @@
 
 ### MATH3013 概率论进阶
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21353/#review-83899>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；匿名请求返回 404，链接已失效；主页/搜索/问答页，无具体学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21353/#review-93261>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为授课教师最后一节课的课程思维导图，匿名可见。；原点评公开列出该课程笔记 PDF，链接直接返回 PDF。
+  - 来源 ID：icourse-club、yixiao-wang-stats
+  - 课程代码：MATH3013
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3013
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%A6%82%E7%8E%87%E8%AE%BA%E8%BF%9B%E9%98%B6%20USTC&type=repositories>
   - 查询：概率论进阶 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26186,6 +32481,30 @@
 
 ### MATH3015 组合学进阶
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21915/#review-74834>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3015
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21915/#review-74834>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、iuuk-rakdver-notes、staff-ustc-jiema-extrgt
+  - 课程代码：MATH3015
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21915/#review-74834>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+  - 来源 ID：icourse-club、iuuk-rakdver-notes
+  - 课程代码：MATH3015
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21915/#review-74938>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3015
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%BB%84%E5%90%88%E5%AD%A6%E8%BF%9B%E9%98%B6%20USTC&type=repositories>
   - 查询：组合学进阶 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26205,6 +32524,18 @@
 
 ### MATH3016 数理统计进阶
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21913/#review-56332>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3016
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21913/#review-88815>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3016
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E8%BF%9B%E9%98%B6%20USTC&type=repositories>
   - 查询：数理统计进阶 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26230,6 +32561,12 @@
 
 ### MATH3701 华罗庚讨论班(H)
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24813/#review-94099>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3701
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8D%8E%E7%BD%97%E5%BA%9A%E8%AE%A8%E8%AE%BA%E7%8F%AD%28H%29%20USTC&type=repositories>
   - 查询：华罗庚讨论班(H) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26419,6 +32756,12 @@
 
 ### MATH4001 回归分析
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 10 条候选，覆盖 1 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 8 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH4001
 - 2026-11-18 · GitHub · 已查看 · <https://ustcmathexam.github.io/ProbStat/>
   - 查询：回归分析 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26439,6 +32782,18 @@
 
 ### MATH4002 算法基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12818/#review-84573>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：MATH4002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12818/#review-44513>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、walkccc-clrs
+  - 课程代码：MATH4002
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：算法基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26484,6 +32839,18 @@
 
 ### MATH4004 现代概率方法导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26410/#review-102127>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_admin_doc
+  - 来源 ID：icourse-club
+  - 课程代码：MATH4004
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26410/#review-102127>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH4004
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%8E%B0%E4%BB%A3%E6%A6%82%E7%8E%87%E6%96%B9%E6%B3%95%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：现代概率方法导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -26509,6 +32876,18 @@
 
 ### ME1501 机器人设计与制作
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12737/#review-54537>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 20 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 20 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；review_image_not_study_material；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：ME1501
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12737/#review-54537>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。
+  - 来源 ID：icourse-club、gh-michaelfw-robogame-epsilon、gh-deagle-blackstar-robogame
+  - 课程代码：ME1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME1501 机器人设计与制作
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26642,6 +33021,12 @@
 
 ### ME2005 机械设计基础I
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 15 条候选，覆盖 5 个课程页、8 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 12 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2005
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2005 机械设计基础I
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26661,6 +33046,12 @@
 
 ### ME2006 理论力学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23690/#review-97971>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：ME2006
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2006 理论力学B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26725,6 +33116,12 @@
 
 ### ME2009 实验力学基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25797/#review-101034>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ME2009
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2009 实验力学基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26744,6 +33141,18 @@
 
 ### ME2010 材料力学A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22075/#review-94793>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ME2010
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22075/#review-94777>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2010
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2010 材料力学A
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26763,6 +33172,18 @@
 
 ### ME2011 电工电子技术基础I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22084/#review-85303>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：ME2011
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25319/#review-95119>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：ME2011
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2011 电工电子技术基础I
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26782,6 +33203,12 @@
 
 ### ME2012 工程计算方法
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24302/#review-95165>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：ME2012
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2012 工程计算方法
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26801,6 +33228,12 @@
 
 ### ME2013 统计热力学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：ME2013
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2013 统计热力学
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26839,6 +33272,18 @@
 
 ### ME2015 工程材料及成型技术基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2206/#review-71938>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：unidentified_file_url_only；unidentified_generic_name
+  - 来源 ID：icourse-club
+  - 课程代码：ME2015
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25801/#review-101081>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：ME2015
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2015 工程材料及成型技术基础
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26896,6 +33341,12 @@
 
 ### ME2501 材料力学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21953/#review-100708>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2501 材料力学B
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -26915,6 +33366,12 @@
 
 ### ME2503 先进制造实践
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22387/#review-91719>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频、社交平台或工具站点，非稳定可检索的独立学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：ME2503
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME2503 先进制造实践
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -27048,6 +33505,12 @@
 
 ### ME3007 动力学与控制
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：ME3007
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME3007 动力学与控制
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -27067,6 +33530,12 @@
 
 ### ME3008 机械设计基础II
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23694/#review-85066>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：ME3008
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME3008 机械设计基础II
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -27333,6 +33802,12 @@
 
 ### ME4011 振动理论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2636/#review-41556>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：ME4011
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/USTC-Resource/USTC-Course>
   - 查询：ME4011 振动理论
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -27637,6 +34112,18 @@
 
 ### MED1501 生物微机电系统概论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20381/#review-58160>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：MED1501
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20381/#review-58160>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：MED1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6%20%E8%AF%BE%E7%A8%8B%20in%3Areadme&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 课程 in:readme + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -27656,6 +34143,12 @@
 
 ### MED1502 人体结构、功能与疾病
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21356/#review-45574>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MED1502
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -27675,6 +34168,12 @@
 
 ### MED1503G 源于动物的人类疫病
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25335/#review-96722>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MED1503G
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -27713,6 +34212,12 @@
 
 ### MED1505 生理与健康
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26040/#review-97062>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：MED1505
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -27795,6 +34300,12 @@
 
 ### MED2003 生理学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14252/#review-36643>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：MED2003
 - 2026-11-18 · GitHub · 无相关结果 · <https://github.com/search?q=USTC%20%E5%8C%BB%E5%AD%A6&type=repositories>
   - 查询：GitHub 仓库检索 USTC 医学 + 16 个 USTC 课程仓库完整文件树匹配
   - 检查范围：GitHub 仓库检索结果前 8–10 条 + 16 个 USTC 课程仓库完整文件树（dasWalpurgis/USTC、flimmernz/course-note、gold3fluoride/2025spr.ustc.019175.05.wxz、Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I、USTC-Resource/USTC-Course、TinyRubbish/Course-Materials、li-qi-lin/USTC-Course-Materials-Sharing、Melmaphother/ustc-course-resources、Wloner0809/ustc-course-resource、Kobe972/ustc_course_plus、guch8017/USTC_CS_EXAM、CuiLikun/My-University-Course-USTC、USTC-CS-Course-Resource/USTC-CS-Resources、Physics-Lee/RNA-seq、Physics-Lee/2023_Spring_System_Biology_USTC、ezhao-bio/ustc-bio；均 recursive 读取、truncated=false）
@@ -28381,6 +34892,12 @@
 
 ### MIL1001 军事理论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：MIL1001
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："军事理论" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -28401,6 +34918,18 @@
 
 ### MIL1002 军事技能
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21173/#review-91391>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：单页课件/板书截图，非独立学习材料；个人照片或无关图片，不是学习资料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：MIL1002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21173/#review-91391>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：MIL1002
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%86%9B%E4%BA%8B%E6%8A%80%E8%83%BD%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："军事技能" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -28573,6 +35102,12 @@
 
 ### MNSC2003 运筹学II：应用模型与方法
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21358/#review-68439>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：MNSC2003
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%BF%90%E7%AD%B9%E5%AD%A6II%EF%BC%9A%E5%BA%94%E7%94%A8%E6%A8%A1%E5%9E%8B%E4%B8%8E%E6%96%B9%E6%B3%95%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："运筹学II：应用模型与方法" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -28689,6 +35224,12 @@
 
 ### MNSC3007 商业实验与策略模拟
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22618/#review-103878>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：unidentified_archive
+  - 来源 ID：icourse-club
+  - 课程代码：MNSC3007
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%95%86%E4%B8%9A%E5%AE%9E%E9%AA%8C%E4%B8%8E%E7%AD%96%E7%95%A5%E6%A8%A1%E6%8B%9F%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："商业实验与策略模拟" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -28709,6 +35250,12 @@
 
 ### MNSC3008 数据分析编程基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21360/#review-71219>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：MNSC3008
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："数据分析编程基础" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -28976,6 +35523,18 @@
 
 ### NNM1501 VR/AR/MR技术创意设计与应用
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20982/#review-81931>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；泛视频链接，非课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：NNM1501
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：NNM1501
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22VR%2FAR%2FMR%E6%8A%80%E6%9C%AF%E5%88%9B%E6%84%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："VR/AR/MR技术创意设计与应用" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -29419,6 +35978,12 @@
 
 ### NSE2002 传热学B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22626/#review-96076>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：泛视频链接，非课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：NSE2002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E4%BC%A0%E7%83%AD%E5%AD%A6B%20USTC&type=repositories>
   - 查询：传热学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -29476,6 +36041,18 @@
 
 ### NSE3006 反应堆物理
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18700/#review-72649>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：NSE3006
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18700/#review-83993>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：NSE3006
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%20USTC&type=repositories>
   - 查询：反应堆物理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -29533,6 +36110,12 @@
 
 ### NSE3009 工程物理专业基础实验
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22629/#review-83601>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：NSE3009
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%B7%A5%E7%A8%8B%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：工程物理专业基础实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -29691,6 +36274,12 @@
 
 ### NSE4009 加速器理论基础
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：NSE4009
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8A%A0%E9%80%9F%E5%99%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：加速器理论基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -29862,6 +36451,12 @@
 
 ### PE00001 基础体育
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 17 条候选，覆盖 6 个课程页、6 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 17 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00001
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%9F%BA%E7%A1%80%E4%BD%93%E8%82%B2%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："基础体育" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -29881,6 +36476,12 @@
 
 ### PE00101 篮球I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18230/#review-87227>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：PE00101
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%AF%AE%E7%90%83I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："篮球I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -29900,6 +36501,12 @@
 
 ### PE00102 篮球II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12875/#review-102793>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00102
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%AF%AE%E7%90%83II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："篮球II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -29978,6 +36585,12 @@
 
 ### PE00106 足球II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25984/#review-104314>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00106
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%B6%B3%E7%90%83II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："足球II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30054,6 +36667,12 @@
 
 ### PE00110 羽毛球II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12888/#review-85239>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：成绩/分数/分布截图，不是学习资料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00110
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E7%BE%BD%E6%AF%9B%E7%90%83II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："羽毛球II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30132,6 +36751,12 @@
 
 ### PE00114 健美操II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24894/#review-103062>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：PE00114
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%81%A5%E7%BE%8E%E6%93%8DII%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："健美操II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30209,6 +36834,12 @@
 
 ### PE00118 养生(2)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00118
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%85%BB%E7%94%9F(2)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："养生(2)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30229,6 +36860,12 @@
 
 ### PE00119 体适能I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22635/#review-87878>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00119
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E4%BD%93%E9%80%82%E8%83%BDI%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："体适能I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30286,6 +36923,12 @@
 
 ### PE00124 野外生存II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12898/#review-94313>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：新闻报道或评论文章，非课程学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00124
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%87%8E%E5%A4%96%E7%94%9F%E5%AD%98II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："野外生存II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30344,6 +36987,12 @@
 
 ### PE00127 游泳
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 2 条候选，覆盖 2 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00127
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%B8%B8%E6%B3%B3%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："游泳" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30482,6 +37131,12 @@
 
 ### PE00139 拓展训练II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12904/#review-96688>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00139
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%8B%93%E5%B1%95%E8%AE%AD%E7%BB%83II%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："拓展训练II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30502,6 +37157,12 @@
 
 ### PE00140 武术I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13150/#review-32078>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：PE00140
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%AD%A6%E6%9C%AFI%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："武术I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30521,6 +37182,12 @@
 
 ### PE00141 武术II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23996/#review-98472>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 4 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；视频/频道页面，非独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00141
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%AD%A6%E6%9C%AFII%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："武术II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30561,6 +37228,12 @@
 
 ### PE00146 自卫防身术II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19565/#review-45713>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00146
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%87%AA%E5%8D%AB%E9%98%B2%E8%BA%AB%E6%9C%AFII%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："自卫防身术II" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30581,6 +37254,12 @@
 
 ### PE00148 龙狮运动I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24386/#review-94894>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：PE00148
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%BE%99%E7%8B%AE%E8%BF%90%E5%8A%A8I%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："龙狮运动I" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30658,6 +37337,12 @@
 
 ### PE00527 极限飞盘(专训)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21376/#review-98216>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00527
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%9E%81%E9%99%90%E9%A3%9E%E7%9B%98(%E4%B8%93%E8%AE%AD)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："极限飞盘(专训)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30678,6 +37363,12 @@
 
 ### PE00528 野战运动(专训)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21377/#review-94709>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：PE00528
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E9%87%8E%E6%88%98%E8%BF%90%E5%8A%A8(%E4%B8%93%E8%AE%AD)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："野战运动(专训)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30717,6 +37408,12 @@
 
 ### PE00531 台球(专训)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23134/#review-89534>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：dead_link_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：PE00531
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E5%8F%B0%E7%90%83(%E4%B8%93%E8%AE%AD)%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："台球(专训)" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30736,6 +37433,12 @@
 
 ### PE00532 越野滑雪（专训）
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25975/#review-102986>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：PE00532
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E8%B6%8A%E9%87%8E%E6%BB%91%E9%9B%AA%EF%BC%88%E4%B8%93%E8%AE%AD%EF%BC%89%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："越野滑雪（专训）" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30776,6 +37479,18 @@
 
 ### PE1502 桥牌基础讲座与技巧
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3824/#review-56663>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：PE1502
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25756/#review-99487>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PE1502
 - 2026-11-18 · GitHub · 无相关结果 · <https://api.github.com/search/repositories?q=%22%E6%A1%A5%E7%89%8C%E5%9F%BA%E7%A1%80%E8%AE%B2%E5%BA%A7%E4%B8%8E%E6%8A%80%E5%B7%A7%22%20USTC%20in%3Areadme&per_page=5>
   - 查询："桥牌基础讲座与技巧" USTC in:readme
   - 检查范围：GitHub 仓库搜索（前5条）+ 19个公开课程仓库递归文件树按代码/精确课名核对
@@ -30815,6 +37530,18 @@
 
 ### PHYS1001A 力学A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19967/#review-27995>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 25 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 25 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19967/#review-53293>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page；unidentified_generic_name
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/CS-Course-Resource-USTC-CS-Resources>
   - 查询：力学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30835,6 +37562,12 @@
 
 ### PHYS1001AL 力学A(L)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23208/#review-91893>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001AL
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/CS-Course-Resource-USTC-CS-Resources>
   - 查询：力学A(L) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30855,6 +37588,18 @@
 
 ### PHYS1001B 力学B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20177/#review-45838>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 21 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。；视频/音频或录播页面，非独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20177/#review-93419>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 23 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 23 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6>
   - 查询：力学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30881,6 +37626,18 @@
 
 ### PHYS1001H 力学(H)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23763/#review-97527>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：书目/馆藏检索或商业图书页，未提供可公开获取的全文。；点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001H
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23763/#review-78489>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001H
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/li/qi-lin-USTC-Course-Materials-Sharing>
   - 查询：力学(H) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30907,6 +37664,18 @@
 
 ### PHYS1002A 热学A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24407/#review-104356>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容；视频、社交平台或工具站点，非稳定可检索的独立学习材料；图片为成绩、截图或板书照片，未证明是独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20189/#review-69168>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位；按门槛判 blocked
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/CS-Course-Resource-USTC-CS-Resources>
   - 查询：热学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30933,6 +37702,18 @@
 
 ### PHYS1002B 热学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19599/#review-50763>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002B
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19599/#review-49408>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 22 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 22 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：unidentified_archive；review_image_not_study_material；not_course_material_or_generic_page
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002B
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/JuniorPhy/>
   - 查询：热学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30953,6 +37734,24 @@
 
 ### PHYS1003A 光学A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21005/#review-58165>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 15 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；review_image_fragment_not_standalone_material；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24002/#review-81154>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。
+  - 来源 ID：icourse-club、home-ustc-shiyaowei-optics
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21005/#review-81177>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6>
   - 查询：光学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30973,6 +37772,24 @@
 
 ### PHYS1003B 光学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22022/#review-77240>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评公开列出该习题课录像，视频页标题与课程一致，公开可访问。
+  - 来源 ID：icourse-club、bilibili-course-recordings
+  - 课程代码：PHYS1003B
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21393/#review-93719>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%89%E5%AD%A6B%20USTC&type=repositories>
   - 查询：光学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -30992,6 +37809,36 @@
 
 ### PHYS1004A 电磁学A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4937/#review-69650>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 32 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 32 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；匿名访问失败（超时/连接错误/验证页），无法核对内容
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/22651/#review-102520>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/22651/#review-103683>
+  - 查询：评课包历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：点评称「附一下期中的原卷（虽然已经有回忆版了）」，与既有 2026 期中卷同场，不重复计；为 2026 春卢三电磁学A期中卷面的排版整理版，与既有原卷同场，不重复计；该页题面（电介质球极化电荷、导体球漏电介质）与既有 2026 春电磁学A期末原卷同页内容一致，不重复计
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21400/#review-49691>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 45 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 45 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：个人照片或无关图片，不是学习资料；成绩/分数/分布截图，不是学习资料；网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22651/#review-102520>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：公开点评内嵌图片，匿名可取；卷面为 2026 春《电磁学A》期末考试（卢三班），既有 2026 期末条目为陶小平班回忆版与 PHJ 卷，题面不同，故计新增。；公开点评内嵌图片，匿名可取并核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6>
   - 查询：电磁学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31012,6 +37859,30 @@
 
 ### PHYS1004B 电磁学B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4969/#review-59283>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；网盘分享，匿名无法核对内容与提取条件；附件在原页可见但现返回 404，无法核对
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21018/#review-41602>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开点评内嵌图片，匿名可取并核对内容。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4969/#review-43678>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：页面为 VASP 输出文件列表，非本课程材料；网页/聊天/软件界面截图，不是学习资料；个人照片或无关图片，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21018/#review-41602>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/li/qi-lin-USTC-Course-Materials-Sharing>
   - 查询：电磁学B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31031,6 +37902,18 @@
 
 ### PHYS1004C 电磁学C
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4977/#review-60784>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4975/#review-77647>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 7 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus>
   - 查询：电磁学C USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31052,6 +37935,18 @@
 
 ### PHYS1004H 电磁学(H)
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24422/#review-86019>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004H
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004H
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus>
   - 查询：电磁学(H) USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31072,6 +37967,18 @@
 
 ### PHYS1005A 原子物理A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21702/#review-103175>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21702/#review-103175>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：视频或录播页面，不构成可独立检索的学习资料。；点评正文内嵌图片，内容为聊天记录、成绩分布、梗图或课堂照片等，非独立学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
 - 2026-11-18 · GitHub · 已查看 · <https://ustcphyexam.github.io/JuniorPhy/>
   - 查询：原子物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31092,6 +37999,18 @@
 
 ### PHYS1005B 原子物理B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21021/#review-37410>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page；review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21021/#review-100861>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 26 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 26 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86B%20USTC&type=repositories>
   - 查询：原子物理B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31111,6 +38030,18 @@
 
 ### PHYS1006 大学物理I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21023/#review-90995>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_admin_doc；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1006
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21023/#review-90995>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1006
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I%20USTC&type=repositories>
   - 查询：大学物理I USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31136,6 +38067,18 @@
 
 ### PHYS1007 大学物理II
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20202/#review-35480>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页、个人主页或院系介绍等通用页面，未提供该课具体学习内容。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1007
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21417/#review-105265>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1007
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II%20USTC&type=repositories>
   - 查询：大学物理II USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31161,6 +38104,18 @@
 
 ### PHYS1008A 大学物理-基础实验A
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20440/#review-35729>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008A
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20440/#review-36847>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 17 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：图片为成绩、截图或板书照片，未证明是独立学习材料；附件仅有哈希文件名，公开上下文不足以确认具体内容；外链非具体公开学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008A
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CA%20USTC&type=repositories>
   - 查询：大学物理-基础实验A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31180,6 +38135,24 @@
 
 ### PHYS1008B 大学物理-基础实验B
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22952/#review-70619>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为课程入门/出门测题目，匿名可见。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22952/#review-62987>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 22 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 22 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料；评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；主页/搜索/问答页，无具体学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CB%20USTC&type=repositories>
   - 查询：大学物理-基础实验B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31229,6 +38202,12 @@
 
 ### PHYS1009A 大学物理-综合实验A
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24912/#review-88481>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1009A
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8CA%20USTC&type=repositories>
   - 查询：大学物理-综合实验A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31248,6 +38227,18 @@
 
 ### PHYS1009B 大学物理-综合实验B
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25734/#review-101551>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 10 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料；站点首页/外部课程/工具/数据库/竞赛/论坛等，非本课程独立学习材料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1009B
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1009B
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8CB%20USTC&type=repositories>
   - 查询：大学物理-综合实验B USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31273,6 +38264,30 @@
 
 ### PHYS1010 量子物理
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22658/#review-66056>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 55 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 55 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21420/#review-47187>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 120 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 120 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；shadow_library_paid_copy；copyright_textbook_or_book
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21420/#review-85044>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 18 条；结果 reviewed。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21420/#review-85044>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 18 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/Kobe972/ustc_course_plus>
   - 查询：量子物理 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31319,6 +38334,12 @@
 
 ### PHYS2701 物理创新能力提升实验I
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24914/#review-97681>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 13 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：附件仅有哈希文件名，公开上下文不足以确认具体内容
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS2701
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%89%A9%E7%90%86%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E5%AE%9E%E9%AA%8CI%20USTC&type=repositories>
   - 查询：物理创新能力提升实验I USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31357,6 +38378,12 @@
 
 ### PHYS3001 激光原理与技术
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 5 条候选，覆盖 2 个课程页、4 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 4 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%BF%80%E5%85%89%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8A%80%E6%9C%AF%20USTC&type=repositories>
   - 查询：激光原理与技术 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31376,6 +38403,12 @@
 
 ### PHYS3002 量子信息科学专业基础实验
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23142/#review-102177>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料；试卷/笔记片段截图，未构成可独立使用的完整材料；成绩/分数/分布截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>
   - 查询：量子信息科学专业基础实验 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31395,6 +38428,18 @@
 
 ### PHYS3003 量子精密测量
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24007/#review-101201>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：原点评在公开正文中说明配图为考试三道大题，匿名可见；卷别未在正文明确。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3003
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24007/#review-101201>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3003
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E7%B2%BE%E5%AF%86%E6%B5%8B%E9%87%8F%20USTC&type=repositories>
   - 查询：量子精密测量 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31414,6 +38459,18 @@
 
 ### PHYS3005 受控热核聚变导论
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22661/#review-85043>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3005
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22661/#review-94525>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3005
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%8F%97%E6%8E%A7%E7%83%AD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>
   - 查询：受控热核聚变导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31439,6 +38496,12 @@
 
 ### PHYS4001 理论物理前沿
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21428/#review-46043>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：论坛讨论帖，非课程学习资料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS4001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%89%8D%E6%B2%BF%20USTC&type=repositories>
   - 查询：理论物理前沿 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31458,6 +38521,12 @@
 
 ### PHYS4002 核与粒子物理导论
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/>
+  - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
+  - 检查范围：分片 01 中本课 1 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
+  - 说明：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 0 条；未使用包内直链反查。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS4002
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA>
   - 查询：核与粒子物理导论 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31655,6 +38724,12 @@
 
 ### PHYS4501 理论力学C
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21881/#review-54422>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：逐张查看为点评随文插图（聊天记录、成绩截图、课件片段、梗图或照片），非卷面/图版笔记等独立学习材料。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS4501
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6C%20USTC&type=repositories>
   - 查询：理论力学C USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31712,6 +38787,12 @@
 
 ### PHYS4702 物理创新能力导引
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24022/#review-96495>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS4702
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%89%A9%E7%90%86%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E5%AF%BC%E5%BC%95%20USTC&type=repositories>
   - 查询：物理创新能力导引 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31731,6 +38812,12 @@
 
 ### PHYS4703 百年诺奖技术重现及超越
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25976/#review-105177>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 8 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：评课正文未把配图明确为独立学习材料，或仅为单题/成绩/安排截图，内容无法匿名确证为可复用资料
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS4703
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%99%BE%E5%B9%B4%E8%AF%BA%E5%A5%96%E6%8A%80%E6%9C%AF%E9%87%8D%E7%8E%B0%E5%8F%8A%E8%B6%85%E8%B6%8A%20USTC&type=repositories>
   - 查询：百年诺奖技术重现及超越 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31845,6 +38932,12 @@
 
 ### PLNT3006 天体生物学
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23638/#review-84565>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+  - 来源 ID：icourse-club
+  - 课程代码：PLNT3006
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E4%BD%93%E7%94%9F%E7%89%A9%E5%AD%A6%20USTC&type=repositories>
   - 查询：天体生物学 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31945,6 +39038,12 @@
 
 ### STAT2001 数据思维
 
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E6%80%9D%E7%BB%B4%20USTC&type=repositories>
   - 查询：数据思维 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -31975,6 +39074,36 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：mp-gh-stat2002-lectures-c920cd。
   - 来源 ID：gh-wloner0809
+  - 课程代码：STAT2002
+- 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/notes>
+  - 查询：旧库历史资料逐条复核（duplicate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 STAT2002 study 条目指向课程目录；补 P&MS 复习提纲 PDF 文件级入口（README 为说明页不单列）。
+  - 来源 ID：gh-ustc-resource
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21046/#review-39993>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 36 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 36 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：not_course_material_or_generic_page；copyright_textbook_or_book；review_image_not_study_material
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21829/#review-79461>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 3 条候选；有效或补入口 3 条；结果 reviewed。
+  - 来源 ID：icourse-club、staff-ustc-zwp-probstat、gh-stardust-math-refans、gh-wloner0809
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21050/#review-40007>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：匿名页附件名为登录提示，文件无可抽取文本，无法确认卷别/年份
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21048/#review-79734>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 63 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 63 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
   - 课程代码：STAT2002
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/概率论与数理统计/概率论与数理统计历年真题.pdf
@@ -32062,6 +39191,30 @@
 
 ### STAT3001 机器学习方法
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22067/#review-75674>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：教材中文翻译站点，非权利方公开教材
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3001
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22067/#review-99219>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3001
+- 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/22067/#review-75674>
+  - 查询：评课包历史资料逐条复核（candidate）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+  - 来源 ID：icourse-club、esl-solution-yuhangzhou
+  - 课程代码：STAT3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22067/#review-75674>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：公开页面匿名可访问并已核对内容。
+  - 来源 ID：icourse-club、esl-solution-yuhangzhou
+  - 课程代码：STAT3001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%20USTC&type=repositories>
   - 查询：机器学习方法 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -32087,6 +39240,24 @@
 
 ### STAT3002 实用统计软件
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26508/#review-102652>
+  - 查询：评课包历史资料逐条复核（reviewed）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 1 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
+  - 来源 ID：icourse-club、gh-lunarkn1ght-lol-esports
+  - 课程代码：STAT3002
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18336/#review-25685>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3002
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18336/#review-25685>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 5 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：校外教师教学页，非本课程材料。；校外课程页面，非本课程材料。；匿名访问返回 404，或为重复的项目演示页，无法作为材料入口。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3002
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%AE%9E%E7%94%A8%E7%BB%9F%E8%AE%A1%E8%BD%AF%E4%BB%B6%20USTC&type=repositories>
   - 查询：实用统计软件 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -32106,6 +39277,18 @@
 
 ### STAT3003 统计算法基础
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22668/#review-97149>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_fragment_not_standalone_material
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3003
+- 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22668/#review-96344>
+  - 查询：评课包历史资料逐条复核（blocked）
+  - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3003
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E7%BB%9F%E8%AE%A1%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%20USTC&type=repositories>
   - 查询：统计算法基础 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -32131,6 +39314,12 @@
 
 ### STAT4001 属性数据分析
 
+- 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20464/#review-64858>
+  - 查询：评课包历史资料逐条复核（no_relevant_result）
+  - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
+  - 说明：评课包复核 1 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：网页/聊天/软件界面截图，不是学习资料
+  - 来源 ID：icourse-club
+  - 课程代码：STAT4001
 - 2026-11-18 · GitHub · 受阻 · <https://github.com/search?q=%E5%B1%9E%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：属性数据分析 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -32419,17 +39608,31 @@
 - 通用来源 · GitHub · 工具 · <https://github.com/Kobe972/ustc-course-spider>：提供GitHub课程资料检索爬虫代码及操作截图，不作为学习资料资源。
 - 通用来源 · GitHub · 工具 · <https://github.com/Enthusjast/USTC-catalog-CLI>：官方课程查询CLI工具，不是具体课件试卷资料；不作为有资料课程计数。
 - 通用来源 · GitHub · 工具 · <https://github.com/USTC-iCourse/ustc-course>：该仓库为Python/Flask评课网站源代码，不当作试卷讲义；真实资料在icourse.club课程点评附件/外链另行核验。AGPL仅对应程序，不继承到用户上传资料。
+- 课程 001046 · 评课社区 · 受阻 · <https://icourse.club/course/2710/#review-64183>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 001046 · 评课社区 · 候选未确认 · <https://icourse.club/course/2710/>：附件需登录，未核验卷面/年份/解答：数值分析期末考.pdf；数值分析PPT 2026（徐岩、夏银华）.pdf
+- 课程 001065 · 评课社区 · 候选未确认 · <https://icourse.club/course/6120/#review-96705>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+- 课程 001065 · 评课社区 · 受阻 · <https://icourse.club/course/6120/#review-102909>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 001065 · 评课社区 · 重复或镜像 · <https://icourse.club/course/6120/#review-96705>：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一仓库已由既有条目收录，重复
+- 课程 001108 · 评课社区 · 受阻 · <https://icourse.club/course/23417/#review-73147>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：目标返回 403 或人机验证，匿名无法核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 001125 · 评课社区 · 候选未确认 · <https://icourse.club/course/13476/#review-15914>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 001125 · 评课社区 · 受阻 · <https://icourse.club/course/25956/#review-98092>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：目标返回 403 或人机验证，匿名无法核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 001125 · 评课社区 · 重复或镜像 · <https://icourse.club/course/13476/#review-15914>：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与同一点评内的首张图片同属一份材料，合并为同一条目。
 - 课程 001125 · 评课社区 · 候选未确认 · <https://icourse.club/course/13476/>：附件需登录，未核验卷面/年份/解答：数值代数2022fall.pdf；数值代数2023期末考试.pdf
+- 课程 001362 · 评课社区 · 受阻 · <https://icourse.club/course/2131/#review-105866>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 001362 · 评课社区 · 候选未确认 · <https://icourse.club/course/2131/>：附件需登录，未核验卷面/年份/解答：26春小波分析.pdf
 - 课程 001362 · 公开网页 · 候选未确认 · <https://github.com/idootop/mi-gpt>：疑似相关 1 条，例：GitHub - idootop/mi-gpt: 将小爱音箱接入 ChatGPT 和豆包 ...；未打开核验
+- 课程 001505 · 评课社区 · 受阻 · <https://icourse.club/course/1651/#review-16776>：评课包复核 32 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；网盘分享，匿名无法核对内容与提取条件；共享文档无访问权限，匿名无法核对
+- 课程 001506 · 评课社区 · 受阻 · <https://icourse.club/course/2980/#review-34121>：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位；按门槛判 blocked
 - 课程 001506、001549 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%A4%8D%E4%B9%A0%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C.pdf>：目录只到“数学类/数理方程”，官方有 001506《数理方程A》、001549《数理方程B》；文件封面只写“数理方程/数理方程08班/数学物理方法”，无课程代码，不能确认 A 或 B。
 - 课程 001506、001549 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%A4%8D%E4%B9%A0%E6%8C%87%E5%AF%BC.pdf>：目录只到“数学类/数理方程”，官方有 001506《数理方程A》、001549《数理方程B》；文件封面只写“数理方程/数理方程08班/数学物理方法”，无课程代码，不能确认 A 或 B。
 - 课程 001506、001549 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95%E7%AC%94%E8%AE%B0%EF%BC%88%E9%A1%BE%E6%A8%B5%E8%AF%BE%E6%9C%AC%EF%BC%89.pdf>：目录只到“数学类/数理方程”，官方有 001506《数理方程A》、001549《数理方程B》；文件封面只写“数理方程/数理方程08班/数学物理方法”，无课程代码，不能确认 A 或 B。
 - 课程 001506、001549 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E4%BA%94%E5%A4%A9%E9%80%9F%E6%88%90%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B.pdf>：目录只到“数学类/数理方程”，官方有 001506《数理方程A》、001549《数理方程B》；文件封面只写“数理方程/数理方程08班/数学物理方法”，无课程代码，不能确认 A 或 B。
 - 课程 001506 · 评课社区 · 候选未确认 · <https://icourse.club/course/19975/>：附件需登录，未核验卷面/年份/解答：数理方程(A)2025春真题.pdf；数理方程(A)2025春真题参考答案.pdf
+- 课程 001548 · 评课社区 · 受阻 · <https://icourse.club/course/20626/#review-97761>：评课包复核 39 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；该附件直链已作为既有资料 mp-icourse-001548-exams-87cd 登记；匿名原点评仍只显示登录入口，本轮不重复收录、不新增公开链接。
 - 课程 001549 · GitHub · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf>：原文明示未经同意不得上传校外
 - 课程 001549 · GitHub · 候选未确认 · <https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB>：重复且原文明示不得上传校外
+- 课程 001549 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017.pdf>：旧库复核 4 条候选；有效或补入口 3 条；结果 duplicate。 主要理由：既有 2017 条目此前登记的是配套答案文件；本轮改挂题面并补答案为 solution 入口，题面与答案逐题对应；配套答案文件，不另计一条资料，作为 solution 入口挂回既有 2017 题面条目，答案与题面五题逐题对应；既有 001549 study 条目指向课程目录；补 notes 下 6 份复习/总结 PDF 文件级入口。
+- 课程 001549 · 评课社区 · 受阻 · <https://icourse.club/course/21190/#review-64490>：评课包复核 51 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 001549 · 评课社区 · 候选未确认 · <https://icourse.club/course/24052/>：附件需登录，未核验卷面/年份/解答：课后习题解析.pdf；数理方程指导.pdf
 - 课程 001661 · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0I%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001661EX · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%A3%E6%95%B0I%28%E4%B9%A0%E9%A2%98%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -32477,44 +39680,65 @@
 - 课程 001697 · GitHub · 受阻 · <https://github.com/search?q=%E6%B3%95%E8%AF%AD%E2%80%8CVII%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001698f · GitHub · 受阻 · <https://github.com/search?q=%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%28%E6%B3%95%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001699f · GitHub · 受阻 · <https://github.com/search?q=%E5%BA%94%E7%94%A8%E6%95%B0%E5%AD%A6II%28%E6%B3%95%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 001702 · 评课社区 · 受阻 · <https://icourse.club/course/2061/#review-45093>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 001702 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2021%E5%AE%9E%E5%88%86%E6%9E%90H%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf>：经 AList /api/fs/get 取 raw_url 与直链下载复核，HTTP 200 但内容为 0 字节；无正文/卷面可读，不能发布为正式资源。
 - 课程 001702 · 公开网页 · 受阻 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90>：文件为空（0 字节），无可学习内容，未发布为正式资源
+- 课程 001704 · 评课社区 · 受阻 · <https://icourse.club/course/6524/#review-22852>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
 - 课程 001704 · 公开网页 · 候选未确认 · <https://github.com/huggingface>：疑似相关 1 条，例：Hugging Face - GitHub；未打开核验
+- 课程 001705 · 评课社区 · 受阻 · <https://icourse.club/course/21906/#review-98492>：评课包复核 25 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 001705 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E5%88%86%E5%87%A0%E4%BD%95%28H%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 001705 · 评课社区 · 候选未确认 · <https://icourse.club/course/21912/>：附件需登录，未核验卷面/年份/解答：微分几何习题课讲义.pdf；第一次习题课by黄天一.pdf；第三次习题课by黄天一.pdf；第五次习题课by黄天一.pdf；第七次习题课by黄天一.pdf
 - 课程 001705 · 公开网页 · 候选未确认 · <https://github.com/fendouww/jietu>：疑似相关 1 条，例：GitHub - fendouww/jietu: 极简截图工具：钉住桌面、标注 ...；未打开核验
+- 课程 001706 · 评课社区 · 受阻 · <https://icourse.club/course/4008/#review-99576>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 001M06 · 评课社区 · 受阻 · <https://icourse.club/course/6125/#review-71808>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 001M06 · 评课社区 · 候选未确认 · <https://icourse.club/course/6125/>：附件需登录，未核验卷面/年份/解答：main.pdf；FinalTest2023.docx；document.pdf；结构拓扑优化综述.pdf
+- 课程 002001 · 评课社区 · 受阻 · <https://icourse.club/course/13854/#review-52114>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 002047 · GitHub · 受阻 · <https://github.com/search?q=%E5%87%9D%E8%81%9A%E6%80%81%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 002075 · GitHub · 受阻 · <https://github.com/search?q=%E5%87%9D%E8%81%9A%E6%80%81%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 002078 · GitHub · 受阻 · <https://github.com/search?q=%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 002079 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E7%94%B5%E5%AD%90%E7%B3%BB%E5%88%97%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 002122 · 评课社区 · 受阻 · <https://icourse.club/course/1168/#review-103157>：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 002122 · GitHub · 受阻 · <https://github.com/search?q=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%99%A8%E4%BB%B6%E5%8E%9F%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 002122 · 公开网页 · 候选未确认 · <https://github.com/Hello-SimpleAI/chatgpt-comparison-detection>：疑似相关 2 条，例：GitHub - Hello-SimpleAI/chatgpt-comparison-detecti；未打开核验
+- 课程 003044 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 003056 · 评课社区 · 受阻 · <https://icourse.club/course/4255/#review-51137>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 003056、003154、019161、019060、CHEM4004、BIO3701 · 评课社区 · 候选未确认 · <https://icourse.club/course/4255/>：附件需登录评课社区才能下载，本次未取得卷面正文，无法按方案核验年份/卷型；仅页面列出文件名，故不正式收录，待登录或原站访问后逐卷确认。
+- 课程 003142 · 评课社区 · 受阻 · <https://icourse.club/course/20635/#review-40927>：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 003143e · 评课社区 · 候选未确认 · <https://icourse.club/course/26252/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 003143e · 公开网页 · 候选未确认 · <https://icourse.club/course/14352/>：结果仅出现非英语版物理化学基础实验(下)页面，打开后课程号为00314303，未见带(英)的英语班课程页
+- 课程 003145 · 评课社区 · 受阻 · <https://icourse.club/course/21725/#review-52815>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+- 课程 003151 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 7 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
 - 课程 003154 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86>：合集已收，正文含不必要个人标识
 - 课程 003154 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/2024%E7%A7%8B%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E8%AF%95%E9%A2%98%E8%A7%A3%E6%9E%90.pdf>：仅凭文件名和扫描形态，正文未核
+- 课程 003154 · 评课社区 · 受阻 · <https://icourse.club/course/4267/#review-92410>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 003154 · 公开网页 · 候选未确认 · <http://staff.ustc.edu.cn/~junling/teaching/Introduction.pdf>：打开本校教师教学页课程介绍PDF，含授课时间、考核方式与《物理化学》教材，但未标课程号，且该教师主讲物理化学I(英)
 - 课程 003154e · 评课社区 · 候选未确认 · <https://icourse.club/course/23171/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 003155e · 评课社区 · 候选未确认 · <https://icourse.club/course/23034/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 003156 · 评课社区 · 候选未确认 · <https://icourse.club/course/20601/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 003158 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 003158 · GitHub · 候选未确认 · <https://github.com/Kobe972/ustc_course_plus/tree/main/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86>：作者为计算机专业本科生，目录未标课程号/教师；量子物理同时有 003158 与 PHYS1010 两个官方代码，无法归属，不收录。
 - 课程 003158 · GitHub · 候选未确认 · <https://github.com/Kobe972/ustc_course_plus>：Kobe972/ustc_course_plus 有“量子物理/习题共享”目录，但作者为 20 级计算机本科生、目录未标课程号/教师，无法确定是 003158（化学物理系）还是 PHYS1010，故记 candidate 不收录。
 - 课程 003158 · 评课社区 · 候选未确认 · <https://icourse.club/course/21420/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 004018e · GitHub · 受阻 · <https://github.com/search?q=%E5%8E%9F%E5%AD%90%E6%A0%B8%E7%89%A9%E7%90%86%28%E8%8B%B1%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 004018e · 公开网页 · 候选未确认 · <https://github.com/deepseek-ai>：疑似相关 1 条，例：DeepSeek · GitHub；未打开核验
+- 课程 004031 · 评课社区 · 受阻 · <https://icourse.club/course/3798/#review-56236>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 004031 · GitHub · 受阻 · <https://github.com/search?q=%E6%A0%B8%E7%94%B5%E5%AD%90%E5%AD%A6%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 004031 · 评课社区 · 候选未确认 · <https://icourse.club/course/3798/>：附件需登录，未核验卷面/年份/解答：ep5.pdf；ep4(2).pdf；ep1.pdf；ep3(1).pdf
 - 课程 004033 · GitHub · 受阻 · <https://github.com/search?q=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 004040 · 评课社区 · 受阻 · <https://icourse.club/course/18285/#review-38282>：评课包复核 27 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位；按门槛判 blocked
 - 课程 004040 · 评课社区 · 候选未确认 · <https://icourse.club/course/24593/>：附件需登录，未核验卷面/年份/解答：计算物理cheating list.docx；260115_comphy_note.rar
 - 课程 004072 · GitHub · 受阻 · <https://github.com/search?q=%E5%AE%9E%E9%AA%8C%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E4%BF%A1%E5%8F%B7%E9%87%87%E9%9B%86%E5%A4%84%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 004074 · 评课社区 · 受阻 · <https://icourse.club/course/21210/#review-45272>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
 - 课程 004074 · GitHub · 受阻 · <https://github.com/search?q=%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 004120 · 评课社区 · 受阻 · <https://icourse.club/course/3959/#review-102964>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 004120 · GitHub · 受阻 · <https://github.com/search?q=%E6%B0%94%E4%BD%93%E6%94%BE%E7%94%B5%E5%8E%9F%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 004120 · 公开网页 · 候选未确认 · <https://github.com/AntonOsika/gpt-engineer>：疑似相关 3 条，例：GitHub - AntonOsika/gpt-engineer: CLI platform to ；未打开核验
+- 课程 004122 · 评课社区 · 受阻 · <https://icourse.club/course/12845/#review-87149>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 004122 · GitHub · 受阻 · <https://github.com/search?q=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93%E8%AF%8A%E6%96%AD%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 004122 · 评课社区 · 候选未确认 · <https://icourse.club/course/12845/>：附件需登录，未核验卷面/年份/解答：高温等离子体诊断技术 上册 (项志遴，俞昌旋) .pdf；高温等离子体诊断技术 下册 (项志遴，俞昌旋) .pdf
+- 课程 004137 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 004137 · GitHub · 受阻 · <https://github.com/search?q=%E8%BF%91%E4%BB%A3%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 004139 · 评课社区 · 受阻 · <https://icourse.club/course/5245/#review-98874>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 005006 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005008e · 评课社区 · 候选未确认 · <https://icourse.club/search/?q=005008e>：候选2，无课程号与005008e匹配；不猜映射。
@@ -32522,23 +39746,32 @@
 - 课程 005018 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005036 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005051 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 005101 · 评课社区 · 受阻 · <https://icourse.club/course/6070/#review-103054>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：网盘分享需提取码，匿名无法核对内容
+- 课程 005101 · 评课社区 · 候选未确认 · <https://icourse.club/course/6070/#review-103054>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
 - 课程 005101 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005111e · 评课社区 · 候选未确认 · <https://icourse.club/course/26083/>：候选1；页面课程号005111E01；点评数0；课程主页暂无；附件未发现。
 - 课程 005111e · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005124 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 005146 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 005151 · 评课社区 · 受阻 · <https://icourse.club/course/26254/#review-104071>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 005151 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 006125 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 006125 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 006174 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
 - 课程 006174 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 006196 · 评课社区 · 候选未确认 · <https://icourse.club/course/1750/#review-97789>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
 - 课程 006196 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006197 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006198 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006200 · 评课社区 · 候选未确认 · <https://icourse.club/course/22457/>：评课页仅作为课程归属证据，不是新资料
+- 课程 006200 · 评课社区 · 受阻 · <https://icourse.club/course/26601/#review-102740>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 006200 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006203 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006204 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 006205 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 006502 · 评课社区 · 受阻 · <https://icourse.club/course/21212/#review-105239>：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 006502 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 007001 · 评课社区 · 受阻 · <https://icourse.club/course/21997/#review-79594>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 007001 · GitHub · 受阻 · <https://github.com/search?q=%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007001 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7%20%E8%AF%BE%E7%A8%8B&mkt=zh-CN&setlang=zh-CN>：HTTP 200；验证码/限流=True；Baidu/Sogou/DDG 与内置搜索均返回验证码或429
 - 课程 007016 · GitHub · 受阻 · <https://github.com/search?q=%E5%8A%A8%E5%8A%9B%E6%B0%94%E8%B1%A1%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -32546,49 +39779,84 @@
 - 课程 007108 · GitHub · 受阻 · <https://github.com/search?q=%E6%9E%84%E9%80%A0%E5%9C%B0%E8%B4%A8%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007115 · GitHub · 受阻 · <https://github.com/search?q=%E5%90%8C%E4%BD%8D%E7%B4%A0%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007165 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E4%B8%8E%E6%B5%B7%E6%B4%8B%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007167 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 007167 · GitHub · 受阻 · <https://github.com/search?q=%E6%99%AE%E9%80%9A%E5%A4%A9%E6%96%87%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007167 · 评课社区 · 候选未确认 · <https://icourse.club/course/3321/>：附件需登录，未核验卷面/年份/解答：普通天文学复习提纲.pdf
 - 课程 007168 · GitHub · 受阻 · <https://github.com/search?q=%E7%9F%BF%E7%89%A9%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007185 · 评课社区 · 受阻 · <https://icourse.club/course/5229/#review-59492>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 007225 · GitHub · 受阻 · <https://github.com/search?q=%E6%99%AE%E9%80%9A%E5%9C%B0%E8%B4%A8%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007231 · GitHub · 受阻 · <https://github.com/search?q=%E6%B0%94%E8%B1%A1%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007242 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E9%9C%87%E5%AD%A6%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007242 · 评课社区 · 候选未确认 · <https://icourse.club/course/1529/>：附件需登录，未核验卷面/年份/解答：Deep Mantle Seismic Modeling.pdf；Seismic Phase List.pdf
+- 课程 007249 · 评课社区 · 受阻 · <https://icourse.club/course/13571/#review-56951>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 007249 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007256 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E4%B8%93%E9%A2%98%E8%AE%B2%E5%BA%A7%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007271 · GitHub · 受阻 · <https://github.com/search?q=%E7%BB%93%E6%99%B6%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007271 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%BB%93%E6%99%B6%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7%20%E8%AF%BE%E7%A8%8B&mkt=zh-CN&setlang=zh-CN>：HTTP 200；验证码/限流=True；Baidu/Sogou/DDG 与内置搜索均返回验证码或429
+- 课程 007277 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 007277 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E6%8E%A2%E6%B5%8B%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007278 · GitHub · 受阻 · <https://github.com/search?q=%E4%BF%A1%E5%8F%B7%E5%88%86%E6%9E%90%E4%B8%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007279 · GitHub · 受阻 · <https://github.com/search?q=%E6%B2%89%E7%A7%AF%E5%B2%A9%E7%9F%B3%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007281 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 007281 · GitHub · 受阻 · <https://github.com/search?q=%E9%81%A5%E6%84%9F%E6%B0%94%E8%B1%A1%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007282 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 17 条、登录占位/无法匿名核验受阻 4 条；未使用包内直链反查。
 - 课程 007282 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E4%BB%AA%E5%99%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007286 · 评课社区 · 受阻 · <https://icourse.club/course/2000/#review-46782>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 007286 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E6%B0%94%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007290 · 评课社区 · 受阻 · <https://icourse.club/course/24066/#review-95221>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 007290 · GitHub · 受阻 · <https://github.com/search?q=%E7%9F%BF%E5%BA%8A%E5%AD%A6%E4%B8%8E%E7%9F%BF%E7%9B%B8%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007296 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E7%94%B5%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007313 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 007314 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 11 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
 - 课程 007314 · GitHub · 受阻 · <https://github.com/search?q=%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E4%B8%8E%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 007314 · 公开网页 · 候选未确认 · <https://github.com/>：疑似相关 5 条，例：GitHub · Change is constant. GitHub keeps you ahea；未打开核验
+- 课程 008007 · 评课社区 · 受阻 · <https://icourse.club/course/13575/#review-49387>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 008062 · 评课社区 · 受阻 · <https://icourse.club/course/3835/#review-48551>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 008074 · 评课社区 · 受阻 · <https://icourse.club/course/23435/#review-100705>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 008108 · 评课社区 · 受阻 · <https://icourse.club/course/23039/#review-93599>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 008144 · 评课社区 · 受阻 · <https://icourse.club/course/20216/#review-85697>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 008144 · 评课社区 · 候选未确认 · <https://icourse.club/course/3411/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 008158 · 评课社区 · 受阻 · <https://icourse.club/course/20566/#review-89620>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 008185 · 评课社区 · 受阻 · <https://icourse.club/course/21223/#review-93086>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+- 课程 008190 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 7 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+- 课程 008191 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 008193 · 评课社区 · 受阻 · <https://icourse.club/course/20260/#review-102570>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 008198 · 评课社区 · 受阻 · <https://icourse.club/course/24071/#review-102185>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 008206 · 公开网页 · 候选未确认 · <https://blog.csdn.net/qq_43337249/article/details/126914789>：CSDN博客标题为“2022年中科大细胞生物学实验原理往年题复习参考”，属中科大细胞生物学实验复习资料，但无课程号且课名与“细胞生物学基础实验”不完全一致
+- 课程 008508 · 评课社区 · 受阻 · <https://icourse.club/course/18306/#review-58095>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 008704 · 评课社区 · 受阻 · <https://icourse.club/course/18307/#review-88853>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 009055 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 009103 · 评课社区 · 受阻 · <https://icourse.club/course/22467/#review-87592>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 009103 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 009117 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 009171 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 009171 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 009175 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
 - 课程 009175 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 009177 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 009183 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 009184 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 009191 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 009501 · 评课社区 · 受阻 · <https://icourse.club/course/25815/#review-104669>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 009501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010009 · 评课社区 · 受阻 · <https://icourse.club/course/23043/#review-104683>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 010009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010159 · 评课社区 · 受阻 · <https://icourse.club/course/20653/#review-94340>：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 010159 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010177 · 评课社区 · 候选未确认 · <https://icourse.club/course/4455/>：评课页仅作为课程归属证据，不是新资料
+- 课程 010177 · 评课社区 · 受阻 · <https://icourse.club/course/4455/#review-104682>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 010177 · 评课社区 · 候选未确认 · <https://icourse.club/course/4455/#review-97190>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
 - 课程 010177 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010190 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010196 · 评课社区 · 重复或镜像 · <https://icourse.club/course/425/#review-93159>：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：该仓库已在现有来源 eng-github-epihio-automation 下收录多条资料，仓库根入口不重复计
+- 课程 010196 · 评课社区 · 受阻 · <https://icourse.club/course/425/#review-93157>：评课包复核 34 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 010196 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010197 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 34 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 010197 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010205 · 评课社区 · 候选未确认 · <https://icourse.club/course/6490/>：评课页仅作为课程归属证据，不是新资料
+- 课程 010205 · 评课社区 · 受阻 · <https://icourse.club/course/6490/#review-96920>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 010205 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010209 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 26 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
 - 课程 010209 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010210 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010214 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B8%93%E9%A2%98%E8%AE%AD%E7%BB%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E8%A7%A3%E7%AD%94.pdf>：模型生成，非课程原始资料
@@ -32596,12 +39864,37 @@
 - 课程 010214 · 评课社区 · 候选未确认 · <https://icourse.club/course/20655/>：评课页仅作为课程归属证据，不是新资料
 - 课程 010214 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88%28%E6%9D%8E%E5%97%A3%E7%A6%8F%2C%E7%AC%AC%E4%BA%8C%E7%89%88%29.pdf>：与已收录李嗣福教材答案内容高度近似，未完成文件级判重
 - 课程 010214 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E5%A4%A7%E6%8A%84/%E8%AE%A1%E6%8E%A7%E5%A4%A7%E6%8A%84.pdf>：已有课程速查笔记，未证实独立版本
+- 课程 010214 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 010214 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010216 · 评课社区 · 受阻 · <https://icourse.club/course/18311/#review-83507>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 010216 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010217 · 评课社区 · 受阻 · <https://icourse.club/course/23440/#review-104678>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 010217 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 011044 · 评课社区 · 受阻 · <https://icourse.club/course/18983/#review-65894>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 011103 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf>：旧库复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+- 课程 011103 · 评课社区 · 受阻 · <https://icourse.club/course/12381/#review-83757>：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 011119 · 评课社区 · 受阻 · <https://icourse.club/course/25103/#review-97212>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 011144 · GitHub · 候选未确认 · <https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C>：教师专用，禁止分发
+- 课程 011144 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes>：旧库复核 2 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 011144 study 条目已覆盖 notes 目录；补 3 份知识点/小抄 PDF 文件级入口。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+- 课程 011144 · 评课社区 · 受阻 · <https://icourse.club/course/12994/#review-91203>：评课包复核 33 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+- 课程 011145 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/exams/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf>：旧库复核 2 条候选；有效或补入口 2 条；结果 duplicate。 主要理由：与既有 eng-github-guch8017 的 COD2017.pdf 字节完全相同（SHA-256 fe91600b3e64ef81…，212733B），同卷镜像，补旧库稳定入口并校正卷型为回忆版；既有目录条目已覆盖（158 文件核对一致）；Lab6 含 CPU & UART on ebaz4205，CPU+UART 已涵盖；无新增。
+- 课程 011145 · 评课社区 · 受阻 · <https://icourse.club/course/13327/#review-56387>：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
+- 课程 011146 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/labs>：旧库复核 3 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（17 文件核对一致）；无新增。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+- 课程 011146 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 28 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+- 课程 011146 · 评课社区 · 重复或镜像 · <https://icourse.club/course/21469/#review-50478>：评课包复核 3 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一 GitHub 仓库已作为 MATH4002 算法基础 2022SP 实验收录，无新增；同一课程主页已作为 011146 课程网站收录；与已接受的 walkccc.github.io/CLRS 为同一习题解答站点的镜像域名
+- 课程 011152 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 011163 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs>：旧库复核 2 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（72 文件核对一致）；CMinus 编译器在 lab3-1；无新增。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+- 课程 011163 · 评课社区 · 受阻 · <https://icourse.club/course/14088/#review-62314>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 011174 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary>：旧库复核 4 条候选；有效或补入口 2 条；结果 duplicate。 主要理由：既有 011174 读书笔记条目已覆盖 notes/mbinary 目录；补 deadlock/linux-file-io/multiprocessor 三个文件级入口与摘要。；既有 011174 homework 条目已覆盖 homeworks 目录并含 hw4_sol/hw6_sol；补齐其余 8 个作业文件级入口，不新增条目。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+- 课程 011174 · 评课社区 · 受阻 · <https://icourse.club/course/21230/#review-49986>：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 011179 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（119 文件核对一致）；lab1 搜索引擎、lab2 数据；实验题面与学生报告不跨学期配对；无新增。
 - 课程 011186 · 评课社区 · 候选未确认 · <https://icourse.club/course/18025/>：评课页仅作为课程归属证据，不是新资料
+- 课程 011186 · 评课社区 · 受阻 · <https://icourse.club/course/18025/#review-92594>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 011187 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 011703 · 评课社区 · 受阻 · <https://icourse.club/course/5785/#review-2791>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
 - 课程 011704 · GitHub · 候选未确认 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88/ch02_complete.pdf>：教材答案来源与可公开分发性未确认
+- 课程 011704 · 评课社区 · 受阻 · <https://icourse.club/course/6242/#review-19345>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评只给出“Please login to download the attachment”登录占位，附件链接未在匿名页面暴露；未在独立公开原址核到同件，按规则不转交、不公开该链接。；匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 011705 · 评课社区 · 受阻 · <https://icourse.club/course/2681/#review-70892>：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 013002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013090 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32609,69 +39902,135 @@
 - 课程 013126 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013140 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013148 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 013149 · 评课社区 · 受阻 · <https://icourse.club/course/22471/#review-80636>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 013149 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 013J01 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 013X08 · 评课社区 · 受阻 · <https://icourse.club/course/2312/#review-9625>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 013X08 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 014007 · 评课社区 · 受阻 · <https://icourse.club/course/1374/#review-25588>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+- 课程 014014 · 评课社区 · 受阻 · <https://icourse.club/course/18031/#review-34604>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 014127 · 评课社区 · 受阻 · <https://icourse.club/course/18987/#review-39826>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 014143 · 公开网页 · 候选未确认 · <http://home.ustc.edu.cn/~zz0312/Junior.html>：打开本校个人主页“化院大三部分资源”索引页，列出课程资源链接但页面未直接标注“材料研究方法”
+- 课程 014145 · 评课社区 · 受阻 · <https://icourse.club/course/3669/#review-31957>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 014145 · 评课社区 · 候选未确认 · <https://icourse.club/course/22782/>：附件“材料合成化学——历年试题+答案.pdf”课程名与“材料制备与加工”不一致，疑为另一门课资料，未核验归属，不正式收录。
+- 课程 015123 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
+- 课程 017048 · 评课社区 · 受阻 · <https://icourse.club/course/3843/#review-21630>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 017063 · 评课社区 · 受阻 · <https://icourse.club/course/25111/#review-92610>：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 017123 · 评课社区 · 受阻 · <https://icourse.club/course/6325/#review-88099>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 017129 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 40 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E6%96%B9%E5%85%86%E6%9C%AC%E3%80%81%E7%BC%AA%E6%9F%8F%E5%85%B6%E3%80%8A%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E3%80%8B%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%AC%AC%E4%B8%89%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E8%80%83%E5%89%8D%E8%A1%A5%E5%85%85%E9%A2%98.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
 - 课程 017131、017144、017129、MATH3006 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%8F%90%E7%BA%B2.pdf>：目录只到“数学类/随机过程”，官方课程有 017131《随机过程A》、017144《随机过程B》、017129《实用随机过程》、MATH3006《应用随机过程》；这些答案/总结未写课程代码或教师，无法确认具体课程。
+- 课程 017137 · 评课社区 · 受阻 · <https://icourse.club/course/6718/#review-60325>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 017139 · GitHub · 候选未确认 · <https://raw.githubusercontent.com/RachelK9790715/USTC_Finance_Minor/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%AD%94%E6%A1%88.pdf>：未证实与题目版逐题对应，现有合集已覆盖
 - 课程 017139 · GitHub · 候选未确认 · <https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AF%BE%E5%90%8E%E9%A2%98%E7%AD%94%E6%A1%88>：仅见图片列表，未核和PDF有无增量
+- 课程 017139 · 评课社区 · 受阻 · <https://icourse.club/course/22099/#review-90068>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 017144 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf>：旧库复核 3 条候选；有效或补入口 3 条；结果 duplicate。 主要理由：该旧库文件已登记为 hum-017144-exam-2018-1 的入口；本轮补稳定直链与字节摘要，并与 duxiaoyang 副本互证镜像；既有 017144 study 条目已覆盖 notes 目录；补复习.pdf 与随机过程总结两份文件级入口。；既有 017144 homework 条目已含 3 份答案；补齐文件级入口并统一抽样哈希，不新增条目。
+- 课程 017144 · 评课社区 · 受阻 · <https://icourse.club/course/12406/#review-27113>：评课包复核 63 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 017146 · 评课社区 · 受阻 · <https://icourse.club/course/14377/#review-13040>：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
 - 课程 017146 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%E5%9B%9E%E5%BD%92%E5%88%86%E6%9E%90%20%E4%B8%AD%E7%A7%91%E5%A4%A7&setlang=zh-CN&cc=CN>：命中疑似大纲页 http://staff.ustc.edu.cn/~ynyang/2022/Syllabus.htm，HTTP 200 但响应正文为空（0 字节），无法核对课程号；重试 http/https 均如此，按受阻记录。
 - 课程 017156 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%E9%9D%9E%E5%8F%82%E6%95%B0%E7%BB%9F%E8%AE%A1%20%E4%B8%AD%E7%A7%91%E5%A4%A7&setlang=zh-CN&cc=CN>：命中疑似教师页 http://staff.ustc.edu.cn/~zwp/teach/nonpar/nonpar.htm，HTTP 200 但响应正文为空（0 字节），无法核对课程号与年份；重试 http/https 均如此，按受阻记录。
+- 课程 017162 · 评课社区 · 受阻 · <https://icourse.club/course/1707/#review-63518>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 017164 · 评课社区 · 受阻 · <https://icourse.club/course/12993/#review-21632>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 017165 · 评课社区 · 受阻 · <https://icourse.club/course/25613/#review-103240>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 017166 · 评课社区 · 受阻 · <https://icourse.club/course/24082/#review-98834>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 017703 · 评课社区 · 受阻 · <https://icourse.club/course/6736/#review-46654>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 019011 · 评课社区 · 受阻 · <https://icourse.club/course/26009/#review-99678>：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 019011e · 评课社区 · 候选未确认 · <https://icourse.club/course/26014/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 019012 · 评课社区 · 受阻 · <https://icourse.club/course/3490/#review-45480>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 019012e · 评课社区 · 候选未确认 · <https://icourse.club/course/26274/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 019029 · 评课社区 · 受阻 · <https://icourse.club/course/26275/#review-102034>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 019040 · 评课社区 · 受阻 · <https://icourse.club/course/22477/#review-101912>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 019040 · 评课社区 · 候选未确认 · <https://icourse.club/course/>：附件为商业搜题 App 截图汇编、外链为教材分享页，权利与来源不可核验，不收录为正式资源。
+- 课程 019047 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 9 条、登录占位/无法匿名核验受阻 10 条；未使用包内直链反查。
+- 课程 019060 · 评课社区 · 受阻 · <https://icourse.club/course/4309/#review-99682>：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 019064e · 评课社区 · 候选未确认 · <https://icourse.club/course/13663/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 019080、019147、019148、019149、019150、019151、019152、019029、019146、019174、003142、003143、020014 · 公开网页 · 候选未确认 · <http://cec.ustc.edu.cn/video/list.htm>：站点按课程分课件页（courseware_0x.html）与视频页，但内容由脚本/未公开目录加载，未取得可核验文件页，暂不收录。
+- 课程 019128 · 评课社区 · 受阻 · <https://icourse.club/course/1140/#review-40975>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 019147 · 公开网页 · 候选未确认 · <https://www.icourse.club/course/23177/>：结果只出现“无机化学基础实验(上)(英)”课程页，打开后课程号为019147E01，非本课019147
 - 课程 019147e · 评课社区 · 候选未确认 · <https://icourse.club/course/23177/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 019148 · 公开网页 · 候选未确认 · <https://www.icourse.club/course/23177/>：结果只有“无机化学基础实验(上)(英)”页面（019147E01），未见(下)的课程页
+- 课程 019149 · 评课社区 · 受阻 · <https://icourse.club/course/918/#review-467>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 019149 · 评课社区 · 候选未确认 · <https://icourse.club/course/23451/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 019149e · 评课社区 · 候选未确认 · <https://icourse.club/course/23451/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 019151 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 019151e · 评课社区 · 候选未确认 · <https://icourse.club/course/23054/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 019161 · 评课社区 · 受阻 · <https://icourse.club/course/1078/#review-79816>：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 019163 · 评课社区 · 受阻 · <https://icourse.club/course/12862/#review-24427>：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 019165 · 评课社区 · 受阻 · <https://icourse.club/course/13429/#review-87608>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 019166 · 评课社区 · 受阻 · <https://icourse.club/course/21245/#review-84119>：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 019167 · 评课社区 · 受阻 · <https://icourse.club/course/1299/#review-27653>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 019172 · 评课社区 · 受阻 · <https://icourse.club/course/12592/#review-103163>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 019173 · 评课社区 · 受阻 · <https://icourse.club/course/13562/#review-32011>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 019174 · 评课社区 · 候选未确认 · <https://icourse.club/course/3198/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 019175 · 评课社区 · 受阻 · <https://icourse.club/course/912/#review-106582>：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；网盘分享需提取码，匿名无法核对内容
 - 课程 019175 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/fen-xi-hua-xue-i.md>：只看到文件名与“答案有错”提示，未见卷面正文与年份，且未确认是 I 还是 II 的哪学期卷，故不正式收录。
+- 课程 019176 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 0 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
 - 课程 019178 · 评课社区 · 候选未确认 · <https://icourse.club/course/1123/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 020011 · 评课社区 · 受阻 · <https://icourse.club/course/26614/#review-103479>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 020146 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E9%AB%98%E5%88%86%E5%AD%90%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 020147 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E9%AB%98%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E6%9D%90%E6%96%99%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 022007 · 评课社区 · 受阻 · <https://icourse.club/course/2074/#review-33965>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 022010 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%89%8D%E6%B2%BF%E7%B3%BB%E5%88%97%E8%AE%B2%E5%BA%A7%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 022012 · 评课社区 · 受阻 · <https://icourse.club/course/6307/#review-9010>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+- 课程 022056 · 评课社区 · 受阻 · <https://icourse.club/course/26615/#review-104686>：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 022056 · GitHub · 受阻 · <https://github.com/search?q=%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022056 · 评课社区 · 候选未确认 · <https://icourse.club/course/23690/>：附件需登录，未核验卷面/年份/解答：运动学习题课.pdf；动(静)力学习题课.pdf；分析力学习题课.pdf；运动学习题课.pptx；动(静)力学习题课.pptx；分析力学习题课.pptx
+- 课程 022057 · 评课社区 · 候选未确认 · <https://icourse.club/course/21755/#review-46857>：评课包复核 2 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 022057 · 评课社区 · 受阻 · <https://icourse.club/course/4781/#review-15421>：评课包复核 47 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 022057 · 评课社区 · 候选未确认 · <https://icourse.club/course/23458/>：附件需登录，未核验卷面/年份/解答：第一周作业答案.pdf；第二周作业答案.pdf；第三周作业答案.pdf；第四周作业答案.pdf；第五周作业答案.pdf；第六周作业答案.pdf
+- 课程 022059 · 评课社区 · 受阻 · <https://icourse.club/course/6658/#review-99098>：评课包复核 29 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 022062 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%83%AD%E7%BB%9F%E6%9C%9F%E4%B8%AD2024.pdf>：已有同课程同期中，未确认是否异卷，不另计
+- 课程 022062 · 评课社区 · 受阻 · <https://icourse.club/course/12612/#review-73703>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 022063 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 022075 · 评课社区 · 受阻 · <https://icourse.club/course/14268/#review-47594>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 022095 · 评课社区 · 受阻 · <https://icourse.club/course/21885/#review-97291>：评课包复核 18 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 022095 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022095 · 评课社区 · 候选未确认 · <https://icourse.club/course/21885/>：附件需登录，未核验卷面/年份/解答：cheat_sheet_icourse.rar；022095_cheet_sheet_final.pdf
+- 课程 022118 · 评课社区 · 受阻 · <https://icourse.club/course/1398/#review-48135>：评课包复核 15 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+- 课程 022148 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 48 条、登录占位/无法匿名核验受阻 14 条；未使用包内直链反查。
 - 课程 022148 · 评课社区 · 候选未确认 · <https://icourse.club/course/22025/>：附件需登录，未核验卷面/年份/解答：量子力学笔记.pdf
+- 课程 022164 · 评课社区 · 受阻 · <https://icourse.club/course/1768/#review-20002>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：短链跳转提示无法访问，匿名无法核对；匿名访问失败（超时/连接错误/验证页），无法核对内容
 - 课程 022164 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%8E%B0%E4%BB%A3%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022165 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%A0%94%E7%A9%B6%E6%80%A7%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 022166 · 评课社区 · 受阻 · <https://icourse.club/course/1992/#review-98194>：评课包复核 38 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
 - 课程 022166 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022166 · 评课社区 · 候选未确认 · <https://icourse.club/course/1992/>：附件需登录，未核验卷面/年份/解答：《天文学导论》作业解题技巧.pdf；天文学导论考点大纲.docx；知识点.png；天文学导论MOOC题目.pptx；习题课349.pptx；天文学导论课件精选.pdf
 - 课程 022167 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E6%96%87%E5%AD%A6%E8%A7%82%E6%B5%8B%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 022167 · 公开网页 · 候选未确认 · <https://github.com/ChromeDevTools/chrome-devtools-mcp/>：疑似相关 1 条，例：GitHub - ChromeDevTools/chrome-devtools-mcp: Chrom；未打开核验
+- 课程 022169 · 评课社区 · 受阻 · <https://icourse.club/course/1970/#review-23789>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 022170 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E6%96%87%E5%AD%A6%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 022171 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 022171 · 评课社区 · 候选未确认 · <https://icourse.club/course/13087/>：附件需登录，未核验卷面/年份/解答：恒星物理基础最终版.pdf
+- 课程 022172 · 评课社区 · 受阻 · <https://icourse.club/course/20688/#review-38383>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 022392 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 53 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该链接，无法确认公开链接与关联，不转交
 - 课程 022506 · GitHub · 受阻 · <https://github.com/search?q=%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 023150 · 评课社区 · 受阻 · <https://icourse.club/course/19636/#review-65843>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 023150 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 023181 · 评课社区 · 候选未确认 · <https://icourse.club/course/14405/>：评课页仅作为课程归属证据，不是新资料
+- 课程 023181 · 评课社区 · 受阻 · <https://icourse.club/course/14406/#review-61408>：评课包复核 22 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 023181 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 023246 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 023314 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 023317 · 评课社区 · 受阻 · <https://icourse.club/course/18370/#review-29594>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 023317 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 025148 · 评课社区 · 受阻 · <https://icourse.club/course/3193/#review-91402>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 033001 · 评课社区 · 受阻 · <https://icourse.club/course/18063/#review-89664>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 033002 · 评课社区 · 受阻 · <https://icourse.club/course/18064/#review-44247>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 038007 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 038007 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7%20%E8%AF%BE%E7%A8%8B&mkt=zh-CN&setlang=zh-CN>：HTTP 200；验证码/限流=True；Baidu/Sogou/DDG 与内置搜索均返回验证码或429
 - 课程 038008 · GitHub · 受阻 · <https://github.com/search?q=%E8%BF%91%E4%BB%A3%E5%85%89%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 038008 · 公开网页 · 候选未确认 · <https://github.com/Wjavan/FerryLink>：疑似相关 2 条，例：GitHub - Wjavan/FerryLink: 免费开源的网盘直链下载助手 ...；未打开核验
+- 课程 038011 · 评课社区 · 受阻 · <https://icourse.club/course/6613/#review-73739>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_no_concrete_link；anonymous_dom_login_placeholder
 - 课程 038011 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 038014 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%89%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 048002 · GitHub · 受阻 · <https://github.com/search?q=%E6%A0%B8%E5%8C%BB%E5%AD%A6%E7%89%A9%E7%90%86%E5%8E%9F%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 048003 · GitHub · 受阻 · <https://github.com/search?q=%E5%8F%8D%E5%BA%94%E5%A0%86%E7%83%AD%E5%B7%A5%E4%B8%8E%E5%AE%89%E5%85%A8%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 048004 · GitHub · 受阻 · <https://github.com/search?q=%E6%A0%B8%E7%87%83%E6%96%99%E5%BE%AA%E7%8E%AF%E4%B8%8E%E6%9D%90%E6%96%99%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 203001 · 评课社区 · 受阻 · <https://icourse.club/course/12570/#review-85118>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 203001 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%88%E8%BF%9B%E5%85%89%E5%AD%90%E7%89%A9%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 203006 · GitHub · 受阻 · <https://github.com/search?q=%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86II%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 206501 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6C%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
@@ -32681,6 +40040,7 @@
 - 课程 206711 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86I(H)%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 206M05e · 评课社区 · 候选未确认 · <https://icourse.club/course/3738/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 206M05e · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA(%E8%8B%B1)%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 206M07 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 206M07 · 公开网页 · 候选未确认 · <https://q2chemistry.net/teaching.html>：官方 206M07 名为“CASTEP/Materials Studio计算材料学”、MSE4000 为“计算材料学实验”，本页未给课程号，无法确认对应哪一门，不挂课。
 - 课程 206M07 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22CASTEP%2FMaterials%20Studio%E8%AE%A1%E7%AE%97%E6%9D%90%E6%96%99%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 208701 · GitHub · 受阻 · <https://github.com/search?q=%E4%BA%A4%E5%8F%89%E7%A0%94%E7%A9%B6%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -32689,6 +40049,11 @@
 - 课程 209002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 209005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 209011 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 210002 · 评课社区 · 受阻 · <https://icourse.club/course/22008/#review-75460>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 210004 · 评课社区 · 受阻 · <https://icourse.club/course/21256/#review-66586>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 210008 · 评课社区 · 受阻 · <https://icourse.club/course/6142/#review-84100>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 210031 · 评课社区 · 受阻 · <https://icourse.club/course/24112/#review-83710>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 210037 · 评课社区 · 受阻 · <https://icourse.club/course/3018/#review-36443>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 210037、CS2002、CS4010 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/2020%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/数理逻辑”，1184 门官方课程含 210037《数理逻辑与图论》、CS2002《数理逻辑基础》、CS4010《数理逻辑进阶与应用》；封面/正文未写课程代码或教师，无法确定唯一课程。
 - 课程 210037、CS2002、CS4010 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/2022%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/数理逻辑”，1184 门官方课程含 210037《数理逻辑与图论》、CS2002《数理逻辑基础》、CS4010《数理逻辑进阶与应用》；封面/正文未写课程代码或教师，无法确定唯一课程。
 - 课程 210037、CS2002、CS4010 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/2023%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86%E7%89%88.pdf>：目录只到“数学类/数理逻辑”，1184 门官方课程含 210037《数理逻辑与图论》、CS2002《数理逻辑基础》、CS4010《数理逻辑进阶与应用》；封面/正文未写课程代码或教师，无法确定唯一课程。
@@ -32700,20 +40065,41 @@
 - 课程 210037、CS2002、CS4010 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E7%9B%B4%E6%8E%A5%E8%AF%81%E6%98%8E%E8%A1%A5%E5%85%85.pdf>：目录只到“数学类/数理逻辑”，1184 门官方课程含 210037《数理逻辑与图论》、CS2002《数理逻辑基础》、CS4010《数理逻辑进阶与应用》；封面/正文未写课程代码或教师，无法确定唯一课程。
 - 课程 210037、CS2002、CS4010 · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/%E8%BF%91%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>：目录只到“数学类/数理逻辑”，1184 门官方课程含 210037《数理逻辑与图论》、CS2002《数理逻辑基础》、CS4010《数理逻辑进阶与应用》；封面/正文未写课程代码或教师，无法确定唯一课程。
 - 课程 210038 · GitHub · 受阻 · <https://github.com/search?q=%E6%97%A0%E7%BA%BF%E7%BD%91%E7%BB%9C%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 210045 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 36 条、登录占位/无法匿名核验受阻 20 条；未使用包内直链反查。
 - 课程 210050 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 210060 · 评课社区 · 受阻 · <https://icourse.club/course/18387/#review-29470>：评课包复核 23 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+- 课程 210067 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 210070 · GitHub · 候选未确认 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E3%80%8B%E5%BE%80%E5%B9%B4%E9%A2%98%E7%AD%94%E6%A1%88.pdf>：已收录的历年题配套，与本次习题范围无新增
 - 课程 210070 · GitHub · 候选未确认 · <https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E4%B9%A0%E9%A2%98%E9%9B%86.pdf>：已有习题合集、未证实独立课程归属
 - 课程 210070 · 评课社区 · 候选未确认 · <https://icourse.club/course/2947/>：评课页仅作为课程归属证据，不是新资料
 - 课程 210070、CS2502A、CS2502B · GitHub · 候选未确认 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/%E3%80%8A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88%E8%B5%84%E6%96%99(1).pdf>：无法确认属于 210070 数据结构及其算法，亦不能挂同名 CS2502A/CS2502B；不发布为确认资源。
+- 课程 210072 · 评课社区 · 受阻 · <https://icourse.club/course/18088/#review-32551>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 210073 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 210074 · 评课社区 · 重复或镜像 · <https://icourse.club/course/18390/#review-84045>：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：该仓库已在现有来源 eng-github-ly382965-materials 下按课程收录多条资料，仓库根入口不重复计
+- 课程 210074 · 评课社区 · 受阻 · <https://icourse.club/course/18390/#review-84045>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 210077 · 评课社区 · 受阻 · <https://icourse.club/course/18391/#review-88474>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 210077 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 210078 · 评课社区 · 受阻 · <https://icourse.club/course/4842/#review-97726>：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 210515 · 评课社区 · 受阻 · <https://icourse.club/course/22050/#review-54440>：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+- 课程 210703 · 评课社区 · 受阻 · <https://icourse.club/course/12444/#review-3894>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 210704 · 评课社区 · 受阻 · <https://icourse.club/course/12618/#review-17334>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问失败（空响应），无法核对
+- 课程 210706 · 评课社区 · 受阻 · <https://icourse.club/course/13727/#review-87110>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 210708 · 评课社区 · 受阻 · <https://icourse.club/course/13729/#review-34134>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 210710 · GitHub · 受阻 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 210712 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/notes>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 210712 study 条目已覆盖 notes 目录；补 docx 与 pdf 两份 A4 复习纸文件级入口。
+- 课程 210712 · 评课社区 · 受阻 · <https://icourse.club/course/14092/#review-84708>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 219001 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 219001 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/liang-zi-wu-li.md>：课程资料簿有《量子物理》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
 - 课程 219002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 219003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 219004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 219005 · 评课社区 · 受阻 · <https://icourse.club/course/21260/#review-52154>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 219005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 219006 · 评课社区 · 受阻 · <https://icourse.club/course/18104/#review-46025>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 219006 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 221001 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 229001 · GitHub · 候选未确认 · <https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/answer-1.pdf>：与标称离散数学作业不是同一题面，课程代码待确认
+- 课程 229001 · 评课社区 · 受阻 · <https://icourse.club/course/22485/#review-102166>：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
 - 课程 232066 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 232084 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 232085 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32721,8 +40107,16 @@
 - 课程 232088 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 910016 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%8C%BB%E5%AD%A6%E7%BB%86%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 910020 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%97%85%E7%90%86%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 910029 · 评课社区 · 受阻 · <https://icourse.club/course/21675/#review-46562>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
 - 课程 910029 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%B3%BB%E7%BB%9F%E8%A7%A3%E5%89%96%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 AI1001A · 评课社区 · 重复或镜像 · <https://icourse.club/course/26873/#review-106009>：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一套 AI 课程笔记的静态阅读站点，仓库条目已收录，不重复计；与同一入口的首条候选重复（同页/同文件）。
+- 课程 AI1001B · 评课社区 · 受阻 · <https://icourse.club/course/26879/#review-106646>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：该点评未出现在课程匿名页，无法确认匿名可见。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 AI2001A · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 15 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
+- 课程 AI3001 · 评课社区 · 受阻 · <https://icourse.club/course/26224/#review-97235>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 AI3002 · 评课社区 · 受阻 · <https://icourse.club/course/26106/#review-97655>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 AI3003 · 评课社区 · 受阻 · <https://icourse.club/course/26299/#review-105018>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 AI3004 · GitHub · 受阻 · <https://github.com/search?q=%E4%BC%98%E5%8C%96%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 ASTRON1501 · 评课社区 · 受阻 · <https://icourse.club/course/1979/#review-6958>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 ASTRON1501 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E6%A6%82%E8%A7%82%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ASTRON1501 · 评课社区 · 候选未确认 · <https://icourse.club/course/22490/>：附件需登录，未核验卷面/年份/解答：天体物理概观2024春期末.pdf；天体物理概观23年春期末.docx
 - 课程 ATMS4001 · GitHub · 受阻 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%AD%E8%A8%80%E5%92%8C%E7%A7%91%E5%AD%A6%E5%BB%BA%E6%A8%A1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -32733,36 +40127,77 @@
 - 课程 ATMS4006 · GitHub · 受阻 · <https://github.com/search?q=%E5%8F%A4%E6%B0%94%E5%80%99%E5%AD%A6%E5%8E%9F%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ATMS4009 · GitHub · 受阻 · <https://github.com/search?q=%E6%B0%94%E5%80%99%E5%AD%A6%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ATMS4010 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%B0%94%E7%A7%91%E5%AD%A6%E7%BB%BC%E5%90%88%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 BIO1501 · 评课社区 · 受阻 · <https://icourse.club/course/20725/#review-85436>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 BIO1501 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%E5%AE%9E%E9%AA%8C%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 BIO1502 · 评课社区 · 受阻 · <https://icourse.club/course/24648/#review-92267>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 BIO1502 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%8C%BB%E5%AD%A6%E5%AF%BC%E8%AE%BA%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1503 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%9F%BA%E7%A1%80%E7%94%9F%E5%91%BD%E6%94%AF%E6%8C%81%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 BIO1504G · 评课社区 · 受阻 · <https://icourse.club/course/24649/#review-100698>：评课包复核 28 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名点评页内嵌图片返回 HTTP 404，文件已不可取。
 - 课程 BIO1504G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7%E4%B8%8E%E7%96%BE%E7%97%85%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 BIO1505G · 评课社区 · 受阻 · <https://icourse.club/course/24650/#review-100701>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 BIO1505G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%8E%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1506G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E8%84%91%E7%A7%91%E5%AD%A6%E4%B8%8E%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1508G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E4%B8%8E%E4%BA%BA%E4%BD%93%E5%81%A5%E5%BA%B7%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1509G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E4%BA%BA%E4%BD%93%E5%BE%AE%E7%94%9F%E7%89%A9%E4%B8%8E%E5%81%A5%E5%BA%B7%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 BIO1510 · 评课社区 · 受阻 · <https://icourse.club/course/24654/#review-88281>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 BIO1510 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E8%A7%A3%E7%A0%81%E7%94%9F%E5%91%BD%E4%BF%A1%E6%81%AF%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1511G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E5%91%BD%E7%9A%84%E5%8C%96%E5%AD%A6%E5%9F%BA%E7%A1%80%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1512 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E7%89%A9%E5%AD%A6%E4%B8%8E%E7%94%9F%E6%B4%BB%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO1514G · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E7%89%A9%E8%BF%9B%E5%8C%96%E8%AE%BA%E7%9A%84%E5%8E%86%E5%8F%B2%E7%94%B1%E6%9D%A5%E3%80%81%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7&setlang=zh-CN&cc=CN>：搜索引擎反爬降级：两次返回结果与“生物进化论的历史由来、基本概念及未来发展”无关（首条“空结果列表”），无法取得真实结果
 - 课程 BIO1516 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%94%9F%E5%91%BD%E4%BE%A6%E6%8E%A2%EF%BC%9A%E7%94%A8%E5%8C%96%E5%AD%A6%E8%A7%A3%E5%AF%86%E5%85%8D%E7%96%AB%E4%B8%8E%E7%96%BE%E7%97%85%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 BIO2001 · 评课社区 · 候选未确认 · <https://icourse.club/course/20728/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 BIO2701 · 评课社区 · 受阻 · <https://icourse.club/course/24658/#review-91761>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 BIO3001 · 评课社区 · 受阻 · <https://icourse.club/course/22046/#review-95952>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 BIO3002 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 4 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+- 课程 BIO3004 · 评课社区 · 受阻 · <https://icourse.club/course/24497/#review-92966>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 BIO3005 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 BIO3701 · 评课社区 · 受阻 · <https://icourse.club/course/24662/#review-90549>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：校内网盘服务已停止/无法匿名核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 BIO4002 · 评课社区 · 候选未确认 · <https://icourse.club/course/26096/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 BIO4502e · GitHub · 空壳 · <https://github.com/Serelive/BIO4502e>：计算神经科学(英) BIO4502e 与 BSP 相关仓库均无实际资料，不收录。
 - 课程 BIO4502e · 评课社区 · 候选未确认 · <https://icourse.club/course/23180/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 CHEM1501 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 6 条、登录占位/无法匿名核验受阻 4 条；未使用包内直链反查。
 - 课程 CHEM2001M · 评课社区 · 候选未确认 · <https://icourse.club/course/13718/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 CHEM2001M · 公开网页 · 受阻 · <https://www.cnmooc.org/portal/course/3154/20162.mooc>：cnmooc.org 连接被重置（shell ECONNRESET；浏览器 ERR_CONNECTION_CLOSED），未能确认慕课页面内容，不收录。
 - 课程 CHEM2501 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 CHEM2802 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%AD%A6%E7%A7%91%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E4%B8%8E%E5%88%86%E6%9E%90%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
 - 课程 CHEM3001 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%82%AC%E5%8C%96%E5%8C%96%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 CHEM3002 · 评课社区 · 受阻 · <https://icourse.club/course/26643/#review-101843>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 CHEM3003 · 评课社区 · 受阻 · <https://icourse.club/course/24162/#review-102773>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 CHEM3004 · 评课社区 · 候选未确认 · <https://icourse.club/course/10473/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 CHEM3004 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E5%BA%94%E7%94%A8%E7%94%B5%E5%8C%96%E5%AD%A6%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 CHEM4004 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 CHEM4006 · 公开网页 · 受阻 · <https://www.bing.com/search?q=%22%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6III(A)%22%20%E4%B8%AD%E7%A7%91%E5%A4%A7>：web_search 全部 provider 失败：parallel/exa 429（MCP rate limit）、firecrawl 429（retry_after 73559s）、startpage 无可渲染内容、duckduckgo/ecosia/google/mojeek 返回反爬或机器人校验；provider 级局限流，未重试以免洪泛。搜索引擎直连备用（Bing 直取 HTML）实测对中文精确课名返回通用/无关结果，未作为有效检索证据。
+- 课程 CS1002A · 评课社区 · 受阻 · <https://icourse.club/course/23536/#review-98848>：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问失败（超时/连接错误/验证页），无法核对内容；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；校内网盘分享，匿名无法核对内容与访问权限
+- 课程 CS1002A · 评课社区 · 重复或镜像 · <https://icourse.club/course/20777/#review-54084>：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与已收录的 KZ25T/2022ics 为同一套 2022 秋课程资料的 GitLab 镜像，不重复计；与同一入口的首条候选重复（同页/同文件）。
+- 课程 CS1002A · 评课社区 · 候选未确认 · <https://icourse.club/course/23536/#review-98865>：评课包复核 4 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案；缺少原页内容或归属核验证据，移出最终提案
+- 课程 CS1003 · 评课社区 · 受阻 · <https://icourse.club/course/25828/#review-103950>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 CS1003L · 评课社区 · 受阻 · <https://icourse.club/course/25885/#review-96896>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 CS1502 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%AF%A6%E8%A7%A3/codes>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（5 文件核对一致）；无新增。
+- 课程 CS1502 · 评课社区 · 受阻 · <https://icourse.club/course/6246/#review-143>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容
+- 课程 CS1505 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80/notes>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有课程 study 条目已覆盖 notes 目录；补 Java 复习提纲 PDF 文件级入口。
+- 课程 CS1507 · 评课社区 · 受阻 · <https://icourse.club/course/20039/#review-72303>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 CS1508 · GitHub · 受阻 · <https://github.com/search?q=Matlab%E7%BC%96%E7%A8%8B%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 CS1514 · 评课社区 · 受阻 · <https://icourse.club/course/20044/#review-36551>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 CS1514 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%A2%E5%90%91%E4%BA%A4%E5%8F%89%E5%AD%A6%E7%A7%91%E7%9A%84Python%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E8%B7%A8%E5%AD%A6%E7%A7%91%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 CS1515 · 评课社区 · 受阻 · <https://icourse.club/course/20778/#review-41858>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 CS2002 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes>：旧库复核 3 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 CS2002 study 条目已覆盖 notes 目录；补助教笔记 3 章加 3 份考试/笔记 PDF 文件级入口。；既有条目已登记该固定 commit 下同名文件入口，本轮复核无新增
+- 课程 CS2002 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 CS2002 · GitHub · 重复或镜像 · <https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80>：guch 合集条目已覆盖同三年三卷，Wloner 文件不另建试题条目、不合并为镜像；Wloner 目录的 HW ans 未单列，避免与已有作业资源重复。
+- 课程 CS2003 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 CS2502A · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有目录条目已覆盖（24 文件核对一致）；无新增。
+- 课程 CS2502A · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 CS2502A、210070 · GitHub · 候选未确认 · <https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataStructure2022.md>：无法确认 2022 秋卷属于 CS2502A、210070 或旧码 011127；不猜新旧代码继任关系，未发布为确认资源。
+- 课程 CS2701 · 评课社区 · 受阻 · <https://icourse.club/course/26020/#review-100082>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 CS4001 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+- 课程 CS4004 · 评课社区 · 受阻 · <https://icourse.club/course/20049/#review-96447>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；网盘分享/校内云盘，匿名无法核对内容与权限；页面要求浏览器验证，匿名无法核对
+- 课程 CS4009 · 评课社区 · 受阻 · <https://icourse.club/course/21281/#review-52454>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 CS4010 · 评课社区 · 受阻 · <https://icourse.club/course/21950/#review-74781>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
+- 课程 CS4012 · 评课社区 · 受阻 · <https://icourse.club/course/13533/#review-24500>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 CS4012 · 评课社区 · 重复或镜像 · <https://icourse.club/course/13533/#review-53010>：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同一目录已由既有条目收录，重复
+- 课程 CS4012 · 评课社区 · 候选未确认 · <https://icourse.club/course/13533/#review-32873>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+- 课程 CS4014 · 评课社区 · 受阻 · <https://icourse.club/course/6099/#review-4844>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 CS4017e · GitHub · 受阻 · <https://github.com/search?q=%E6%9C%80%E4%BC%98%E5%8C%96%E5%AF%BC%E8%AE%BA(%E8%8B%B1)%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 CS4018 · 评课社区 · 受阻 · <https://icourse.club/course/25777/#review-97095>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed
 - 课程 CS4018 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 CS4019 · GitHub · 受阻 · <https://github.com/search?q=%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F%E7%BB%BC%E5%90%88%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 CS4024 · GitHub · 受阻 · <https://github.com/search?q=%E9%9D%A2%E5%90%91%E7%A7%91%E5%AD%A6%E9%97%AE%E9%A2%98%E6%B1%82%E8%A7%A3%E7%9A%84%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
@@ -32773,19 +40208,26 @@
 - 课程 CS4501 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 CS4501 · GitHub · 候选未确认 · <https://github.com/USTC-Resource/USTC-Course/blob/master/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E7%B3%BB%E7%BB%9F/exams/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E7%B3%BB%E7%BB%9F%EF%BC%88B%EF%BC%89%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf>：课程名与（B）标记不足以证明同一课程，未挂 CS4501；目录级条目移除，保留候选记录。；labs 资源一并移除候选，不把同名近似课程挂 CS4501。
 - 课程 CS4502 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E5%9E%8B%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 DS2002 · 评课社区 · 受阻 · <https://icourse.club/course/21283/#review-102215>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 DS2002 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 DS3001 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 DS3002 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F%E5%8F%8A%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 EE1501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE1504 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE1506 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 EE1506 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE1508 · 评课社区 · 受阻 · <https://icourse.club/course/14423/#review-94935>：评课包复核 15 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 EE1508 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE1509 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE1510 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE1512 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE1513 · 评课社区 · 受阻 · <https://icourse.club/course/22521/#review-86006>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 EE1513 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2003 · 评课社区 · 受阻 · <https://icourse.club/course/25202/#review-92780>：评课包复核 53 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
 - 课程 EE2003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2004 · GitHub · 候选未确认 · <https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%85%AD%E7%AB%A0%E7%AD%94%E6%A1%88.pdf>：教师答案目录同批，公开分发依据不足
 - 课程 EE2004 · 评课社区 · 候选未确认 · <https://icourse.club/course/21862/>：评课页仅作为课程归属证据，不是新资料
+- 课程 EE2004 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 EE2004 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/ji-suan-ji-wang-luo.md>：课程资料簿有《计算机网络》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
 - 课程 EE2005A · 评课社区 · 候选未确认 · <https://icourse.club/course/25882/>：候选1；页面课程号EE200902；点评数19；课程主页暂无；附件未发现。
 - 课程 EE2005A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32793,23 +40235,33 @@
 - 课程 EE2006A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2007 · 评课社区 · 候选未确认 · <https://icourse.club/course/25857/>：评课页仅作为课程归属证据，不是新资料
 - 课程 EE2007 · GitHub · 候选未确认 · <https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%BD%9C%E4%B8%9A%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/1-4%E7%AB%A0%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf>：与编号32字节相同
+- 课程 EE2007 · 评课社区 · 受阻 · <https://icourse.club/course/25857/#review-104677>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 EE2007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2009 · 评课社区 · 受阻 · <https://icourse.club/course/25882/#review-99351>：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 EE2009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2501 · 评课社区 · 受阻 · <https://icourse.club/course/21877/#review-78586>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 EE2501 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/dian-zi-ji-shu-ji-chu-han-mo-ni-dian-lu.md>：课程资料簿有《电子技术基础（含模拟电路）》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
+- 课程 EE2502 · 评课社区 · 受阻 · <https://icourse.club/course/21880/#review-100969>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 EE2502 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/shu-zi-dian-lu.md>：课程资料簿有《数字电路》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
 - 课程 EE2503 · 公开网页 · 空壳 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/dian-lu-dian-ji-he-shi-gun-chu-wu-yuan-bi-xiu/dian-zi-xian-lu-shi-yan-todo.md>：课程资料簿有《电子线路实验（TODO）》页但为TODO空页，无实际内容；不发布为资源。
 - 课程 EE2505 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE2506A · 评课社区 · 受阻 · <https://icourse.club/course/25969/#review-100641>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：扫描分享页需脚本渲染，匿名无法核对；点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 EE2506A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE2506B · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE3003 · 评课社区 · 候选未确认 · <https://icourse.club/course/2444/>：评课页仅作为课程归属证据，不是新资料
+- 课程 EE3003 · 评课社区 · 受阻 · <https://icourse.club/course/24519/#review-102926>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 EE3003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE3004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE3005 · 评课社区 · 受阻 · <https://icourse.club/course/4495/#review-90474>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 EE3005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE3006 · 评课社区 · 受阻 · <https://icourse.club/course/21863/#review-56334>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
 - 课程 EE3006 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE3007 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
 - 课程 EE3007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE3501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE3502 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4001 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE4002 · 评课社区 · 受阻 · <https://icourse.club/course/21844/#review-80559>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 EE4002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32820,9 +40272,11 @@
 - 课程 EE4009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4010 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4011A · 评课社区 · 候选未确认 · <https://icourse.club/course/25210/>：评课页仅作为课程归属证据，不是新资料
+- 课程 EE4011A · 评课社区 · 受阻 · <https://icourse.club/course/25210/#review-94287>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 EE4011A · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4013 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4014 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 EE4501 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 EE4501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 EE4701 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ENVS3002 · 评课社区 · 候选未确认 · <https://icourse.club/course/4348/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
@@ -32831,12 +40285,14 @@
 - 课程 ESS1505 · GitHub · 受阻 · <https://github.com/search?q=%E7%8F%A0%E5%AE%9D%E7%8E%89%E7%9F%B3%E9%89%B4%E8%B5%8F%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1506 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E6%8E%A2%E7%B4%A2%E4%B8%8E%E9%87%8E%E5%A4%96%E8%80%83%E5%AF%9FI%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1507 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E6%8E%A2%E7%B4%A2%E4%B8%8E%E9%87%8E%E5%A4%96%E8%80%83%E5%AF%9FII%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 ESS1509 · 评课社区 · 受阻 · <https://icourse.club/course/21291/#review-84298>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 ESS1509 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E4%B8%8E%E5%9C%B0%E7%90%83%E6%BC%94%E5%8C%96%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1510 · GitHub · 受阻 · <https://github.com/search?q=%E5%AE%87%E5%AE%99%E5%AE%9C%E5%B1%85%E6%80%A7%EF%BC%9A%E8%A1%8C%E6%98%9F%E6%8F%AD%E7%A7%98%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1511 · GitHub · 受阻 · <https://github.com/search?q=%E6%9C%80%E7%BE%8E%E7%9A%84%E7%84%B0%E7%81%AB%EF%BC%9A%E7%81%AB%E5%B1%B1%E8%A7%A3%E5%AF%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1512 · GitHub · 受阻 · <https://github.com/search?q=%E5%8D%97%E6%9E%81%EF%BC%9A%E4%BB%8E%E6%8E%A2%E9%99%A9%E5%88%B0%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1513 · GitHub · 受阻 · <https://github.com/search?q=%E6%B0%94%E8%B1%A1%E4%B8%8E%E6%91%84%E5%BD%B1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS1515 · GitHub · 受阻 · <https://github.com/search?q=%E6%8E%A2%E7%A7%98%E5%8D%8E%E5%A4%8F%E5%90%8D%E5%B1%B1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 ESS2006 · 评课社区 · 受阻 · <https://icourse.club/course/22015/#review-90992>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 ESS2006 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E5%92%8C%E7%A9%BA%E9%97%B4%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS2006 · 评课社区 · 候选未确认 · <https://icourse.club/course/22015/>：附件需登录，未核验卷面/年份/解答：风阻尼器在高楼抗震中的运用.docx；地概笔记.docx
 - 课程 ESS2008 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA-%E5%A4%A7%E6%B0%94%E6%B5%B7%E6%B4%8B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -32847,11 +40303,31 @@
 - 课程 ESS3003 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS3004 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS4001 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E8%87%AA%E4%B8%BB%E6%80%A7%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 ESS4002 · 评课社区 · 受阻 · <https://icourse.club/course/23569/#review-91407>：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 ESS4002 · GitHub · 受阻 · <https://github.com/search?q=%E8%88%AA%E5%A4%A9%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS4002 · 评课社区 · 候选未确认 · <https://icourse.club/course/23569/>：附件需登录，未核验卷面/年份/解答：航天电子电路设计_01 .pdf；航天电子电路设计_02 .pdf；航天电子电路设计_03-04.pdf；航天电子电路设计_05.pdf；航天电子电路设计_06.pdf；航天电子电路设计_07.pdf
+- 课程 ESS4004 · 评课社区 · 受阻 · <https://icourse.club/course/23094/#review-78812>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 ESS4004 · GitHub · 受阻 · <https://github.com/search?q=%E8%88%AA%E5%A4%A9%E5%99%A8%E8%BD%A8%E9%81%93%E5%8A%A8%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS4005 · GitHub · 受阻 · <https://github.com/search?q=%E6%99%AE%E9%80%9A%E5%9C%B0%E8%B4%A8%E5%AD%A6%E9%87%8E%E5%A4%96%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 ESS4702 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%B3%BB%E7%BB%9F%E9%87%8E%E5%A4%96%E7%BB%BC%E5%90%88%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 FIN1503 · 评课社区 · 受阻 · <https://icourse.club/course/6343/#review-27681>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 FIN2001 · 评课社区 · 受阻 · <https://icourse.club/course/20334/#review-60332>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 FIN3002 · 评课社区 · 受阻 · <https://icourse.club/course/21296/#review-50119>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 FL1003 · 评课社区 · 受阻 · <https://icourse.club/course/19192/#review-26294>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 FL1004 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 FL1005 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 FL1006 · 评课社区 · 受阻 · <https://icourse.club/course/20079/#review-104883>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+- 课程 FL1007 · 评课社区 · 受阻 · <https://icourse.club/course/19210/#review-88339>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 FL1008 · 评课社区 · 受阻 · <https://icourse.club/course/20082/#review-35132>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 FL1010 · 评课社区 · 受阻 · <https://icourse.club/course/19213/#review-75731>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 FL1011 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 11 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+- 课程 FL1103A · 评课社区 · 受阻 · <https://icourse.club/course/6421/#review-106540>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+- 课程 FL1105A · 评课社区 · 受阻 · <https://icourse.club/course/22110/#review-55134>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 FL1110A · 评课社区 · 受阻 · <https://icourse.club/course/20091/#review-38542>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+- 课程 FL1501 · 评课社区 · 受阻 · <https://icourse.club/course/19218/#review-32582>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 FL1506 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 FL1507 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 0 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
+- 课程 FS1001 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 GEOL3001 · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%AA%E5%99%A8%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOL3002 · GitHub · 受阻 · <https://github.com/search?q=%E4%BB%AA%E5%99%A8%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOL3003 · GitHub · 受阻 · <https://github.com/search?q=%E5%B2%A9%E7%9F%B3%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -32865,69 +40341,149 @@
 - 课程 GEOP2702 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP3001 · GitHub · 受阻 · <https://github.com/search?q=%E8%BF%9E%E7%BB%AD%E4%BB%8B%E8%B4%A8%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP3002 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%94%B5%E5%9C%B0%E7%A3%81%E5%AD%A6%E7%90%86%E8%AE%BA%E4%B8%8E%E5%BA%94%E7%94%A8%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP3003 · 评课社区 · 受阻 · <https://icourse.club/course/6579/#review-86366>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 GEOP3003 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8D%E5%8A%9B%E4%B8%8E%E5%9B%BA%E4%BD%93%E6%BD%AE%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP3004 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP3005 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 GEOP3005 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E5%9F%BA%E7%A1%80%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP3006 · 评课社区 · 受阻 · <https://icourse.club/course/22552/#review-86812>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 GEOP3006 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E6%8E%A2%E6%B5%8B%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP3007 · 评课社区 · 受阻 · <https://icourse.club/course/12858/#review-97861>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：target_not_found_404；anonymous_dom_login_placeholder
 - 课程 GEOP3007 · GitHub · 受阻 · <https://github.com/search?q=%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP3008 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
 - 课程 GEOP3008 · GitHub · 受阻 · <https://github.com/search?q=%E7%A3%81%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP3009 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 9 条、登录占位/无法匿名核验受阻 6 条；未使用包内直链反查。
 - 课程 GEOP3009 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E7%89%A9%E7%90%86%E5%AD%A6%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP3009 · 评课社区 · 候选未确认 · <https://icourse.club/course/22553/>：附件需登录，未核验卷面/年份/解答：太阳物理.pdf；电离层思考题.pdf；summery-sun.pdf；summery-inosphere.pdf
 - 课程 GEOP3009 · 公开网页 · 候选未确认 · <https://github.com/FrazierLei/PornHub-Downloader>：疑似相关 1 条，例：GitHub - FrazierLei/PornHub-Downloader: 基于 Aiohttp；未打开核验
 - 课程 GEOP4002 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%92%8C%E5%88%86%E6%9E%90%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP4003 · 评课社区 · 受阻 · <https://icourse.club/course/1526/#review-30312>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 GEOP4003 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E9%9C%87%E5%8B%98%E6%8E%A2%E5%BC%95%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4004 · GitHub · 受阻 · <https://github.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4005 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E6%88%90%E5%83%8F%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4008 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E5%88%9B%E6%96%B0%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP4010 · 评课社区 · 受阻 · <https://icourse.club/course/22019/#review-63420>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 GEOP4010 · GitHub · 受阻 · <https://github.com/search?q=%E7%A9%BA%E9%97%B4%E7%8E%AF%E5%A2%83%E4%B8%8E%E8%88%AA%E5%A4%A9%E5%B7%A5%E7%A8%8B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 GEOP4011 · 评课社区 · 受阻 · <https://icourse.club/course/22000/#review-61918>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 GEOP4011 · GitHub · 受阻 · <https://github.com/search?q=%E9%81%A5%E6%84%9F%E6%8A%80%E6%9C%AF%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4011 · 评课社区 · 候选未确认 · <https://icourse.club/course/22000/>：附件需登录，未核验卷面/年份/解答：2022秋季学期《遥感技术》期末试卷回忆版.pdf
+- 课程 GEOP4013 · 评课社区 · 受阻 · <https://icourse.club/course/23637/#review-88033>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 GEOP4013 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E5%A4%A7%E6%B0%94%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4013 · 评课社区 · 候选未确认 · <https://icourse.club/course/23637/>：附件需登录，未核验卷面/年份/解答：行星大气复习小抄.pdf；行星大气小抄.docx
 - 课程 GEOP4015 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4016 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E7%90%83%E7%89%A9%E7%90%86%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 GEOP4017 · GitHub · 受阻 · <https://github.com/search?q=%E5%9C%B0%E8%B4%A8%E5%AD%A6%E4%B8%8E%E5%A4%A7%E5%9C%B0%E6%9E%84%E9%80%A0%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 HS1504 · 评课社区 · 受阻 · <https://icourse.club/course/20896/#review-89127>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 HS1509M · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 HS1514M · 评课社区 · 受阻 · <https://icourse.club/course/19465/#review-97929>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 HS1519 · 评课社区 · 受阻 · <https://icourse.club/course/229/#review-86254>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 HS1521 · 评课社区 · 受阻 · <https://icourse.club/course/18372/#review-38191>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 HS1524 · 评课社区 · 受阻 · <https://icourse.club/course/18066/#review-96552>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 HS1528 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB>：课程论文且已有记录，不增含个人标识的文件级入口
+- 课程 HS1528 · 评课社区 · 受阻 · <https://icourse.club/course/3263/#review-104073>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 HS1531 · 评课社区 · 受阻 · <https://icourse.club/course/25265/#review-92859>：评课包复核 14 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；匿名访问失败（超时/连接错误/验证页），无法核对内容；目标返回 403 或人机验证，匿名无法核对
 - 课程 HS1534 · GitHub · 候选未确认 · <https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6>：已有记录，正文含学生学号
+- 课程 HS1534 · 评课社区 · 受阻 · <https://icourse.club/course/5056/#review-34460>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 HS1536 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 2 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+- 课程 HS1548 · 评课社区 · 受阻 · <https://icourse.club/course/6040/#review-96550>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 HS1551 · GitHub · 候选未确认 · <https://github.com/dasWalpurgis/USTC/tree/main/%E4%BA%A4%E5%93%8D%E4%B9%90%E8%B5%8F%E6%9E%90>：课程论文且已有记录，不增含个人标识的文件级入口
+- 课程 HS1551 · 评课社区 · 受阻 · <https://icourse.club/course/294/#review-89765>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 HS1560 · 评课社区 · 受阻 · <https://icourse.club/course/20135/#review-44363>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：网盘分享/校内云盘，匿名无法核对内容与权限
+- 课程 HS1577M · 评课社区 · 受阻 · <https://icourse.club/course/19690/#review-95029>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 HS1581 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 HS1590 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 HS1593 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 HS1594 · 评课社区 · 受阻 · <https://icourse.club/course/21944/#review-85844>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+- 课程 HS1606 · 评课社区 · 受阻 · <https://icourse.club/course/24243/#review-96783>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 HS1610M · 评课社区 · 受阻 · <https://icourse.club/course/22563/#review-95813>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 HS1611 · 评课社区 · 受阻 · <https://icourse.club/course/22564/#review-103209>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 HS1634 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 HS1639 · 评课社区 · 受阻 · <https://icourse.club/course/24245/#review-83426>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：目标返回 403 或人机验证，匿名无法核对；匿名访问失败（超时/连接错误/验证页），无法核对内容；公众号页面需验证，匿名无法核对
 - 课程 HS1648 · 评课社区 · 候选未确认 · <https://icourse.club/course/24253/>：评课页仅作为课程归属证据，不是新资料
+- 课程 HS1648 · 评课社区 · 受阻 · <https://icourse.club/course/24784/#review-104750>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 HS1651 · 评课社区 · 受阻 · <https://icourse.club/course/24787/#review-92936>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 HS1653 · 评课社区 · 受阻 · <https://icourse.club/course/24789/#review-93041>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；公众号页面需验证，匿名无法核对
 - 课程 IC1901 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC2701 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC3001 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC4001 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC4002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 IC4003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 INEE1509 · 评课社区 · 受阻 · <https://icourse.club/course/22578/#review-71043>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
 - 课程 IS1901 · GitHub · 受阻 · <https://github.com/search?q=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E7%9A%84%E8%89%BA%E6%9C%AF%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3001 · GitHub · 受阻 · <https://github.com/search?q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E5%BA%94%E7%94%A8%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3002 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3003 · GitHub · 受阻 · <https://github.com/search?q=%E5%AF%86%E7%A0%81%E5%B7%A5%E7%A8%8B%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3004 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
 - 课程 IS3005 · GitHub · 受阻 · <https://github.com/search?q=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5%20USTC&type=repositories>：HTTP 429；改慢速重试仍受限，同日不再重复请求
+- 课程 MARX1010 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 24 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 MARX1011 · 评课社区 · 候选未确认 · <https://icourse.club/course/6867/>：评课页仅作为课程归属证据，不是新资料
+- 课程 MARX1011 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 MARX1011 study 条目已覆盖 notes 目录；补基本概念、定理及推论两份 Markdown 文件级入口。
+- 课程 MARX1011 · 评课社区 · 候选未确认 · <https://icourse.club/course/23671/#review-98420>：评课包复核 2 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 MARX1011 · 评课社区 · 受阻 · <https://icourse.club/course/20920/#review-88766>：评课包复核 69 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
+- 课程 MARX1012 · 评课社区 · 受阻 · <https://icourse.club/course/20925/#review-86242>：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
 - 课程 MARX1013 · 评课社区 · 候选未确认 · <https://icourse.club/course/18075/>：评课页仅作为课程归属证据，不是新资料
+- 课程 MARX1013 · 评课社区 · 受阻 · <https://icourse.club/course/18075/#review-93198>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
+- 课程 MARX1014 · 评课社区 · 受阻 · <https://icourse.club/course/24800/#review-98600>：评课包复核 24 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；公众号页面需验证，匿名无法核对
+- 课程 MARX1503 · 评课社区 · 受阻 · <https://icourse.club/course/22584/#review-83598>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 MATH1002 · 评课社区 · 受阻 · <https://icourse.club/course/12392/#review-23487>：评课包复核 19 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 MATH1003 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 MATH1004 · 评课社区 · 受阻 · <https://icourse.club/course/12386/#review-84696>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 MATH1005 · 评课社区 · 受阻 · <https://icourse.club/course/18270/#review-72509>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 MATH1006 · 评课社区 · 受阻 · <https://icourse.club/course/26560/#review-99720>：评课包复核 132 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 MATH1007 · 评课社区 · 受阻 · <https://icourse.club/course/21345/#review-85766>：评课包复核 87 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
+- 课程 MATH1008 · 评课社区 · 受阻 · <https://icourse.club/course/14210/#review-75944>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+- 课程 MATH1008 · 评课社区 · 重复或镜像 · <https://icourse.club/course/14210/#review-87955>：评课包复核 3 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与既有条目 mp-uexam-math1008-2024-final-b96212 为同一份试卷（2024—2025 学年第一学期期末，数学分析(B3)），不重复计入。
 - 课程 MATH1008 · 评课社区 · 候选未确认 · <https://icourse.club/course/14210/>：附件需登录，未核验卷面/年份/解答：数学分析B3评分标准.pdf
+- 课程 MATH1009 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 154 条、登录占位/无法匿名核验受阻 50 条；未使用包内直链反查。
 - 课程 MATH1009 · 评课社区 · 重复或镜像 · <https://icourse.club/uploads/files/1fd2e6e6f6d7334b7a8d7313fcf1396fbf360e27.pdf>：核对并修正 mp-feixu-math1009-exams-e05a1e；feixu 副本与 icourse 版本字节不同但同源同日次版
 - 课程 MATH1009 · 公开网页 · 重复或镜像 · <https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2014%E2%80%942015%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf>：核对并修正 mp-feixu-math1009-exams-e6b2ad；与 feixu「2014-2015第二学期…期中参考答案」字节一致；仓库内另有同 blob 的「2015—2016第一学期期中」重复上传
 - 课程 MATH1009 · 公开网页 · 重复或镜像 · <https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>：核对并修正 mp-feixu-math1009-exams-2ee23c；与 feixu 同名文件字节一致
+- 课程 MATH1010 · 评课社区 · 受阻 · <https://icourse.club/course/5494/#review-58315>：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 MATH1010 · 评课社区 · 重复或镜像 · <https://icourse.club/course/5495/#review-88028>：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：同场 2024 秋线性代数B2 期末已有收录，本条为手写回忆版，不重复计
 - 课程 MATH1011 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E7%A7%AF%E5%88%86I%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH1012 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E7%A7%AF%E5%88%86II%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH1013 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E7%A7%AF%E5%88%86III%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 MATH2001 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes>：旧库复核 2 条候选；有效或补入口 2 条；结果 duplicate。 主要理由：既有 MATH2001 study 条目指向课程目录；补 cm-uncompleted 复习提纲 PDF 文件级入口（.tex 为源文件不单列）。；既有 notes 条目 mp-gh-math2001-notes-730cce 误指计算方法根目录并描述 labs 文件（1.cpp、Lagrange.m、N*type*.png 等）；应指向 /notes（README.md、cm-uncompleted.pdf/tex 共 3 文件），不误记实验。；既有 projects 条目 mp-gh-math2001-projects-730cce 误指计算方法根目录；应指向 /labs（lab1-lab5，35 文件）；notes 不误记。
+- 课程 MATH2001 · 评课社区 · 受阻 · <https://icourse.club/course/20952/#review-94108>：评课包复核 30 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 MATH2003 · 评课社区 · 受阻 · <https://icourse.club/course/23682/#review-87770>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 MATH2003 · 公开网页 · 受阻 · <https://ustcmathexam.github.io../USTC/2024geointrofinal.pdf>：目录行存在但文件缺失（仅 2024geointromid.pdf），不发布为正式资源
 - 课程 MATH2003 · 公开网页 · 受阻 · <https://ustcmathexam.github.io../USTC/2024geointroquiz1.pdf>：小测文件缺失，未发布为正式资源
+- 课程 MATH2004 · 评课社区 · 受阻 · <https://icourse.club/course/20624/#review-41945>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；匿名访问失败（TLS 连接失败），无法核对
 - 课程 MATH2004 · 评课社区 · 候选未确认 · <https://icourse.club/course/23418/>：附件需登录，未核验卷面/年份/解答：24秋代数学基础期中.pdf；Foundation of Algebra -- Final Test.pdf
+- 课程 MATH2501 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 3 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
+- 课程 MATH2502 · 评课社区 · 受阻 · <https://icourse.club/course/22362/#review-101241>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 MATH2502 · GitHub · 受阻 · <https://github.com/search?q=%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH2502 · 评课社区 · 候选未确认 · <https://icourse.club/course/22362/>：附件需登录，未核验卷面/年份/解答：2025秋微分方程概论(王毅)期末考试试卷回忆版.pdf；2023秋微分方程概论习题课.zip；微分方程习题课讲义_2025.zip；23微分方程概论期末部分试题回忆版.pdf；24微分方程概论期末回忆版.pdf
 - 课程 MATH2801 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%A6%E5%BC%BA%E5%9F%BA%E8%AE%A8%E8%AE%BA%E7%8F%ADI%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH2802 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%A6%E5%BC%BA%E5%9F%BA%E8%AE%A8%E8%AE%BA%E7%8F%ADII%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 MATH3001 · 评课社区 · 重复或镜像 · <https://icourse.club/course/6520/#review-67558>：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：与同一点评内的首张图片同属一份材料，合并为同一条目。
+- 课程 MATH3001 · 评课社区 · 候选未确认 · <https://icourse.club/course/6520/#review-67558>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 MATH3001 · 评课社区 · 受阻 · <https://icourse.club/course/6520/#review-83625>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；页面无可辨识正文（脚本渲染），匿名无法核对
+- 课程 MATH3002 · 评课社区 · 受阻 · <https://icourse.club/course/12373/#review-67036>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
 - 课程 MATH3003 · 公开网页 · 受阻 · <https://ustcmathexam.github.io../USTC/2022Stopomid.pdf>：期中文件缺失，未发布为正式资源
+- 课程 MATH3004 · 评课社区 · 受阻 · <https://icourse.club/course/24812/#review-88389>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
+- 课程 MATH3005 · 评课社区 · 受阻 · <https://icourse.club/course/12817/#review-87942>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 MATH3007 · 评课社区 · 重复或镜像 · <https://icourse.club/course/3839/#review-95955>：评课包复核 2 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：概率/统计往年试卷页已在既有条目中作为入口收录，本条不重复计；该图即 2024 秋《概率论》期末试题（2024.12.25），与既有 2024Fprobfinal 原卷逐题一致，不重复计
+- 课程 MATH3007 · 评课社区 · 受阻 · <https://icourse.club/course/3839/#review-95955>：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；公众号页面需验证，匿名无法核对
+- 课程 MATH3007 · 评课社区 · 候选未确认 · <https://icourse.club/course/3839/#review-87982>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 MATH3008 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 8 条、登录占位/无法匿名核验受阻 4 条；未使用包内直链反查。
+- 课程 MATH3009 · 评课社区 · 受阻 · <https://icourse.club/course/21912/#review-79725>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 MATH3009 · 评课社区 · 候选未确认 · <https://icourse.club/course/21912/>：附件需登录，未核验卷面/年份/解答：微分几何习题课讲义.pdf；第一次习题课by黄天一.pdf；第三次习题课by黄天一.pdf；第五次习题课by黄天一.pdf；第七次习题课by黄天一.pdf
+- 课程 MATH3010 · 评课社区 · 受阻 · <https://icourse.club/course/20622/#review-87889>：评课包复核 7 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 MATH3011 · 评课社区 · 受阻 · <https://icourse.club/course/23685/#review-90556>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 MATH3011 · 评课社区 · 候选未确认 · <https://icourse.club/course/23685/>：附件需登录，未核验卷面/年份/解答：期中小测.pdf；2025 秋运筹学期末试卷.pdf；opt for data.pdf
+- 课程 MATH3013 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 MATH3013 · GitHub · 受阻 · <https://github.com/search?q=%E6%A6%82%E7%8E%87%E8%AE%BA%E8%BF%9B%E9%98%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH3013 · 评课社区 · 候选未确认 · <https://icourse.club/course/21353/>：附件需登录，未核验卷面/年份/解答：概率论进阶.pdf
 - 课程 MATH3014 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E8%BF%9B%E9%98%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 MATH3015 · 评课社区 · 候选未确认 · <https://icourse.club/course/21915/#review-74834>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
+- 课程 MATH3015 · 评课社区 · 受阻 · <https://icourse.club/course/21915/#review-74938>：评课包复核 5 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
 - 课程 MATH3015 · GitHub · 受阻 · <https://github.com/search?q=%E7%BB%84%E5%90%88%E5%AD%A6%E8%BF%9B%E9%98%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 MATH3016 · 评课社区 · 受阻 · <https://icourse.club/course/21913/#review-88815>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 MATH3016 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E8%BF%9B%E9%98%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH3016 · 评课社区 · 候选未确认 · <https://icourse.club/course/21913/>：附件需登录，未核验卷面/年份/解答：final.pdf；数理统计进阶笔记.pdf；数理统计进阶资料.zip
+- 课程 MATH3701 · 评课社区 · 受阻 · <https://icourse.club/course/24813/#review-94099>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 MATH3701 · GitHub · 受阻 · <https://github.com/search?q=%E5%8D%8E%E7%BD%97%E5%BA%9A%E8%AE%A8%E8%AE%BA%E7%8F%AD%28H%29%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH3701 · 评课社区 · 候选未确认 · <https://icourse.club/course/24813/>：附件需登录，未核验卷面/年份/解答：On some objects of complex dynamics.pdf
 - 课程 MATH3702e · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2015%E5%A4%8D%E5%88%86%E6%9E%90H%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf>：卷面课程为“复分析(H)”，但官方 2025秋—2026秋本科课程全集无 001701；现目录只有 MATH3702e《复分析(H)(英)》、001676EX《复分析(习题)》与 001676f《复分析(法)》，无法确认卷面 H 课对应代码或继任关系。
@@ -32954,8 +40510,10 @@
 - 课程 MATH3702e · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90>：复分析(H)与 MATH3702e 复分析(H)(英) 仅名称相近，无同课代码证据，不猜继任；不发布为正式资源
 - 课程 MATH3702e · 公开网页 · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90>：复分析(H)与 MATH3702e 复分析(H)(英) 仅名称相近，无同课代码证据，不猜继任；不发布为正式资源
 - 课程 MATH3702e · 评课社区 · 候选未确认 · <https://icourse.club/course/25303/>：附件需登录，未核验卷面/年份/解答：Review_Notes.pdf；Stein Chap 9.pdf；复分析期中复习-2.pdf；2026 Spring Complex Analysis (H, En) Final.pdf
+- 课程 MATH4001 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 8 条、登录占位/无法匿名核验受阻 2 条；未使用包内直链反查。
 - 课程 MATH4002 · 评课社区 · 候选未确认 · <https://icourse.club/course/21469/>：附件需登录，未核验卷面/年份/解答：MidTerm_Test.pdf；Final_Test.pdf
 - 课程 MATH4003 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E5%AD%A6%E5%89%8D%E6%B2%BF%E8%AF%BE%E7%A8%8B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 MATH4004 · 评课社区 · 受阻 · <https://icourse.club/course/26410/#review-102127>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 MATH4004 · GitHub · 受阻 · <https://github.com/search?q=%E7%8E%B0%E4%BB%A3%E6%A6%82%E7%8E%87%E6%96%B9%E6%B3%95%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 MATH4004 · 评课社区 · 候选未确认 · <https://icourse.club/course/26410/>：附件需登录，未核验卷面/年份/解答：Analysis on Gaussian Spaces (Yaozhong Hu).pdf；Concentration_inequalities-1.pdf
 - 课程 ME1501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32965,19 +40523,27 @@
 - 课程 ME2002 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2003 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2005 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 12 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
 - 课程 ME2005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2006 · 评课社区 · 受阻 · <https://icourse.club/course/23690/#review-97971>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 ME2006 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue.md>：课程资料簿有《理论力学》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
 - 课程 ME2007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2008 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2010 · 评课社区 · 受阻 · <https://icourse.club/course/22075/#review-94777>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 ME2010 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2011 · 评课社区 · 受阻 · <https://icourse.club/course/25319/#review-95119>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
 - 课程 ME2011 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2012 · 评课社区 · 受阻 · <https://icourse.club/course/24302/#review-95165>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 ME2012 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2013 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 ME2013 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2014 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2015 · 评课社区 · 受阻 · <https://icourse.club/course/25801/#review-101081>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
 - 课程 ME2015 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2016 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2017 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2501 · 评课社区 · 受阻 · <https://icourse.club/course/21953/#review-100708>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 ME2501 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2503 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME3001 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -32987,6 +40553,7 @@
 - 课程 ME3005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME3006 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME3007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME3008 · 评课社区 · 受阻 · <https://icourse.club/course/23694/#review-85066>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 ME3008 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME3009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME3010 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -33001,6 +40568,7 @@
 - 课程 ME4007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME4008 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME4009 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME4011 · 评课社区 · 受阻 · <https://icourse.club/course/2636/#review-41556>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 ME4011 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME4012 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME4013 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -33017,7 +40585,11 @@
 - 课程 ME4034 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME4502 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME4701 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 MED1501 · 评课社区 · 受阻 · <https://icourse.club/course/20381/#review-58160>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 MED1502 · 评课社区 · 受阻 · <https://icourse.club/course/21356/#review-45574>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 MED1503G · 评课社区 · 受阻 · <https://icourse.club/course/25335/#review-96722>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 MED2002 · 评课社区 · 候选未确认 · <https://icourse.club/course/10114/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 MED2003 · 评课社区 · 受阻 · <https://icourse.club/course/14252/#review-36643>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 MED2006 · 评课社区 · 候选未确认 · <https://icourse.club/course/19052/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 MED2007 · 评课社区 · 候选未确认 · <https://icourse.club/course/24691/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 MED3009 · 评课社区 · 候选未确认 · <https://icourse.club/course/19060/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
@@ -33027,13 +40599,19 @@
 - 课程 MED3026 · 评课社区 · 候选未确认 · <https://icourse.club/course/22089/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 MED3027 · 评课社区 · 候选未确认 · <https://icourse.club/course/23704/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 MED3028 · 评课社区 · 候选未确认 · <https://icourse.club/course/20240/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 MIL1002 · 评课社区 · 受阻 · <https://icourse.club/course/21173/#review-91391>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 MNSC2003 · 评课社区 · 受阻 · <https://icourse.club/course/21358/#review-68439>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
+- 课程 MNSC3008 · 评课社区 · 受阻 · <https://icourse.club/course/21360/#review-71219>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
+- 课程 NNM1501 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
 - 课程 NSE2001 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E7%A7%91%E5%AD%A6%E5%B7%A5%E7%A8%8B%E5%89%8D%E6%B2%BF%E8%AE%B2%E5%9D%9B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE2002 · GitHub · 受阻 · <https://github.com/search?q=%E4%BC%A0%E7%83%AD%E5%AD%A6B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE3001 · GitHub · 受阻 · <https://github.com/search?q=%E8%BE%90%E5%B0%84%E9%98%B2%E6%8A%A4%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE3002 · GitHub · 受阻 · <https://github.com/search?q=%E5%B7%A5%E7%A8%8B%E7%89%A9%E7%90%86%E5%8F%8A%E5%85%B6%E6%96%B9%E6%B3%95%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 NSE3006 · 评课社区 · 受阻 · <https://icourse.club/course/18700/#review-83993>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 NSE3006 · GitHub · 受阻 · <https://github.com/search?q=%E5%8F%8D%E5%BA%94%E5%A0%86%E7%89%A9%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE3007 · GitHub · 受阻 · <https://github.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8E%A5%E5%8F%A3%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE3008 · GitHub · 受阻 · <https://github.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E4%B8%8E%E6%8E%A5%E5%8F%A3%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 NSE3009 · 评课社区 · 受阻 · <https://icourse.club/course/22629/#review-83601>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 NSE3009 · GitHub · 受阻 · <https://github.com/search?q=%E5%B7%A5%E7%A8%8B%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE3009 · 评课社区 · 候选未确认 · <https://icourse.club/course/22629/>：附件需登录，未核验卷面/年份/解答：工程物理实验报告.rar
 - 课程 NSE3010 · GitHub · 受阻 · <https://github.com/search?q=%E5%8A%A0%E9%80%9F%E5%99%A8%E6%A6%82%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -33043,6 +40621,7 @@
 - 课程 NSE4006 · GitHub · 受阻 · <https://github.com/search?q=%E7%8E%B0%E4%BB%A3X%E5%85%89%E7%89%A9%E7%90%86%E5%8E%9F%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE4007 · GitHub · 受阻 · <https://github.com/search?q=%E7%AD%89%E7%A6%BB%E5%AD%90%E4%BD%93%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE4008 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%89%E5%AD%90%E7%A7%91%E5%AD%A6%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 NSE4009 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 NSE4009 · GitHub · 受阻 · <https://github.com/search?q=%E5%8A%A0%E9%80%9F%E5%99%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE4010 · GitHub · 受阻 · <https://github.com/search?q=%E7%BA%B3%E7%B1%B3%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE4011 · GitHub · 受阻 · <https://github.com/search?q=%E6%8E%A2%E6%B5%8B%E5%99%A8%E5%8E%9F%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -33052,30 +40631,56 @@
 - 课程 NSE4019 · GitHub · 受阻 · <https://github.com/search?q=%E7%A7%91%E5%AD%A6%E4%BB%AA%E5%99%A8%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE4020 · GitHub · 受阻 · <https://github.com/search?q=%E5%B0%84%E9%A2%91%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 NSE4021 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%88%E8%BF%9B%E5%85%89%E6%BA%90%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PE1502 · 评课社区 · 受阻 · <https://icourse.club/course/3824/#review-56663>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容
+- 课程 PHYS1001A · 评课社区 · 受阻 · <https://icourse.club/course/19967/#review-27995>：评课包复核 25 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+- 课程 PHYS1001B · 评课社区 · 受阻 · <https://icourse.club/course/20177/#review-93419>：评课包复核 23 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 PHYS1001B · 评课社区 · 候选未确认 · <https://icourse.club/course/20178/>：附件需登录，未核验卷面/年份/解答：一次有趣的作业.pdf
+- 课程 PHYS1001H · 评课社区 · 受阻 · <https://icourse.club/course/23763/#review-78489>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 PHYS1001H · 评课社区 · 候选未确认 · <https://icourse.club/course/23763/>：附件需登录，未核验卷面/年份/解答：《力学与理论力学 (第二版) 》习题解答 (杨维纮) (z-library.sk, 1lib.sk, z-lib.sk).pdf
+- 课程 PHYS1002A · 评课社区 · 受阻 · <https://icourse.club/course/20189/#review-69168>：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位；按门槛判 blocked
 - 课程 PHYS1002A · 评课社区 · 候选未确认 · <https://icourse.club/course/20189/>：附件需登录，未核验卷面/年份/解答：热学笔记.pdf
+- 课程 PHYS1002B · 评课社区 · 受阻 · <https://icourse.club/course/19599/#review-50763>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_access_unconfirmed；anonymous_dom_login_placeholder
+- 课程 PHYS1003A · 评课社区 · 受阻 · <https://icourse.club/course/21005/#review-81177>：评课包复核 13 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
+- 课程 PHYS1003B · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 PHYS1003B · GitHub · 受阻 · <https://github.com/search?q=%E5%85%89%E5%AD%A6B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PHYS1004A · 评课社区 · 受阻 · <https://icourse.club/course/4937/#review-69650>：评课包复核 32 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；匿名访问失败（超时/连接错误/验证页），无法核对内容
+- 课程 PHYS1004A · 评课社区 · 候选未确认 · <https://icourse.club/course/22651/#review-102520>：评课包复核 2 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 PHYS1004A · 评课社区 · 重复或镜像 · <https://icourse.club/course/22651/#review-103683>：评课包复核 5 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：点评称「附一下期中的原卷（虽然已经有回忆版了）」，与既有 2026 期中卷同场，不重复计；为 2026 春卢三电磁学A期中卷面的排版整理版，与既有原卷同场，不重复计；该页题面（电介质球极化电荷、导体球漏电介质）与既有 2026 春电磁学A期末原卷同页内容一致，不重复计
+- 课程 PHYS1004B · 评课社区 · 受阻 · <https://icourse.club/course/4969/#review-59283>：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；网盘分享，匿名无法核对内容与提取条件；附件在原页可见但现返回 404，无法核对
+- 课程 PHYS1004B · 评课社区 · 候选未确认 · <https://icourse.club/course/21018/#review-41602>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
+- 课程 PHYS1004C · 评课社区 · 受阻 · <https://icourse.club/course/4977/#review-60784>：评课包复核 16 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 PHYS1004H · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容；原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
+- 课程 PHYS1005A · 评课社区 · 受阻 · <https://icourse.club/course/21702/#review-103175>：评课包复核 18 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。；匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
+- 课程 PHYS1005B · 评课社区 · 受阻 · <https://icourse.club/course/21021/#review-100861>：评课包复核 26 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 PHYS1005B · GitHub · 受阻 · <https://github.com/search?q=%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86B%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PHYS1006 · 评课社区 · 受阻 · <https://icourse.club/course/21023/#review-90995>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 PHYS1006 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86I%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS1006 · 评课社区 · 候选未确认 · <https://icourse.club/course/21023/>：附件需登录，未核验卷面/年份/解答：PHYS1006.zip；大学物理学 上册.pdf；大学物理学 下册.pdf
+- 课程 PHYS1007 · 评课社区 · 受阻 · <https://icourse.club/course/21417/#review-105265>：评课包复核 3 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
 - 课程 PHYS1007 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86II%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS1007 · 评课社区 · 候选未确认 · <https://icourse.club/course/21417/>：附件需登录，未核验卷面/年份/解答：物理笔记.pdf
+- 课程 PHYS1008A · 评课社区 · 受阻 · <https://icourse.club/course/20440/#review-35729>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容；无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 PHYS1008A · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PHYS1008B · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 11 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
 - 课程 PHYS1008B · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CB%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS1008B · 评课社区 · 候选未确认 · <https://icourse.club/course/25421/>：附件需登录，未核验卷面/年份/解答：声速测量B.pdf；密度的测量B.pdf
 - 课程 PHYS1008B+ · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8CB%E8%BF%9B%E9%98%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS1008B+ · 公开网页 · 候选未确认 · <https://github.com/dongshuyan/GoogleAccount>：疑似相关 1 条，例：Google 账号购买、养号与学生资格获取完整指南；未打开核验
 - 课程 PHYS1009A · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8CA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PHYS1009B · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交；匿名请求无法读取（403/连接失败/需脚本或登录才能列目录），未确认公开内容
 - 课程 PHYS1009B · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86-%E7%BB%BC%E5%90%88%E5%AE%9E%E9%AA%8CB%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS1009B · 评课社区 · 候选未确认 · <https://icourse.club/course/21901/>：附件需登录，未核验卷面/年份/解答：凯特摆.pdf；非平衡电桥.pdf；二级大雾互助文档ver1.0.pdf
+- 课程 PHYS1010 · 评课社区 · 受阻 · <https://icourse.club/course/22658/#review-66056>：评课包复核 55 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+- 课程 PHYS1010 · 评课社区 · 候选未确认 · <https://icourse.club/course/21420/#review-85044>：评课包复核 18 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
 - 课程 PHYS1010 · 评课社区 · 候选未确认 · <https://icourse.club/course/21420/>：附件需登录，未核验卷面/年份/解答：第1章习题答案.pdf；第2章习题答案.pdf；第3章习题答案.pdf；量物.zip；quantum_answer量子力学答案_周世勋.pdf
 - 课程 PHYS2501 · GitHub · 受阻 · <https://github.com/search?q=%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS2701 · GitHub · 受阻 · <https://github.com/search?q=%E7%89%A9%E7%90%86%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E5%AE%9E%E9%AA%8CI%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS2702 · GitHub · 受阻 · <https://github.com/search?q=%E7%89%A9%E7%90%86%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87%E5%AE%9E%E9%AA%8CII%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PHYS3001 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 4 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 PHYS3001 · GitHub · 受阻 · <https://github.com/search?q=%E6%BF%80%E5%85%89%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8A%80%E6%9C%AF%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS3002 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS3003 · GitHub · 受阻 · <https://github.com/search?q=%E9%87%8F%E5%AD%90%E7%B2%BE%E5%AF%86%E6%B5%8B%E9%87%8F%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PHYS3005 · 评课社区 · 受阻 · <https://icourse.club/course/22661/#review-85043>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 PHYS3005 · GitHub · 受阻 · <https://github.com/search?q=%E5%8F%97%E6%8E%A7%E7%83%AD%E6%A0%B8%E8%81%9A%E5%8F%98%E5%AF%BC%E8%AE%BA%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PHYS3005 · 评课社区 · 候选未确认 · <https://icourse.club/course/22661/>：附件需登录，未核验卷面/年份/解答：聚变试卷2025.pdf；聚变作业总.pdf；惯性约束答案.pdf；磁约束ppt.zip；惯性约束ppt1.zip；惯性约束ppt2.zip
 - 课程 PHYS4001 · GitHub · 受阻 · <https://github.com/search?q=%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%89%8D%E6%B2%BF%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -33099,17 +40704,26 @@
 - 课程 PLNT3003 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E5%A4%A7%E6%B0%94%E6%BC%94%E5%8C%96%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT3004 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E7%89%A9%E8%B4%A8%E7%A7%91%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT3005 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E5%86%85%E9%83%A8%E7%89%A9%E7%90%86%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 PLNT3006 · 评课社区 · 受阻 · <https://icourse.club/course/23638/#review-84565>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 PLNT3006 · GitHub · 受阻 · <https://github.com/search?q=%E5%A4%A9%E4%BD%93%E7%94%9F%E7%89%A9%E5%AD%A6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT3007 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E7%A7%91%E5%AD%A6%E7%BB%BC%E5%90%88%E5%AE%9E%E4%B9%A0%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT4001 · GitHub · 受阻 · <https://github.com/search?q=%E7%B3%BB%E5%A4%96%E8%A1%8C%E6%98%9F%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT4002 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E9%81%A5%E6%84%9F%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT4003 · GitHub · 受阻 · <https://github.com/search?q=%E8%A1%8C%E6%98%9F%E7%A7%91%E5%AD%A6%E7%A0%94%E8%AE%A8%E8%AF%BE%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PLNT4003 · 公开网页 · 候选未确认 · <https://github.com/diyibanzhu/fabu>：疑似相关 1 条，例：GitHub - diyibanzhu/fabu；未打开核验
+- 课程 STAT2001 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 STAT2001 · GitHub · 受阻 · <https://github.com/search?q=%E6%95%B0%E6%8D%AE%E6%80%9D%E7%BB%B4%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 STAT2002 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/notes>：旧库复核 1 条候选；有效或补入口 1 条；结果 duplicate。 主要理由：既有 STAT2002 study 条目指向课程目录；补 P&MS 复习提纲 PDF 文件级入口（README 为说明页不单列）。
+- 课程 STAT2002 · 评课社区 · 候选未确认 · <https://icourse.club/course/21050/#review-40007>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：匿名页附件名为登录提示，文件无可抽取文本，无法确认卷别/年份
+- 课程 STAT2002 · 评课社区 · 受阻 · <https://icourse.club/course/21048/#review-79734>：评课包复核 63 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 STAT2002 · 公开网页 · 受阻 · <https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AF%BE%E6%9C%AC-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E4%B9%A0%E9%A2%98%E9%9B%86%E5%8F%8A%E7%AD%94%E6%A1%88.pdf>：已出版教材（习题集）的整本扫描，未见再分发授权，按方案不收录教材下载，未作为正式资料
+- 课程 STAT3001 · 评课社区 · 受阻 · <https://icourse.club/course/22067/#review-99219>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
+- 课程 STAT3001 · 评课社区 · 候选未确认 · <https://icourse.club/course/22067/#review-75674>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
 - 课程 STAT3001 · GitHub · 受阻 · <https://github.com/search?q=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 STAT3001 · 评课社区 · 候选未确认 · <https://icourse.club/course/22067/>：附件需登录，未核验卷面/年份/解答：17机器学习方法期末.pdf；18机器学习方法期末.pdf；19机器学习方法期末.pdf；试卷讲解.pdf；25机器学习方法期末.pdf；ESL-Solutions.pdf
+- 课程 STAT3002 · 评课社区 · 受阻 · <https://icourse.club/course/18336/#review-25685>：评课包复核 9 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 STAT3002 · GitHub · 受阻 · <https://github.com/search?q=%E5%AE%9E%E7%94%A8%E7%BB%9F%E8%AE%A1%E8%BD%AF%E4%BB%B6%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
+- 课程 STAT3003 · 评课社区 · 受阻 · <https://icourse.club/course/22668/#review-96344>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 STAT3003 · GitHub · 受阻 · <https://github.com/search?q=%E7%BB%9F%E8%AE%A1%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 STAT3003 · 评课社区 · 候选未确认 · <https://icourse.club/course/22668/>：附件需登录，未核验卷面/年份/解答：25统计算法基础期末试卷.pdf；2024秋统计算法基础PPT.zip
 - 课程 STAT4001 · GitHub · 受阻 · <https://github.com/search?q=%E5%B1%9E%E6%80%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
@@ -33125,8 +40739,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 1862 个网址，监控文件覆盖其中 1760 个。
-- 结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 102。
+- 统计范围：统计分母是站点引用的 2184 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 429。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

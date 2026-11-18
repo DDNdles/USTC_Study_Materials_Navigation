@@ -10,6 +10,55 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-MARX1010-b49ce8d15d7acb42",
+      "type": "homework",
+      "title": "中国近现代史纲要 最后一次课小测题目（2 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为最后一次课小测题目，2 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21340/#review-85221",
+        "note": "依据原点评公开正文的作业或小测说明与配图核验；解答情况未明示。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-85221",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/740766acb98dd0e332082de270f431562b81bfc0.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1c4e3c03db4d767ee9d6da2b5d9fff2bed25fe8d510a0d317e6ac1575db139f7",
+            "bytes": 272067,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21340/#review-85221",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/ff40cf03c26352db432e7ec1a1efb56c96eb8221.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "4117842ee22c82e8ababccaa54cb61a3d0d3d410d79e7c7bfcf39027b523219d",
+            "bytes": 180283,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "hum-MARX1010-homework-feixu",
       "type": "homework",
       "title": "中国近现代史纲要题库（2022春）",
@@ -22,7 +71,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81",
-        "note": "文件名标注 2022春题库；非正式试卷。"
+        "note": "文件名标注 2022春题库；非正式试卷。 匿名复核：.doc 下载内容是可用 Word 打开的 HTML 文档；同条 XLS、DOCX 和 PDF 格式亦可下载。保留原站文件页。"
       },
       "locations": [
         {
@@ -66,10 +115,45 @@
           "page_kind": "file"
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-MARX1010-008f50f1927eb40d",
+      "type": "study",
+      "title": "中国近现代史纲要 课堂内容记录",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为作者自己的课堂内容记录，匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20145/#review-87059",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20145/#review-87059",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/1b66acb0502febd20945ccb4ade01373d028b94e.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "39a06af358bb43d74b2b63c135b86aae4ab56442baf603eba641d712cf69eabf",
+            "bytes": 163020,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "feixu-alist": "feixu 学习资料分享站（AList）"
   }
 }

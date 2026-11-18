@@ -6,7 +6,69 @@
   "tags": [
     "electronics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-011152-9a68e4f503df9933",
+      "type": "projects",
+      "title": "模拟与数字电路实验课程资料与实验工程",
+      "authors": [],
+      "notes": "原点评公开指向该仓库的数电实验目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Analog%20and%20Digital%20Circuits%20Lab",
+        "note": "依据原点评公开正文给出的项目入口与目标页实际可访问性核验；仅登记公开入口。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-hwp-lab-courses",
+          "page_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Analog%20and%20Digital%20Circuits%20Lab",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011152-2485b34368dd2d5d",
+      "type": "projects",
+      "title": "数字电路实验 2021 秋大作业（LED 大作业生成器）",
+      "authors": [],
+      "notes": "原点评公开给出该大作业仓库地址，仓库描述与课程大作业一致。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/txtxj/USTC-Digital-Logic-Lab10",
+        "note": "依据原点评公开正文给出的项目入口与目标页实际可访问性核验；仅登记公开入口。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-txtxj-digital-logic-lab10",
+          "page_url": "https://github.com/txtxj/USTC-Digital-Logic-Lab10",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-hwp-lab-courses": "hwp-lab/USTC-Courses-Data",
+    "gh-txtxj-digital-logic-lab10": "txtxj/USTC-Digital-Logic-Lab10"
+  }
 }

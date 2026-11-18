@@ -40,6 +40,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-210078-ffff68f1debfef37",
+      "type": "projects",
+      "title": "电子系统设计 课程资源（xuzhen0913）",
+      "authors": [],
+      "notes": "评课社区公开点评所链外站项目；匿名访问 200，已核对仓库说明/目录标题，未逐文件核验内容。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4842/#review-73292",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-xuzhen0913-electronic-system-design",
+          "page_url": "https://github.com/xuzhen0913/electronic-system-designation/tree/main",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "电子系统设计 课程资源（xuzhen0913）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-materi-210078-5",
       "type": "projects",
       "title": "电子系统设计 实验（USTC-Course-Materials-Sharing）",
@@ -110,6 +139,7 @@
   ],
   "sources": {
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
+    "gh-xuzhen0913-electronic-system-design": "xuzhen0913/electronic-system-designation",
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
   }

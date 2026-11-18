@@ -10,6 +10,70 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-010197-c3b4f7773573f9cb",
+      "type": "study",
+      "title": "执行器技术 复习提纲（3 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为作者应约制作的复习提纲，3 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-92027",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-92027",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/6eed366709c9e1580cc7c1c1f8a5750c3c8892b9.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "93e37289633d5f311d7dddd84b448c7aeec08dcb5aaa565be6b3a84c80a16e5b",
+            "bytes": 136957,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-92027",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/71146307b6b7bbc4ac61fcf058902030f831fcf0.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5cc247c50d9adf84e805961ff79ad0284fc5737564a2ae134421269973ecc491",
+            "bytes": 99319,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-92027",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/84f7e09a08ce4d8f9591d877e4564219594e121a.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "7c71946c491838549538c31e14d8c04024a903d5b7efe11ef7bda4934c773cb3",
+            "bytes": 22509,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-lectures-010197-68a8e156",
       "type": "study",
       "title": "执行器技术课件与作业（2025）",
@@ -42,6 +106,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
   }
 }

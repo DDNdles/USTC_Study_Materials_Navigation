@@ -182,6 +182,7 @@ function projectResource(resource) {
       attribution: location.attribution ?? null,
       page_kind: location.page_kind ?? null,
       ...(location.role ? { role: location.role } : {}),
+      ...(location.file_snapshot ? { file_snapshot: location.file_snapshot } : {}),
     })),
     verified_at: resource.verified_at,
   };

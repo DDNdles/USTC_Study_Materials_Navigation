@@ -7,7 +7,69 @@
     "philosophy",
     "history"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-FS1001-c982e209bd47bb7b",
+      "type": "study",
+      "title": "怎样写一篇学位论文（USTC 教师公开写作指南）",
+      "authors": [],
+      "notes": "原点评公开引用该写作指南，页面标题与内容主题一致，公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://faculty.ustc.edu.cn/yqliang/files/howtowriteapaper.htm",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "https://faculty.ustc.edu.cn/yqliang/files/howtowriteapaper.htm",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-FS1001-b561325fc4cf9f79",
+      "type": "projects",
+      "title": "摄像头手写数字识别项目（CNN + MNIST）",
+      "authors": [],
+      "notes": "原点评公开给出项目代码仓库，仓库描述与课程项目一致，代码公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Calvino-Elon/MINIST-and-camera-based-written-number-recognition",
+        "note": "依据原点评公开正文给出的项目入口与目标页实际可访问性核验；仅登记公开入口。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-calvino-elon-mnist",
+          "page_url": "https://github.com/Calvino-Elon/MINIST-and-camera-based-written-number-recognition",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "gh-calvino-elon-mnist": "Calvino-Elon/MINIST-and-camera-based-written-number-recognition"
+  }
 }

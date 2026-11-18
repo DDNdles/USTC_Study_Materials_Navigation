@@ -35,7 +35,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "81d93032834730d0b7b3ba91d61d4f4a9c76bc2f0021126b9eeb744bcefcc63a",
+            "bytes": 145881,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -66,7 +71,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ffe563e951f5762f3f0758cd84a11487106bc3bc71252099649c0827131d3651",
+            "bytes": 370076,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -97,7 +107,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "f7387a6306b105f05612253406687830413bb910bc6b7945c3246f433c7a38bf",
+            "bytes": 430664,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -128,7 +143,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "d0d5f07987dd270cb74dd69b3a69464801570f96e0418f9141d5bfefc158c56c",
+            "bytes": 398458,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -159,7 +179,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a731bb6cb35a1f0f7670c083bbbb68da7aefb38d01137f2df58da78a540dc68c",
+            "bytes": 115903,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -200,7 +225,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "d3c109538dea6e2ceb888eb400868855a327fb9f464a87bd89faae3f7f475259",
+            "bytes": 398817,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -231,7 +261,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "d46d6e5881d4ee9c90ab778f0046a430e74a4a2989570c3134d8f8bae1b29c73",
+            "bytes": 164886,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -262,7 +297,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "c9f8666c75c118699f21ac9db8bbb8cae0811e4527260ec87e5c3a76aa4e9135",
+            "bytes": 248982,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -293,7 +333,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6ed5928a77ad20666706615f81f26e9b529eb26c12087beb97dc88f68cf9c902",
+            "bytes": 90334,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -334,7 +379,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "542fa0f182ba6296d9c073bdf0d8e1609ea778a10fe2bc58c1076287b7e447b3",
+            "bytes": 147515,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -375,7 +425,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "f454108f68c34c1214fc3aecc8b95c7f4e7ad116b14ec633771930530e7a5a78",
+            "bytes": 444380,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -437,7 +492,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "f72aa69e8106e42570e6b52e9ae3f4a1e7c7289c0d0121549e5dcedd2a8df8a0",
+            "bytes": 107335,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -478,7 +538,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "4b0aaea3d447a8bc11cd947b61b6ca0f011d93aeb56492aded834d49eb2756ee",
+            "bytes": 112318,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -509,7 +574,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "94b32af1c798cca4447cebb143fef60283bc6098d26191e998c10f93283034d4",
+            "bytes": 434265,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -540,7 +610,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "c083dad0e74ee88701d8e64ae41eae3da528d0cb986d8372db0fa02a11086b7d",
+            "bytes": 324887,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -612,7 +687,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8081ebfdba9e85db8836d7d89b10e970bda727c95caa46176defd7e72138f420",
+            "bytes": 403815,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -663,7 +743,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "cb6dc32aab8f1bcc0da1cb37878b903b063fca8d7b56688a7e31352dfb72f68e",
+            "bytes": 142471,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -704,7 +789,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8d2dd54940175a7e1288b23801d70cdecb643e37d679345b0126c3d0c1138179",
+            "bytes": 1768490,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "feixu-alist",
@@ -755,7 +845,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "760f538c8973ce7db5d2fa0c55b7a479122083d129b398ee51e46c9d351dac5c",
+            "bytes": 93514,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -817,7 +912,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "244437baffaedb82155124a6a062597be9ed5016de391e76bf3d3a827a823050",
+            "bytes": 307182,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -848,7 +948,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6e61d52d51d468211977d520da041f6564f127244ceed0536d4d6643b30c0bd5",
+            "bytes": 1951825,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -920,7 +1025,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1b67de20318d8cc3b79113f21ad6c1b72e4ec1192699eddec13357c8168daf1c",
+            "bytes": 11715199,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -955,6 +1065,85 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-022392-eb411fe0df3889b6",
+      "type": "exams",
+      "title": "理论力学A 考卷照片（2022 秋）",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为当年考卷照片，4 张图片匿名可见；卷别与年份未在正文明确。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19017/#review-57151",
+        "note": "依据原点评公开正文的卷别描述与配图核验；未在正文明确的年份与解答情况不推断。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-57151",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/82706a20a51ba3a16006b4affefcd8b0e0066c53.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "d16239d97591b31947c4fc9326a6cadd8b0d8287a15aa147bf1be9c36367896b",
+            "bytes": 103439,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-57151",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/cb819ec6a8a37db5fa83f6e7760d6b7621ad6489.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a0b60a39e666218e10864300f3f7e1d40b755c613230f2523a0b66f870881a38",
+            "bytes": 142618,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-57151",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/18727c0ae9db4bd3c573c34fae733610d9755bf5.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a4b3a56291abf0fdcaa5fdf1c6a16e493be11e6e42ea0704327c920258ff7956",
+            "bytes": 99445,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-57151",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/98798f1e8a4a39fb275af2d04bbb9a7463b721a3.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "1f947be55a1eb67bf9f57ab83cf36f5f3122276bdb46d6fb7890c656a226694d",
+            "bytes": 95161,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-022392-homework-349c9703",
@@ -1015,6 +1204,224 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-022392-2c97b38283ecee7d",
+      "type": "study",
+      "title": "理论力学A 课程笔记（2 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中标注配图为课程笔记，2 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4524/#review-71585",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4524/#review-71585",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/f16be3611a5b632b2446e66fdfa31717aab58202.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a91be7be1969682eb2acefebb1f7f0171251adad90dc3524a9eb7daf86d3e196",
+            "bytes": 2307860,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4524/#review-71585",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/85e8420edbe34cce2341e4a65f5e6e7a1aed4584.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "12cea2c8aca111a8bce029a9aa27088263d648c234578940ca29a13318a3f693",
+            "bytes": 2436574,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-022392-5846d092c9b3accf",
+      "type": "study",
+      "title": "理论力学A 期末复习 PPT 内容整理（选择题范围，10 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为考前整理的 PPT 内容要点（选择题范围），10 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19017/#review-90138",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/237e50ff574e2ea7da0b1137b3f5f4c8ca92b7af.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "fe069576271d3df1f755c1d71be84f78a1c7629d6aa96706e85f50415b23af30",
+            "bytes": 6000344,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/4f25640694792718330c70aa0a5c7e4cd51ce0da.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "65d063c70c0dbcb05a0f4ea6bf976ff9ce30e07348c52e29d8d5ed7bec4c6568",
+            "bytes": 3212312,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/2b4d290ae7e6beb684d7762573246ca9d2a7cfda.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "694582c9078593a8a5737afe2aada322ba9994fa79df3e5d228dbc0616266333",
+            "bytes": 3152007,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/b7e97d4c6f8fe69b048ea57146267f3518204c7c.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8414586d5a46c040a88069de86abe4e1ebfcd6c016f6563064ebeb1287dbdcab",
+            "bytes": 5147486,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/955f9c5a3910359dc9da1187c7a41ff804826a29.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "93ccfb91c384f5bab5fdda6cb459aab34fe41355b2bb2be4debd2b661b8c3006",
+            "bytes": 6097190,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/ca6d72f5ee6d200f9bfc66ea28d1c2ad28c41b24.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "853de80ed8c84750319af963cae22343673e12b5de6bde0dd1e9ad7e01be6833",
+            "bytes": 4125851,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/1456cb9a7a9bd7ad49472ffef0dd968182158cb8.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "41658ba613ee5c595b27d255c901c8d11d9daeacbc2e870e28ac7abe697593cb",
+            "bytes": 3256754,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/a2de412563cc283928df5790e38f6fefc3db90b6.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "624e546e724dddf17aded845ac4a15c4e272434e97c83c4bf0ab40d9ea07197d",
+            "bytes": 3072194,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/3d2627bfe13f2dc9ba1d8695f7d8079c9ec91d4f.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "801873d4b721e95c6765c20ad27a8d0449a19b1f828c961ecd1c24a4d013c8a0",
+            "bytes": 5432806,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19017/#review-90138",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/8da4ea7023f01c2c58e6b26946f7ebb6a1859cc8.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8b3bd6224814096a0bc5672a267afa0ccbd2c9ce5d43dd9db9e2187a0b07df62",
+            "bytes": 4986079,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-022392-notes-326e6c",
       "type": "study",
       "title": "理论力学A笔记（秦敢班）",
@@ -1046,6 +1453,7 @@
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区"
   }
 }

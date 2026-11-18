@@ -45,21 +45,23 @@
     {
       "id": "computing-exam-guch-011145-cod2017-pdf",
       "type": "exams",
-      "title": "计算机组成原理 2017 试卷（README：授课未知）",
+      "title": "计算机组成原理 2017 试卷（2016-2017 学年第二学期，回忆版）",
       "authors": [
         "guch8017"
       ],
-      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在",
+      "notes": "README 课程/授课/层次行与文件名一致；tree 中文件存在；guch8017 与 USTC-Resource/USTC-Course 固定 commit 下同名文件字节完全一致；卷面文本层显示 2016-2017 学年第二学期考试试卷、考试科目：计算机组成原理",
       "coverage": {
         "years": [
           2017
         ],
-        "academic_years": [],
-        "exam_kind": "unknown",
-        "exam_form": "unknown",
+        "academic_years": [
+          "2016-2017"
+        ],
+        "exam_kind": "final",
+        "exam_form": "recollection",
         "has_solutions": null,
         "evidence_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf",
-        "note": "年份、卷型按 README 表格与文件名核验"
+        "note": "同一文件在旧库以『2017计算机组成原理考试试卷（回忆版）.pdf』存在，SHA-256 与 guch8017 COD2017.pdf 完全一致（fe91600b3e64ef81…，212733 字节）"
       },
       "locations": [
         {
@@ -71,9 +73,24 @@
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/exams/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/exams/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/exams/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "USTC-Resource 组织",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "fe91600b3e64ef812c4660b5719700eaf167cc7a315c928c5a8c78d43cdae896",
+            "bytes": 212733,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     },
     {
       "id": "computing-homework-feixu-011145",
@@ -138,6 +155,37 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-011145-3012961fe36b0545",
+      "type": "study",
+      "title": "计算机组成原理 读书笔记（IO/总线）（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "旧库 notes/mbinary 目录，4 篇 Markdown 读书笔记：IO 设备、IO 硬件、IO 软件、总线；学生原创笔记，公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/notes/mbinary",
+        "note": "读取 GitHub 固定提交 d091d4d 的 git tree 核对目录与文件；目录级资源，逐份文件由统一哈希取样验证。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/notes/mbinary",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/notes/mbinary",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "computing-lectures-web-011145",
@@ -289,7 +337,7 @@
       "authors": [
         "USTC-Resource"
       ],
-      "notes": "158 个文件（tree 实际读取）；目录 计算机组成原理/codes",
+      "notes": "158 个文件（tree 实际读取）；目录 计算机组成原理/codes；既有条目，本轮核对目录文件数一致，无变更。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -297,7 +345,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes",
-        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+        "note": "核对目录文件数与既有条目一致。"
       },
       "locations": [
         {
@@ -311,7 +359,7 @@
           "page_kind": null
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     },
     {
       "id": "computing-projects-gh-ustc-cod-sp24-011145",
@@ -384,10 +432,10 @@
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "gh-lrel7-ustc-cod-sp24": "lrel7/USTC-COD-SP24",
     "gh-tinyrubbish-course-materials": "TinyRubbish/Course-Materials"
   }

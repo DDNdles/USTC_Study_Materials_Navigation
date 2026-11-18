@@ -6,7 +6,168 @@
   "tags": [
     "languages"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-FL1005-a46c11d86840d3d2",
+      "type": "study",
+      "title": "英语读写I 2023 秋课程内容图示（阅读写作方法、课文讲解与课程总结，4 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中以图号标注阅读写作方法、课文讲解与课程总结配图，4 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19205/#review-79040",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-79040",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/50d4877da32b3de113e64b0851ed87539bc9ff1f.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "0535c0ac6ca3c51553549fb96bd72c19e1625ec5f3e5673ef069504d96b1b746",
+            "bytes": 58180,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-79040",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/59f3ccc5b0c637ba5c6516e87625cb3fcdabd28d.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "46fea7e249d2b2bad056554bd6c33ed7d0a125ae46a80b01ac0f3a55eb6000ac",
+            "bytes": 36197,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-79040",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/5ec6e51ae3a717ce3acc9fca955bdf632abfdc3e.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5a5a19bf18ad28bb6f65b1f3cac38c6af6f3c5e3909fd84b65ffecd51890d6f7",
+            "bytes": 16895,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-79040",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/4a34253fa31c1b50ef5467b563abf1151ce9ca6f.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "e59aea59065ea748cc4c67a2b51495caab603bdc4c6f6254a3ffd539b3142156",
+            "bytes": 1091900,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-FL1005-e89b25b5ea157dc9",
+      "type": "study",
+      "title": "英语读写I 阅读策略课件内容（4 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中列出本学期阅读策略内容并附配图，4 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19205/#review-89272",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-89272",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/da9241d07b090536381b937b0512e0ac40ad8868.png",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "9a2ab7c8f49de37293103cb2e11ec6e767dbce8d0cc00a5c9c7873034875958b",
+            "bytes": 323423,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-89272",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/392a92eed93e60ea6e27f83dd34a8c9a895d6d3e.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "f87863e9d061c82d2bf8d26d4edb0577234d3329d1f404b9f15053c33b22ab52",
+            "bytes": 309990,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-89272",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/944e60a2ea5019460168b03e820f7ce635890d35.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "a59e65f93be2c8d61f41cdb973b1a04c31e6dccc57d5aa39ff94268c80d79b51",
+            "bytes": 391633,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19205/#review-89272",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/b080bf92058e1acd3629a44997a0adae20fc089c.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "402f98dcd3801a71b93145e3019154ced7a41e6d5769bc27851a9e58d2bc2f9c",
+            "bytes": 1036713,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

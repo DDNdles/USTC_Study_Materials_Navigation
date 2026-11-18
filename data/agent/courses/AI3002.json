@@ -6,7 +6,77 @@
   "tags": [
     "ai"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-AI3002-84e7fb5a4478c28a",
+      "type": "study",
+      "title": "人工智能与机器学习基础 Lab1 指南（2026 秋，3 份 PDF）",
+      "authors": [
+        "Wanglulu114514"
+      ],
+      "notes": "仓库说明 USTC AI3002；5 个文件，含 2026AIML_LAB1_指南 1—3.pdf 与 LAB1 数据采样说明.md，经 API 核验公开。",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [
+          "2026-2027"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wanglulu114514/ResourceforAIML26",
+        "note": "仓库描述标明 USTC AI3002，文件名标明 2026 与 LAB1。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wanglulu-aiml26",
+          "page_url": "https://github.com/Wanglulu114514/ResourceforAIML26",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 Wanglulu114514",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-AI3002-d1b220ec5fd68f81",
+      "type": "projects",
+      "title": "人工智能与机器学习基础 五子棋大作业（强化学习智能体）",
+      "authors": [
+        "xinchengo"
+      ],
+      "notes": "仓库 README：AI3002 课程中实现五子棋强化学习智能体，并在其上进行自动研究实验；含源码、配置与说明，共 40 个文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/xinchengo/autoresearch-gomoku",
+        "note": "README 明确课程 AI3002；未标年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-xinchengo-autoresearch-gomoku",
+          "page_url": "https://github.com/xinchengo/autoresearch-gomoku",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
+          "attribution": "GitHub 用户 xinchengo",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-wanglulu-aiml26": "Wanglulu114514/ResourceforAIML26",
+    "gh-xinchengo-autoresearch-gomoku": "xinchengo/autoresearch-gomoku"
+  }
 }

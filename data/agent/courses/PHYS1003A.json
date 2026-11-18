@@ -34,7 +34,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8bb57ce0a81dfb452e6fa9facf26a1666814a5152a7b16fdc3ae0fc2249fa27e",
+            "bytes": 266228,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -65,7 +70,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8f61d5c96815034d78725ab13dfcaaff3d951ac423353c17ef33e97e0493a646",
+            "bytes": 284341,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -96,7 +106,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "5a17f978d7ce2b5015d634b94db912727a0361560974bd3cf955832130ff447e",
+            "bytes": 194055,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -127,7 +142,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "997f8c0e5bc25022e53b64797116971e480ad376babfabdba21e0d3d22a91e62",
+            "bytes": 2952106,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -168,7 +188,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "bc797d852f67969dbed82920c3685a639a5d7cddda8daf7e6d5b07e3153002fc",
+            "bytes": 2519344,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -267,6 +292,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-PHYS1003A-0487cf972e47ae62",
+      "type": "study",
+      "title": "光学A 助教习题课讲义（Optics2023.pdf）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。PDF 文件（application/pdf，230 KB）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~shiyaowei040126/Optics2023.pdf",
+        "note": "PDF 文件（application/pdf，230 KB）；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "home-ustc-shiyaowei-optics",
+          "page_url": "http://home.ustc.edu.cn/~shiyaowei040126/Optics2023.pdf",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "home.ustc.edu.cn",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-phys1003a-notes-082e1d",
       "type": "study",
       "title": "光学A笔记",
@@ -298,6 +352,7 @@
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "home-ustc-shiyaowei-optics": "光学A 助教习题课讲义（home.ustc.edu.cn）"
   }
 }

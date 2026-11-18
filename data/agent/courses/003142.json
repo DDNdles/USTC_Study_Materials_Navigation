@@ -38,9 +38,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-003142-15d3d265fea446a9",
+      "type": "projects",
+      "title": "物理化学基础实验(I) 实验代码与报告（Gitee 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。Gitee 公开仓库；仓库为物化实验报告与数据处理。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://gitee.com/LinweiBi/experiment-of-physical-chemistry-i",
+        "note": "Gitee 公开仓库；仓库为物化实验报告与数据处理；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gitee-linweibi-physical-chemistry",
+          "page_url": "https://gitee.com/LinweiBi/experiment-of-physical-chemistry-i",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "gitee.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "chembio-flimmernz": "flimmernz/course-note（材料系课程笔记与报告）"
+    "chembio-flimmernz": "flimmernz/course-note（材料系课程笔记与报告）",
+    "gitee-linweibi-physical-chemistry": "LinweiBi/experiment-of-physical-chemistry-i"
   }
 }

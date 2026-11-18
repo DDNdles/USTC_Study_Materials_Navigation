@@ -35,7 +35,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "9acc37da831161a239afc395a70d174b67a4c5e0fb31ebdc223c0341a7900ae0",
+            "bytes": 687436,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -68,7 +73,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
+            "bytes": 706217,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "ustc-math-exam",
@@ -78,7 +88,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
+            "bytes": 706217,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "eng-github-guch8017",
@@ -88,7 +103,12 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
+            "bytes": 706217,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -121,7 +141,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
+            "bytes": 730092,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "ustc-math-exam",
@@ -131,7 +156,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
+            "bytes": 730092,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "eng-github-guch8017",
@@ -141,7 +171,12 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
+            "bytes": 730092,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -172,7 +207,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6ef54b9843a44cad26c3856fcd4ef55a73a4b6e7bb11076c6100ecce02e5c482",
+            "bytes": 695403,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -203,7 +243,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "729e71be205e2d2cf3581e54117b7a9307a2595ee12cf0b119e223f4ea441352",
+            "bytes": 679055,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -246,7 +291,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
+            "bytes": 683495,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "ustc-math-exam",
@@ -256,7 +306,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory"
+          "page_kind": "directory",
+          "file_snapshot": {
+            "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
+            "bytes": 683495,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "eng-github-guch8017",
@@ -266,7 +321,12 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
+            "bytes": 683495,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -297,7 +357,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "295102e0c85e5a60f00a4b65f797e53ca82927462e80a7a7591f1dd91bb9c721",
+            "bytes": 660228,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -328,7 +393,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "686ed218c5833d45ddfb394c7328ffea566429dea1ef2c65d03309fc5059389e",
+            "bytes": 337427,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -359,7 +429,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "697a08ecc76e63a3b9e5c84e712baec44f8b6d81ae77d574f7887d8f605a44a2",
+            "bytes": 346265,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -390,7 +465,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "4aef4d0ddf35b5c5ccdacb1ee57bbd5457827d5dece316afb06249f621eeea2b",
+            "bytes": 318479,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -421,7 +501,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "83ba7155af53cc9671e72085e2585f34b63d6bab180dafdcede3fa2e61ded956",
+            "bytes": 406739,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -450,7 +535,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "d13f9163b0bb6519025c9528161ff5f70c43c51a7e21dc0f07d25ae7fec7d013",
+            "bytes": 4449441,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -479,7 +569,12 @@
           "access": "public",
           "license_note": "仓库根 LICENSE 仅覆盖原创内容；第三方课件/试卷权利归原作者",
           "attribution": "guidongnan",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "815c37b573d6519476f90b85aa59b6f370cf0ab41f39b8ced07fe19417724e57",
+            "bytes": 66276,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -537,7 +632,12 @@
           "access": "public",
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "li-qi-lin",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "4c5d37e2d092fd4b7a362bbfb2f5b31489d6335fcbaf794af9209691df04b136",
+            "bytes": 18025732,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -597,7 +697,12 @@
           "access": "public",
           "license_note": "评课社区公开上传文件；站点未声明再分发许可，仅登记原文件入口",
           "attribution": "USTC 评课社区用户上传（2022 版，余启帆整理）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "0372ac43785ea013ae66d97515a2c5a0edb1a5b99a635ac6941560096cfc4472",
+            "bytes": 5543218,
+            "checked_at": "2026-11-19"
+          }
         },
         {
           "source_id": "eng-github-guch8017",
@@ -607,10 +712,44 @@
           "access": "public",
           "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
           "attribution": "guch8017/USTC_CS_EXAM（README“备用”链接）",
-          "page_kind": "file"
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "0372ac43785ea013ae66d97515a2c5a0edb1a5b99a635ac6941560096cfc4472",
+            "bytes": 5543218,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-STAT2002-4917f179cb7694f0",
+      "type": "homework",
+      "title": "《概率论与数理统计》（缪柏其、张伟平）参考答案（GitHub 仓库）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库；仓库说明为教材参考答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Stardust-math/Reference-Answer",
+        "note": "GitHub 公开仓库；仓库说明为教材参考答案；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-stardust-math-refans",
+          "page_url": "https://github.com/Stardust-math/Reference-Answer",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-gh-stat2002-homework-c920cd",
@@ -675,7 +814,12 @@
           "access": "public",
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "Wloner0809",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "86d8160292d163c06124785e2bd979cb5eb39fe8fa62a91386235ae1666838a1",
+            "bytes": 897624,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -860,9 +1004,82 @@
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "USTC-Resource 组织",
           "page_kind": null
+        },
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/notes/P%26MS%20-%2020160422Revised.pdf",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/notes/P%26MS%20-%2020160422Revised.pdf",
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "304bfb7b9704db473a073e687169f088d60a625c93c1a901017757ad8e885ed3",
+            "bytes": 362298,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-STAT2002-c9056b6d8b7e4db9",
+      "type": "study",
+      "title": "概率论与数理统计 课程主页（张伟平）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。教师课程主页；页面列课程信息与讲义。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm",
+        "note": "教师课程主页；页面列课程信息与讲义；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "staff-ustc-zwp-probstat",
+          "page_url": "http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "staff.ustc.edu.cn",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-STAT2002-c8ba0ba22b7086f5",
+      "type": "study",
+      "title": "概率论与数理统计 课程资料（Wloner0809 仓库目录）",
+      "authors": [],
+      "notes": "评课社区公开点评外链；匿名打开原页核验页面标题与内容。GitHub 公开仓库的课程资料目录；匿名可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+        "note": "GitHub 公开仓库的课程资料目录；匿名可访问；未逐文件下载核验"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原页面未声明再分发许可；仅作原页导航，不复制文件",
+          "attribution": "github.com",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-gh-stat2002-exam-ny-c6b0ee",
@@ -888,7 +1105,12 @@
           "access": "public",
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "li-qi-lin",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "97f4424898accc70da731d61de9aae7909f491152c42f2c5ba79424a980a224d",
+            "bytes": 2003099,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -989,8 +1211,10 @@
     "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "icourse-club": "USTC 评课社区",
+    "gh-stardust-math-refans": "Stardust-math/Reference-Answer",
     "gh-wloner0809": "Wloner0809/ustc-course-resource",
     "gh-kobe972": "Kobe972/ustc_course_plus",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "staff-ustc-zwp-probstat": "张伟平 概率论与数理统计课程页"
   }
 }

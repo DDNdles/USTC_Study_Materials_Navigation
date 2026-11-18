@@ -23,7 +23,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%BC%E8%AE%BA%E3%80%8B%E8%AF%BE%E7%A8%8B%E6%8A%A5%E5%91%8A%EF%BC%88%E5%AD%99%E6%97%AD%E7%A3%8A%EF%BC%89.pdf",
-        "note": ""
+        "note": "匿名复核：文件页正常提供 LaTeX 源码及同报告的 PDF 渲染版；保留站内文件页，下载地址由原站临时生成。"
       },
       "locations": [
         {
@@ -47,7 +47,7 @@
           "page_kind": "file"
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {

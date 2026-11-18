@@ -129,7 +129,12 @@
           "access": "public",
           "license_note": "原站公开访问；资料权利归原作者，未见逐份再分发许可。",
           "attribution": "USTC评课社区",
-          "page_kind": "page"
+          "page_kind": "page",
+          "file_snapshot": {
+            "sha256": "99ec6af4874a7ff7250755a04994d4985bfe6619b1b43d0947f5f8deb7295301",
+            "bytes": 650304,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -538,6 +543,98 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-210070-a7e5cd05856e499a",
+      "type": "study",
+      "title": "数据结构实验讲义（n_exp.pdf）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2022春）附件；首件 6 页；首屏文字核验为「实验一 约瑟夫问题求解 1 ） 内容 ： 约瑟夫 (Joseph) 问题的一种描述是 : 编号为 1」。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf",
+        "note": "评课社区公开点评（2022春）附件；首件 6 页；首屏文字核验为「实验一 约瑟夫问题求解 1 ） 内容 ： 约瑟夫 (Joseph) 问题的一种描述是 : 编号为 1」。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf",
+          "download_page": null,
+          "download_url": "http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf",
+          "access": "public",
+          "license_note": "教师个人主页公开讲义；仅链接原文件，授权以原作者/课程组声明为准",
+          "attribution": "USTC 教师个人主页（staff.ustc.edu.cn/~ypb）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "fd6e93fde23e15e65aac63b9b21820338690e991899afedc84cc6bcdb0e58fe2",
+            "bytes": 320339,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-210070-11fe94727db062c4",
+      "type": "projects",
+      "title": "数据结构及其算法 实验题解与优秀代码（顾为兵班，2019 秋）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2019秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/mhy98/DSACodes",
+        "note": "评课社区公开点评（2019秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-mhy98-dsacodes",
+          "page_url": "https://github.com/mhy98/DSACodes",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 mhy98/DSACodes",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-210070-f4a3e5b1b619359a",
+      "type": "projects",
+      "title": "数据结构及其算法 LAB5 马踏棋盘",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2025秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/invictus-z/Knight-Tour-Game",
+        "note": "评课社区公开点评（2025秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-invictus-z-knight-tour",
+          "page_url": "https://github.com/invictus-z/Knight-Tour-Game",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 invictus-z/Knight-Tour-Game",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
@@ -546,6 +643,9 @@
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "icourse-club": "USTC 评课社区",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
-    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）"
+    "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "gh-mhy98-dsacodes": "2019 秋顾为兵《数据结构及其算法》实验题解与优秀代码",
+    "gh-invictus-z-knight-tour": "DSA LAB5 马踏棋盘实验"
   }
 }

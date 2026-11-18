@@ -53,37 +53,6 @@
       "verified_at": "2026-11-18"
     },
     {
-      "id": "computing-projects-gh-ustc-course-cs2502a-codes",
-      "type": "study",
-      "title": "数据结构 代码实现（USTC-Course）",
-      "authors": [
-        "USTC-Resource"
-      ],
-      "notes": "24 个文件（tree 实际读取）；目录 数据结构/codes",
-      "coverage": {
-        "years": [],
-        "academic_years": [],
-        "exam_kind": null,
-        "exam_form": null,
-        "has_solutions": null,
-        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
-        "note": "README 明确为参考代码、非课程提交代码；目录为数据结构参考实现。"
-      },
-      "locations": [
-        {
-          "source_id": "gh-ustc-resource",
-          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
-          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
-          "download_url": null,
-          "access": "public",
-          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
-          "attribution": "USTC-Resource/USTC-Course",
-          "page_kind": null
-        }
-      ],
-      "verified_at": "2026-11-18"
-    },
-    {
       "id": "computing-lectures-gh-ustc-course-materi-cs2502a",
       "type": "study",
       "title": "数据结构 课件与作业（USTC-Course-Materials）",
@@ -212,6 +181,66 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-CS2502A-deb7e85315130940",
+      "type": "study",
+      "title": "数据结构课程资料目录",
+      "authors": [],
+      "notes": "原点评公开附该仓库数据结构目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Data%20Structure",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-hwp-lab-courses",
+          "page_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Data%20Structure",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "computing-projects-gh-ustc-course-cs2502a-codes",
+      "type": "projects",
+      "title": "数据结构 代码实现（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "24 个文件（tree 实际读取）；目录 数据结构/codes；既有条目，本轮核对目录文件数一致，无变更。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
+        "note": "核对目录文件数与既有条目一致。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/codes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-cs-resources-cs2502a-cs",
       "type": "projects",
       "title": "数据结构 作业/实验/试卷（USTC-CS-Resources）",
@@ -279,11 +308,12 @@
   ],
   "sources": {
     "icourse-club": "USTC 评课社区",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
     "gh-wloner0809": "Wloner0809/ustc-course-resource",
     "ustcguide-gitbook": "USTC 课程资料簿（GitBook）",
+    "gh-hwp-lab-courses": "hwp-lab/USTC-Courses-Data",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
     "gh-kobe972": "Kobe972/ustc_course_plus"
   }

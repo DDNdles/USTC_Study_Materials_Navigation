@@ -428,7 +428,7 @@
       "repo": "ustc-course-resource",
       "branch": "main"
     },
-    "notes": "课程review/作业；数理方程B、概统、线代B1；未见根 LICENSE。\nbranch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明维护者与最后更新时间。2026-11-18 读取完整 git tree 核对目录。"
+    "notes": "课程review/作业；数理方程B、概统、线代B1；未见根 LICENSE。\nbranch=main 经 GitHub API repos 元数据核验；无许可声明；README 仅说明维护者与最后更新时间。2026-11-18 读取完整 git tree 核对目录。\n评课社区点评中公开分享的 USTC 课程资料仓库；匿名可访问。"
   },
   {
     "id": "gh-zhichen-cpa",
@@ -515,7 +515,7 @@
     "maintainer": "USTC评课社区（jenny42 等）",
     "kind": "website",
     "github": null,
-    "notes": "公开课程页可核对课程号和开课信息（课程号可能附教学班后缀），点评内部分附件要求登录，未绕过。旧索引提供的复变函数 B 与线代 B1 两个附件直链实测匿名返回 206 application/pdf；只登记已证实公开可取的直链，文件权利归原作者。"
+    "notes": "公开课程页可核对课程号和开课信息（课程号可能附教学班后缀），点评内部分附件要求登录，未绕过。旧索引提供的复变函数 B 与线代 B1 两个附件直链实测匿名返回 206 application/pdf；只登记已证实公开可取的直链，文件权利归原作者。\n评课社区历史资料线索回查起点：2026-10-29T09:33:55Z（北京时间 2026-10-29 17:33:55）。以后增量回查从此刻（含）开始；此前不全站重复筛查。本次包内未能匿名核验的链接不计收录。"
   },
   {
     "id": "ustc-math-exam",
@@ -639,5 +639,1293 @@
       "branch": "master"
     },
     "notes": "README 明确为中科大 2022 秋计算物理 A 作业和讲义。"
+  },
+  {
+    "id": "staff-ustc-xuey-iac",
+    "name": "薛永泉 天文学导论课程主页",
+    "url": "http://staff.ustc.edu.cn/~xuey/IAC/",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的教师课程主页；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "lyuchangle-notes",
+    "name": "lyuchangle2006 课程讲义",
+    "url": "https://lyuchangle2006.github.io/",
+    "maintainer": "lyuchangle2006",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的公开讲义站点；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "pku-lidf-notes",
+    "name": "李东风 时间序列讲义",
+    "url": "http://www.math.pku.edu.cn/teachers/lidf/course/",
+    "maintainer": "李东风（北京大学）",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的教师课程讲义页；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "staff-ustc-jiema-extrgt",
+    "name": "马杰 极值与概率图论课程页",
+    "url": "http://staff.ustc.edu.cn/~jiema/ExtrGT2020/",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的教师课程页；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "iuuk-rakdver-notes",
+    "name": "查理大学图论课程讲义",
+    "url": "https://iuuk.mff.cuni.cz/~rakdver/kgiii/",
+    "maintainer": "查理大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的公开课程讲义页；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "zuqingzhu-ocn",
+    "name": "朱庆珠 光通信网络课程页",
+    "url": "https://www.zuqingzhu.info/OCN.html",
+    "maintainer": "朱庆珠",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的教师课程页；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-jingning42-computational-physics",
+    "name": "jingning42/Computational-Physics-A",
+    "url": "https://github.com/jingning42/computational_physics_A",
+    "maintainer": "GitHub @jingning42",
+    "kind": "repository",
+    "github": {
+      "owner": "jingning42",
+      "repo": "computational_physics_A",
+      "branch": "master"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-elmer-sun-computational-physics",
+    "name": "elmer-sun/computational-physics-from-ustc",
+    "url": "https://github.com/elmer-sun/computational-physics-from-ustc",
+    "maintainer": "GitHub @elmer-sun",
+    "kind": "repository",
+    "github": {
+      "owner": "elmer-sun",
+      "repo": "computational-physics-from-ustc",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-yesunhuang-computational-physics",
+    "name": "yesunhuang/Computational-Physics",
+    "url": "https://github.com/yesunhuang/Computational-Physics",
+    "maintainer": "GitHub @yesunhuang",
+    "kind": "repository",
+    "github": {
+      "owner": "yesunhuang",
+      "repo": "Computational-Physics",
+      "branch": "master"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-xuzhen0913-electronic-system-design",
+    "name": "xuzhen0913/electronic-system-designation",
+    "url": "https://github.com/xuzhen0913/electronic-system-designation",
+    "maintainer": "GitHub @xuzhen0913",
+    "kind": "repository",
+    "github": {
+      "owner": "xuzhen0913",
+      "repo": "electronic-system-designation",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-michaelfw-robogame-epsilon",
+    "name": "MichaelFW-ui/RoboGame-epsilonGoal",
+    "url": "https://github.com/MichaelFW-ui/RoboGame-epsilonGoal",
+    "maintainer": "GitHub @MichaelFW-ui",
+    "kind": "repository",
+    "github": {
+      "owner": "MichaelFW-ui",
+      "repo": "RoboGame-epsilonGoal",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-deagle-blackstar-robogame",
+    "name": "Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+    "url": "https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022",
+    "maintainer": "GitHub @Deagle-PrintStream",
+    "kind": "repository",
+    "github": {
+      "owner": "Deagle-PrintStream",
+      "repo": "BlackStar_ustc_robogame_2022",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-qc-1-course-materials",
+    "name": "qc-1/Course-Materials",
+    "url": "https://github.com/qc-1/Course-Materials",
+    "maintainer": "GitHub @qc-1",
+    "kind": "repository",
+    "github": {
+      "owner": "qc-1",
+      "repo": "Course-Materials",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-stardust-math-ml-a",
+    "name": "Stardust-math/Machine_Learning_A",
+    "url": "https://github.com/Stardust-math/Machine_Learning_A",
+    "maintainer": "GitHub @Stardust-math",
+    "kind": "repository",
+    "github": {
+      "owner": "Stardust-math",
+      "repo": "Machine_Learning_A",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-stardust-math-ml-b",
+    "name": "Stardust-math/Machine_Learning_B",
+    "url": "https://github.com/Stardust-math/Machine_Learning_B",
+    "maintainer": "GitHub @Stardust-math",
+    "kind": "repository",
+    "github": {
+      "owner": "Stardust-math",
+      "repo": "Machine_Learning_B",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-komorebi660-sysyf-compiler",
+    "name": "Komorebi660/SysYF-Compiler",
+    "url": "https://github.com/Komorebi660/SysYF-Compiler",
+    "maintainer": "GitHub @Komorebi660",
+    "kind": "repository",
+    "github": {
+      "owner": "Komorebi660",
+      "repo": "SysYF-Compiler",
+      "branch": "master"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-sqrtizhang-ustc",
+    "name": "SqrtiZhang/USTC",
+    "url": "https://github.com/SqrtiZhang/USTC",
+    "maintainer": "GitHub @SqrtiZhang",
+    "kind": "repository",
+    "github": {
+      "owner": "SqrtiZhang",
+      "repo": "USTC",
+      "branch": "master"
+    },
+    "notes": "评课社区公开点评外链定位到的课程仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "git-ustc-antonio-liz",
+    "name": "antonio_liz/ustc（中国科大 Git）",
+    "url": "https://git.ustc.edu.cn/antonio_liz/ustc",
+    "maintainer": "中国科大 Git 用户 antonio_liz",
+    "kind": "repository",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的校内 Git 仓库；本轮匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-mhy98-dsacodes",
+    "name": "2019 秋顾为兵《数据结构及其算法》实验题解与优秀代码",
+    "url": "https://github.com/mhy98/DSACodes",
+    "maintainer": "mhy98",
+    "kind": "repository",
+    "github": {
+      "owner": "mhy98",
+      "repo": "DSACodes",
+      "branch": "master"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-invictus-z-knight-tour",
+    "name": "DSA LAB5 马踏棋盘实验",
+    "url": "https://github.com/invictus-z/Knight-Tour-Game",
+    "maintainer": "invictus-z",
+    "kind": "repository",
+    "github": {
+      "owner": "invictus-z",
+      "repo": "Knight-Tour-Game",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-xuzhen0913-digital-circuit",
+    "name": "数字逻辑电路课程资料整理",
+    "url": "https://github.com/xuzhen0913/digital-circuit",
+    "maintainer": "xuzhen0913",
+    "kind": "repository",
+    "github": {
+      "owner": "xuzhen0913",
+      "repo": "digital-circuit",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-ljy0ustc-ustc-resources",
+    "name": "中科大计算机学院学习资料（含 WebInfo）",
+    "url": "https://github.com/ljy0ustc/USTC_Resources",
+    "maintainer": "ljy0ustc",
+    "kind": "repository",
+    "github": {
+      "owner": "ljy0ustc",
+      "repo": "USTC_Resources",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-hwp-lab-ustc-courses-data",
+    "name": "hwp-lab/USTC-Courses-Data（计算机学院课程资料）",
+    "url": "https://github.com/hwp-lab/USTC-Courses-Data",
+    "maintainer": "hwp-lab",
+    "kind": "repository",
+    "github": {
+      "owner": "hwp-lab",
+      "repo": "USTC-Courses-Data",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。；评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-enguikong-graph-theory",
+    "name": "图论作业与资料",
+    "url": "https://github.com/Enguikong/Graph_theory",
+    "maintainer": "Enguikong",
+    "kind": "repository",
+    "github": {
+      "owner": "Enguikong",
+      "repo": "Graph_theory",
+      "branch": "master"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-sakura0423-ustc-graph-theory",
+    "name": "USTC 图论课程答案与笔记",
+    "url": "https://github.com/sakura0423/USTC_Graph_Theory",
+    "maintainer": "sakura0423",
+    "kind": "repository",
+    "github": {
+      "owner": "sakura0423",
+      "repo": "USTC_Graph_Theory",
+      "branch": "master"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-guch8017-bankdb",
+    "name": "数据库课程 BankDB 项目（前端与后端两个仓库）",
+    "url": "https://github.com/guch8017/BankDBFrontend",
+    "maintainer": "guch8017",
+    "kind": "repository",
+    "github": {
+      "owner": "guch8017",
+      "repo": "BankDBFrontend",
+      "branch": "master"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-zhenyu-bo-codh-2024",
+    "name": "2024 计算机组成原理 H 课程资料",
+    "url": "https://github.com/Zhenyu-Bo/CODH-2024",
+    "maintainer": "Zhenyu-Bo",
+    "kind": "repository",
+    "github": {
+      "owner": "Zhenyu-Bo",
+      "repo": "CODH-2024",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-wloner0809-ustc-curriculum-resource",
+    "name": "USTC 课程资源（计算机组成原理 H 等）",
+    "url": "https://github.com/Wloner0809/ustc-curriculum-resource",
+    "maintainer": "Wloner0809",
+    "kind": "repository",
+    "github": {
+      "owner": "Wloner0809",
+      "repo": "ustc-curriculum-resource",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-magichear-machine-learning",
+    "name": "机器学习/深度学习课程资料",
+    "url": "https://github.com/magichear/Machine_Learning",
+    "maintainer": "magichear",
+    "kind": "repository",
+    "github": {
+      "owner": "magichear",
+      "repo": "Machine_Learning",
+      "branch": "master"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "gh-shirakawasanae-mnist-intro",
+    "name": "MNIST 入门教学仓库",
+    "url": "https://github.com/ShirakawaSanae/MNIST-intro",
+    "maintainer": "ShirakawaSanae",
+    "kind": "repository",
+    "github": {
+      "owner": "ShirakawaSanae",
+      "repo": "MNIST-intro",
+      "branch": "main"
+    },
+    "notes": "评课社区 2026-10 快照点评中公开引用的课程资料仓库；2026-11-19 匿名核验仓库页可访问。"
+  },
+  {
+    "id": "ustc-home-suyupilemao",
+    "name": "USTC 个人主页（suyupilemao）",
+    "url": "http://home.ustc.edu.cn/~suyupilemao/",
+    "maintainer": "suyupilemao",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评引用的课程讲义所在个人主页；2026-11-19 匿名核验 PDF 可下载。"
+  },
+  {
+    "id": "esl-solution-yuhangzhou",
+    "name": "A Solution Manual for ESL（yuhangzhou88.github.io）",
+    "url": "https://yuhangzhou88.github.io/ESL_Solution/",
+    "maintainer": "yuhangzhou88",
+    "kind": "website",
+    "github": {
+      "owner": "yuhangzhou88",
+      "repo": "ESL_Solution",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开《The Elements of Statistical Learning》题解站点；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-erkamuzuncayir-ics-solutions",
+    "name": "erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）",
+    "url": "https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems",
+    "maintainer": "erkamuzuncayir",
+    "kind": "repository",
+    "github": {
+      "owner": "erkamuzuncayir",
+      "repo": "solutions-of-introduction-to-computing-systems",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-hehaha68-ics-2020",
+    "name": "hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）",
+    "url": "https://github.com/hehaha68/USTC_2020Fall_Introduction-to-Computing-System",
+    "maintainer": "hehaha68",
+    "kind": "repository",
+    "github": {
+      "owner": "hehaha68",
+      "repo": "USTC_2020Fall_Introduction-to-Computing-System",
+      "branch": "master"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-ics-fa22-site",
+    "name": "计算系统概论 FA22 班级课程主页（ics.liuly.moe）",
+    "url": "https://ics.liuly.moe/",
+    "maintainer": "CS1002A.03 助教",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评提供的公开课程主页；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-ics01-23-site",
+    "name": "计算系统概论 FA23 班级课程主页（ics01-23.github.io）",
+    "url": "https://ics01-23.github.io/",
+    "maintainer": "CS1002A.01 助教",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评提供的公开课程主页；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-kz25t-2022ics",
+    "name": "KZ25T/2022ics（2022秋计算系统概论A课程资料）",
+    "url": "https://github.com/KZ25T/2022ics",
+    "maintainer": "KZ25T",
+    "kind": "repository",
+    "github": {
+      "owner": "KZ25T",
+      "repo": "2022ics",
+      "branch": "master"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-lunarknight-ai-notes",
+    "name": "LUNARKN1GHT/USTC-AI-Notes（人工智能数学原理与算法笔记）",
+    "url": "https://github.com/LUNARKN1GHT/USTC-AI-Notes",
+    "maintainer": "LUNARKN1GHT",
+    "kind": "repository",
+    "github": {
+      "owner": "LUNARKN1GHT",
+      "repo": "USTC-AI-Notes",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；助教自建笔记；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-nightglow-computationalmechanics",
+    "name": "NightGlow0826/ComputationalMechanics（计算力学基础代码）",
+    "url": "https://github.com/NightGlow0826/ComputationalMechanics",
+    "maintainer": "NightGlow0826",
+    "kind": "repository",
+    "github": {
+      "owner": "NightGlow0826",
+      "repo": "ComputationalMechanics",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-siriuspaul-experiment-codes",
+    "name": "SiriusPaul/experiment-codes（程序设计进阶大作业）",
+    "url": "https://github.com/SiriusPaul/experiment-codes",
+    "maintainer": "SiriusPaul",
+    "kind": "repository",
+    "github": {
+      "owner": "SiriusPaul",
+      "repo": "experiment-codes",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-tiankaima-notebooks",
+    "name": "tiankaima/Notebooks（数学实验等课程 Notebook）",
+    "url": "https://github.com/tiankaima/Notebooks",
+    "maintainer": "tiankaima",
+    "kind": "repository",
+    "github": {
+      "owner": "tiankaima",
+      "repo": "Notebooks",
+      "branch": "master"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-vertsineu-jpegify",
+    "name": "Vertsineu/jpegify（JPEG 编解码实验代码）",
+    "url": "https://github.com/Vertsineu/jpegify",
+    "maintainer": "Vertsineu",
+    "kind": "repository",
+    "github": {
+      "owner": "Vertsineu",
+      "repo": "jpegify",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-wanglulu-ics-labs",
+    "name": "Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）",
+    "url": "https://github.com/Wanglulu114514/ICS-Additional-Labs",
+    "maintainer": "Wanglulu114514",
+    "kind": "repository",
+    "github": {
+      "owner": "Wanglulu114514",
+      "repo": "ICS-Additional-Labs",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-zhengxiuyuan-femcode",
+    "name": "zhengxiuyuanustc-cmd/FEMcode2016（有限元上机代码与往年题）",
+    "url": "https://github.com/zhengxiuyuanustc-cmd/FEMcode2016",
+    "maintainer": "zhengxiuyuanustc-cmd",
+    "kind": "repository",
+    "github": {
+      "owner": "zhengxiuyuanustc-cmd",
+      "repo": "FEMcode2016",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-zhuyh1139-dip",
+    "name": "Zhuyh1139/ustc-2024-fall-dip（2024秋数字图像处理B实验）",
+    "url": "https://github.com/Zhuyh1139/ustc-2024-fall-dip",
+    "maintainer": "Zhuyh1139",
+    "kind": "repository",
+    "github": {
+      "owner": "Zhuyh1139",
+      "repo": "ustc-2024-fall-dip",
+      "branch": "master"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "gh-zzx6869-ics-2021",
+    "name": "zzx6869/ics_experiment_2021（2021 ICS 实验）",
+    "url": "https://github.com/zzx6869/ics_experiment_2021",
+    "maintainer": "zzx6869",
+    "kind": "repository",
+    "github": {
+      "owner": "zzx6869",
+      "repo": "ics_experiment_2021",
+      "branch": "main"
+    },
+    "notes": "评课社区点评提供的公开仓库；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "git-ustc-flurry-ics",
+    "name": "git.ustc.edu.cn W L / ics（ICS 课后题答案）",
+    "url": "https://git.ustc.edu.cn/flurry_lw/ics",
+    "maintainer": "flurry_lw（USTC GitLab）",
+    "kind": "repository",
+    "github": null,
+    "notes": "评课社区点评提供的公开 USTC GitLab 仓库；2026-11-19 匿名核验 PDF 直链可取。"
+  },
+  {
+    "id": "home-pscgylotti",
+    "name": "home.ustc.edu.cn/~pscgylotti（运筹学回忆卷）",
+    "url": "http://home.ustc.edu.cn/~pscgylotti/",
+    "maintainer": "pscgylotti",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评提供的个人主页文件；2026-11-19 匿名核验 PDF 可取。"
+  },
+  {
+    "id": "ustc-ics-course",
+    "name": "计算系统概论课程组主页（acsa.ustc.edu.cn/ics）",
+    "url": "https://acsa.ustc.edu.cn/ics/",
+    "maintainer": "USTC 计算系统概论课程组",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评提供的公开课程主页；2026-11-19 匿名核验可访问。"
+  },
+  {
+    "id": "walkccc-clrs",
+    "name": "walkccc/CLRS 习题解答",
+    "url": "https://walkccc.github.io/CLRS/",
+    "maintainer": "walkccc",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评提供的公开《算法导论》第三版题解站点；2026-11-19 匿名核验可访问。；CLRS（算法导论）习题解答公开站点；原点评用于课程习题参考。第三方整理，非课程官方。"
+  },
+  {
+    "id": "gh-passiflora-sago-site",
+    "name": "Passiflora-sago 课程主页与讲义发布",
+    "url": "https://github.com/Passiflora-sago/Passiflora-sago.github.io",
+    "maintainer": "Passiflora-sago",
+    "kind": "repository",
+    "github": {
+      "owner": "Passiflora-sago",
+      "repo": "Passiflora-sago.github.io",
+      "branch": "main"
+    },
+    "notes": "数学分析(B1) 课程讲义与历年真题 PDF 的 GitHub Release 发布仓库"
+  },
+  {
+    "id": "web-fubianb-answers",
+    "name": "USTC 复变函数B 习题解答",
+    "url": "https://fubianb.brealid.cn/",
+    "maintainer": "USTC 复变函数B 习题解答站点",
+    "kind": "website",
+    "github": null,
+    "notes": "复变函数B 第一至第七章习题解答公开站点"
+  },
+  {
+    "id": "gh-waltersumbon-dns-relay",
+    "name": "WalterSumbon/DNS-Relay",
+    "url": "https://github.com/WalterSumbon/DNS-Relay",
+    "maintainer": "WalterSumbon",
+    "kind": "repository",
+    "github": {
+      "owner": "WalterSumbon",
+      "repo": "DNS-Relay",
+      "branch": "main"
+    },
+    "notes": "USTC 计算机网络 2020 Lab1 DNS Relay 代码与报告"
+  },
+  {
+    "id": "web-gdrive-net-pack",
+    "name": "计算机网络课程资料包（Google Drive 公开分享）",
+    "url": "https://drive.google.com/file/d/1rI8fScVBO7sz6oNwwGQNpbyGTFD8mDkH/view?usp=drive_link",
+    "maintainer": "评课社区用户公开分享",
+    "kind": "website",
+    "github": null,
+    "notes": "net.zip：计算机网络笔记、课后测验与答案、历年期中期末与复习资料合集"
+  },
+  {
+    "id": "web-feater-top",
+    "name": "食铁兽（JackeyLea）技术博客",
+    "url": "https://feater.top/",
+    "maintainer": "JackeyLea",
+    "kind": "website",
+    "github": null,
+    "notes": "《计算机网络：自顶向下方法（第 7 版）》课后习题参考答案页面所在站点"
+  },
+  {
+    "id": "gh-moranzcw-cn-notes",
+    "name": "moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+    "url": "https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+    "maintainer": "moranzcw",
+    "kind": "repository",
+    "github": {
+      "owner": "moranzcw",
+      "repo": "Computer-Networking-A-Top-Down-Approach-NOTES",
+      "branch": "master"
+    },
+    "notes": "《计算机网络：自顶向下方法》笔记、编程作业解答与 Wireshark 实验文档翻译"
+  },
+  {
+    "id": "gh-jzplp-cn-answers",
+    "name": "jzplp/Computer-Network-A-Top-Down-Approach-Answer",
+    "url": "https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer",
+    "maintainer": "jzplp",
+    "kind": "repository",
+    "github": {
+      "owner": "jzplp",
+      "repo": "Computer-Network-A-Top-Down-Approach-Answer",
+      "branch": "master"
+    },
+    "notes": "《计算机网络：自顶向下方法》课后题、实验与编程作业答案"
+  },
+  {
+    "id": "gh-enguikong-algebraic-structure",
+    "name": "Enguikong/Algebraic_structure",
+    "url": "https://github.com/Enguikong/Algebraic_structure",
+    "maintainer": "Enguikong",
+    "kind": "repository",
+    "github": {
+      "owner": "Enguikong",
+      "repo": "Algebraic_structure",
+      "branch": "master"
+    },
+    "notes": "中国科学技术大学代数结构（孙淑玲）课后习题答案与讲义"
+  },
+  {
+    "id": "gh-xxuhaiyang-ustc-ai2022-lab",
+    "name": "xXuHaiyang/USTC_AI2022_Lab",
+    "url": "https://github.com/xXuHaiyang/USTC_AI2022_Lab",
+    "maintainer": "xXuHaiyang",
+    "kind": "repository",
+    "github": {
+      "owner": "xXuHaiyang",
+      "repo": "USTC_AI2022_Lab",
+      "branch": "main"
+    },
+    "notes": "USTC 人工智能基础 2022 实验代码与报告"
+  },
+  {
+    "id": "web-gdrive-ai-pack",
+    "name": "人工智能基础课程资料包（Google Drive 公开分享）",
+    "url": "https://drive.google.com/file/d/1wTV1vfdICaOfRIbpbx8mbsMqIng3mCY_/view?usp=drive_link",
+    "maintainer": "评课社区用户公开分享",
+    "kind": "website",
+    "github": null,
+    "notes": "ai.zip：人工智能导论实验、复习资料与 2019—2021 期末试卷合集"
+  },
+  {
+    "id": "git-ustc-infonet-cn-experiment",
+    "name": "信息网络实验室 computer-network-experiment（USTC GitLab）",
+    "url": "https://git.ustc.edu.cn/infonet/computer-network-experiment",
+    "maintainer": "中国科学技术大学信息网络实验室",
+    "kind": "repository",
+    "github": null,
+    "notes": "计算机网络课程实验文档（USTC GitLab 公开项目）"
+  },
+  {
+    "id": "gh-xinchengo-autoresearch-gomoku",
+    "name": "xinchengo/autoresearch-gomoku",
+    "url": "https://github.com/xinchengo/autoresearch-gomoku",
+    "maintainer": "xinchengo",
+    "kind": "repository",
+    "github": {
+      "owner": "xinchengo",
+      "repo": "autoresearch-gomoku",
+      "branch": "main"
+    },
+    "notes": "AI3002 五子棋强化学习大作业与自动研究实验"
+  },
+  {
+    "id": "gh-wanglulu-aiml26",
+    "name": "Wanglulu114514/ResourceforAIML26",
+    "url": "https://github.com/Wanglulu114514/ResourceforAIML26",
+    "maintainer": "Wanglulu114514",
+    "kind": "repository",
+    "github": {
+      "owner": "Wanglulu114514",
+      "repo": "ResourceforAIML26",
+      "branch": "main"
+    },
+    "notes": "USTC AI3002 2026 秋 Lab1 指南与数据采样说明"
+  },
+  {
+    "id": "gh-summer-summer-ca-lab",
+    "name": "Summer-Summer/ComputerArchitectureLab",
+    "url": "https://github.com/Summer-Summer/ComputerArchitectureLab",
+    "maintainer": "Summer-Summer",
+    "kind": "repository",
+    "github": {
+      "owner": "Summer-Summer",
+      "repo": "ComputerArchitectureLab",
+      "branch": "master"
+    },
+    "notes": "USTC 体系结构 2019 夏季学期实验代码与要求发布仓库"
+  },
+  {
+    "id": "gh-oyyko-ustc-ca",
+    "name": "Oyyko/USTC-Computer-Architecture",
+    "url": "https://github.com/Oyyko/USTC-Computer-Architecture",
+    "maintainer": "Oyyko",
+    "kind": "repository",
+    "github": {
+      "owner": "Oyyko",
+      "repo": "USTC-Computer-Architecture",
+      "branch": "main"
+    },
+    "notes": "USTC 体系结构作业与答案资料"
+  },
+  {
+    "id": "gh-jackiez1412-ca2023",
+    "name": "JackieZ1412/USTC-ComputerArchitecture-2023Spring",
+    "url": "https://github.com/JackieZ1412/USTC-ComputerArchitecture-2023Spring",
+    "maintainer": "JackieZ1412",
+    "kind": "repository",
+    "github": {
+      "owner": "JackieZ1412",
+      "repo": "USTC-ComputerArchitecture-2023Spring",
+      "branch": "main"
+    },
+    "notes": "USTC CS4014 体系结构 2023 春作业、答案、实验报告与课件"
+  },
+  {
+    "id": "gh-lunarkn1ght-lol-esports",
+    "name": "LUNARKN1GHT/lol_esports",
+    "url": "https://github.com/LUNARKN1GHT/lol_esports",
+    "maintainer": "LUNARKN1GHT",
+    "kind": "repository",
+    "github": {
+      "owner": "LUNARKN1GHT",
+      "repo": "lol_esports",
+      "branch": "main"
+    },
+    "notes": "实用统计软件课程期末项目：LOL 赛事数据分析报告"
+  },
+  {
+    "id": "gh-yxli2123-pattern-recognition",
+    "name": "yxli2123/pattern-recognition-experiments",
+    "url": "https://github.com/yxli2123/pattern-recognition-experiments",
+    "maintainer": "yxli2123",
+    "kind": "repository",
+    "github": {
+      "owner": "yxli2123",
+      "repo": "pattern-recognition-experiments",
+      "branch": "main"
+    },
+    "notes": "USTC 模式识别 2020 秋三个实验源码"
+  },
+  {
+    "id": "web-mechdrawing-tutorial",
+    "name": "机械制图多媒体教程",
+    "url": "http://202.38.71.7/chap01/html/default.html",
+    "maintainer": "站点维护方未公开",
+    "kind": "website",
+    "github": null,
+    "notes": "机械制图多媒体教程课程网站（分章 HTML 课件）"
+  },
+  {
+    "id": "gh-wloner0809-curriculum",
+    "name": "Wloner0809/ustc-curriculum-resource",
+    "url": "https://github.com/Wloner0809/ustc-curriculum-resource",
+    "maintainer": "Wloner0809",
+    "kind": "repository",
+    "github": {
+      "owner": "Wloner0809",
+      "repo": "ustc-curriculum-resource",
+      "branch": "main"
+    },
+    "notes": "USTC 课程资源；评课点评引用的数理逻辑基础目录。无许可声明。"
+  },
+  {
+    "id": "bilibili-course-recordings",
+    "name": "B 站课程习题课录像",
+    "url": "https://www.bilibili.com/",
+    "maintainer": "B 站公开上传者",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评中公开的课程习题课录像；仅登记视频页，权利归上传者。"
+  },
+  {
+    "id": "gh-hwp-lab-courses",
+    "name": "hwp-lab/USTC-Courses-Data",
+    "url": "https://github.com/hwp-lab/USTC-Courses-Data",
+    "maintainer": "hwp-lab",
+    "kind": "repository",
+    "github": {
+      "owner": "hwp-lab",
+      "repo": "USTC-Courses-Data",
+      "branch": "main"
+    },
+    "notes": "USTC 计算机专业课程资料；评课点评引用的数电实验与数据结构目录。无许可声明。"
+  },
+  {
+    "id": "gh-txtxj-digital-logic-lab10",
+    "name": "txtxj/USTC-Digital-Logic-Lab10",
+    "url": "https://github.com/txtxj/USTC-Digital-Logic-Lab10",
+    "maintainer": "txtxj",
+    "kind": "repository",
+    "github": {
+      "owner": "txtxj",
+      "repo": "USTC-Digital-Logic-Lab10",
+      "branch": "main"
+    },
+    "notes": "数字电路实验 2021 秋大作业；无许可声明。"
+  },
+  {
+    "id": "gh-calvino-elon-mnist",
+    "name": "Calvino-Elon/MINIST-and-camera-based-written-number-recognition",
+    "url": "https://github.com/Calvino-Elon/MINIST-and-camera-based-written-number-recognition",
+    "maintainer": "Calvino-Elon",
+    "kind": "repository",
+    "github": {
+      "owner": "Calvino-Elon",
+      "repo": "MINIST-and-camera-based-written-number-recognition",
+      "branch": "master"
+    },
+    "notes": "摄像头手写数字识别课程项目；无许可声明。"
+  },
+  {
+    "id": "gh-qc1-course-materials",
+    "name": "qc-1/Course-Materials",
+    "url": "https://github.com/qc-1/Course-Materials",
+    "maintainer": "qc-1",
+    "kind": "repository",
+    "github": {
+      "owner": "qc-1",
+      "repo": "Course-Materials",
+      "branch": "main"
+    },
+    "notes": "USTC 课程资料；评课点评引用的计网目录。无许可声明。"
+  },
+  {
+    "id": "home-ustc-shiyaowei",
+    "name": "home.ustc.edu.cn/~shiyaowei040126",
+    "url": "http://home.ustc.edu.cn/~shiyaowei040126/",
+    "maintainer": "学生个人主页",
+    "kind": "website",
+    "github": null,
+    "notes": "学生个人公开主页上的普通化学实验报告；仅链接原文件。"
+  },
+  {
+    "id": "yixiao-wang-stats",
+    "name": "yixiao-wang-stats.github.io",
+    "url": "https://yixiao-wang-stats.github.io/",
+    "maintainer": "yixiao-wang-stats",
+    "kind": "website",
+    "github": null,
+    "notes": "个人公开站点上的概率论进阶课程笔记；仅链接原文件。"
+  },
+  {
+    "id": "ustc-git-alberfish-tex4phyche",
+    "name": "Alberfish/Tex4PhyChe（USTC GitLab）",
+    "url": "https://git.ustc.edu.cn/Alberfish/tex4phyche",
+    "maintainer": "Alberfish",
+    "kind": "repository",
+    "github": null,
+    "notes": "物理化学实验报告 LaTeX 模板；校内 GitLab 公开仓库。"
+  },
+  {
+    "id": "ustc-git-sharp-basic51",
+    "name": "Sharp/basic51（USTC GitLab）",
+    "url": "https://git.lug.ustc.edu.cn/sharp/basic51",
+    "maintainer": "Sharp",
+    "kind": "repository",
+    "github": null,
+    "notes": "单片机课程大作业工程（任意信号发生器）；校内 GitLab 公开仓库。"
+  },
+  {
+    "id": "ustc-isp-site",
+    "name": "系统程序设计基础（USTC ISP）",
+    "url": "https://ustc-isp.github.io/",
+    "maintainer": "USTC ISP 课程组",
+    "kind": "website",
+    "github": null,
+    "notes": "系统程序设计基础课程主页；评课点评列为资料入口。"
+  },
+  {
+    "id": "linear-axler-ladr",
+    "name": "Linear Algebra Done Right（Sheldon Axler）",
+    "url": "https://linear.axler.net/",
+    "maintainer": "Sheldon Axler",
+    "kind": "website",
+    "github": null,
+    "notes": "作者发布页标注第 4 版为 Open Access 并提供完整 PDF；匿名可取。"
+  },
+  {
+    "id": "staff-ustc-gzwang",
+    "name": "固体物理课程讲义（教师主页）",
+    "url": "http://staff.ustc.edu.cn/~gzwang/",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的教师主页，提供固体物理课程 PPT；匿名可访问。"
+  },
+  {
+    "id": "ustc-compiler-principles-2023",
+    "name": "USTC 编译原理和技术 2023 课程网站",
+    "url": "https://ustc-compiler-principles.github.io/2023/",
+    "maintainer": "USTC 编译原理课程组",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的课程网站；匿名可访问。"
+  },
+  {
+    "id": "gh-wangxiaoou-ustc-course",
+    "name": "wangxiaoou2013/USTC-Course（高等光学编程作业）",
+    "url": "https://github.com/wangxiaoou2013/USTC-Course",
+    "maintainer": "wangxiaoou2013",
+    "kind": "repository",
+    "github": {
+      "owner": "wangxiaoou2013",
+      "repo": "USTC-Course",
+      "branch": "master"
+    },
+    "notes": "评课社区点评外链的课程编程作业仓库目录；匿名可访问。"
+  },
+  {
+    "id": "staff-ustc-weng-ssp",
+    "name": "固体物理课程主页（翁老师）",
+    "url": "http://staff.ustc.edu.cn/~weng/index_SSP.html",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的 Solid State Physics 课程页；匿名可访问。"
+  },
+  {
+    "id": "staff-ustc-wangzuoq-ra",
+    "name": "实分析课程主页（2018 春，王作勤）",
+    "url": "http://staff.ustc.edu.cn/~wangzuoq/Courses/18S-RealAnalysis/index.html",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的实分析课程主页；匿名可访问（页面编码异常，未逐条解析）。"
+  },
+  {
+    "id": "gh-mmengjiadai-computational-method",
+    "name": "mmengjiadai/Computational-Method",
+    "url": "https://github.com/mmengjiadai/Computational-Method",
+    "maintainer": "mmengjiadai",
+    "kind": "repository",
+    "github": {
+      "owner": "mmengjiadai",
+      "repo": "Computational-Method",
+      "branch": "main"
+    },
+    "notes": "评课社区点评外链的计算方法课程作业代码仓库；匿名可访问。"
+  },
+  {
+    "id": "gh-xxuhaiyang-computation2022",
+    "name": "xXuHaiyang/USTC_Computation2022_Lab",
+    "url": "https://github.com/xXuHaiyang/USTC_Computation2022_Lab",
+    "maintainer": "xXuHaiyang",
+    "kind": "repository",
+    "github": {
+      "owner": "xXuHaiyang",
+      "repo": "USTC_Computation2022_Lab",
+      "branch": "main"
+    },
+    "notes": "评课社区点评外链的计算方法 2022 实验仓库；匿名可访问。"
+  },
+  {
+    "id": "staff-ustc-zwp-probstat",
+    "name": "张伟平 概率论与数理统计课程页",
+    "url": "http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "教师课程主页，评课社区点评外链；匿名可访问。"
+  },
+  {
+    "id": "gh-stardust-math-refans",
+    "name": "Stardust-math/Reference-Answer",
+    "url": "https://github.com/Stardust-math/Reference-Answer",
+    "maintainer": "Stardust-math",
+    "kind": "repository",
+    "github": {
+      "owner": "Stardust-math",
+      "repo": "Reference-Answer",
+      "branch": "main"
+    },
+    "notes": "评课社区点评作者公开的《概率论与数理统计》参考答案仓库；匿名可访问。"
+  },
+  {
+    "id": "home-ustc-shiyaowei-optics",
+    "name": "光学A 助教习题课讲义（home.ustc.edu.cn）",
+    "url": "http://home.ustc.edu.cn/~shiyaowei040126/",
+    "maintainer": "中国科学技术大学学生主页",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的光学A 助教讲义 PDF；匿名可取（application/pdf）。"
+  },
+  {
+    "id": "staff-ustc-renjiec-mm",
+    "name": "数学建模课程主页（陈仁杰，2026）",
+    "url": "http://staff.ustc.edu.cn/~renjiec/mm2026/",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的数学建模课程主页；匿名可访问。"
+  },
+  {
+    "id": "gitee-linweibi-physical-chemistry",
+    "name": "LinweiBi/experiment-of-physical-chemistry-i",
+    "url": "https://gitee.com/LinweiBi/experiment-of-physical-chemistry-i",
+    "maintainer": "LinweiBi",
+    "kind": "repository",
+    "github": null,
+    "notes": "评课社区点评外链的物化实验报告/数据处理仓库；匿名可访问。"
+  },
+  {
+    "id": "gh-vatican-mm26",
+    "name": "TheVaticanCameos/USTC_MM_26",
+    "url": "https://github.com/TheVaticanCameos/USTC_MM_26",
+    "maintainer": "TheVaticanCameos",
+    "kind": "repository",
+    "github": {
+      "owner": "TheVaticanCameos",
+      "repo": "USTC_MM_26",
+      "branch": "main"
+    },
+    "notes": "评课社区点评外链的数学建模 2026 春作业仓库；匿名可访问。"
+  },
+  {
+    "id": "jonbgua-coursenotes-sql",
+    "name": "数据库基础课程笔记（jonbgua.com）",
+    "url": "https://coursenotes.jonbgua.com/sql/",
+    "maintainer": "jonbgua",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的公开课程笔记站点；匿名可访问。"
+  },
+  {
+    "id": "gh-txtxj-pl0-compiler",
+    "name": "txtxj/PL0-Compiler",
+    "url": "https://github.com/txtxj/PL0-Compiler",
+    "maintainer": "txtxj",
+    "kind": "repository",
+    "github": {
+      "owner": "txtxj",
+      "repo": "PL0-Compiler",
+      "branch": "main"
+    },
+    "notes": "评课社区点评外链的编译原理 2022 秋大作业仓库；匿名可访问。"
+  },
+  {
+    "id": "gh-lyc0930-compiler-homework",
+    "name": "lyc0930/Compiler-Homework",
+    "url": "https://github.com/lyc0930/Compiler-Homework",
+    "maintainer": "lyc0930",
+    "kind": "repository",
+    "github": {
+      "owner": "lyc0930",
+      "repo": "Compiler-Homework",
+      "branch": "master"
+    },
+    "notes": "评课社区点评外链的编译原理作业仓库（2019 秋）；匿名可访问。"
+  },
+  {
+    "id": "gcl-ustc-summer-2023",
+    "name": "2023 中科大计算机图形学暑期课程",
+    "url": "http://gcl.ustc.edu.cn/Courses/SummerSchool_2023/index.html",
+    "maintainer": "中国科学技术大学 GCL 实验室",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区点评外链的暑期课程主页；匿名可访问。"
+  },
+  {
+    "id": "acsa-ustc-ics",
+    "name": "中国科学技术大学计算机系统概论课程网站",
+    "url": "http://acsa.ustc.edu.cn/ics/",
+    "maintainer": "中国科学技术大学",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链的课程网站，列有作业、实验与考试栏目；匿名可访问。"
+  },
+  {
+    "id": "gh-ace-tyl-icsh-code",
+    "name": "Ace-tyl/icsh-code",
+    "url": "https://github.com/Ace-tyl/icsh-code",
+    "maintainer": "Ace-tyl",
+    "kind": "repository",
+    "github": {
+      "owner": "Ace-tyl",
+      "repo": "icsh-code",
+      "branch": "main"
+    },
+    "notes": "评课社区点评外链的 ICS(H) 2023 秋实验代码仓库；匿名可访问。"
+  },
+  {
+    "id": "gh-ljy0ustc-resources",
+    "name": "ljy0ustc/USTC_Resources",
+    "url": "https://github.com/ljy0ustc/USTC_Resources",
+    "maintainer": "ljy0ustc",
+    "kind": "repository",
+    "github": {
+      "owner": "ljy0ustc",
+      "repo": "USTC_Resources",
+      "branch": "main"
+    },
+    "notes": "评课社区点评外链的中科大计算机学院学习资料仓库；匿名可访问。"
+  },
+  {
+    "id": "gh-oyyko-random-process",
+    "name": "Oyyko/USTC-Random-Process",
+    "url": "https://github.com/Oyyko/USTC-Random-Process",
+    "maintainer": "Oyyko",
+    "kind": "repository",
+    "github": {
+      "owner": "Oyyko",
+      "repo": "USTC-Random-Process",
+      "branch": "master"
+    },
+    "notes": "评课社区点评外链的随机过程复习资料仓库；匿名可访问。"
+  },
+  {
+    "id": "gh-fluuuegel-os-lab-2022",
+    "name": "Fluuuegel/USTC-OS-Lab-2022（操作系统实验）",
+    "url": "https://github.com/Fluuuegel/USTC-OS-lab-2022",
+    "maintainer": "GitHub @Fluuuegel",
+    "kind": "repository",
+    "github": {
+      "owner": "Fluuuegel",
+      "repo": "USTC-OS-Lab-2022",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的实验仓库；匿名核对仓库页可访问，仅导航原页。"
+  },
+  {
+    "id": "ustc-os-docs",
+    "name": "USTC OS Docs（操作系统实验文档）",
+    "url": "http://home.ustc.edu.cn/~pzw2002/",
+    "maintainer": "中国科学技术大学学生",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的操作系统实验文档站；匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "cardigan0214-ra-2026",
+    "name": "实分析 2026 春课程主页（刘聪文）",
+    "url": "https://cardigan0214.github.io/course/26SpringRA.html",
+    "maintainer": "cardigan0214",
+    "kind": "website",
+    "github": null,
+    "notes": "评课社区公开点评外链定位到的课程主页；匿名核对入口可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-sigma-aster-bigdata-algo",
+    "name": "sigma-aster/Big-data-algorithms（大数据算法笔记）",
+    "url": "https://github.com/sigma-aster/Big-data-algorithms",
+    "maintainer": "GitHub @sigma-aster",
+    "kind": "repository",
+    "github": {
+      "owner": "sigma-aster",
+      "repo": "Big-data-algorithms",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的课程笔记仓库；匿名核对仓库页可访问，仅导航原页。"
+  },
+  {
+    "id": "fds-blum-hopcroft-kannan",
+    "name": "Foundations of Data Science（Blum, Hopcroft, Kannan）",
+    "url": "https://www.cs.cornell.edu/jeh/book.pdf",
+    "maintainer": "Avrim Blum, John Hopcroft, Ravindran Kannan",
+    "kind": "website",
+    "github": null,
+    "notes": "作者公开提供的完整教材 PDF；评课社区点评将其列为该课参考资料。"
+  },
+  {
+    "id": "sketchingbigdata-nelson",
+    "name": "Sketching Algorithms（Jelani Nelson 讲义）",
+    "url": "https://www.sketchingbigdata.org/fall20/lec/notes.pdf",
+    "maintainer": "Jelani Nelson",
+    "kind": "website",
+    "github": null,
+    "notes": "作者公开提供的完整讲义 PDF；评课社区点评将其列为该课参考资料。"
+  },
+  {
+    "id": "gh-cbyybc-deeplearning",
+    "name": "cbyybc/deeplearning（深度学习大作业）",
+    "url": "https://github.com/cbyybc/deeplearning",
+    "maintainer": "GitHub @cbyybc",
+    "kind": "repository",
+    "github": {
+      "owner": "cbyybc",
+      "repo": "deeplearning",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的大作业仓库；匿名核对仓库页可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-catoverflow-robdd",
+    "name": "Catoverflow/ROBDD（ROBDD 构造器）",
+    "url": "https://github.com/Catoverflow/ROBDD",
+    "maintainer": "GitHub @Catoverflow",
+    "kind": "repository",
+    "github": {
+      "owner": "Catoverflow",
+      "repo": "ROBDD",
+      "branch": "master"
+    },
+    "notes": "评课社区公开点评外链定位到的课程项目仓库；匿名核对仓库页可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-minervazz-mathlogic-gt",
+    "name": "minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+    "url": "https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+    "maintainer": "GitHub @minervazz",
+    "kind": "repository",
+    "github": {
+      "owner": "StellaVesperi",
+      "repo": "USTC_23fa_Mathematical-Logic-and-Graph-Theory",
+      "branch": "main"
+    },
+    "notes": "评课社区公开点评外链定位到的作业反馈与答案仓库；匿名核对仓库页可访问，仅导航原页。"
+  },
+  {
+    "id": "gh-zzx6869-python-design",
+    "name": "zzx6869/2020_python_program_design",
+    "url": "https://github.com/zzx6869/2020_python_program_design",
+    "maintainer": "GitHub @zzx6869",
+    "kind": "repository",
+    "github": {
+      "owner": "zzx6869",
+      "repo": "2020_python_program_design",
+      "branch": "master"
+    },
+    "notes": "评课社区公开点评外链定位到的课程实验仓库；匿名核对仓库页可访问，仅导航原页。"
   }
 ]

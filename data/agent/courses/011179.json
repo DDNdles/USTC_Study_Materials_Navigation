@@ -9,6 +9,37 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-011179-bb038d03e693bd37",
+      "type": "study",
+      "title": "Web 信息处理与应用 复习提纲与总结（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "旧库 notes 目录，3 份 PDF：Web Mining 复习提纲-2018、web 复习总结（熊家靖）、web 信息处理与应用复习提纲详细总结；学生整理复习材料，公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes",
+        "note": "读取 GitHub 固定提交 d091d4d 的 git tree 核对目录与文件；目录级资源，逐份文件由统一哈希取样验证。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-lectures-gh-ustc-cs-courses-re-011179-web",
       "type": "study",
       "title": "Web 信息处理与应用 课件（USTC-CS-Courses-Resource）",
@@ -42,13 +73,42 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011179-8b53b97b90cc4f3d",
+      "type": "study",
+      "title": "Web 信息处理与应用 A4 速查资料（ljyA4.docx）",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2021秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/ljy0ustc/USTC_Resources/blob/main/WebInfo/ljyA4.docx",
+        "note": "评课社区公开点评（2021秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ljy0ustc-ustc-resources",
+          "page_url": "https://github.com/ljy0ustc/USTC_Resources/blob/main/WebInfo/ljyA4.docx",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 ljy0ustc/USTC_Resources",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-011179-web-labs",
       "type": "projects",
       "title": "Web 信息处理与应用 实验（USTC-Course）",
       "authors": [
         "USTC-Resource"
       ],
-      "notes": "119 个文件（tree 实际读取）；目录 Web-信息处理与应用/labs",
+      "notes": "119 个文件（tree 实际读取）；目录 Web-信息处理与应用/labs；既有条目，本轮核对目录文件数一致，无变更。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -56,7 +116,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs",
-        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+        "note": "核对目录文件数与既有条目一致。"
       },
       "locations": [
         {
@@ -70,11 +130,12 @@
           "page_kind": null
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course"
+    "gh-ljy0ustc-ustc-resources": "中科大计算机学院学习资料（含 WebInfo）"
   }
 }

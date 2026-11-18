@@ -7,7 +7,69 @@
     "security",
     "cs"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-011187-c085c388b502c298",
+      "type": "homework",
+      "title": "数据隐私作业与实验目录",
+      "authors": [],
+      "notes": "原点评公开说明数据隐私作业与实验位于该仓库目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81",
+        "note": "依据原点评公开正文的作业或小测说明与配图核验；解答情况未明示。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-wloner0809",
+          "page_url": "https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011187-e72270ce45e3e50d",
+      "type": "homework",
+      "title": "数据隐私作业与实验目录",
+      "authors": [],
+      "notes": "原点评公开说明数据隐私作业与实验位于该仓库目录，匿名可访问；仅登记目录入口。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81",
+        "note": "依据原点评公开正文的作业或小测说明与配图核验；解答情况未明示。"
+      },
+      "locations": [
+        {
+          "source_id": "eng-github-melmaphother",
+          "page_url": "https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "eng-github-melmaphother": "Melmaphother/ustc-course-resources"
+  }
 }

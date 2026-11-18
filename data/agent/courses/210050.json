@@ -601,12 +601,42 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-210050-5a529a06caf17e3a",
+      "type": "projects",
+      "title": "数字逻辑电路 课程资料仓库",
+      "authors": [],
+      "notes": "评课社区点评回查：评课社区公开点评（2022秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/xuzhen0913/digital-circuit",
+        "note": "评课社区公开点评（2022秋）附件；首屏未提取文字（扫描件/Word/压缩包），按文件名与点评上下文归属。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-xuzhen0913-digital-circuit",
+          "page_url": "https://github.com/xuzhen0913/digital-circuit",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "GitHub 公开仓库；仓库内资料授权以仓库声明/文件来源为准",
+          "attribution": "GitHub 公开仓库 xuzhen0913/digital-circuit",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
+    "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
+    "gh-xuzhen0913-digital-circuit": "数字逻辑电路课程资料整理"
   }
 }

@@ -6,7 +6,39 @@
   "tags": [
     "communications"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-006204-cef109978ac1fe09",
+      "type": "study",
+      "title": "光通信网络基础 课程讲义（朱庆珠课程页）",
+      "authors": [],
+      "notes": "课程页列出 Week1–Week10 Lecture Notes PDF；匿名 200。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18965/#review-97192",
+        "note": "外站公开入口；按页面标题/仓库说明确认与课程相关，未逐文件核验。"
+      },
+      "locations": [
+        {
+          "source_id": "zuqingzhu-ocn",
+          "page_url": "https://www.zuqingzhu.info/OCN.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "外站公开页面/文件，仅导航原页面；授权以原站声明为准。",
+          "attribution": "光通信网络基础 课程讲义（朱庆珠课程页）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "zuqingzhu-ocn": "朱庆珠 光通信网络课程页"
+  }
 }

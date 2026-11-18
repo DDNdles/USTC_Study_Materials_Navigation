@@ -40,9 +40,253 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-CS1002A-c1ddc27ca7c548dc",
+      "type": "homework",
+      "title": "《Introduction to Computing Systems》第 3 版教材习题解答（第三方）",
+      "authors": [],
+      "notes": "仓库说明为作者对 Patt & Patel《Introduction to Computing Systems》的习题解答，solutions 目录按章组织；非课程组官方答案，点评亦称「错误不少」。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-erkamuzuncayir-ics-solutions",
+          "page_url": "https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-891e1fb2d485f564",
+      "type": "homework",
+      "title": "计算机系统概论(H)（2020秋）教材课后习题答案（hehaha68）",
+      "authors": [],
+      "notes": "仓库说明为「中科大2020秋《计算机系统概论(H)》课程资源」；课后习题答案目录为教材习题与答案。2026-11-19 匿名核验目录可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hehaha68/USTC_2020Fall_Introduction-to-Computing-System/tree/master/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-hehaha68-ics-2020",
+          "page_url": "https://github.com/hehaha68/USTC_2020Fall_Introduction-to-Computing-System/tree/master/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-5d76c6c368bf0f09",
+      "type": "homework",
+      "title": "计算系统概论 教材课后题答案（第 3 版前 5 章部分，PDF）",
+      "authors": [],
+      "notes": "32 页 PDF，按章节列出 ICS 教材课后题与答案；点评上下文称「第 3 版前 5 章答案（半份）」。2026-11-19 匿名核验 PDF 直链可取（3008572 字节）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/flurry_lw/ics/-/raw/main/ics%E8%AF%BE%E5%90%8E%E9%A2%98.pdf",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "git-ustc-flurry-ics",
+          "page_url": "https://git.ustc.edu.cn/flurry_lw/ics/-/blob/main/ics%E8%AF%BE%E5%90%8E%E9%A2%98.pdf",
+          "download_page": null,
+          "download_url": "https://git.ustc.edu.cn/flurry_lw/ics/-/raw/main/ics%E8%AF%BE%E5%90%8E%E9%A2%98.pdf",
+          "access": "public",
+          "license_note": "评课社区点评链接的公开文件；权利归原作者，未声明逐文件再分发许可",
+          "attribution": "git.ustc.edu.cn W L / ics（ICS 课后题答案）",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "9df22954140a221abbace2b7c832326168b4d6a219fae083e6cf25ef80c45cef",
+            "bytes": 3008572,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-668f52e8d4ceba95",
+      "type": "homework",
+      "title": "计算系统概论 作业 hw1–hw7 与部分答案（USTC-Courses-Data）",
+      "authors": [],
+      "notes": "目录 homework 列出 hw1–hw7 题面、hw2/3/5/6 答案与 hw2 习题课课件；同仓库另有 labs、PPT、Exam concerned。2026-11-19 匿名核验目录可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/homework",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-hwp-lab-ustc-courses-data",
+          "page_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/homework",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "hwp-lab/USTC-Courses-Data（计算机学院课程资料）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-7043ef58b7fdb5fc",
+      "type": "projects",
+      "title": "计算系统概论 实验（labs，USTC-Courses-Data）",
+      "authors": [],
+      "notes": "目录 labs；同仓库 homework 目录含作业题面与部分答案，PPT、Exam concerned 另列。2026-11-19 匿名核验目录可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/labs",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-hwp-lab-ustc-courses-data",
+          "page_url": "https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/labs",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "hwp-lab/USTC-Courses-Data（计算机学院课程资料）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-413c83b3cc17423c",
+      "type": "projects",
+      "title": "计算系统概论A 附加实验：LC-3 汇编器与模拟器（ICS-Additional-Labs）",
+      "authors": [],
+      "notes": "仓库说明为帮助完成 USTC ICS 附加实验（LC-3 assembler and simulator）；根目录含 assembler.py、simulator.py 与 README。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Wanglulu114514/ICS-Additional-Labs",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-wanglulu-ics-labs",
+          "page_url": "https://github.com/Wanglulu114514/ICS-Additional-Labs",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-a090f61c2163b2c1",
+      "type": "projects",
+      "title": "计算系统概论A（2021）实验代码（zzx6869/ics_experiment_2021）",
+      "authors": [],
+      "notes": "仓库说明为「2021ICS实验」，根目录含 README 与实验目录。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/zzx6869/ics_experiment_2021",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-zzx6869-ics-2021",
+          "page_url": "https://github.com/zzx6869/ics_experiment_2021",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "zzx6869/ics_experiment_2021（2021 ICS 实验）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-CS1002A-4f6108d2ec6b5794",
+      "type": "projects",
+      "title": "计算系统概论A（2022秋）课程资料：作业与实验（KZ25T/2022ics）",
+      "authors": [],
+      "notes": "仓库说明为「中国科学技术大学2022秋计算系统概论A(CS1002A.01)，课程结束后整理课程资料」；根目录含 documents 与 hw_and_labs。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/KZ25T/2022ics",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "gh-kz25t-2022ics",
+          "page_url": "https://github.com/KZ25T/2022ics",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "KZ25T/2022ics（2022秋计算系统概论A课程资料）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "gh-erkamuzuncayir-ics-solutions": "erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）",
+    "gh-hehaha68-ics-2020": "hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）",
+    "git-ustc-flurry-ics": "git.ustc.edu.cn W L / ics（ICS 课后题答案）",
+    "gh-hwp-lab-ustc-courses-data": "hwp-lab/USTC-Courses-Data（计算机学院课程资料）",
+    "gh-wanglulu-ics-labs": "Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）",
+    "gh-zzx6869-ics-2021": "zzx6869/ics_experiment_2021（2021 ICS 实验）",
+    "gh-kz25t-2022ics": "KZ25T/2022ics（2022秋计算系统概论A课程资料）"
   }
 }

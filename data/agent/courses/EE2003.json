@@ -332,29 +332,29 @@
       "authors": [
         "duxiaoyang-creator"
       ],
-      "notes": "半开卷大抄PDF。",
+      "notes": "同作者的 Word 原件；旧索引所列 PDF 路径失效。仓库内另一份 PDF 属不同作品，不作替代。",
       "coverage": {
         "years": [],
         "academic_years": [],
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
-        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.pdf",
-        "note": "半开卷大抄PDF。"
+        "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.docx",
+        "note": "匿名回查 Word 原件与文档署名；原 PDF 路径返回 404。"
       },
       "locations": [
         {
           "source_id": "eng-github-duxiaoyang-materials",
-          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.pdf",
+          "page_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.docx",
           "download_page": null,
           "download_url": null,
           "access": "public",
           "license_note": "公开仓库页面；再分发许可未见明确声明，仅导航原页面。",
           "attribution": "duxiaoyang-creator",
-          "page_kind": null
+          "page_kind": "file"
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     },
     {
       "id": "eng-open_book-ee2003-a00c98da",

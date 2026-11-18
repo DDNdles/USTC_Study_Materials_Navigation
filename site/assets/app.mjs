@@ -765,6 +765,12 @@ function renderResource(resource, labels) {
     const list = el('ul', 'locations');
     list.setAttribute('role', 'list');
     plan.details.forEach((entry, index) => list.append(renderLocation(entry, labels, index)));
+    for (const location of solutions) {
+      if (location.file_snapshot) {
+        const entry = { url: location.download_url, label: '配套解答' };
+        list.append(renderLocation({ location, entries: [entry] }, labels, 0));
+      }
+    }
     detail.append(list);
   }
 
@@ -861,11 +867,21 @@ function renderLocation({ location, entries }, labels, index) {
   wrapper.append(links);
 
   const metaParts = [`来源：${sourceNames(labels.sourceNames, location.source_id)}`];
+  if (location.role === 'solution') metaParts.unshift('配套解答');
   if (index > 0) metaParts.unshift('镜像或备用入口');
   metaParts.push(`访问要求：${labels.access.get(location.access) ?? location.access ?? '不明'}`);
   if (location.license_note) metaParts.push(`许可说明：${location.license_note}`);
   if (location.attribution) metaParts.push(`署名：${location.attribution}`);
   wrapper.append(el('p', 'location-meta', metaParts.join('；')));
+  if (location.file_snapshot) {
+    const { sha256, bytes, checked_at } = location.file_snapshot;
+    const snapshot = el('p', 'location-meta file-snapshot');
+    snapshot.append(
+      `直链文件取样（${formatDate(checked_at)}，${bytes.toLocaleString('zh-CN')} 字节） · SHA-256：`,
+      el('code', null, sha256),
+    );
+    wrapper.append(snapshot);
+  }
   return wrapper;
 }
 

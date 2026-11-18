@@ -34,7 +34,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "2243445f4772173a3e00353258de5ef981c15650a435d7867defec1be1c04a9c",
+            "bytes": 3919975,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -75,7 +80,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "cb7c46c388b3c7a1b05d931c48cdebdb8248a257422be1cc63460054cc4c313e",
+            "bytes": 124892,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -106,7 +116,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "07d7c141d878d3a55f26e1e2b988a123f008d6b836d234cb084872ec6c817f26",
+            "bytes": 3323494,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -178,7 +193,12 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6042c083dc731e9214cab790196f956ab0f4d3a1ca1e2b125df40697bac42243",
+            "bytes": 1579781,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -219,10 +239,44 @@
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "3ae59c207d191c1e592790555ef5c90add460df0792323229381656659d6906a",
+            "bytes": 137167,
+            "checked_at": "2026-11-19"
+          }
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-MATH2003-e5f5d2eebde2a761",
+      "type": "study",
+      "title": "几何学基础（2022 秋）课程主页：讲义与习题 PDF",
+      "authors": [],
+      "notes": "教师课程页，列出几何学基础 2022 秋季的课程公告、作业与讲义入口，页面内链接到 PSets 系列习题 PDF；匿名核对入口可访问，未逐份核验 PDF 正文。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://staff.ustc.edu.cn/~wangzuoq/Courses/22F-Geometry/index.html",
+        "note": "类型按页面讲义与习题列表判定。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-teacher-pages",
+          "page_url": "http://staff.ustc.edu.cn/~wangzuoq/Courses/22F-Geometry/index.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "原站公开访问；页面未声明再分发许可，仅导航原页，不转存。",
+          "attribution": "王作勤（中国科学技术大学数学科学学院）课程主页",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-math2003-lectures-927a96",
@@ -256,6 +310,7 @@
   ],
   "sources": {
     "ustc-math-exam": "USTC 数学课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
   }
 }

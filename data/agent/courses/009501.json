@@ -6,7 +6,39 @@
   "tags": [
     "instruments"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-009501-0293661bd18742c7",
+      "type": "study",
+      "title": "机械制图多媒体教程（分章 HTML 课件）",
+      "authors": [],
+      "notes": "公开课程网站「机械制图多媒体教程」，按章组织 HTML 课件（第一章默认页可匿名打开，含导航与章节脚本）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://202.38.71.7/chap01/html/default.html",
+        "note": "核验第一章入口页与站点标题；未标年份，未逐章展开。"
+      },
+      "locations": [
+        {
+          "source_id": "web-mechdrawing-tutorial",
+          "page_url": "http://202.38.71.7/chap01/html/default.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；内容权利归原作者/发布方，站点未声明逐文件再分发许可。",
+          "attribution": "机械制图多媒体教程站点",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "web-mechdrawing-tutorial": "机械制图多媒体教程"
+  }
 }

@@ -71,10 +71,40 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-CS2003-2b5c7458efd49bd6",
+      "type": "study",
+      "title": "系统程序设计基础课程主页（USTC ISP）",
+      "authors": [],
+      "notes": "原点评公开列出课程主页作为资料入口，页面标题与课程一致。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://ustc-isp.github.io/",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-isp-site",
+          "page_url": "https://ustc-isp.github.io/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "ustc-isp-site": "系统程序设计基础（USTC ISP）"
   }
 }

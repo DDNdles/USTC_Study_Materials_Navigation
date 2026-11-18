@@ -9,6 +9,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-003044-0d68085f9bcb11a1",
+      "type": "study",
+      "title": "物理化学实验报告 LaTeX 模板仓库",
+      "authors": [],
+      "notes": "原点评公开给出自写 LaTeX 模板的校内 GitLab 仓库，匿名可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://git.ustc.edu.cn/Alberfish/tex4phyche",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "ustc-git-alberfish-tex4phyche",
+          "page_url": "https://git.ustc.edu.cn/Alberfish/tex4phyche",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "chembio-003044-lab-reports",
       "type": "projects",
       "title": "物理化学实验 实验报告 12 份（Op.155 No.1–12）",
@@ -41,6 +70,7 @@
     }
   ],
   "sources": {
+    "ustc-git-alberfish-tex4phyche": "Alberfish/Tex4PhyChe（USTC GitLab）",
     "chembio-daswalpurgis": "dasWalpurgis/USTC（化学系、化学物理系课程资料）"
   }
 }

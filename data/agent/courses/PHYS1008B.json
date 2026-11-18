@@ -9,6 +9,40 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-PHYS1008B-a81cad396c8d5317",
+      "type": "homework",
+      "title": "大学物理-基础实验B 入门/出门测题目",
+      "authors": [],
+      "notes": "原点评在公开正文中说明配图为课程入门/出门测题目，匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "quiz",
+        "exam_form": "original",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22952/#review-70619",
+        "note": "依据原点评公开正文的作业或小测说明与配图核验；解答情况未明示。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22952/#review-70619",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/images/84940ec6e2d1e28ffe03a1da67dab1f1f81c4735.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "ffaf2c572d69e9e05a45279892fe56c97602262452af0d729d6e87cdf271ee9e",
+            "bytes": 335411,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-phys1008a-study-d5f53e87",
       "type": "study",
       "title": "大学物理·基础实验讲义与指导（含绪论与实验指导）",
@@ -126,6 +160,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "feixu-alist": "feixu 学习资料分享站（AList）"
   }
 }

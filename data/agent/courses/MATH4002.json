@@ -10,6 +10,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-MATH4002-d0fe7cb8dd46dd75",
+      "type": "homework",
+      "title": "《算法导论》（CLRS）第三版习题解答（walkccc CLRS Solutions）",
+      "authors": [],
+      "notes": "站点自述为《Introduction to Algorithms》第三版题解的众包整理，按章列出题目与解答；点评以「算法导论答案」推荐。2026-11-19 匿名核验可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://walkccc.github.io/CLRS/",
+        "note": ""
+      },
+      "locations": [
+        {
+          "source_id": "walkccc-clrs",
+          "page_url": "https://walkccc.github.io/CLRS/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "公开网页；页面未声明再分发许可",
+          "attribution": "CLRS Solutions（walkccc.github.io）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-ghweb-math4002-5abeab",
       "type": "projects",
       "title": "算法基础 2022SP 实验（陈雪）",
@@ -40,6 +69,7 @@
     }
   ],
   "sources": {
+    "walkccc-clrs": "walkccc/CLRS 习题解答",
     "gh-txtxj-alg": "txtxj/USTC-Algorithm"
   }
 }

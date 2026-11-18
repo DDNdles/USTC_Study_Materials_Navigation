@@ -834,6 +834,116 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011146-72125b7fb7a5b30a",
+      "type": "exams",
+      "title": "算法基础 2025 秋期末试卷部分答案（4 图）",
+      "authors": [],
+      "notes": "原点评在公开正文中标注配图为期末考试试卷部分答案，4 张图片匿名可见。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": true,
+        "evidence_url": "https://icourse.club/course/25896/#review-101106",
+        "note": "依据原点评公开正文的卷别描述与配图核验；未在正文明确的年份与解答情况不推断。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25896/#review-101106",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/1d8162c7faf4dd95053bae00185fe3e890666068.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6dbd58d4998c057cc678ff7d5eeadc1350fef3a44a1473a31990bedb4b0f7e28",
+            "bytes": 166368,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25896/#review-101106",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/4a11b8738837b19e3c3cec35ae29b7400320cb75.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "8e271d624208334193567a178202656db66820feb65121e7195c636e69e043bb",
+            "bytes": 156874,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25896/#review-101106",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/914eafb9fb0a704cb25fd327e06f2c22ef6390bd.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "6b3fdb8359ee4bd222e26699d79116f3c0f3674f738bed5e3671aa76453eb14a",
+            "bytes": 249786,
+            "checked_at": "2026-11-19"
+          }
+        },
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25896/#review-101106",
+          "download_page": null,
+          "download_url": "https://icourse.club/uploads/files/91bd6b42ba49ba12ee302c87b5069a163c547c1f.jpg",
+          "access": "public",
+          "license_note": "评课社区公开附件；文件权利归原作者，具体授权以原页声明为准",
+          "attribution": "评课社区匿名用户（公开点评页）",
+          "page_kind": null,
+          "file_snapshot": {
+            "sha256": "80c5b2fae6b897692999f595b37c4cd126ef276ed3ad66077c009946fbdae1e6",
+            "bytes": 206283,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-011146-6e82cb6ad2a8d6b4",
+      "type": "study",
+      "title": "算法基础 笔记与课件（USTC-Course）",
+      "authors": [
+        "USTC-Resource"
+      ],
+      "notes": "旧库 notes 目录：mbinary 下 10 篇 Markdown 算法专题笔记（排序/树/图/哈希/字符串/数论/红黑树/B树/Fib堆/综述）加 1 份红黑树 FSM 课件；学生原创笔记，公开可访问。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes",
+        "note": "读取 GitHub 固定提交 d091d4d 的 git tree 核对目录与文件；目录级资源，逐份文件由统一哈希取样验证。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-ustc-resource",
+          "page_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes",
+          "download_page": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes",
+          "download_url": null,
+          "access": "public",
+          "license_note": "仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者",
+          "attribution": "USTC-Resource/USTC-Course",
+          "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-lectures-web-011146",
       "type": "study",
       "title": "算法基础 课程网站（��ӭ���ʡ��㷨�������γ̽�ѧ��ҳ）",
@@ -1003,23 +1113,50 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-011146-c5cf16876f5b6cdc",
+      "type": "study",
+      "title": "CLRS（算法导论）习题解答（walkccc）",
+      "authors": [],
+      "notes": "原点评公开列出该习题解答站点，用于课程教材习题参考；第三方整理，非课程官方。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://walkccc.github.io/CLRS/",
+        "note": "依据原点评公开正文对材料类型的标注与配图位置核验；仅确认匿名可见的图片内容归属，不推断未明示的年份。"
+      },
+      "locations": [
+        {
+          "source_id": "walkccc-clrs",
+          "page_url": "https://walkccc.github.io/CLRS/",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原始公开页面；内容权利归原作者，具体授权以原页声明为准",
+          "attribution": "原始公开发布者（见原页面）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-course-011146-labs",
       "type": "projects",
       "title": "算法基础 实验（USTC-Course）",
       "authors": [
         "USTC-Resource"
       ],
-      "notes": "17 个文件（tree 实际读取）；目录 算法基础/labs",
+      "notes": "17 个文件（tree 实际读取）；目录 算法基础/labs；既有条目，本轮核对目录文件数一致，无变更。",
       "coverage": {
-        "years": [
-          2018
-        ],
+        "years": [],
         "academic_years": [],
         "exam_kind": null,
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/labs",
-        "note": "年份取文件/目录名中的四位年份，仅作范围参考"
+        "note": "核对目录文件数与既有条目一致。"
       },
       "locations": [
         {
@@ -1033,16 +1170,18 @@
           "page_kind": null
         }
       ],
-      "verified_at": "2026-11-18"
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "icourse-club": "USTC 评课社区",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
     "gh-wloner0809": "Wloner0809/ustc-course-resource",
-    "eng-github-melmaphother": "Melmaphother/ustc-course-resources"
+    "eng-github-melmaphother": "Melmaphother/ustc-course-resources",
+    "walkccc-clrs": "walkccc/CLRS 习题解答"
   }
 }
