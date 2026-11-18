@@ -78,6 +78,7 @@ docs/sources-and-search.md  构建生成：来源、检索记录与致谢
 - `exams` 的 `exam_kind` 为 `midterm/final/mixed/unknown`，`exam_form` 为 `original/recollection/practice/unknown`。小测归 `homework`，保留 `exam_kind=quiz`、已核验卷型与解答信息；其他非试题三项为 `null`。`has_solutions` 为 `true/false/null`。
 - `access`：`public/login/campus/paid/unknown`。可选的 `locations[].page_kind`：`directory/file/page`，分别标明资料目录、文件页和普通来源页；不得把目录填入 `download_url`。
 - `locations[].license_note` 与 `attribution` 必须是实际说明字符串（不得为 `null`）：前者写授权/使用限制，后者写公开署名；`coverage.note` 记录核验范围与依据。
+- 作业、习题与小测可选 `exercise_source`，只写已核实的出处。明确对应、免登录的解答可用 `locations[].role: "solution"`，不另计一条资料；仍须保留不带该角色的主入口。详情页两种模式均显示配套解答，监控照常检查该位置的 URL。
 - `coverage.years` 只写明确公历年份；可选的 `coverage.academic_years` 用 `YYYY-YYYY` 记录学年。只知道学年时保留 `years: []`，不推断公历年份。
 - 同年、同课、同卷别不足以判重。精确镜像须有相同 Git blob SHA 或字节摘要；正文同题或明确为配套答案、补页的不同文件，可挂在同一资源下，注明关系。不同卷、独立解析版本分别记录。
 - `mergeExactMirrors(resources, evidence)` 用内部文件摘要证据合并：摘要集合、算法、资料类型、适用课程集合及年份/卷型/解答声明均一致才合并；保留字典序最小 ID 和全部独有来源。无摘要不合并，同文件的覆盖声明冲突会返回 `conflicts`，集成时先核对证据，不静默选择。摘要不进入网站数据或发布校验附件。

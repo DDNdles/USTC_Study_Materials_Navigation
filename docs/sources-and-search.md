@@ -5,12 +5,13 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 219 门，暂未收录 965 门）。
-- 资料：1383 条（按资料类型与试题年份的覆盖见下一节）。
-- 来源：50 个登记来源，其中 47 个被正式资料引用。
-- 检索记录：4382 条，覆盖 1184 门课程。
+- 资料：1395 条（按资料类型与试题年份的覆盖见下一节）。
+- 来源：53 个登记来源，其中 50 个被正式资料引用。
+- 检索记录：4387 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 1760 个网址，监控文件覆盖其中 1760 个。
-- 检查结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 0。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 1785 个网址，监控文件覆盖其中 1760 个。
+- 检查结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 25。
+- 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
 
@@ -51,8 +52,15 @@
   - 2020 年（期中、形式不明、解答情况不明）：常微分方程、偏微分方程 2020 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020ODEmid.pdf
   - 2016 年（期中、原题、解答情况不明）：常微分方程、偏微分方程 2016 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016ODEmid.pdf
 - **作业、习题与小测**
+  - 2026 年：2026 秋 常微分方程（章俊彦班） · 作业 1 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2026F-ODE-HW1.pdf
+  - 2026 年：2026 秋 常微分方程（章俊彦班） · 作业 2 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2026F-ODE-HW2.pdf
+  - 2026 年：2026 秋 常微分方程（章俊彦班） · 作业 3 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2026F-ODE-HW3.pdf
+  - 2026 年：2026 秋 常微分方程（章俊彦班） · 作业 4 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2026F-ODE-HW4.pdf
+  - 2026 年：2026 秋 常微分方程（章俊彦班） · 作业 5 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2026F-ODE-HW5.pdf
   - 2026 年（小测、原题、解答情况不明）：常微分方程、偏微分方程 2026 小测 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2026ODEmidB.pdf
   - 年份待确认（小测、原题、含解答）：常微分方程、偏微分方程 2026 小测 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2026ODEmidA.pdf
+- **学习资料**
+  - 2026 年：2026 秋 常微分方程（章俊彦班） · 课程讲义 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/ODELN-20261104.pdf
 
 ### 001122 偏微分方程
 
@@ -66,8 +74,14 @@
   - 2022 年（期末、形式不明、解答情况不明）：常微分方程、偏微分方程 2022 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022PDE1finalB.pdf
   - 2020 年（期末、形式不明、解答情况不明）：常微分方程、偏微分方程 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020PDE1final.pdf
 - **作业、习题与小测**
+  - 2025 年：2025 秋 偏微分方程（章俊彦班） · 作业 1 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2025F-PDE1-HW1.pdf
+  - 2025 年：2025 秋 偏微分方程（章俊彦班） · 作业 2 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2025F-PDE1-HW2.pdf
+  - 2025 年：2025 秋 偏微分方程（章俊彦班） · 作业 3 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2025F-PDE1-HW3.pdf
+  - 2025 年：2025 秋 偏微分方程（章俊彦班） · 作业 4 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/2025F-PDE1-HW4.pdf
   - 2025 年（小测、原题、含解答）：常微分方程、偏微分方程 2025 小测 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025PDE1midA.pdf
   - 2025 年（小测、原题、解答情况不明）：常微分方程、偏微分方程 2025 小测 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025PDE1midB.pdf
+- **学习资料**
+  - 2025 年：2025 秋 偏微分方程（章俊彦班） · 课程讲义 —— 章俊彦 · 中科大数学课程主页；核验于 2026-11-19 https://www.zhangjy9610.me/USTC/PDE1LN-20260126.pdf
 
 ### 001139 数学建模
 
@@ -137,6 +151,7 @@
   - 数理方程B 数理方程B（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
   - 数理方程B 数理方程B（homework） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
 - **学习资料**
+  - 2020 年：数理方程 · 高源助教自编复习资料 —— 高源 · 学习资料分享；核验于 2026-11-19 http://home.ustc.edu.cn/~wazs98/share.html
   - 数理方程B 数理方程（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B
   - 数理方程B 数理方程B（lectures） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
   - 数理方程B 数理方程B（lectures） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
@@ -275,7 +290,7 @@
 
 - **作业、习题与小测**
   - 2024 年（小测、原题、含解答）：物理化学I 2024秋 四次小测题目（第一至第三次附解析） —— dasWalpurgis/USTC（化学系、化学物理系课程资料） https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B
-  - 物理化学I 作业答案合集（对应傅献彩《物理化学》第六版原题） —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86
+  - 物理化学I 作业答案合集 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86
 - **学习资料**
   - 物理化学I 知识点合集 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E5%90%88%E9%9B%86.pdf
 
@@ -898,9 +913,9 @@
 专业课 · 计算机 · 物理
 
 - **作业、习题与小测**
+  - 2022 年：2022 秋 计算物理 A · 作业与讲义合集 —— Rainzor/Computational-Physics、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/Rainzor/Computational-Physics（资料目录）
   - 计算物理A新作业 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E6%96%B0%E4%BD%9C%E4%B8%9A.pdf（文件页）
   - 计算物理A作业（蒙特卡洛/伊辛模型等） —— Zhichenzzz/Computational-Physics-A；核验于 2026-11-18 https://github.com/Zhichenzzz/Computational-Physics-A
-  - 计算物理A作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip（文件页）
 
 ### 022057 电动力学
 
@@ -1628,6 +1643,7 @@
   - 2023—2024 学年（期末、原题、解答情况不明）：计算机原理与嵌入式系统 2023—2024 学年第二学期期末试卷 —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/23%E8%AE%A1%E5%B5%8C%E6%9C%9F%E6%9C%AB.pdf
   - 2023—2024 学年（类型不明、模拟练习、无解答）：计算机原理与嵌入式系统 2023—2024学年（公历年份未确认） 试卷（样卷/模拟） —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7%281%29.pdf
 - **作业、习题与小测**
+  - 2025 年：计算机原理与嵌入式系统 · 2025 版作业参考答案（含解析） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-19 https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E8%AE%A1%E5%B5%8C%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 计算机原理与嵌入式系统课后练习（2024SP） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F
   - 计算机原理与嵌入式系统作业参考答案 —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88
 - **学习资料**
@@ -1993,7 +2009,6 @@
   - 2021 年（期末、形式不明、解答情况不明）：2021数学分析(A2)期末 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2021 年（期末、形式不明、解答情况不明）：数学分析A2 2021 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021MAA2final.pdf
   - 2021 年（期末、形式不明、含解答）：数学分析A2 2021 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021MAA2finalsol.pdf
-  - 2021 年（期中、形式不明、含解答）：数学分析A2 2021 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021MAA2mid3sol.pdf
   - 2020 年（期末、原题、解答情况不明）：2020数学分析(A2)期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2020%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2019 年（期中、原题、解答情况不明）：2019数学分析(A2)期中 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2019%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E4%B8%AD.pdf（文件页）
   - 2018 年（期末、形式不明、解答情况不明）：2018数学分析(A2)期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2018%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
@@ -2002,7 +2017,7 @@
 - **作业、习题与小测**
   - 2021 年（小测、形式不明、解答情况不明）：2021数学分析(A2)小测1 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B1.pdf（文件页）
   - 2021 年（小测、形式不明、解答情况不明）：2021数学分析(A2)小测2 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B2.pdf（文件页）
-  - 2021 年（小测、形式不明、解答情况不明）：2021数学分析(A2)小测3 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B3.pdf（文件页）
+  - 2021 年（小测、形式不明、含解答）：2021数学分析(A2)小测3 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B3.pdf（文件页）
 
 ### MATH1003 数学分析(A3)
 
@@ -2385,9 +2400,9 @@
   - 2015 年（期末、原题、解答情况不明）：2015实分析期末考试 —— feixu 学习资料分享站（AList）、Weiyu-USTC/USTCmath-stat、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2015 年（期中、形式不明、解答情况不明）：2015实分析期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
 - **作业、习题与小测**
+  - 2007—2008 学年：实变函数习题答案（2007–2008 学年第二学期） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88_%E5%8C%97%E5%A4%A7%E7%89%88_%E5%91%A8%E6%B0%91%E5%BC%BA.pdf
   - 实变函数与泛函分析习题集（2023秋，殷保群班） —— Luciennnnnnn/ustc-functional-analysis-exercise-set；核验于 2026-11-18 https://github.com/Luciennnnnnn/ustc-functional-analysis-exercise-set
   - 实分析 实分析Real Analysis（homework） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
-  - 实分析 试卷 —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88_%E5%8C%97%E5%A4%A7%E7%89%88_%E5%91%A8%E6%B0%91%E5%BC%BA.pdf
 - **学习资料**
   - 实分析 实分析Real Analysis（lectures） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
   - 实分析 实分析Real Analysis（notes） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
@@ -2981,7 +2996,7 @@
 - 维护者：EpiHio
 - GitHub：EpiHio/USTC_Automation（分支 main）
 - 说明：README声明为自动化专业本科课程资料，按学期+课程目录；含笔记/课本答案/作业/往年题/实验。本轮仅登记公开原页面。
-- 被正式资料引用：33 处
+- 被正式资料引用：34 处
 
 ### guch8017/USTC_CS_EXAM（跨课试卷索引）
 
@@ -3328,6 +3343,31 @@
 - GitHub：fandahao17/USTC-CS-Courses-Resource（分支 master）
 - 说明：README 自述为中国科学技术大学计算机学院课程资源；根 LICENSE 为 MIT（GitHub API 元数据），不当然覆盖第三方试卷；数学类/线性代数B1 目录含 15 份可核验的 B1 试卷扫描件与 1 个整包 zip；raw.githubusercontent.com 匿名可取，15 份实测 200 且字节数与本地副本一致。
 - 被正式资料引用：15 处
+
+### 章俊彦 · 中科大数学课程主页
+
+- 类型：网站
+- 地址：<https://www.zhangjy9610.me/2026F-PDE1.html>
+- 维护者：章俊彦
+- 说明：教师原始课程页面；公开作业、配套答案与自编讲义。
+- 被正式资料引用：20 处
+
+### 高源 · 学习资料分享
+
+- 类型：网站
+- 地址：<http://home.ustc.edu.cn/~wazs98/share.html>
+- 维护者：高源
+- 说明：助教本人发布的复习指导、手册及专题；仅供学习交流。
+- 被正式资料引用：1 处
+
+### Rainzor/Computational-Physics
+
+- 类型：资料库
+- 地址：<https://github.com/Rainzor/Computational-Physics>
+- 维护者：Rainzor
+- GitHub：Rainzor/Computational-Physics（分支 master）
+- 说明：README 明确为中科大 2022 秋计算物理 A 作业和讲义。
+- 被正式资料引用：1 处
 
 ## 检索记录
 
@@ -4503,6 +4543,12 @@
 
 ### 001101 常微分方程
 
+- 2026-11-19 · 公开网页 · 已查看 · <https://www.zhangjy9610.me/2026F-PDE1.html>
+  - 查询：2026 秋 常微分方程（章俊彦班）的作业和自编讲义
+  - 检查范围：复核课程页逐次题目和答案；10 个链接匿名返回 HTTP 206 和 PDF 文件头；抽核讲义封面。
+  - 说明：收录 5 次作业（答案附于同条）和一份独立讲义；不混挂其他教学班。
+  - 来源 ID：zhang-junyan-ustc-course
+  - 课程代码：001101
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%20USTC&type=repositories>
   - 查询：常微分方程 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -4542,6 +4588,12 @@
 
 ### 001122 偏微分方程
 
+- 2026-11-19 · 公开网页 · 已查看 · <https://www.zhangjy9610.me/2025F-PDE1.html>
+  - 查询：2025 秋 偏微分方程（章俊彦班）的作业和自编讲义
+  - 检查范围：复核课程页逐次题目和答案；8 个链接匿名返回 HTTP 206 和 PDF 文件头；抽核讲义封面。
+  - 说明：收录 4 次作业（答案附于同条）和一份独立讲义；不混挂其他教学班。
+  - 来源 ID：zhang-junyan-ustc-course
+  - 课程代码：001122
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E5%81%8F%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%20USTC&type=repositories>
   - 查询：偏微分方程 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -5015,6 +5067,12 @@
 
 ### 001549 数理方程B
 
+- 2026-11-19 · 公开网页 · 已查看 · <http://home.ustc.edu.cn/~wazs98/share.html>
+  - 查询：数理方程助教复习资料原页
+  - 检查范围：实际打开作者页，核对复习指导、手册与专题入口；与飞絮镜像对照。
+  - 说明：原作者页独立导航，同文件镜像不另计。
+  - 来源 ID：yuan-gao-ustc-course-share
+  - 课程代码：001549
 - 2026-11-18 · 公开网页 · 已查看 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf>
   - 查询：我的科大：/数学类/数理方程/数理方程B历年真题.pdf
   - 检查范围：公开目录、唯一文件路径及已登记资源的文件名。
@@ -12061,6 +12119,12 @@
 
 ### 022012 计算物理A
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/Rainzor/Computational-Physics>
+  - 查询：计算物理 A 作业与讲义的原始仓库
+  - 检查范围：读取作者 README，核对飞絮 ZIP 内 README 和目录。
+  - 说明：为已有合集补原入口，不另计。
+  - 来源 ID：rainzor-computational-physics
+  - 课程代码：022012
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86>
   - 查询：计算物理A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -17463,6 +17527,12 @@
 
 ### EE2003 计算机原理与嵌入式系统
 
+- 2026-11-19 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E8%AE%A1%E5%B5%8C%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf>
+  - 查询：计嵌作业参考答案 2025 版
+  - 检查范围：抽核 PDF 首页与逐题解析，对比旧版答案与飞絮副本。
+  - 说明：独立版次，非旧合集镜像；仅答案。
+  - 来源 ID：eng-github-epihio-automation
+  - 课程代码：EE2003
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/2020%E6%98%A5%E5%BE%AE%E5%B5%8C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf>
   - 查询：EE2003 计算机原理与嵌入式系统
   - 检查范围：13个USTC课程仓库完整git tree逐路径匹配（合计28337条路径）+ topic:ustc/ustc-course仓库检索
@@ -32326,7 +32396,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 1760 个网址，监控文件覆盖其中 1760 个。
-- 结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 0。
+- 统计范围：统计分母是站点引用的 1785 个网址，监控文件覆盖其中 1760 个。
+- 结果：实际收到过 HTTP 响应的条目 1742（已收到 HTTP 响应 1741、需登录或认证 0、确认 404/410 1）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 25。
+- 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

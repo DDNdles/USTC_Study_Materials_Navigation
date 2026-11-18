@@ -956,6 +956,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "mp-gh-math3002-exam-ny-ebb67c",
+      "type": "homework",
+      "title": "实变函数习题答案（2007–2008 学年第二学期）",
+      "authors": [],
+      "notes": "正文为实变函数习题解答，非试卷。",
+      "coverage": {
+        "years": [],
+        "academic_years": [
+          "2007-2008"
+        ],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",
+        "note": "30 页；抽读正文确认标题和学期，不按目录中的试卷名称判定。"
+      },
+      "locations": [
+        {
+          "source_id": "gh-weiyu-mathstat",
+          "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",
+          "download_page": null,
+          "download_url": "https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88_%E5%8C%97%E5%A4%A7%E7%89%88_%E5%91%A8%E6%B0%91%E5%BC%BA.pdf",
+          "access": "public",
+          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
+          "attribution": "Weiyu-USTC",
+          "page_kind": null
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
       "id": "mp-gh-math3002-homework-9d6ea6",
       "type": "homework",
       "title": "实变函数与泛函分析习题集（2023秋，殷保群班）",
@@ -1005,35 +1036,6 @@
           "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",
           "download_page": null,
           "download_url": null,
-          "access": "public",
-          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
-          "attribution": "Weiyu-USTC",
-          "page_kind": null
-        }
-      ],
-      "verified_at": "2026-11-18"
-    },
-    {
-      "id": "mp-gh-math3002-exam-ny-ebb67c",
-      "type": "homework",
-      "title": "实分析  试卷",
-      "authors": [],
-      "notes": "Weiyu-USTC-USTCmath-stat 目录 实分析Real Analysis 下文件：实变函数习题答案_北大版_周民强.pdf；按文件名辨识年份/卷型",
-      "coverage": {
-        "years": [],
-        "academic_years": [],
-        "exam_kind": null,
-        "exam_form": null,
-        "has_solutions": null,
-        "evidence_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",
-        "note": "Weiyu-USTC-USTCmath-stat 目录 实分析Real Analysis 下文件：实变函数习题答案_北大版_周民强.pdf；按文件名辨识年份/卷型；文本层可读；抽读前3页（共30页），全文未逐页核验；实变函数课程习题答案（首页：2007-2008第二学期 习题1…），非试卷；按内容/文件名改归homework，不再作试题统计"
-      },
-      "locations": [
-        {
-          "source_id": "gh-weiyu-mathstat",
-          "page_url": "https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis",
-          "download_page": null,
-          "download_url": "https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88_%E5%8C%97%E5%A4%A7%E7%89%88_%E5%91%A8%E6%B0%91%E5%BC%BA.pdf",
           "access": "public",
           "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
           "attribution": "Weiyu-USTC",

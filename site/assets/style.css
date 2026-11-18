@@ -1810,6 +1810,11 @@
     margin: 0;
   }
 
+  .resource-notes.exercise-references {
+    margin-block-start: 0.35rem;
+    overflow-wrap: anywhere;
+  }
+
   .coverage {
     display: flex;
     flex-wrap: wrap;

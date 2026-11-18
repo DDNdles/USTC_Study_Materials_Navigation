@@ -16,6 +16,7 @@
         "duxiaoyang-creator"
       ],
       "notes": "教材课后答案PDF。",
+      "exercise_source": "课程讲义列参考教材：阮毅、陈伯时《电力拖动自动控制系统—运动控制系统》；答案版次未确认。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -23,7 +24,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E4%BA%94%E7%89%88-%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
-        "note": "教材课后答案PDF。"
+        "note": "运动控制课程《1.绪论》列出该参考教材；答案 PDF 文件名带第五版，但正文未证明版次。"
       },
       "locations": [
         {

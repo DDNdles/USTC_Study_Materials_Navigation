@@ -162,6 +162,7 @@ function projectResource(resource) {
     title: resource.title,
     authors: [...(resource.authors ?? [])],
     notes: resource.notes ?? '',
+    ...(resource.exercise_source ? { exercise_source: resource.exercise_source } : {}),
     coverage: {
       years: [...(resource.coverage?.years ?? [])],
       academic_years: [...(resource.coverage?.academic_years ?? [])],
@@ -180,6 +181,7 @@ function projectResource(resource) {
       license_note: location.license_note ?? null,
       attribution: location.attribution ?? null,
       page_kind: location.page_kind ?? null,
+      ...(location.role ? { role: location.role } : {}),
     })),
     verified_at: resource.verified_at,
   };

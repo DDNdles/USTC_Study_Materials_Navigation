@@ -567,37 +567,6 @@
       "verified_at": "2026-11-18"
     },
     {
-      "id": "mp-uexam-math1002-2021-midterm-ea53b8",
-      "type": "exams",
-      "title": "数学分析A2 2021 期中",
-      "authors": [],
-      "notes": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：3答案；文件：2021MAA2mid3sol.pdf",
-      "coverage": {
-        "years": [
-          2021
-        ],
-        "academic_years": [],
-        "exam_kind": "midterm",
-        "exam_form": "unknown",
-        "has_solutions": true,
-        "evidence_url": "https://ustcmathexam.github.io/Services/",
-        "note": "课程目录页：https://ustcmathexam.github.io/Services/；表头列：期中考试；行年份：2021；单元格：3答案；文件：2021MAA2mid3sol.pdf；文本层可读；抽读前3页（共8页），全文未逐页核验"
-      },
-      "locations": [
-        {
-          "source_id": "ustc-math-exam",
-          "page_url": "https://ustcmathexam.github.io/Services/",
-          "download_page": null,
-          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2mid3sol.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null
-        }
-      ],
-      "verified_at": "2026-11-18"
-    },
-    {
       "id": "mp-feixu-math1002-exams-0e7452",
       "type": "exams",
       "title": "2020数学分析(A2)期末",
@@ -887,9 +856,9 @@
         "academic_years": [],
         "exam_kind": "quiz",
         "exam_form": "unknown",
-        "has_solutions": null,
+        "has_solutions": true,
         "evidence_url": "https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B3.pdf",
-        "note": "目录：数学类/数学分析/数学分析(A2)真题；2021数学分析(A2)小测3.pdf；仅拉丁文本层；仅拉丁文本层；仅拉丁文本层；已读全2页；同一文件另有镜像条目，字段按同一文件统一"
+        "note": "飞絮小测题面与数学试卷站 2021MAA2test3.pdf 字节相同。数学试卷站将同一小测的题目 3 与 3 答案并列；不另计为期中卷。"
       },
       "locations": [
         {
@@ -911,6 +880,17 @@
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
           "page_kind": null
+        },
+        {
+          "source_id": "ustc-math-exam",
+          "page_url": "https://ustcmathexam.github.io/USTC/2021MAA2mid3sol.pdf",
+          "download_page": null,
+          "download_url": "https://ustcmathexam.github.io/USTC/2021MAA2mid3sol.pdf",
+          "access": "public",
+          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
+          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+          "page_kind": "file",
+          "role": "solution"
         }
       ],
       "verified_at": "2026-11-18"

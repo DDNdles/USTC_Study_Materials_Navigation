@@ -1674,7 +1674,7 @@ function validateResource(
   }
   checkExactKeys(
     resource,
-    ['id', 'course_codes', 'type', 'title', 'authors', 'notes', 'coverage', 'locations', 'verified_at'],
+    ['id', 'course_codes', 'type', 'title', 'authors', 'notes', 'exercise_source', 'coverage', 'locations', 'verified_at'],
     file,
     itemPath,
     collector,
@@ -1715,6 +1715,12 @@ function validateResource(
   if (typeof resource.notes !== 'string') {
     collector.error(file, `${itemPath}.notes`, 'notes 必须是字符串');
   }
+  if (resource.exercise_source !== undefined) {
+    requireString(resource.exercise_source, file, `${itemPath}.exercise_source`, '习题出处', collector);
+    if (resource.type !== 'homework') {
+      collector.error(file, `${itemPath}.exercise_source`, '习题出处只用于作业、习题与小测');
+    }
+  }
   validateCoverage(resource.coverage, resource.type, file, `${itemPath}.coverage`, collector);
   if (!isIsoDate(resource.verified_at)) {
     collector.error(file, `${itemPath}.verified_at`, 'verified_at 必须是有效日期 YYYY-MM-DD');
@@ -1742,11 +1748,17 @@ function validateResource(
         'license_note',
         'attribution',
         'page_kind',
+        'role',
       ],
       file,
       locationPath,
       collector,
     );
+    if (location.role !== undefined && (
+      location.role !== 'solution' || resource.type !== 'homework' || location.access !== 'public'
+    )) {
+      collector.error(file, `${locationPath}.role`, '仅公开的习题配套解答可标为 solution');
+    }
     if (
       location.page_kind !== undefined &&
       !LOCATION_PAGE_KIND_SET.has(location.page_kind)
@@ -1818,6 +1830,9 @@ function validateResource(
     if (attribution === '') {
       collector.warn(file, `${locationPath}.attribution`, '未填写署名/出处');
     }
+  }
+  if (resource.locations.every((location) => location?.role === 'solution')) {
+    collector.error(file, `${itemPath}.locations`, '配套解答不能替代习题主入口');
   }
   if (resource.type === 'books') {
     validateBookLocations(resource, itemPath, file, collector);

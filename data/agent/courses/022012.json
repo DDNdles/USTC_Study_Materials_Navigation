@@ -10,6 +10,49 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "mp-feixu-022012-exams-8643f4",
+      "type": "homework",
+      "title": "2022 秋 计算物理 A · 作业与讲义合集",
+      "authors": [
+        "Rainzor"
+      ],
+      "notes": "原作者仓库包含作业报告、程序和讲义；飞絮 ZIP 为该仓库快照。",
+      "coverage": {
+        "years": [
+          2022
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip",
+        "note": "原仓库 README 标明中科大 2022 秋计算物理 A；压缩包读取中央目录并抽核代表文件。"
+      },
+      "locations": [
+        {
+          "source_id": "rainzor-computational-physics",
+          "page_url": "https://github.com/Rainzor/Computational-Physics",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "Rainzor",
+          "page_kind": "directory"
+        },
+        {
+          "source_id": "feixu-alist",
+          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
+          "attribution": "share.feixu.site 公开分享目录",
+          "page_kind": "file"
+        }
+      ],
+      "verified_at": "2026-11-18"
+    },
+    {
       "id": "mp-feixu-022012-homework-86ff32",
       "type": "homework",
       "title": "计算物理A新作业",
@@ -66,38 +109,10 @@
         }
       ],
       "verified_at": "2026-11-18"
-    },
-    {
-      "id": "mp-feixu-022012-exams-8643f4",
-      "type": "homework",
-      "title": "计算物理A作业答案",
-      "authors": [],
-      "notes": "目录：物理类/计算物理；计算物理A作业答案.zip",
-      "coverage": {
-        "years": [],
-        "academic_years": [],
-        "exam_kind": null,
-        "exam_form": null,
-        "has_solutions": null,
-        "evidence_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip",
-        "note": "目录：物理类/计算物理；计算物理A作业答案.zip；文件核验失败：skip_nonpdf；计算物理A作业答案压缩包（文件名辨识），非试卷；按内容/文件名改归homework，不再作试题统计"
-      },
-      "locations": [
-        {
-          "source_id": "feixu-alist",
-          "page_url": "https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86A%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip",
-          "download_page": null,
-          "download_url": null,
-          "access": "public",
-          "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
-          "attribution": "share.feixu.site 公开分享目录",
-          "page_kind": "file"
-        }
-      ],
-      "verified_at": "2026-11-18"
     }
   ],
   "sources": {
+    "rainzor-computational-physics": "Rainzor/Computational-Physics",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-zhichen-cpa": "Zhichenzzz/Computational-Physics-A"
   }

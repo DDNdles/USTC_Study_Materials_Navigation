@@ -637,6 +637,8 @@ function initCoursePage(catalog) {
   const fragment = document.createDocumentFragment();
   for (const group of groups) fragment.append(renderTypeSection(group, labels));
   sections.replaceChildren(fragment);
+  const target = document.getElementById(window.location.hash.slice(1));
+  if (target && sections.contains(target)) target.scrollIntoView();
 }
 
 function findCourse(courses, code) {
@@ -691,7 +693,11 @@ function renderResource(resource, labels) {
   titleWrap.append(el('h3', 'resource-title', resource.title || '未命名资料'));
 
   const facts = resourceFacts(resource, { examKind: labels.examKind, examForm: labels.examForm });
-  const plan = resourceLinkPlan(resource);
+  const solutions = (resource.locations ?? []).filter((location) => location.role === 'solution');
+  const plan = resourceLinkPlan(solutions.length ? {
+    ...resource,
+    locations: resource.locations.filter((location) => location.role !== 'solution'),
+  } : resource);
   const markers = [...resourceMarkers(resource, { examForm: labels.examForm })];
   const access = plan.compact
     ? accessMarker(plan.compact.location?.access, { access: labels.access })
@@ -708,8 +714,24 @@ function renderResource(resource, labels) {
     }
     titleWrap.append(badgeRow);
   }
+  if (resource.exercise_source || solutions.length) {
+    const references = el('p', 'resource-notes exercise-references');
+    if (resource.exercise_source) references.append(`出处：${resource.exercise_source}`);
+    const keys = new Set(plan.keys);
+    for (const { page_url, download_page, download_url } of solutions) {
+      const url = safeExternalUrl(download_url ?? download_page ?? page_url);
+      const key = canonicalUrlKey(url);
+      if (!key || keys.has(key)) continue;
+      keys.add(key);
+      if (references.childNodes.length) references.append(' · ');
+      const link = externalLink(url, '配套解答');
+      link.setAttribute('aria-label', `${resource.title}：配套解答（新标签页打开）`);
+      references.append(link);
+    }
+    if (references.childNodes.length) titleWrap.append(references);
+  }
   head.append(titleWrap);
-  head.append(renderCompactLinks(plan, labels));
+  head.append(renderCompactLinks(plan, labels, solutions.length > 0 ? resource.title : ''));
   article.append(head);
 
   const detail = el('div', 'mode-detail resource-detail');
@@ -753,7 +775,7 @@ function renderResource(resource, labels) {
 }
 
 /** 简洁行：原始出处与最直接的资料入口。 */
-function renderCompactLinks(plan, labels) {
+function renderCompactLinks(plan, labels, exerciseTitle) {
   const line = el('div', 'location-links compact-links mode-compact');
   if (!plan.compact) {
     line.append(el('span', 'source-note', '尚未登记可公开访问的链接。'));
@@ -776,7 +798,11 @@ function renderCompactLinks(plan, labels) {
       el('span', 'source-note', `${label}：${sourceNames(labels.sourceNames, compact.location.source_id)}`),
     );
   }
-  mainGroup.append(externalLink(compact.entry.url, compact.entry.label));
+  const link = externalLink(compact.entry.url, exerciseTitle ? '题目' : compact.entry.label);
+  if (exerciseTitle) {
+    link.setAttribute('aria-label', `${exerciseTitle}：题目（新标签页打开）`);
+  }
+  mainGroup.append(link);
   line.append(mainGroup);
   return line;
 }
@@ -849,7 +875,7 @@ function sourceNames(map, id) {
 }
 
 function externalLink(url, text) {
-  const isPrimary = text === '打开文件' || text === '文件页面';
+  const isPrimary = text === '打开文件' || text === '文件页面' || text === '题目';
   const link = el('a', `link-button ${isPrimary ? 'primary-link' : 'secondary-link'}`, text);
   link.href = url;
   link.target = '_blank';

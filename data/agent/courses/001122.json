@@ -205,6 +205,178 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "zhang-001122-2025-hw1",
+      "type": "homework",
+      "title": "2025 秋 偏微分方程（章俊彦班） · 作业 1",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2025 秋章俊彦班课程主页，作业 1",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+        "note": "对照课程页作业表第 1 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW1.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW1-Sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW1-Sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001122-2025-hw2",
+      "type": "homework",
+      "title": "2025 秋 偏微分方程（章俊彦班） · 作业 2",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2025 秋章俊彦班课程主页，作业 2",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+        "note": "对照课程页作业表第 2 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW2.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW2-Sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW2-Sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001122-2025-hw3",
+      "type": "homework",
+      "title": "2025 秋 偏微分方程（章俊彦班） · 作业 3",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2025 秋章俊彦班课程主页，作业 3",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+        "note": "对照课程页作业表第 3 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW3.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW3-Sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW3-Sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001122-2025-hw4",
+      "type": "homework",
+      "title": "2025 秋 偏微分方程（章俊彦班） · 作业 4",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2025 秋章俊彦班课程主页，作业 4",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+        "note": "对照课程页作业表第 4 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW4.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW4-Sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2025F-PDE1-HW4-Sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-uexam-001122-2025-midterm-9ad4bd",
       "type": "homework",
       "title": "常微分方程、偏微分方程 2025 小测",
@@ -265,9 +437,43 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "zhang-001122-2025-lecture-notes",
+      "type": "study",
+      "title": "2025 秋 偏微分方程（章俊彦班） · 课程讲义",
+      "authors": [
+        "章俊彦"
+      ],
+      "notes": "授课教师发布的自编讲义；跨多次作业，独立导航。",
+      "coverage": {
+        "years": [
+          2025
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+        "note": "课程主页的自编讲义入口；PDF 222 页，已核读封面。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2025F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/PDE1LN-20260126.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "zhang-junyan-ustc-course": "章俊彦 · 中科大数学课程主页"
   }
 }

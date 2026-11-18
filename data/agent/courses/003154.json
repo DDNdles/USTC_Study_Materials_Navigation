@@ -44,11 +44,11 @@
     {
       "id": "chembio-003154-hw-answers",
       "type": "homework",
-      "title": "物理化学I 作业答案合集（对应傅献彩《物理化学》第六版原题）",
+      "title": "物理化学I 作业答案合集",
       "authors": [
         "dasWalpurgis"
       ],
-      "notes": "仓库 物理化学I/作业答案合集/ 内为作业答案 PDF；目录内说明“原题为傅献彩第六版”，未注明具体章次。",
+      "notes": "仓库物理化学I作业答案目录；未确认原题的教材版本与章次。",
       "coverage": {
         "years": [],
         "academic_years": [],
@@ -56,7 +56,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86",
-        "note": "未标注年份与章次，仅确认课程与教材版本对应关系。"
+        "note": "目录中仅有以教材版本命名的空白说明文件，没有相应正文证据。"
       },
       "locations": [
         {

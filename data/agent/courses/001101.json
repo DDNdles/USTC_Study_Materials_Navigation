@@ -232,6 +232,221 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "zhang-001101-2026-hw1",
+      "type": "homework",
+      "title": "2026 秋 常微分方程（章俊彦班） · 作业 1",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2026 秋章俊彦班课程主页，作业 1",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+        "note": "对照课程页作业表第 1 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW1.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW1-sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW1-sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001101-2026-hw2",
+      "type": "homework",
+      "title": "2026 秋 常微分方程（章俊彦班） · 作业 2",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2026 秋章俊彦班课程主页，作业 2",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+        "note": "对照课程页作业表第 2 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW2.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW2-sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW2-sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001101-2026-hw3",
+      "type": "homework",
+      "title": "2026 秋 常微分方程（章俊彦班） · 作业 3",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2026 秋章俊彦班课程主页，作业 3",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+        "note": "对照课程页作业表第 3 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW3.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW3-sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW3-sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001101-2026-hw4",
+      "type": "homework",
+      "title": "2026 秋 常微分方程（章俊彦班） · 作业 4",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2026 秋章俊彦班课程主页，作业 4",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+        "note": "对照课程页作业表第 4 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW4.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW4-sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW4-sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "zhang-001101-2026-hw5",
+      "type": "homework",
+      "title": "2026 秋 常微分方程（章俊彦班） · 作业 5",
+      "authors": [],
+      "notes": "课程主页逐次发布题目和配套答案。",
+      "exercise_source": "2026 秋章俊彦班课程主页，作业 5",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+        "note": "对照课程页作业表第 5 次作业；题目与答案入口均匿名返回 PDF。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW5.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页",
+          "page_kind": "page"
+        },
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW5-sol.pdf",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/2026F-ODE-HW5-sol.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦课程主页发布",
+          "page_kind": "file",
+          "role": "solution"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-uexam-001101-2026-midterm-88ce6c",
       "type": "homework",
       "title": "常微分方程、偏微分方程 2026 小测",
@@ -290,9 +505,43 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "zhang-001101-2026-lecture-notes",
+      "type": "study",
+      "title": "2026 秋 常微分方程（章俊彦班） · 课程讲义",
+      "authors": [
+        "章俊彦"
+      ],
+      "notes": "授课教师发布的自编讲义；跨多次作业，独立导航。",
+      "coverage": {
+        "years": [
+          2026
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+        "note": "课程主页的自编讲义入口；PDF 239 页，已核读封面。"
+      },
+      "locations": [
+        {
+          "source_id": "zhang-junyan-ustc-course",
+          "page_url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+          "download_page": null,
+          "download_url": "https://www.zhangjy9610.me/USTC/ODELN-20261104.pdf",
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "章俊彦",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "zhang-junyan-ustc-course": "章俊彦 · 中科大数学课程主页"
   }
 }

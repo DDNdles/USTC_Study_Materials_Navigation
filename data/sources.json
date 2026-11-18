@@ -608,5 +608,36 @@
       "branch": "master"
     },
     "notes": "README 自述为中国科学技术大学计算机学院课程资源；根 LICENSE 为 MIT（GitHub API 元数据），不当然覆盖第三方试卷；数学类/线性代数B1 目录含 15 份可核验的 B1 试卷扫描件与 1 个整包 zip；raw.githubusercontent.com 匿名可取，15 份实测 200 且字节数与本地副本一致。"
+  },
+  {
+    "id": "zhang-junyan-ustc-course",
+    "name": "章俊彦 · 中科大数学课程主页",
+    "url": "https://www.zhangjy9610.me/2026F-PDE1.html",
+    "maintainer": "章俊彦",
+    "kind": "website",
+    "github": null,
+    "notes": "教师原始课程页面；公开作业、配套答案与自编讲义。"
+  },
+  {
+    "id": "yuan-gao-ustc-course-share",
+    "name": "高源 · 学习资料分享",
+    "url": "http://home.ustc.edu.cn/~wazs98/share.html",
+    "maintainer": "高源",
+    "kind": "website",
+    "github": null,
+    "notes": "助教本人发布的复习指导、手册及专题；仅供学习交流。"
+  },
+  {
+    "id": "rainzor-computational-physics",
+    "name": "Rainzor/Computational-Physics",
+    "url": "https://github.com/Rainzor/Computational-Physics",
+    "maintainer": "Rainzor",
+    "kind": "repository",
+    "github": {
+      "owner": "Rainzor",
+      "repo": "Computational-Physics",
+      "branch": "master"
+    },
+    "notes": "README 明确为中科大 2022 秋计算物理 A 作业和讲义。"
   }
 ]

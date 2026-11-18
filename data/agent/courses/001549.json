@@ -302,6 +302,39 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "yuan-gao-001549-study-share",
+      "type": "study",
+      "title": "数理方程 · 高源助教自编复习资料",
+      "authors": [
+        "高源"
+      ],
+      "notes": "复习指导、参考手册、模拟卷与专题讲义；仅导航作者分享页，不单列镜像。",
+      "coverage": {
+        "years": [
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "http://home.ustc.edu.cn/~wazs98/share.html",
+        "note": "作者页明示为助教期间制作；该批资料对应 2020 春，非 2021 春 03 班作业。"
+      },
+      "locations": [
+        {
+          "source_id": "yuan-gao-ustc-course-share",
+          "page_url": "http://home.ustc.edu.cn/~wazs98/share.html",
+          "download_page": null,
+          "download_url": null,
+          "access": "public",
+          "license_note": "仅链接原页面；资料权利归原作者。",
+          "attribution": "高源",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-gh-001549-notes-f6757a",
       "type": "study",
       "title": "数理方程B 数理方程（notes）",
@@ -451,6 +484,7 @@
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-kobe972": "Kobe972/ustc_course_plus",
-    "gh-wloner0809": "Wloner0809/ustc-course-resource"
+    "gh-wloner0809": "Wloner0809/ustc-course-resource",
+    "yuan-gao-ustc-course-share": "高源 · 学习资料分享"
   }
 }
