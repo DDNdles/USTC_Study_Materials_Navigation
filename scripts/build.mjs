@@ -274,14 +274,13 @@ function buildCatalog(dataset) {
 
   const withResources = courses.filter((course) => course.has_resources).length;
   const rawStats = dataset.traffic ?? {};
-  const repoViews14d =
-    Number.isInteger(rawStats.repo_views_14d) && rawStats.repo_views_14d >= 0
-      ? rawStats.repo_views_14d
-      : null;
-  const siteTotalViews =
-    Number.isInteger(rawStats.site_total_views) && rawStats.site_total_views >= 0
-      ? rawStats.site_total_views
-      : null;
+  const stats = Object.fromEntries(['repo_views_today', 'repo_views_14d', 'site_views_today', 'site_total_views'].map(key => {
+    const value = rawStats[key];
+    return [key, Number.isSafeInteger(value) && value >= 0 ? value : null];
+  }));
+  const date = /^\d{4}-\d{2}-\d{2}$/u.test(rawStats.views_date_utc ?? '') ? rawStats.views_date_utc : null;
+  stats.views_date_utc = date;
+  if (!date) stats.repo_views_today = stats.site_views_today = null;
 
   return {
     schema_version: 1,
@@ -292,10 +291,7 @@ function buildCatalog(dataset) {
       without_resources: courses.length - withResources,
       resources: dataset.resources.length,
     },
-    stats: {
-      repo_views_14d: repoViews14d,
-      site_total_views: siteTotalViews,
-    },
+    stats,
     kinds: enumItems(COURSE_KINDS, COURSE_KIND_LABELS),
     resource_types: enumItems(RESOURCE_TYPES, RESOURCE_TYPE_LABELS),
     exam_kinds: enumItems(EXAM_KINDS, EXAM_KIND_LABELS),
@@ -674,15 +670,13 @@ function renderHtmlLogEntry(entry) {
 
 function renderSourcesHtml(report) {
   const stats = report.catalog?.stats ?? {};
-  const repoViews =
-    Number.isInteger(stats.repo_views_14d) && stats.repo_views_14d >= 0
-      ? stats.repo_views_14d.toLocaleString('zh-CN')
-      : null;
-  const siteViews =
-    Number.isInteger(stats.site_total_views) && stats.site_total_views >= 0
-      ? stats.site_total_views.toLocaleString('zh-CN')
-      : null;
-  const hasStats = repoViews !== null || siteViews !== null;
+  const statLabels = {
+    repo_views_today: '仓库浏览（今日，UTC）',
+    repo_views_14d: '仓库浏览（近 14 天）',
+    site_views_today: '网站浏览（今日，UTC）',
+    site_total_views: '网站累计浏览次数',
+  };
+  const hasStats = Object.keys(statLabels).some(key => stats[key] != null);
 
   const parts = [];
   parts.push(`<!doctype html>
@@ -886,14 +880,13 @@ function renderSourcesHtml(report) {
           <p>仓库内同时保留可读版 <code>docs/sources-and-search.md</code>（构建生成）。</p>
         </div>
         <dl id="site-stats" class="site-stats" aria-label="访问统计"${hasStats ? '' : ' hidden'}>
-          <div class="stat-pill" data-stat-item="repo_views_14d"${repoViews !== null ? '' : ' hidden'}>
-            <dt>仓库浏览（近 14 天）</dt>
-            <dd data-stat-value="repo_views_14d">${repoViews ?? ''}</dd>
-          </div>
-          <div class="stat-pill" data-stat-item="site_total_views"${siteViews !== null ? '' : ' hidden'}>
-            <dt>网站累计浏览次数</dt>
-            <dd data-stat-value="site_total_views">${siteViews ?? ''}</dd>
-          </div>
+          ${Object.entries(statLabels).map(([key, label]) => {
+            const value = stats[key];
+            return `<div class="stat-pill" data-stat-item="${key}"${value == null ? ' hidden' : ''}>
+            <dt>${label}${key.endsWith('_today') && stats.views_date_utc ? ` · ${escapeHtml(stats.views_date_utc)}` : ''}</dt>
+            <dd data-stat-value="${key}">${value?.toLocaleString('zh-CN') ?? ''}</dd>
+          </div>`;
+          }).join('\n          ')}
         </dl>
       </div>
     </footer>
@@ -943,8 +936,8 @@ async function main() {
     throw new Error('GOATCOUNTER_SITE must be a GoatCounter subdomain, not a URL');
   }
   const addCounter = (html, page) => counter ? html.replace('</head>',
-    `  <script async src="https://gc.zgo.at/count.js" data-goatcounter="https://${counter}.goatcounter.com/count" data-goatcounter-settings='${escapeHtml(JSON.stringify({ path: page, referrer: '' }))}' referrerpolicy="no-referrer"></script>\n  </head>`,
-  ) : html;
+    `  <script async src="https://gc.zgo.at/count.js" data-goatcounter="https://${counter}.goatcounter.com/count" data-goatcounter-settings='${escapeHtml(JSON.stringify({ path: page, referrer: '', title: '中科大本科课程资料导航' }))}' referrerpolicy="no-referrer"></script>\n  </head>`,
+  ).replace('</footer>', '<p class="wrap source-note">网站浏览量由 <a href="https://www.goatcounter.com/help/privacy" rel="noreferrer">GoatCounter</a> 统计。</p>\n    </footer>') : html;
 
   const validation = validateRepository(dataset);
   const errors = validation.errors ?? [];

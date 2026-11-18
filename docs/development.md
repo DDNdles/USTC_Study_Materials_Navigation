@@ -190,9 +190,9 @@ GitHub 检查只读登记资料库的确定 `branch`；头未变跳过树，变�
 
 ## 访问统计
 
-两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。设置 Actions secret `TRAFFIC_TOKEN`（限本仓库、有权读取 Traffic 的凭据）后采集仓库近 14 天浏览次数。设置 Actions variable `GOATCOUNTER_SITE`（仅填 GoatCounter 子域名，并在其后台允许公开计数）后采集网站浏览次数，并在生成页面启用统计。未配置或采集失败的项目不显示，真实的零正常显示。
+两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。仓库统计默认尝试工作流自带的 `GITHUB_TOKEN`；若无权读取 Traffic，设置限本仓库且有读取权限的 Actions secret `TRAFFIC_TOKEN`。设置 Actions variable `GOATCOUNTER_SITE`（仅填 GoatCounter 子域名，并在其后台允许公开计数）后，生成的网页会向 GoatCounter 上报浏览，同时 Actions 会读取其公开累计计数。未配置或采集失败的项目不显示，真实的零正常显示。
 
-聚合值写到 Git 忽略的 `data/traffic.local.json`，不混入外链监控。网页数字在下一次构建时刷新。GoatCounter 使用固定统计路径，不发送搜索词、筛选条件或课号。README 只展示真实公开计数图或有时间标记的快照，不公开 GitHub 凭据。
+仓库显示 UTC 当日及近 14 天，网站显示 UTC 当日及自启用以来累计（GoatCounter 的 `TOTAL` 接口按 UTC 划日）。当日指标附统计日期。聚合值保存在被 Git 忽略的 `data/traffic.local.json`；Pages 计划每四小时重新构建，GoatCounter 公开计数还可能有缓存。上报只使用固定路径、标题，不发送搜索词、筛选条件或课号；页脚注明统计提供方。
 
 ## 处理读者推荐
 

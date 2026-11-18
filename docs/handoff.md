@@ -24,7 +24,7 @@
 
 给 Agent 的使用方式是 README 的简短提示词，以及 `data/agent/index.json` 和 `data/agent/courses/` 下的逐课 JSON；后者也随 `dist/` 发布。改版不要改变这些路径或字段，不另做 CLI、Skill 或 MCP。
 
-三页页脚独立展示「仓库浏览（近 14 天）」和「网站累计浏览次数」。采集与构建已接通，启用须配置 `TRAFFIC_TOKEN` / `GOATCOUNTER_SITE`，详见[访问统计](development.md#访问统计)。未配置时隐藏相应项目，不发布占位数字。
+三页页脚各自展示仓库浏览（UTC 当日、近 14 天）与网站浏览（UTC 当日、自启用以来累计）。每日数字附统计日期；没有真实数据的项目隐藏。授权和刷新频率见[访问统计](development.md#访问统计)。
 
 ## 改版时保留什么
 

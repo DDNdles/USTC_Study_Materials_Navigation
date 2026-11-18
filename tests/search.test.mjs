@@ -918,7 +918,10 @@ test('来源页预留统计槽位在无数据时隐藏、有数据时独立展�
   };
 
   const emptyCatalog = buildCatalog(baseDataset);
-  assert.deepEqual(emptyCatalog.stats, { repo_views_14d: null, site_total_views: null });
+  assert.deepEqual(emptyCatalog.stats, {
+    repo_views_today: null, repo_views_14d: null, site_views_today: null,
+    site_total_views: null, views_date_utc: null,
+  });
   const emptyHtml = renderSourcesHtml({ ...baseReport, catalog: emptyCatalog });
   assert.match(emptyHtml, /<dl id="site-stats" class="site-stats" aria-label="访问统计" hidden>/);
   assert.match(
@@ -940,11 +943,16 @@ test('来源页预留统计槽位在无数据时隐藏、有数据时独立展�
       links: [],
       repositories: {},
     },
-    traffic: { repo_views_14d: 1234, site_total_views: 5678 },
+    traffic: { repo_views_today: 0, repo_views_14d: 1234, site_views_today: 23, site_total_views: 5678, views_date_utc: '2026-11-18' },
   });
-  assert.deepEqual(filledCatalog.stats, { repo_views_14d: 1234, site_total_views: 5678 });
+  assert.deepEqual(filledCatalog.stats, {
+    repo_views_today: 0, repo_views_14d: 1234, site_views_today: 23,
+    site_total_views: 5678, views_date_utc: '2026-11-18',
+  });
   const filledHtml = renderSourcesHtml({ ...baseReport, catalog: filledCatalog });
   assert.match(filledHtml, /<dl id="site-stats" class="site-stats" aria-label="访问统计">/);
+  assert.match(filledHtml, /<dt>仓库浏览（今日，UTC） · 2026-11-18<\/dt>\s*<dd data-stat-value="repo_views_today">0<\/dd>/);
+  assert.match(filledHtml, /<dt>网站浏览（今日，UTC） · 2026-11-18<\/dt>\s*<dd data-stat-value="site_views_today">23<\/dd>/);
   assert.match(
     filledHtml,
     /<div class="stat-pill" data-stat-item="repo_views_14d">\s*<dt>仓库浏览（近 14 天）<\/dt>\s*<dd data-stat-value="repo_views_14d">1,234<\/dd>/,

@@ -20,7 +20,7 @@
 
 ## 让 Agent 帮你查
 
-> 我想找「课程名或课号」的「资料类型、年份或卷别」。请先查https://github.com/TwinJades/UST_Study_Materials_Navigation/data/agent/index.json ，再打开data/agent/courses/，把找到的公开文件下载到当前工作区，并附上原始出处。如果有多个可能的课程或文件，请先列出选项问我，确认后再下载；只有原始页面而没有可下载文件时，请告诉我。
+> 我想找「课程名或课号」的「资料类型、年份或卷别」。请先查https://twinjades.github.io/UST_Study_Materials_Navigation/data/agent/index.json ，再打开data/agent/courses/，把找到的公开文件下载到当前工作区，并附上原始出处。如果有多个可能的课程或文件，请先列出选项问我，确认后再下载；只有原始页面而没有可下载文件时，请告诉我。
 
 ## 推荐资料来源
 

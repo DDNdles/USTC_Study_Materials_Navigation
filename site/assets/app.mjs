@@ -108,13 +108,12 @@ function showLoadError(message) {
 }
 
 /**
- * 渲染预留的两项统计（「仓库浏览（近 14 天）」「网站累计浏览次数」）。
- * 无真实非负整数数据时保持隐藏，绝不渲染占位数字，也不将两项相加。
+ * 分别渲染仓库及网站浏览量；无数据的指标不显示。
  */
 function renderSiteStats(stats) {
   const container = document.getElementById('site-stats');
   if (!container) return;
-  const keys = ['repo_views_14d', 'site_total_views'];
+  const keys = ['repo_views_today', 'repo_views_14d', 'site_views_today', 'site_total_views'];
   let visibleCount = 0;
 
   for (const key of keys) {
@@ -124,6 +123,9 @@ function renderSiteStats(stats) {
     const raw = stats?.[key];
     if (Number.isInteger(raw) && raw >= 0) {
       valueNode.textContent = raw.toLocaleString('zh-CN');
+      if (key.endsWith('_today') && stats.views_date_utc) {
+        item.querySelector('dt').append(` · ${stats.views_date_utc}`);
+      }
       item.hidden = false;
       visibleCount += 1;
     } else {

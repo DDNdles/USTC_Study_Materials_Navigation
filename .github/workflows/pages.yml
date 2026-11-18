@@ -3,6 +3,8 @@ name: Deploy course navigation site
 on:
   push:
   workflow_dispatch:
+  schedule:
+    - cron: '23 */4 * * *'
 
 permissions:
   contents: read
@@ -34,6 +36,7 @@ jobs:
       - name: Collect visit counts
         env:
           TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           GOATCOUNTER_SITE: ${{ vars.GOATCOUNTER_SITE }}
         run: node scripts/collect-traffic.mjs
 
