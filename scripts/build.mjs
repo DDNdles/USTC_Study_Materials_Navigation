@@ -878,7 +878,7 @@ function renderSourcesHtml(report) {
         <div class="footer-notes">
           <p>资料版权归原作者所有；本站只提供导航链接，不托管、不转载第三方文件。</p>
           <p>仓库内同时保留可读版 <code>docs/sources-and-search.md</code>（构建生成）。</p>
-          <p>如果这个页面对你有帮助，希望你到<a href="https://github.com/TwinJades/UST_Study_Materials_Navigation">我的仓库</a>点一个 Star。这对我非常重要，谢谢！</p>
+          <p>如果这个页面对你有帮助，希望你到<a href="https://github.com/TwinJades/USTC_Study_Materials_Navigation">我的仓库</a>点一个 Star。这对我非常重要，谢谢！</p>
         </div>
         <dl id="site-stats" class="site-stats" aria-label="访问统计"${hasStats ? '' : ' hidden'}>
           ${Object.entries(statLabels).map(([key, label]) => {

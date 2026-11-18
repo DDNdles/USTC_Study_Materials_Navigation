@@ -8,7 +8,7 @@
 
 ## 在线使用
 
-**[打开中科大本科课程资料导航](https://twinjades.github.io/UST_Study_Materials_Navigation/)**
+**[打开中科大本科课程资料导航](https://twinjades.github.io/USTC_Study_Materials_Navigation/)**
 
 ## 怎么找资料
 
@@ -20,11 +20,11 @@
 
 ## 让 Agent 帮你查
 
-> 我想找「课程名或课号」的「资料类型、年份或卷别」。请先查https://twinjades.github.io/UST_Study_Materials_Navigation/data/agent/index.json ，再打开data/agent/courses/，把找到的公开文件下载到当前工作区，并附上原始出处。如果有多个可能的课程或文件，请先列出选项问我，确认后再下载；只有原始页面而没有可下载文件时，请告诉我。
+> 我想找「课程名或课号」的「资料类型、年份或卷别」。请先查https://twinjades.github.io/USTC_Study_Materials_Navigation/data/agent/index.json ，再打开data/agent/courses/，把找到的公开文件下载到当前工作区，并附上原始出处。如果有多个可能的课程或文件，请先列出选项问我，确认后再下载；只有原始页面而没有可下载文件时，请告诉我。
 
 ## 推荐资料来源
 
-知道值得收录的公开资料页、目录或资料库？请填[推荐资料来源表单](https://github.com/TwinJades/UST_Study_Materials_Navigation/issues/new?template=suggest-source.yml)，不需要改代码。熟悉 Git 的读者也可提 Pull Request。我们核对后再收录，可以按你的意愿公开致谢。
+知道值得收录的公开资料页、目录或资料库？请填[推荐资料来源表单](https://github.com/TwinJades/USTC_Study_Materials_Navigation/issues/new?template=suggest-source.yml)，不需要改代码。熟悉 Git 的读者也可提 Pull Request。我们核对后再收录，可以按你的意愿公开致谢。
 
 ## 文档
 

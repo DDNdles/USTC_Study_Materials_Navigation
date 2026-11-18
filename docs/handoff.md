@@ -6,7 +6,7 @@
 
 这是中国科大本科课程资料导航，不是网盘。固定课程范围为 2025 秋、2026 春、2026 夏和 2026 秋官方本科开课。课程按官方代码合并；36 个学科是项目标签，不是官方分类。暂未收录资料的课程仍在目录里，不能把「暂未收录」写成「没有资料」。
 
-项目在 [GitHub 公开仓库](https://github.com/TwinJades/UST_Study_Materials_Navigation) 的 `main` 分支维护，由 GitHub Actions 部署到[正式站点](https://twinjades.github.io/UST_Study_Materials_Navigation/)。索引链接指向原站，不托管第三方文件，不保存临时签名，不绕登录。只有「教材与参考书」另要求由权利方公开发布、免费、免登录并有完整文件直链；匹配课程内容的参考书不等于学校指定教材。
+项目在 [GitHub 公开仓库](https://github.com/TwinJades/USTC_Study_Materials_Navigation) 的 `main` 分支维护，由 GitHub Actions 部署到[正式站点](https://twinjades.github.io/USTC_Study_Materials_Navigation/)。索引链接指向原站，不托管第三方文件，不保存临时签名，不绕登录。只有「教材与参考书」另要求由权利方公开发布、免费、免登录并有完整文件直链；匹配课程内容的参考书不等于学校指定教材。
 
 ## 从哪里接手
 
@@ -39,7 +39,7 @@
 
 - 最近构建：1,184 门课，219 门有资料、965 门未收录；1,383 条正式资料，比 1,290 条基线净增 93。链接修复、镜像合并、分类迁移和证据更正不直接新增资料行，不能用遍历文件数推算新增条数。
 - 「我的科大」全站匿名目录另行复核（`feixu-review-`）：102 个目录、754 个文件、81 个候选。这批候选与旧索引的 5 个候选 URL 无重复。遍历取得的是列表和元数据，不是 754 份本地文件。现有 526 条正式资料带「我的科大」链接，覆盖 82 门课、603 个文件页；这是全站累计，不是旧索引的收录数。
-- [GitHub Actions 全量外链检查](https://github.com/TwinJades/UST_Study_Materials_Navigation/actions/runs/44306690516) 覆盖当前 1,760 个网址，收到 1,742 个 HTTP 响应（含 1 个 404），18 个超时，未检查和预检拦截均为 0；结果已写入本地 `data/monitoring.json`。检查耗时约 10 分钟，不含排队/准备。没有修改来源仓库基线、关闭地址安全拦截或启用 Pages。
+- [GitHub Actions 全量外链检查](https://github.com/TwinJades/USTC_Study_Materials_Navigation/actions/runs/44306690516) 覆盖当前 1,760 个网址，收到 1,742 个 HTTP 响应（含 1 个 404），18 个超时，未检查和预检拦截均为 0；结果已写入本地 `data/monitoring.json`。检查耗时约 10 分钟，不含排队/准备。没有修改来源仓库基线、关闭地址安全拦截或启用 Pages。
 - 重点回归项：`DMA23M`、`DMA23F`、`DMA24F` 归 `229001`；`001548` 复变函数 B 指向具体文件页；线代 B1 2026 春期末 `2026SLAB1Final.pdf` 大小写不能改；Oscar Levin 教材是 `229001` 的补充参考。
 
 ## 旧考试索引对账
