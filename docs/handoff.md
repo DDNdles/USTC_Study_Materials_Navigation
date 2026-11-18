@@ -6,7 +6,7 @@
 
 这是中国科大本科课程资料导航，不是网盘。固定课程范围为 2025 秋、2026 春、2026 夏和 2026 秋官方本科开课。课程按官方代码合并；36 个学科是项目标签，不是官方分类。暂未收录资料的课程仍在目录里，不能把「暂未收录」写成「没有资料」。
 
-项目已提交到 [GitHub 私有仓库](https://github.com/TwinJades/UST_Study_Materials_Navigation) 的 `main` 分支，未启用 Pages。不得擅自转为公开仓库或开启公开站点。索引链接指向原站，不托管第三方文件，不保存临时签名，不绕登录。只有「教材与参考书」另要求由权利方公开发布、免费、免登录并有完整文件直链；匹配课程内容的参考书不等于学校指定教材。
+项目在 [GitHub 公开仓库](https://github.com/TwinJades/UST_Study_Materials_Navigation) 的 `main` 分支维护，由 GitHub Actions 部署到[正式站点](https://twinjades.github.io/UST_Study_Materials_Navigation/)。索引链接指向原站，不托管第三方文件，不保存临时签名，不绕登录。只有「教材与参考书」另要求由权利方公开发布、免费、免登录并有完整文件直链；匹配课程内容的参考书不等于学校指定教材。
 
 ## 从哪里接手
 
@@ -24,7 +24,7 @@
 
 给 Agent 的使用方式是 README 的简短提示词，以及 `data/agent/index.json` 和 `data/agent/courses/` 下的逐课 JSON；后者也随 `dist/` 发布。改版不要改变这些路径或字段，不另做 CLI、Skill 或 MCP。
 
-三页页脚独立展示「仓库浏览（近 14 天）」和「网站累计浏览次数」。采集与构建已接通，启用须配置 `TRAFFIC_TOKEN` / `GOATCOUNTER_SITE`，详见[访问统计](development.md#访问统计)。没有真实数据时隐藏相应项目；Pages 未上线，当前不发布网站访问量或 README 占位数字。
+三页页脚独立展示「仓库浏览（近 14 天）」和「网站累计浏览次数」。采集与构建已接通，启用须配置 `TRAFFIC_TOKEN` / `GOATCOUNTER_SITE`，详见[访问统计](development.md#访问统计)。未配置时隐藏相应项目，不发布占位数字。
 
 ## 改版时保留什么
 

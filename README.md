@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-公开网站尚未上线。项目目前保存在 [GitHub 私有仓库](https://github.com/TwinJades/UST_Study_Materials_Navigation)，仓库链接仅对有权限的用户可见。
+**[打开中科大本科课程资料导航](https://twinjades.github.io/UST_Study_Materials_Navigation/)**
 
 ## 怎么找资料
 
@@ -20,7 +20,7 @@
 
 ## 推荐资料来源
 
-知道值得收录的公开资料页、目录或资料库？请填[推荐资料来源表单](https://github.com/TwinJades/UST_Study_Materials_Navigation/issues/new?template=suggest-source.yml)，不需要改代码。熟悉 Git 的读者也可提 Pull Request。我们核对后再收录，可以按你的意愿公开致谢。私有仓库阶段仅获授权的用户可以提交。
+知道值得收录的公开资料页、目录或资料库？请填[推荐资料来源表单](https://github.com/TwinJades/UST_Study_Materials_Navigation/issues/new?template=suggest-source.yml)，不需要改代码。熟悉 Git 的读者也可提 Pull Request。我们核对后再收录，可以按你的意愿公开致谢。
 
 ## 文档
 
