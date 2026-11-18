@@ -24,7 +24,7 @@
 
 给 Agent 的使用方式是 README 的简短提示词，以及 `data/agent/index.json` 和 `data/agent/courses/` 下的逐课 JSON；后者也随 `dist/` 发布。改版不要改变这些路径或字段，不另做 CLI、Skill 或 MCP。
 
-统计展示可放 README 和网页，分别标为「仓库浏览（近 14 天）」和「网站累计浏览次数」。三页页脚 `#site-stats` 与 `catalog.json`（`stats.repo_views_14d`、`stats.site_total_views`）已预留独立展示位置与绑定逻辑；Pages 尚未上线，当前没有网站计数来源：上线后接入经确认的统计服务（不发送搜索词）；仓库浏览统计须由有权限的后台任务读取 GitHub Traffic API 再发布聚合值，不在客户端公开凭据。无数据时保持 `hidden`、不显示占位数字；两项不相加，也不标成访客人数。
+三页页脚独立展示「仓库浏览（近 14 天）」和「网站累计浏览次数」。采集与构建已接通，启用须配置 `TRAFFIC_TOKEN` / `GOATCOUNTER_SITE`，详见[访问统计](development.md#访问统计)。没有真实数据时隐藏相应项目；Pages 未上线，当前不发布网站访问量或 README 占位数字。
 
 ## 改版时保留什么
 
@@ -39,7 +39,7 @@
 
 - 最近构建：1,184 门课，219 门有资料、965 门未收录；1,383 条正式资料，比 1,290 条基线净增 93。链接修复、镜像合并、分类迁移和证据更正不直接新增资料行，不能用遍历文件数推算新增条数。
 - 「我的科大」全站匿名目录另行复核（`feixu-review-`）：102 个目录、754 个文件、81 个候选。这批候选与旧索引的 5 个候选 URL 无重复。遍历取得的是列表和元数据，不是 754 份本地文件。现有 526 条正式资料带「我的科大」链接，覆盖 82 门课、603 个文件页；这是全站累计，不是旧索引的收录数。
-- 自动监控试跑 1,291 个 URL，全部停在 DNS／地址安全预检，0 个外链 HTTP 响应，未覆盖旧监控数据。人工复核单独记在 `data/research-log.jsonl`（可搜 `manual-public-links`、`feixu-public-inventory`），不能回填为自动 HTTP 结果。不要放宽私网阻断确认链路。
+- [GitHub Actions 全量外链检查](https://github.com/TwinJades/UST_Study_Materials_Navigation/actions/runs/44306690516) 覆盖当前 1,760 个网址，收到 1,742 个 HTTP 响应（含 1 个 404），18 个超时，未检查和预检拦截均为 0；结果已写入本地 `data/monitoring.json`。检查耗时约 10 分钟，不含排队/准备。没有修改来源仓库基线、关闭地址安全拦截或启用 Pages。
 - 重点回归项：`DMA23M`、`DMA23F`、`DMA24F` 归 `229001`；`001548` 复变函数 B 指向具体文件页；线代 B1 2026 春期末 `2026SLAB1Final.pdf` 大小写不能改；Oscar Levin 教材是 `229001` 的补充参考。
 
 ## 旧考试索引对账
@@ -73,3 +73,5 @@
 使用 Node.js 24 或以上。资料或数据契约有改动时运行 `npm test`、`npm run validate -- --strict-research`、`npm run build`；纯界面改动也要构建实际产物，用 `npm run serve` 打开 `http://127.0.0.1:4173/` 检查改到的页面。联网诊断用 `npm run monitor -- --dry-run`，它不会写入数据或 GitHub。
 
 最近一轮（前端改版后）共 100 项测试通过（`tests/search.test.mjs` + `tests/data.test.mjs` 65 项，含预留统计槽位单测；`tests/monitor.test.mjs` 35 项需放行本地回环端口运行），严格校验 0 错误、799 警告（794 条为未登记公开署名），分区互斥且覆盖 1,184 门、`data/agent/` 路径与字段未改。已由用户在本地 `http://127.0.0.1:4173/` 实际预览确认新版界面与交互；本轮会话中自动化浏览器遍历（含 331 CSS px 与原生 200% 缩放脚本检查）因等待原点访问授权弹窗超时未运行，接手方或发布前建议另跑一次浏览器回归。
+
+来源页长链接换行修复后，在 Edge 的 331 CSS px 视口实测详细模式无横向溢出；未配置统计时同次实测页脚不显示数字。

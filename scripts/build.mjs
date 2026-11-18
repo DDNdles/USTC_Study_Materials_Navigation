@@ -9,7 +9,7 @@
  *
  * 只更新清单列出的自有文件；不联网、不抓取资料、不执行来源项目代码。
  */
-import { copyFile, mkdir, readdir, rm, writeFile } from 'node:fs/promises';
+import { copyFile, mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -273,7 +273,7 @@ function buildCatalog(dataset) {
   }
 
   const withResources = courses.filter((course) => course.has_resources).length;
-  const rawStats = dataset.monitoring?.stats ?? {};
+  const rawStats = dataset.traffic ?? {};
   const repoViews14d =
     Number.isInteger(rawStats.repo_views_14d) && rawStats.repo_views_14d >= 0
       ? rawStats.repo_views_14d
@@ -933,6 +933,18 @@ function findBuildRuleErrors(dataset) {
 
 async function main() {
   const dataset = await loadRepository(ROOT);
+  try {
+    dataset.traffic = JSON.parse(await readFile(absolute('data/traffic.local.json'), 'utf8'));
+  } catch (error) {
+    if (error.code !== 'ENOENT') throw error;
+  }
+  const counter = process.env.GOATCOUNTER_SITE;
+  if (counter && !/^[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/u.test(counter)) {
+    throw new Error('GOATCOUNTER_SITE must be a GoatCounter subdomain, not a URL');
+  }
+  const addCounter = (html, page) => counter ? html.replace('</head>',
+    `  <script async src="https://gc.zgo.at/count.js" data-goatcounter="https://${counter}.goatcounter.com/count" data-goatcounter-settings='${escapeHtml(JSON.stringify({ path: page, referrer: '' }))}' referrerpolicy="no-referrer"></script>\n  </head>`,
+  ) : html;
 
   const validation = validateRepository(dataset);
   const errors = validation.errors ?? [];
@@ -1040,10 +1052,15 @@ async function main() {
   for (const relativePath of siteFiles) {
     const target = path.join(DIST_DIR, ...relativePath.split('/'));
     await mkdir(path.dirname(target), { recursive: true });
-    await copyFile(path.join(SITE_DIR, ...relativePath.split('/')), target);
+    const source = path.join(SITE_DIR, ...relativePath.split('/'));
+    if (counter && relativePath.endsWith('.html')) {
+      const page = relativePath === 'index.html' ? '/' : `/${relativePath}`;
+      await writeText(target, addCounter(await readFile(source, 'utf8'), page));
+    }
+    else await copyFile(source, target);
   }
   await writeJson(path.join(DIST_DIR, 'data', 'catalog.json'), catalog);
-  await writeText(path.join(DIST_DIR, 'sources.html'), sourcesHtml);
+  await writeText(path.join(DIST_DIR, 'sources.html'), addCounter(sourcesHtml, '/sources.html'));
   await writeFile(
     path.join(DIST_DIR, '.nojekyll'),
     '',

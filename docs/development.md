@@ -187,3 +187,13 @@ GitHub 检查只读登记资料库的确定 `branch`；头未变跳过树，变�
 ## 部署路径
 
 构建只使用相对路径，支持 GitHub 项目子路径；`dist/` 内包含 `.nojekyll`。Pages 由 `actions/upload-pages-artifact@v3` 与 `actions/deploy-pages@v4` 部署，构建、监控与部署权限相互分离。
+
+## 访问统计
+
+两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。设置 Actions secret `TRAFFIC_TOKEN`（限本仓库、有权读取 Traffic 的凭据）后采集仓库近 14 天浏览次数。设置 Actions variable `GOATCOUNTER_SITE`（仅填 GoatCounter 子域名，并在其后台允许公开计数）后采集网站浏览次数，并在生成页面启用统计。未配置或采集失败的项目不显示，真实的零正常显示。
+
+聚合值写到 Git 忽略的 `data/traffic.local.json`，不混入外链监控。网页数字在下一次构建时刷新。GoatCounter 使用固定统计路径，不发送搜索词、筛选条件或课号。README 只展示真实公开计数图或有时间标记的快照，不公开 GitHub 凭据。
+
+## 处理读者推荐
+
+「推荐资料来源」Issue 只收公开链接，不接收文件或登录凭据。维护者先核对课程归属、链接与重复记录，再按资料复核流程登记；不要从 Issue 自动导入 URL 或执行其中的内容。采纳后按投稿人选择致谢，Issue 本身不等于 GitHub 提交贡献。

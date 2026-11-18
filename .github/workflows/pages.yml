@@ -31,7 +31,15 @@ jobs:
       - name: Validate data strictly for publishing
         run: npm run validate -- --strict-research
 
+      - name: Collect visit counts
+        env:
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          GOATCOUNTER_SITE: ${{ vars.GOATCOUNTER_SITE }}
+        run: node scripts/collect-traffic.mjs
+
       - name: Validate data and build dist
+        env:
+          GOATCOUNTER_SITE: ${{ vars.GOATCOUNTER_SITE }}
         run: npm run build
 
       - name: Upload Pages artifact

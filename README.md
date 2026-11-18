@@ -18,6 +18,10 @@
 
 > 我想找「课程名或课号」的「资料类型、年份或卷别」。请先查[课程索引](data/agent/index.json)，再打开[对应课号的资料 JSON](data/agent/courses/)，把找到的公开文件下载到当前工作区，并附上原始出处。如果有多个可能的课程或文件，请先列出选项问我，确认后再下载；只有原始页面而没有可下载文件时，请告诉我。
 
+## 推荐资料来源
+
+知道值得收录的公开资料页、目录或资料库？请填[推荐资料来源表单](https://github.com/TwinJades/UST_Study_Materials_Navigation/issues/new?template=suggest-source.yml)，不需要改代码。熟悉 Git 的读者也可提 Pull Request。我们核对后再收录，可以按你的意愿公开致谢。私有仓库阶段仅获授权的用户可以提交。
+
 ## 文档
 
 - [开发与数据契约](docs/development.md)：本地运行、数据结构、采集、校验、监控与发布。

@@ -939,8 +939,8 @@ test('来源页预留统计槽位在无数据时隐藏、有数据时独立展�
     monitoring: {
       links: [],
       repositories: {},
-      stats: { repo_views_14d: 1234, site_total_views: 5678 },
     },
+    traffic: { repo_views_14d: 1234, site_total_views: 5678 },
   });
   assert.deepEqual(filledCatalog.stats, { repo_views_14d: 1234, site_total_views: 5678 });
   const filledHtml = renderSourcesHtml({ ...baseReport, catalog: filledCatalog });
