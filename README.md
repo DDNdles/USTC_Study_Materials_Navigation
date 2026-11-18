@@ -4,7 +4,7 @@
 
 ## 在线使用
 
-在线版使用 GitHub Pages；当前工作区没有已核实的正式网址。
+公开网站尚未上线。项目目前保存在 [GitHub 私有仓库](https://github.com/TwinJades/UST_Study_Materials_Navigation)，仓库链接仅对有权限的用户可见。
 
 ## 怎么找资料
 
