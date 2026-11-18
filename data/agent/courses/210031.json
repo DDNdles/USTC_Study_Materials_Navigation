@@ -42,9 +42,101 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-210031-b9844a23e512b2d0",
+      "type": "exams",
+      "title": "2024NSP期末考试",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24112/#review-83715",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24112/#review-83715",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-210031-c0882a44df79e7b6",
+      "type": "exams",
+      "title": "网络安全协议 2024回忆版试卷答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24112/#review-83710",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24112/#review-83710",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-210031-395dde05dc4a8e04",
+      "type": "study",
+      "title": "NSP期末复习",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24112/#review-83971",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24112/#review-83971",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）"
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "icourse-club": "USTC 评课社区"
   }
 }

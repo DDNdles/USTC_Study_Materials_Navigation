@@ -9,6 +9,64 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-AI3002-9fe53369a038945d",
+      "type": "study",
+      "title": "人工智能与机器学习基础 课程笔记",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26106/#review-97214",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26106/#review-97214",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-AI3002-88dd5560bf0297aa",
+      "type": "study",
+      "title": "人工智能与机器学习基础 Lab1 讲解",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26106/#review-97655",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26106/#review-97655",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-AI3002-84e7fb5a4478c28a",
       "type": "study",
       "title": "人工智能与机器学习基础 Lab1 指南（2026 秋，3 份 PDF）",
@@ -39,6 +97,35 @@
           "license_note": "GitHub 公开仓库；仓库未声明逐文件再分发许可，仅导航原页面，不转存文件。",
           "attribution": "GitHub 用户 Wanglulu114514",
           "page_kind": "directory"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-AI3002-b5a30c3953586194",
+      "type": "projects",
+      "title": "人工智能与机器学习基础 附加实验设计思路",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26883/#review-106166",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26883/#review-106166",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
         }
       ],
       "verified_at": "2026-11-19"
@@ -76,6 +163,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "gh-wanglulu-aiml26": "Wanglulu114514/ResourceforAIML26",
     "gh-xinchengo-autoresearch-gomoku": "xinchengo/autoresearch-gomoku"
   }

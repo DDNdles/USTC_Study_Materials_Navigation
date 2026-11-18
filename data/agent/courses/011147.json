@@ -9,6 +9,37 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-011147-5a7ea536f5db85c0",
+      "type": "exams",
+      "title": "数据库系统及应用 2024final",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22470/#review-84641",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22470/#review-84641",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-exam-guch-011147-database-2020-spring-pdf",
       "type": "exams",
       "title": "数据库系统及应用 2020 春试卷（金培权班）",
@@ -141,6 +172,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011147-5617a43aeedbfc67",
+      "type": "homework",
+      "title": "数据库练习题_1",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/14365/#review-34602",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/14365/#review-34602",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-lectures-web-011147",
       "type": "study",
       "title": "数据库系统及应用 课程网站（<font size=5>���ݿ�ϵͳ��Ӧ��</font>）",
@@ -173,6 +233,93 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-011147-de46bb5d7e02fe1b",
+      "type": "study",
+      "title": "数据库系统及应用课件",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2904/#review-24143",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2904/#review-24143",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011147-50eb489bf05c8b4e",
+      "type": "study",
+      "title": "数据库系统及应用提纲1",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25106/#review-93856",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25106/#review-93856",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011147-1a0a68dfb4e9757f",
+      "type": "study",
+      "title": "数据库知识点复习",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2904/#review-94039",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2904/#review-94039",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "intake-011147-af8eea98a6291b07",
@@ -215,6 +362,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",

@@ -10,6 +10,64 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-STAT3002-5b3084f73c9c2076",
+      "type": "homework",
+      "title": "实用统计软件作业压缩包",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18336/#review-25685",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18336/#review-25685",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-STAT3002-f46dc059693d4c56",
+      "type": "study",
+      "title": "实用统计软件课件压缩包",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18336/#review-25685",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18336/#review-25685",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-STAT3002-9eb41bae77118b72",
       "type": "projects",
       "title": "实用统计软件 期末项目：LOL 赛事数据分析报告",
@@ -39,9 +97,39 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-STAT3002-5279a36307987f69",
+      "type": "projects",
+      "title": "实用统计软件 R 项目压缩包",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18336/#review-25685",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18336/#review-25685",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "gh-lunarkn1ght-lol-esports": "LUNARKN1GHT/lol_esports"
   }
 }

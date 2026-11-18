@@ -75,10 +75,69 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022118-ac2264f2d2109c9a",
+      "type": "study",
+      "title": "固体物理 期末整理",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1398/#review-48135",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1398/#review-48135",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022118-a22547af847f484f",
+      "type": "study",
+      "title": "固体物理B：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：固体物理 习题课 2、固体物理 习题课 1。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1398/#review-94053",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1398/#review-94053",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）"
+    "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "icourse-club": "USTC 评课社区"
   }
 }

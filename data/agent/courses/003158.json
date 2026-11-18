@@ -9,6 +9,122 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-003158-fd39f812b0d8547c",
+      "type": "exams",
+      "title": "量子物理 期末模拟题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25996/#review-97584",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25996/#review-97584",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-003158-85d81401d0960c7d",
+      "type": "homework",
+      "title": "量子物理：作业与习题（8 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：量子物理 下半学期第一次作业参考答案、量子物理 下半学期第二次作业参考答案、量子物理 下半学期第三次作业参考答案、量子物理 下半学期第四次作业参考答案、量子物理 下半学期第五次作业参考答案、量子物理 下半学期第六次作业参考答案、量子物理 下半学期第七次作业参考答案、量子物理 下半学期第八次作业参考答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25996/#review-97584",
+        "note": "在对应课程原帖正常登录后核对 8 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25996/#review-97584",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-003158-f78c46087a48b5be",
+      "type": "study",
+      "title": "量子物理 课程笔记（英文）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24590/#review-100505",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24590/#review-100505",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-003158-ccdf1331648fabeb",
+      "type": "study",
+      "title": "量子物理 习题课（2021-03-03）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13498/#review-28595",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13498/#review-28595",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-003158-236a51c987cf8ed9",
       "type": "study",
       "title": "量子物理习题课录像（2021-03-03）",
@@ -39,6 +155,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "bilibili-course-recordings": "B 站课程习题课录像"
   }
 }

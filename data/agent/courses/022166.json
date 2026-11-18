@@ -10,6 +10,122 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-022166-41376634fd11f3d6",
+      "type": "homework",
+      "title": "天文学导论：作业与习题（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 习题课讲义与作业答案、天文学导论 教材课后习题。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-88878",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-88878",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-552c0c880cc67b48",
+      "type": "homework",
+      "title": "天文学导论：作业与习题（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 作业解题指导、天文学导论 MOOC 题目。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-38097",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-38097",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-791aa08a1f34989d",
+      "type": "homework",
+      "title": "天文学导论：作业与习题（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 总作业、天文学导论 第八章作业答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-98194",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-98194",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-19f0fe928a0d3dcf",
+      "type": "homework",
+      "title": "天文学导论：作业与习题（3 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 全章作业（中文版）、天文学导论 全章作业参考答案、天文学导论 作业二。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-100224",
+        "note": "在对应课程原帖正常登录后核对 3 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-100224",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-022166-415160ac66365c19",
       "type": "study",
       "title": "天文学导论 课程讲义（薛永泉课程主页）",
@@ -42,9 +158,126 @@
         }
       ],
       "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-32598715a3a49904",
+      "type": "study",
+      "title": "天文学导论 课件精选",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-88878",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-88878",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-381f307cf07c57c9",
+      "type": "study",
+      "title": "天文学导论：学习资料（14 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 课件：绪论（一）、天文学导论 课件：绪论（二）、天文学导论 课件：观测科学、天文学导论 课件：太阳、天文学导论 课件：行星、天文学导论 课件：系外行星、天文学导论 课件：宇宙观测、天文学导论 课件：恒星、天文学导论 课件：恒星演化、天文学导论 课件：星系与大尺度结构、天文学导论 课件：宇宙学、天文学导论 第 1、5、8 章习题课、天文学导论 第 2、6、7 章习题课、天文学导论 计算知识点总结。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-100224",
+        "note": "在对应课程原帖正常登录后核对 14 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-100224",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-7d0ad545e5a47cc0",
+      "type": "study",
+      "title": "天文学导论：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 考点大纲、天文学导论 习题课课件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-38097",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-38097",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022166-2581ac8b7f95ed64",
+      "type": "study",
+      "title": "天文学导论：学习资料（6 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：天文学导论 解题技巧、天文学导论 第一、二章讲义、天文学导论 常用公式、天文学导论 总提纲、天文学导论 全套课件、天文学导论 物理常数表。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1992/#review-98194",
+        "note": "在对应课程原帖正常登录后核对 6 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1992/#review-98194",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "staff-ustc-xuey-iac": "薛永泉 天文学导论课程主页"
   }
 }

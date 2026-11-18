@@ -9,6 +9,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-019175-e52240318a58b853",
+      "type": "exams",
+      "title": "分析化学真题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/909/#review-87364",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/909/#review-87364",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "chembio-019175-hw-2025",
       "type": "homework",
       "title": "分析化学I 2025春 作业：章节 MATLAB/Python 代码与滴定曲线图",
@@ -102,7 +131,7 @@
     }
   ],
   "sources": {
-    "chembio-gold3fluoride-019175": "gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）",
-    "icourse-club": "USTC 评课社区"
+    "icourse-club": "USTC 评课社区",
+    "chembio-gold3fluoride-019175": "gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）"
   }
 }

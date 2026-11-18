@@ -206,6 +206,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-CS4014-edff7c4b4815f258",
+      "type": "study",
+      "title": "计算机体系结构：学习资料（5 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：体系结构复习 ISA、体系结构复习 流水线基础、体系结构复习 Cache 与存储器、体系结构复习 指令级并行、体系结构复习 数据级并行。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6099/#review-66592",
+        "note": "在对应课程原帖正常登录后核对 5 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6099/#review-66592",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-CS4014-cbf781e5033030c3",
       "type": "projects",
       "title": "体系结构 2019 夏季实验代码与要求（课程实验发布仓库）",
@@ -246,6 +275,7 @@
     "gh-jackiez1412-ca2023": "JackieZ1412/USTC-ComputerArchitecture-2023Spring",
     "gh-oyyko-ustc-ca": "Oyyko/USTC-Computer-Architecture",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
+    "icourse-club": "USTC 评课社区",
     "gh-summer-summer-ca-lab": "Summer-Summer/ComputerArchitectureLab"
   }
 }

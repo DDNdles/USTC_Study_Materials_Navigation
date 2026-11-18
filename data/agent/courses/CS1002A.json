@@ -42,6 +42,64 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-CS1002A-66c5b83154fa8e01",
+      "type": "exams",
+      "title": "计算系统概论A：试题与解析（4 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：20XX-20XX ICS 期中、2021-2022 ICS 期中、2022-2023 ICS 期中、2023-2024 ICS 期中。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20776/#review-88115",
+        "note": "在对应课程原帖正常登录后核对 4 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20776/#review-88115",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-CS1002A-ea5c80ba8a040442",
+      "type": "exams",
+      "title": "期末考试",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20777/#review-42132",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20777/#review-42132",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-CS1002A-c1ddc27ca7c548dc",
       "type": "homework",
       "title": "《Introduction to Computing Systems》第 3 版教材习题解答（第三方）",
@@ -163,6 +221,122 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-CS1002A-cb7632877618b220",
+      "type": "homework",
+      "title": "计算系统概论A：作业与习题（6 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：hw1、ICS hw2、HW3 v2、hw4、hw5、HW6。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20777/#review-57251",
+        "note": "在对应课程原帖正常登录后核对 6 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20777/#review-57251",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-CS1002A-a7d1957b628df530",
+      "type": "homework",
+      "title": "LCS 2021 作业与实验包",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20776/#review-42538",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20776/#review-42538",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-CS1002A-7a6da3a5b6a59239",
+      "type": "study",
+      "title": "2021 midterm重点",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20777/#review-42132",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20777/#review-42132",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-CS1002A-921d3551e00725f4",
+      "type": "study",
+      "title": "计算系统概论A：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：ICS 进制转换表、ICS 复习笔记。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20776/#review-88115",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20776/#review-88115",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-CS1002A-7043ef58b7fdb5fc",
       "type": "projects",
       "title": "计算系统概论 实验（labs，USTC-Courses-Data）",
@@ -215,6 +389,35 @@
           "access": "public",
           "license_note": "公开网页；页面未声明再分发许可",
           "attribution": "Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-CS1002A-03d076ab049d0efd",
+      "type": "projects",
+      "title": "计算系统概论A：实验与项目（6 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：Lab01、lab2、Lab03、lab4、lab5、Lab06。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20777/#review-57251",
+        "note": "在对应课程原帖正常登录后核对 6 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20777/#review-57251",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
           "page_kind": "page"
         }
       ],
@@ -281,6 +484,7 @@
   ],
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
+    "icourse-club": "USTC 评课社区",
     "gh-erkamuzuncayir-ics-solutions": "erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）",
     "gh-hehaha68-ics-2020": "hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）",
     "git-ustc-flurry-ics": "git.ustc.edu.cn W L / ics（ICS 课后题答案）",

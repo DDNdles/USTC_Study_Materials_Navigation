@@ -93,6 +93,35 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-011145-1464dc8a0a335114",
+      "type": "exams",
+      "title": "计算机组成原理：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：计算机组成原理 往年试题合集、计算机组成原理 2025 春试卷。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13327/#review-105394",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13327/#review-105394",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-homework-feixu-011145",
       "type": "homework",
       "title": "计算机组成原理课本习题答案",
@@ -362,6 +391,35 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-011145-b37a657b3b41848a",
+      "type": "projects",
+      "title": "计算机组成原理：实验与项目（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：计算机组成原理 LC-3 实验完整工程、计算机组成原理 LC-3 实验第一阶段设计文档。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6251/#review-1596",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6251/#review-1596",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-projects-gh-ustc-cod-sp24-011145",
       "type": "projects",
       "title": "计算机组成原理（卢建良班）2024 春实验（USTC-COD-SP24）",
@@ -433,6 +491,7 @@
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "gh-ustc-resource": "USTC-Resource/USTC-Course",
+    "icourse-club": "USTC 评课社区",
     "gh-ustc-cs-resources": "USTC-CS-Course-Resource/USTC-CS-Resources",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",

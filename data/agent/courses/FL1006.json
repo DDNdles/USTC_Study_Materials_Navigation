@@ -9,6 +9,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-FL1006-b0853c5c3e72c20f",
+      "type": "study",
+      "title": "英语读写II：学习资料（4 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：quiz 1 words、quiz 2 words、quiz 3 words、final words。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/20079/#review-104883",
+        "note": "在对应课程原帖正常登录后核对 4 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/20079/#review-104883",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "hum-FL1006-lectures-mooc",
       "type": "study",
       "title": "英语读写II（USTC 慕课，陈静）",
@@ -41,6 +70,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "ustc-mooc": "中国科学技术大学慕课平台"
   }
 }

@@ -110,6 +110,39 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011146-cd7cefa415c5fd55",
+      "type": "exams",
+      "title": "算法基础：试题与解析（9 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：算法基础 2022 春期中试卷、算法基础 2022 春期末试卷、算法基础 2023 春期中试卷、算法基础 2023 春期中答案、算法基础 2023 春期末试卷、算法基础 2023 春期末答案、算法基础 2024 春期中试卷+答案、算法基础 2024 春期末试卷、算法基础 2024 春期末答案。",
+      "coverage": {
+        "years": [
+          2022,
+          2023,
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21469/#review-94360",
+        "note": "在对应课程原帖正常登录后核对 9 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21469/#review-94360",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-exam-feixu-011146-2023",
       "type": "exams",
       "title": "算法基础 2023 春期末（陈雪班）",
@@ -692,6 +725,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011146-5a4728c340d11d65",
+      "type": "exams",
+      "title": "算法基础：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：2018年秋季学期算法基础期中试题、2018年秋季学期算法基础期末试题。",
+      "coverage": {
+        "years": [
+          2018
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5261/#review-12066",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5261/#review-12066",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-exam-guch-011146-fundamentalalgorithms-2017-autumn-pdf",
       "type": "exams",
       "title": "算法基础 2017 秋试卷",
@@ -913,6 +977,122 @@
       "verified_at": "2026-11-19"
     },
     {
+      "id": "intake-login-011146-581c7a5ddf110c68",
+      "type": "exams",
+      "title": "算法基础：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：算法基础 MidTerm_Test、算法基础 Final_Test。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21469/#review-102413",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21469/#review-102413",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011146-33c17fc7bcdf4b8d",
+      "type": "exams",
+      "title": "算法基础：试题与解析（4 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：算法基础 Mid-Statement、算法基础 Mid-Answer、算法基础 Final-Statement、算法基础 Final-Answer。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22469/#review-63516",
+        "note": "在对应课程原帖正常登录后核对 4 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22469/#review-63516",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011146-dd55e50963ece774",
+      "type": "exams",
+      "title": "算法基础：试题与解析（4 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：2017-2018 算法基础 期末试卷及答案、2019-2020 算法基础 期末试卷及答案、算法基础-2009试卷、算法基础-2009试卷答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5260/#review-43916",
+        "note": "在对应课程原帖正常登录后核对 4 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5260/#review-43916",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-011146-d6703931b56d17b0",
+      "type": "exams",
+      "title": "算法基础期末样卷",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "final",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/18315/#review-62320",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/18315/#review-62320",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-011146-6e82cb6ad2a8d6b4",
       "type": "study",
       "title": "算法基础 笔记与课件（USTC-Course）",
@@ -1072,6 +1252,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-011146-4b94e3161232ae1a",
+      "type": "study",
+      "title": "算法基础 alg复习提纲",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5261/#review-88717",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5261/#review-88717",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "computing-open-book-feixu-011146",
       "type": "study",
       "title": "算法基础期中/期末大抄（陈雪班）",
@@ -1176,8 +1385,8 @@
   "sources": {
     "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "icourse-club": "USTC 评课社区",
+    "gh-ustc-resource": "USTC-Resource/USTC-Course",
     "ustc-teacher-pages": "USTC 教师个人主页（staff/faculty）",
     "eng-github-ustcwpz-cs": "ustcwpz/USTC-CS-Courses-Resource（历史CS资料）",
     "gh-wloner0809": "Wloner0809/ustc-course-resource",

@@ -9,6 +9,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-FL1506-ef2763f164ceabb5",
+      "type": "study",
+      "title": "德国语言与文化(初级)：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：德国语言与文化(初级) 德语词性分类、德国语言与文化(初级) 课文与词库。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/2545/#review-98206",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/2545/#review-98206",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "hum-FL1506-lectures-mooc",
       "type": "study",
       "title": "德国语言与文化(初级)（USTC 慕课，徐筱春）",
@@ -41,6 +70,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "ustc-mooc": "中国科学技术大学慕课平台"
   }
 }

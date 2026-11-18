@@ -42,6 +42,93 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-010159-042ccd78c7c87f6f",
+      "type": "homework",
+      "title": "现代控制系统（第 12 版）课后答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5917/#review-94942",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5917/#review-94942",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-010159-fffecfc678b511f8",
+      "type": "homework",
+      "title": "自动控制原理：作业与习题（11 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：现代控制系统（第 12 版）课后答案（另一帖）、现代控制系统（第 12 版）第 1 章答案、现代控制系统（第 12 版）第 2 章答案、现代控制系统（第 12 版）第 5 章答案、现代控制系统（第 12 版）第 6 章答案、现代控制系统（第 12 版）第 7 章答案、现代控制系统（第 12 版）第 8 章答案、现代控制系统（第 12 版）第 9 章答案、现代控制系统（第 12 版）第 10 章答案、现代控制系统（第 12 版）第 3 章答案、现代控制系统（第 12 版）第 4 章答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5917/#review-92272",
+        "note": "在对应课程原帖正常登录后核对 11 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5917/#review-92272",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-010159-51f5a012110d4ae3",
+      "type": "study",
+      "title": "自动控制原理：学习资料（11 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：自动控制原理第八章讲义（2025-05-11）、自动控制原理第二章讲义（2025-03-21）、自动控制原理第九章讲义（2025-05-20）、自动控制原理第六章讲义（2025-04-20）、自动控制原理第七章讲义（2025-04-26）、自动控制原理第十章讲义（2025-05-25）、自动控制原理第四章课件（2025-03-26）、自动控制原理第五章课件（2025-04-06）、自动控制原理第一章课件（2025-03-04）、自动控制原理第一次习题课讲义、自动控制原理 MATLAB 课件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5917/#review-94942",
+        "note": "在对应课程原帖正常登录后核对 11 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5917/#review-94942",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-notes-010159-b7e74412",
       "type": "study",
       "title": "自动控制原理复习资料（简答/计算题准备）",
@@ -71,9 +158,39 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-010159-4c8c870e131af7f3",
+      "type": "study",
+      "title": "自动控制原理习题课（2025-06-13）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/5917/#review-92272",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/5917/#review-92272",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）"
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "icourse-club": "USTC 评课社区"
   }
 }

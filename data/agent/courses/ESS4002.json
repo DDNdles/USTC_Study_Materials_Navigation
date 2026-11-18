@@ -8,7 +8,39 @@
     "electronics",
     "space"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-ESS4002-e46ae1209b88c909",
+      "type": "study",
+      "title": "航天电子电路设计：学习资料（13 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：航天电子电路设计 讲义 01、航天电子电路设计 讲义 02、航天电子电路设计 讲义 03-04、航天电子电路设计 讲义 05、航天电子电路设计 讲义 06、航天电子电路设计 讲义 07、航天电子电路设计 讲义 08、航天电子电路设计 讲义 09、航天电子电路设计 讲义 10、航天电子电路设计 讲义 11、航天电子电路设计 讲义 12、航天电子电路设计 讲义 13、航天电子电路设计 讲义 14。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23569/#review-91407",
+        "note": "在对应课程原帖正常登录后核对 13 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23569/#review-91407",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

@@ -187,6 +187,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-EE2007-ef1cbd00fb611b91",
+      "type": "study",
+      "title": "运筹学A：学习资料（7 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：运筹学 线性规划讲义、线性规划习题课、运筹学 笔记、动态规划 背包模型补充、动态规划—决策—对策、非线性规划讲义、非线性规划习题课。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25857/#review-104677",
+        "note": "在对应课程原帖正常登录后核对 7 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25857/#review-104677",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-notes-ee2007-4ef9bb41",
       "type": "study",
       "title": "运筹学A复习资料",
@@ -220,6 +249,7 @@
   ],
   "sources": {
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）",
-    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）"
+    "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
+    "icourse-club": "USTC 评课社区"
   }
 }

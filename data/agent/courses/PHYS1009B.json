@@ -6,7 +6,97 @@
   "tags": [
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-PHYS1009B-2602370c2efb9e99",
+      "type": "study",
+      "title": "大学物理-综合实验B 互助文档（v1.0）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21901/#review-55186",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21901/#review-55186",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1009B-f893803a999fdca2",
+      "type": "study",
+      "title": "大学物理-综合实验B：学习资料（4 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：大学物理-综合实验B 简介、大学物理-综合实验B 绪论1简版、大学物理-综合实验B 绪论2简版、大雾实验不完全指北。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/24913/#review-96682",
+        "note": "在对应课程原帖正常登录后核对 4 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/24913/#review-96682",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1009B-c963853d160a773d",
+      "type": "projects",
+      "title": "二级大物实验报告",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23770/#review-80116",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23770/#review-80116",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

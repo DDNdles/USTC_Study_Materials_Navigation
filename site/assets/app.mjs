@@ -673,12 +673,12 @@ function renderTypeSection(group, labels) {
 
 function renderEmptyState() {
   const section = el('section', 'empty-state');
-  section.append(el('h2', null, '暂未收录该课程的公开资料'));
+  section.append(el('h2', null, '暂未收录该课程的资料'));
   section.append(
     el(
       'p',
       null,
-      '该课程在已收录学期范围（2025 秋至 2026 秋）的本科开课目录中，但尚未找到可核验归属的公开资料。可以返回课程目录检索其他课程；收录范围与检索记录见页脚链接。',
+      '该课程在已收录学期范围（2025 秋至 2026 秋）的本科开课目录中，但尚未找到可核验归属的资料。可以返回课程目录检索其他课程；收录范围与检索记录见页脚链接。',
     ),
   );
   return section;
@@ -760,7 +760,7 @@ function renderResource(resource, labels) {
   }
 
   if (plan.details.length === 0) {
-    detail.append(el('p', 'empty-type', '该资料尚未登记可访问的公开链接。'));
+    detail.append(el('p', 'empty-type', '该资料尚未登记可用的原始入口。'));
   } else {
     const list = el('ul', 'locations');
     list.setAttribute('role', 'list');
@@ -784,7 +784,7 @@ function renderResource(resource, labels) {
 function renderCompactLinks(plan, labels, exerciseTitle) {
   const line = el('div', 'location-links compact-links mode-compact');
   if (!plan.compact) {
-    line.append(el('span', 'source-note', '尚未登记可公开访问的链接。'));
+    line.append(el('span', 'source-note', '尚未登记可用的原始入口。'));
     return line;
   }
   const compact = plan.compact;
@@ -862,7 +862,7 @@ function renderLocation({ location, entries }, labels, index) {
       links.append(pair);
     }
   } else {
-    links.append(el('span', 'source-note', '该位置没有可用的公开链接，或链接与上方重复。'));
+    links.append(el('span', 'source-note', '该位置没有可用入口，或链接与上方重复。'));
   }
   wrapper.append(links);
 

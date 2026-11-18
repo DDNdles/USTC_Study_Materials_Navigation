@@ -102,6 +102,64 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1010-5ed3134d33c21e46",
+      "type": "exams",
+      "title": "量子物理：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：量子物理期中试卷（回忆版）、量子物理期末试卷（回忆版）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22658/#review-66056",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22658/#review-66056",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1010-07a34950a62a9219",
+      "type": "exams",
+      "title": "量子物理：试题与解析（3 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：量子物理期中样卷、量子物理期中样卷参考答案和评分标准、期末样卷参考答案和评分标准。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21423/#review-83640",
+        "note": "在对应课程原帖正常登录后核对 3 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21423/#review-83640",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-phys1010-exams-0aca2f",
       "type": "exams",
       "title": "期末样卷",
@@ -129,6 +187,35 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-PHYS1010-597b0197364d0441",
+      "type": "exams",
+      "title": "信智学部量子物理试卷（回忆版）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22658/#review-63813",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22658/#review-63813",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-phys1010-exams-3b5bc2",
@@ -303,6 +390,35 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-PHYS1010-ddf5a43c7972ce39",
+      "type": "homework",
+      "title": "量子物理：作业与习题（3 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：第1章习题答案、第2章习题答案、第3章习题答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-85044",
+        "note": "在对应课程原帖正常登录后核对 3 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-85044",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-phys1010-homework-eee5cc",
@@ -692,6 +808,64 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1010-af684e78e603e251",
+      "type": "study",
+      "title": "量子物理：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：期中复习笔记、期末复习笔记。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22658/#review-66056",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22658/#review-66056",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1010-eb59a1ad7dc98e66",
+      "type": "study",
+      "title": "量子物理：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：《量子物理》讲义、《量子物理》讲义 部分答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21420/#review-94405",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21420/#review-94405",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-phys1010-lectures-2d5ba0",
       "type": "study",
       "title": "量子物理（第二次习题课）",
@@ -1042,6 +1216,7 @@
   ],
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区",
     "gh-kobe972": "Kobe972/ustc_course_plus"
   }
 }

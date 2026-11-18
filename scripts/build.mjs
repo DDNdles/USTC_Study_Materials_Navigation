@@ -567,7 +567,7 @@ function renderDocs(report) {
 
   lines.push('## 来源清单与声明', '');
   lines.push(
-    '第三方资料的具体授权以各来源与文件页面的声明为准，不因根目录的 MIT/CC 声明自动覆盖试卷、课件或教材。本站只导航公开页面，不转载文件。',
+    '第三方资料的具体授权以各来源与文件页面的声明为准，不因根目录的 MIT/CC 声明自动覆盖试卷、课件或教材。本站只链接原始来源，不转载文件；部分评课社区附件需登录后下载。',
     '',
   );
   for (const source of report.sources) {
@@ -712,7 +712,7 @@ function renderSourcesHtml(report) {
     <main id="main" class="wrap" tabindex="-1">
       <div class="page-top-bar">
         <p class="breadcrumb"><a href="./">← 返回课程目录</a></p>
-        <p class="site-note">只收录并导航公开课程资料，不转载第三方文件。</p>
+        <p class="site-note">只提供原始来源链接；部分评课社区附件需登录后下载。</p>
       </div>
       <header class="page-hero">
         <div class="hero-main">
@@ -739,7 +739,7 @@ function renderSourcesHtml(report) {
             <span class="stat-sub">已收录 ${report.withResources} · 暂未收录 ${report.withoutResources}</span>
           </div>
           <div class="stat-card">
-            <span class="stat-label">已确认公开资料</span>
+            <span class="stat-label">已确认资料</span>
             <strong class="stat-number">${report.resources} <small>条</small></strong>
             <span class="stat-sub">覆盖 ${report.coverage.length} 门课程</span>
           </div>

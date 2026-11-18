@@ -271,6 +271,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-MATH3001-7c9a924526817b50",
+      "type": "exams",
+      "title": "近世代数：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：2024近世代数 叶郁班 期中考、2024近世代数 期末考。",
+      "coverage": {
+        "years": [
+          2024
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6520/#review-83625",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6520/#review-83625",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-uexam-math3001-2023-final-ea1753",
       "type": "exams",
       "title": "近世代数 2023 期末",
@@ -755,9 +786,68 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-MATH3001-bcfb53ba3929ba47",
+      "type": "homework",
+      "title": "近世代数：作业与习题（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：近世代数作业、近世代数作业参考。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/13213/#review-47004",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/13213/#review-47004",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-MATH3001-a7d89f80cf2f99fe",
+      "type": "study",
+      "title": "近世代数-讲义",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/6518/#review-104518",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/6518/#review-104518",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "ustc-math-exam": "USTC 数学课程往年试卷"
+    "ustc-math-exam": "USTC 数学课程往年试卷",
+    "icourse-club": "USTC 评课社区"
   }
 }

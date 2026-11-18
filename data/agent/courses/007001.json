@@ -7,7 +7,42 @@
     "mechanics",
     "physics"
   ],
-  "has_resources": false,
-  "resources": [],
-  "sources": {}
+  "has_resources": true,
+  "resources": [
+    {
+      "id": "intake-login-007001-20a59eaadc35f416",
+      "type": "exams",
+      "title": "流体力学：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：流体力学 2022 期中测试答案、流体力学 2023 秋期中考试解答。",
+      "coverage": {
+        "years": [
+          2022,
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21997/#review-79594",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21997/#review-79594",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    }
+  ],
+  "sources": {
+    "icourse-club": "USTC 评课社区"
+  }
 }

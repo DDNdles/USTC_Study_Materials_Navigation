@@ -1,0 +1,15 @@
+{
+  "code": "210008",
+  "name": "计算机安全",
+  "kind": "professional",
+  "tags": [
+    "security",
+    "cs"
+  ],
+  "resource_ids": [
+    "intake-login-210008-168d0ae2f9d55d89",
+    "intake-login-210008-6912f61be43949b4",
+    "intake-login-210008-a48c262d2c3de933",
+    "intake-login-210008-b4b1f7aec4914fe5"
+  ]
+}

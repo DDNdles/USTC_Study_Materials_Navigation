@@ -895,6 +895,64 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-022057-528036b8be538871",
+      "type": "homework",
+      "title": "电动力学：作业与习题（18 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：电动力学第 1 次作业答案、电动力学第 2 次作业答案、电动力学第 3 次作业答案、电动力学第 4 次作业答案、电动力学第 5 次作业答案、电动力学第 6 次作业答案、电动力学第 7 次作业答案、电动力学第 8 次作业答案、电动力学第 9 次作业答案、电动力学第 10 次作业答案、电动力学第 11 次作业答案、电动力学第 12 次作业答案、电动力学第 13 次作业答案、电动力学第 14 次作业答案、电动力学第 15 次作业答案、电动力学补充习题、电动力学导论（第 3 版）习题解答、电动力学作业答案 LaTeX 源文件。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23458/#review-72448",
+        "note": "在对应课程原帖正常登录后核对 18 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23458/#review-72448",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-022057-cd7e7ff529741108",
+      "type": "study",
+      "title": "电动力学：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：电动力学答疑课材料、电动力学预备讲义：矢量分析。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/23458/#review-72448",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/23458/#review-72448",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-022057-open_book-de93b1",
       "type": "study",
       "title": "电动力学大抄（陶鑫班）",
@@ -922,6 +980,35 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-022057-bcbd58ad71e5babd",
+      "type": "study",
+      "title": "电动力学课程幻灯片",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21251/#review-58500",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21251/#review-58500",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "mp-feixu-022057-exams-622350",
@@ -980,10 +1067,40 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-022057-a0d58994a324f791",
+      "type": "study",
+      "title": "电动力学思考题解析",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/4778/#review-90400",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/4778/#review-90400",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区"
   }
 }

@@ -10,6 +10,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-006200-a218132725e18b30",
+      "type": "exams",
+      "title": "26春统计信号_回忆版_2",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26601/#review-102740",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26601/#review-102740",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-exam-006200-543856a2",
       "type": "exams",
       "title": "统计信号分析与处理 2021—2022学年（公历年份未确认） 期末（回忆版）",
@@ -166,6 +195,7 @@
     }
   ],
   "sources": {
+    "icourse-club": "USTC 评课社区",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）"
   }
 }

@@ -4,13 +4,13 @@
 
 ## 概览
 
-- 课程：1184 门（已收录资料 256 门，暂未收录 928 门）。
-- 资料：1557 条（按资料类型与试题年份的覆盖见下一节）。
+- 课程：1184 门（已收录资料 374 门，暂未收录 810 门）。
+- 资料：2293 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：165 个登记来源，其中 155 个被正式资料引用。
-- 检索记录：5470 条，覆盖 1184 门课程。
+- 检索记录：6206 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2184 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 429。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2796 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1041。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -28,6 +28,9 @@
   - 2025 年（期中、形式不明、解答情况不明）：数值分析 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025NumAnalmid.pdf
   - 2023 年（期末、原题、含解答）：数值分析 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023NumAnalfinal.pdf
   - 年份待确认（期末、形式不明、解答情况不明）：数值分析 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024NumAnalfinal.pdf
+  - 年份待确认（期末、形式不明、解答情况不明）：数值分析 期末试卷 —— USTC 评课社区 https://icourse.club/course/2710/#review-64183
+- **学习资料**
+  - 数值分析 2026 课程课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25072/#review-102390
 
 ### 001065 计算机图形学
 
@@ -35,6 +38,8 @@
 
 - **试题与解析**
   - 2025 年（期末、原题、解答情况不明）：计算机图形学 2025 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025CGfinal.pdf
+- **学习资料**
+  - 计算机图形学 考试知识点整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6120/#review-102909
 - **大作业与考核作品**
   - 计算机图形学 2020 课程作业与文档 —— SqrtiZhang/CG_2020spring；核验于 2026-11-18 https://github.com/SqrtiZhang/CG_2020spring
   - 计算机图形学 2025 课程作业（含框架与作业说明） —— USTC-CG/USTC_CG_25；核验于 2026-11-18 https://github.com/USTC-CG/USTC_CG_25
@@ -105,11 +110,17 @@
 专业课 · 数学
 
 - **试题与解析**
+  - 2021 年（期末、形式不明、解答情况不明）：2021复变A期末 —— USTC 评课社区 https://icourse.club/course/13479/#review-42274
   - 2019—2020 学年（期末、原题、解答情况不明）：2019-2020学年第一学期复变函数(A)期末试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2019-2020%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2021—2022 学年（期末、形式不明、含解答）：2021-2022学年第一学期复变函数(A)期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2021-2022%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28A%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
   - 2003—2004 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2017—2018 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年、2022—2023 学年、2023—2024 学年、2024—2025 学年（期末、原题、解答情况不明）：复变函数历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **学习资料**
+  - 复变函数A 复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1651/#review-74450
+  - 复变函数A 纲要 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1656/#review-77366
+  - 复变函数A PPT —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-95816
+  - 复变函数A：学习资料（16 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-38073
   - 复变函数A笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0A%E7%AC%94%E8%AE%B0.pdf（文件页）
+  - 复变函数A知识点整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13479/#review-43194
 
 ### 001506 数理方程A
 
@@ -118,10 +129,14 @@
 - **试题与解析**
   - 2025 年（类型不明、原题、解答情况不明）：数理方程(A)2025春真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 2025 年（类型不明、原题、含解答）：数理方程(A)2025春真题参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%28A%292025%E6%98%A5%E7%9C%9F%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 2020 年（期末、形式不明、解答情况不明）：2020数理方程A期末试卷及答案 —— USTC 评课社区 https://icourse.club/course/2963/#review-49683
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题1 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%981.pdf（文件页）
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题2 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%982.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数理方程真题(改版) —— USTC 评课社区 https://icourse.club/course/2980/#review-85815
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数理方程A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/2966/#review-46873
   - 2014—2015 学年、2019—2020 学年（期末、原题、含解答）：数理方程A历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BA%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **学习资料**
+  - 第一节课课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2972/#review-22209
   - 数理方程A知识点整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BA%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.pdf（文件页）
 
 ### 001548 复变函数B
@@ -130,6 +145,7 @@
 
 - **试题与解析**
   - 2023 年（期中、原题、含解答）：2023秋复变函数B期中考试参考答案 —— USTC 评课社区 https://icourse.club/uploads/files/210f67b8d4e1368d1f3efd1f020910a30f7ea061.pdf（文件页）
+  - 2022 年（期中、形式不明、解答情况不明）：复变函数B 2022 秋期中测验参考答案 —— USTC 评课社区 https://icourse.club/course/18949/#review-73366
   - 2009—2010 学年（期末、原题、含解答）：2009-2010学年第一学期复变函数(B)期末试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2009-2010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2015—2016 学年（期末、原题、含解答）：2015-2016学年第一学期复变函数(B)期末试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2015-2016%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2016—2017 学年（期末、原题、无解答）：2016-2017学年第一学期复变函数(B)期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2016-2017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
@@ -142,9 +158,13 @@
   - 2022—2023 学年（期末、回忆版、无解答）：2022-2023学年第一学期复变函数(B)期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%28B%29%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.jpg（文件页）
   - 2003—2004 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2017—2018 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年、2022—2023 学年、2023—2024 学年、2024—2025 学年（期末、原题、解答情况不明）：复变函数历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 年份待确认（期末、原题、无解答）：复变函数历年真题集（2026版，A/B 期末题） —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/complexexams.pdf（资料目录）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：复变函数B 上古密卷 —— USTC 评课社区 https://icourse.club/course/1670/#review-18832
+  - 年份待确认（类型不明、形式不明、解答情况不明）：复变函数B 往年真题 —— USTC 评课社区 https://icourse.club/course/21917/#review-87356
 - **作业、习题与小测**
   - 复变函数B 习题解答（第 1—7 章） —— USTC 复变函数B 习题解答；核验于 2026-11-19 https://fubianb.brealid.cn/2022/chapter1/（资料目录）
 - **学习资料**
+  - 复变函数讲义（未校对版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21917/#review-96890
+  - 复变函数B 课程课件与讲义（第 1—7 章） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14559/#review-16210
   - 复变期末复习讲义-舒文炫 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%AE%B2%E4%B9%89-%E8%88%92%E6%96%87%E7%82%AB.pdf（文件页）
 
 ### 001549 数理方程B
@@ -152,23 +172,43 @@
 专业课 · 数学
 
 - **试题与解析**
+  - 2020 年（期末、形式不明、解答情况不明）：2020数理方程B期末参考答案与解析 —— USTC 评课社区 https://icourse.club/course/14347/#review-14424
   - 2017 年（期末、原题、含解答）：数理方程B 2017 期末试题（含参考答案） —— USTC-Resource/USTC-Course https://raw.githubusercontent.com/USTC-Resource/USTC-Course/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题1 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%981.pdf（文件页）
   - 2001—2002 学年、2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2013—2014 学年、2014—2015 学年、2015—2016 学年、2016—2017 学年、2018—2019 学年、2019—2020 学年（期末、原题、含解答）：数理方程历年真题2 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%982.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数理方程真题汇总 —— USTC 评课社区 https://icourse.club/course/17985/#review-83962
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数理方程B 答案（2013-2020） —— USTC 评课社区 https://icourse.club/course/2992/#review-93741
   - 年份待确认（类型不明、原题、解答情况不明）：数理方程B 试卷 —— Kobe972/ustc_course_plus https://raw.githubusercontent.com/Kobe972/ustc_course_plus/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%20%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E6%B1%87%E6%80%BB.pdf
   - 年份待确认（类型不明、原题、解答情况不明）：数理方程B历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
+  - 课后习题解析 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24052/#review-83947
+  - 数理方程作业题目解析 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14347/#review-14424
   - 数理方程B 课后习题解析 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90.pdf（文件页）
   - 数理方程B 课后习题解析(20260122213731) —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf（文件页）
   - 数理方程B 数理方程B（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/review1.pdf（文件页）
   - 数理方程B 数理方程B（homework） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf（文件页）
+  - 数理方程B 作业答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2992/#review-93741
+  - 作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-85062
+  - hw —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21190/#review-64490
 - **学习资料**
+  - 复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21191/#review-53574
+  - 期末复习笔记整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-64783
   - 2020 年：数理方程 · 高源助教自编复习资料 —— 高源 · 学习资料分享；核验于 2026-11-19 http://home.ustc.edu.cn/~wazs98/share.html
+  - 数理方程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-85062
+  - 数理方程复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2995/#review-93588
+  - 数理方程复习指导 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2988/#review-70382
+  - 数理方程复习指导 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/17985/#review-83962
+  - 数理方程B 复习指导 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24052/#review-83947
   - 数理方程B 数理方程（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B
   - 数理方程B 数理方程B（lectures） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
   - 数理方程B 数理方程B（lectures） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80.pdf（文件页）
   - 数理方程B 数理方程B（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
   - 数理方程B 数理方程B（notes） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB
+  - 数理方程B：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-22669
+  - 数理方程B：学习资料（8 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2995/#review-92842
+  - 数学物理方程A讲稿 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2992/#review-93741
+  - 数学物理方法 复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20211/#review-31786
+  - 习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-90296
 
 ### 001702 实分析(H)
 
@@ -215,6 +255,8 @@
   - 2020 年（期中、原题、解答情况不明）：微分几何 2020 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020DGHmid.pdf
   - 2019 年（期末、原题、解答情况不明）：微分几何 2018 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2018DGHfinal.pdf
   - 2017 年（期末、原题、解答情况不明）：微分几何 2017 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2017DGHfinal.pdf
+- **作业、习题与小测**
+  - 微分几何(H)：作业与习题（15 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21906/#review-98492
 - **学习资料**
   - 微分几何(H) 课程主页（刘世平，2025 秋讲义与习题索引） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~spliu/Teaching.html
 
@@ -268,9 +310,18 @@
   - 固体物理 课程主页（翁老师） —— 固体物理课程主页（翁老师）；核验于 2026-11-19 http://staff.ustc.edu.cn/~weng/index_SSP.html
   - 固体物理期末笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 固体物理期末整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E6%95%B4%E7%90%86.pdf（文件页）
+  - 固体物理期末总复习指南 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1392/#review-103144
   - 固体物理期中整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%9C%9F%E4%B8%AD%E6%95%B4%E7%90%86.pdf（文件页）
   - 固体物理知识点速记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E7%9F%A5%E8%AF%86%E7%82%B9%E9%80%9F%E8%AE%B0.pdf（文件页）
   - 固体物理总复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E6%80%BB%E5%A4%8D%E4%B9%A0.pdf（文件页）
+
+### 002122 半导体器件原理
+
+专业课 · 材料 · 物理
+
+- **学习资料**
+  - 半导体器件原理：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1168/#review-103157
+  - 半导体器件原理：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1168/#review-66045
 
 ### 003024 统计力学
 
@@ -287,6 +338,15 @@
   - 物理化学实验报告 LaTeX 模板仓库 —— Alberfish/Tex4PhyChe（USTC GitLab）；核验于 2026-11-19 https://git.ustc.edu.cn/Alberfish/tex4phyche（资料目录）
 - **大作业与考核作品**
   - 物理化学实验 实验报告 12 份（Op.155 No.1–12） —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C
+
+### 003056 物理化学B
+
+专业课 · 化学
+
+- **作业、习题与小测**
+  - 物理化学B：作业与习题（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4255/#review-51137
+- **学习资料**
+  - 物理化学B：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24060/#review-84859
 
 ### 003142 物理化学基础实验(上)
 
@@ -314,13 +374,19 @@
 
 专业课 · 化学 · 物理
 
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：量子化学 往年考卷 —— USTC 评课社区 https://icourse.club/course/6675/#review-46209
 - **学习资料**
   - 量子化学 章节讲义（绪论、分子对称性与点群、群的表示理论、多原子分子电子结构、计算量子化学初步） —— 李震宇（Prof. Zhenyu Li）教学页 q2chemistry.net/teaching；核验于 2026-11-18 https://q2chemistry.net/teaching.html
+  - 量子化学必会知识点 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6675/#review-46209
+  - 量子化学review —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6673/#review-103478
 
 ### 003154 物理化学I
 
 专业课 · 化学
 
+- **试题与解析**
+  - 2025 年（期末、形式不明、解答情况不明）：2025年秋季物理化学期末试题 —— USTC 评课社区 https://icourse.club/course/4267/#review-100396
 - **作业、习题与小测**
   - 2024 年（小测、原题、含解答）：物理化学I 2024秋 四次小测题目（第一至第三次附解析） —— dasWalpurgis/USTC（化学系、化学物理系课程资料） https://github.com/dasWalpurgis/USTC/blob/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E5%B0%8F%E6%B5%8B/%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B5%8B%E9%AA%8C%E9%A2%98%E7%9B%AE.pdf（文件页）
   - 物理化学I 作业答案合集 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6I/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%E5%90%88%E9%9B%86
@@ -342,7 +408,13 @@
 
 专业课 · 物理
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：量子物理 期末模拟题 —— USTC 评课社区 https://icourse.club/course/25996/#review-97584
+- **作业、习题与小测**
+  - 量子物理：作业与习题（8 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25996/#review-97584
 - **学习资料**
+  - 量子物理 课程笔记（英文） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24590/#review-100505
+  - 量子物理 习题课（2021-03-03） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13498/#review-28595
   - 量子物理习题课录像（2021-03-03） —— B 站课程习题课录像；核验于 2026-11-19 https://www.bilibili.com/video/BV1fX4y1G7tP
 
 ### 004040 计算物理B
@@ -353,10 +425,23 @@
   - 2026 年（期末、回忆版、解答情况不明）：计算物理 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaCompPhyBFinalGY.pdf
   - 2025 年（期末、原题、解答情况不明）：计算物理 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpCompPhyBFinal.pdf
   - 2025 年（期末、回忆版、无解答）：计算物理B 2025 秋期末（手写试卷照片） —— USTC 评课社区 https://icourse.club/uploads/files/429bbf15bca961d2c4d6c0b75f2ccdaaefd525ca.jpg（文件页）
+  - 2023 年（期末、形式不明、解答情况不明）：计算物理B 2023 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/21874/#review-91486
   - 2022 年（期末、形式不明、解答情况不明）：计算物理 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaCompPhyBFinalWYS.jpg
+  - 2022 年（期末、形式不明、解答情况不明）：计算物理B 2022 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/21886/#review-58116
   - 2022 年（期末、形式不明、解答情况不明）：计算物理B 2022期末（wys班） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86B%202022%E6%9C%9F%E6%9C%AB%EF%BC%88wys%E7%8F%AD%EF%BC%89.jpg（文件页）
   - 2022 年（期末、原题、解答情况不明）：计算物理B 2022期末（zzy班） —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86B%202022%E6%9C%9F%E6%9C%AB%EF%BC%88zzy%E7%8F%AD%EF%BC%89.pdf（文件页）
+  - 2021 年（期末、形式不明、解答情况不明）：计算物理B 2021 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/18285/#review-39506
   - 2021 年（期末、原题、解答情况不明）：计算物理B 2021期末（zry班） —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86B%202021%E6%9C%9F%E6%9C%AB%EF%BC%88zry%E7%8F%AD%EF%BC%89.pdf（文件页）
+- **学习资料**
+  - 计算物理背记资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24592/#review-87828
+  - 计算物理纲要 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24592/#review-91820
+  - 计算物理考试公式清单 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24593/#review-98837
+  - 计算物理考试说明（2023） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21886/#review-73616
+  - 计算物理考试说明（2024 秋） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21886/#review-90367
+  - 计算物理课程讲义（PDF） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21886/#review-58116
+  - 计算物理总复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21886/#review-56590
+  - 计算物理总结笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21874/#review-75153
+  - 计算物理B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18285/#review-38282
 
 ### 004139 等离子体物理导论
 
@@ -364,6 +449,9 @@
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：等离子体物理导论 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaIPPFinal.pdf
+- **学习资料**
+  - 等离子体导论课程资料压缩包（2022 秋） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5245/#review-61791
+  - 等离子体物理导论讲义（2025 秋） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5245/#review-98874
 
 ### 005101 计算力学基础
 
@@ -373,11 +461,21 @@
   - 计算力学基础 课程代码（ADI、Roe、梁与热传导等） —— NightGlow0826/ComputationalMechanics（计算力学基础代码）；核验于 2026-11-19 https://github.com/NightGlow0826/ComputationalMechanics
   - 计算力学基础 有限元上机代码与往年题（FEMcode2016） —— zhengxiuyuanustc-cmd/FEMcode2016（有限元上机代码与往年题）；核验于 2026-11-19 https://github.com/zhengxiuyuanustc-cmd/FEMcode2016
 
+### 005151 实验力学
+
+专业课 · 力学 · 机械与仪器
+
+- **学习资料**
+  - 实验力学：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26254/#review-104071
+
 ### 006125 信息论A
 
 专业课 · 通信 · 数学
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：26年信息论A期末(回忆版) —— USTC 评课社区 https://icourse.club/course/592/#review-102750
 - **学习资料**
+  - 信息论A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/592/#review-102750
   - 信息论A复习宝典与常用分布 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Information%20Theory%20A/%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%A4%8D%E4%B9%A0%E5%AE%9D%E5%85%B8.pdf
 
 ### 006174 电磁场理论
@@ -398,6 +496,7 @@
 专业课 · 通信 · 统计
 
 - **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：26春统计信号_回忆版_2 —— USTC 评课社区 https://icourse.club/course/26601/#review-102740
   - 2021—2022 学年（期末、回忆版、解答情况不明）：统计信号分析与处理 2021—2022学年（公历年份未确认） 期末（回忆版） —— ly382965/USTC_learning_materials（6系课程资料） https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/22%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf
 - **作业、习题与小测**
   - 统计信号分析与处理作业答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Statistical%20Signal%20Analysis%20and%20Processing/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf
@@ -420,6 +519,97 @@
 - **大作业与考核作品**
   - 信号建模与算法实践实验与大实验（手写数字识别） —— Mr-Philo/USTC_EEIS_Courses（6系本科资料）；核验于 2026-11-18 https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E4%BF%A1%E5%8F%B7%E5%BB%BA%E6%A8%A1%E4%B8%8E%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5
 
+### 006502 信号与系统B
+
+专业课 · 电子 · 通信
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：信号与系统B 往年题合集 —— USTC 评课社区 https://icourse.club/course/21212/#review-105239
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：信号与系统B：试题与解析（9 个附件） —— USTC 评课社区 https://icourse.club/course/21214/#review-95214
+- **作业、习题与小测**
+  - 信号与系统B 期末练习题目 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21214/#review-95214
+- **学习资料**
+  - 2024信号与系统笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21213/#review-85059
+  - 信号与系统B：学习资料（31 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21214/#review-95214
+  - 信号与系统B笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22458/#review-103884
+
+### 007001 流体力学
+
+专业课 · 力学 · 物理
+
+- **试题与解析**
+  - 2022 年、2023 年（期中、形式不明、解答情况不明）：流体力学：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21997/#review-79594
+
+### 007167 普通天文学
+
+专业课 · 天文
+
+- **学习资料**
+  - 普通天文学 复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3321/#review-32468
+
+### 007185 等离子体物理
+
+专业课 · 地球科学 · 物理
+
+- **作业、习题与小测**
+  - 等离子体物理 plasma复习要点+作业题尝试解 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5229/#review-58487
+  - 等离子体物理复习思考题和要点2023 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5229/#review-59492
+- **学习资料**
+  - 等离子体物理 Plsama_PPT_All —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5229/#review-58487
+
+### 007249 地球化学
+
+专业课 · 地球科学
+
+- **学习资料**
+  - 地球化学 公式汇总 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13571/#review-56951
+
+### 007277 大气探测学
+
+专业课 · 地球科学 · 机械与仪器
+
+- **学习资料**
+  - 大气探测复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22681/#review-88035
+  - 大气探测学讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22681/#review-106709
+
+### 007281 遥感气象学
+
+专业课 · 地球科学
+
+- **学习资料**
+  - 大气物理进阶复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6569/#review-50117
+
+### 007282 空间探测仪器原理与方法
+
+专业课 · 地球科学 · 机械与仪器 · 空间科学
+
+- **作业、习题与小测**
+  - 空间探测仪器原理与方法作业20221028 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5177/#review-62702
+- **学习资料**
+  - 讲义-空间探测仪器原理与方法 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5177/#review-62702
+  - 空间探测仪器原理与方法讲义(Overleaf Version) —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5177/#review-87840
+
+### 007286 天气学
+
+专业课 · 地球科学
+
+- **学习资料**
+  - 天气学 复习重点 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2000/#review-46782
+
+### 007290 矿床学与矿相学
+
+专业课 · 地球科学
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：矿床学考试（回忆版本） —— USTC 评课社区 https://icourse.club/course/24066/#review-95221
+
+### 007314 科学计算与程序设计
+
+专业课 · 计算机
+
+- **学习资料**
+  - 科学计算与程序设计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12423/#review-32208
+
 ### 008062 植物生理学
 
 专业课 · 生命科学
@@ -432,7 +622,15 @@
 专业课 · 生命科学
 
 - **学习资料**
+  - 遗传学复习简报 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23435/#review-96388
   - 2022 年：遗传学复习提纲、复习指南与期末速通 —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/23435/
+
+### 008108 生理学
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 生理学 浓缩笔记（21 页） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23039/#review-93599
 
 ### 008137 药物化学
 
@@ -440,6 +638,86 @@
 
 - **学习资料**
   - 药物化学（Medicinal Chemistry）分章课件：导论、药物筛选、先导优化、SAR、DMPK、前药、心血管药物等 —— Ke Ruan 课程页（bionmr.ustc.edu.cn/courses）；核验于 2026-11-18 http://bionmr.ustc.edu.cn/courses/
+
+### 008144 普通生物学
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 普通生物学：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20216/#review-85697
+
+### 008185 分子生物学I
+
+专业课 · 生命科学
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：分子生物学回忆卷 —— USTC 评课社区 https://icourse.club/course/21223/#review-93086
+- **学习资料**
+  - 分子生物学提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13247/#review-103642
+
+### 008190 免疫生物学I
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 免疫生物学I 复习课PPT —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24604/#review-89828
+
+### 008191 生理学实验
+
+专业课 · 生命科学
+
+- **大作业与考核作品**
+  - 生理学实验 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12720/#review-89638
+
+### 008193 免疫生物学II
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 免疫生物学II 考试复习整理（考前版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20260/#review-102570
+
+### 008198 基础生态学
+
+专业课 · 生命科学
+
+- **作业、习题与小测**
+  - 基础生态学 课堂小测 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24071/#review-102185
+- **学习资料**
+  - 基础生态学 课程整理笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24071/#review-92853
+
+### 008704 细胞生物学I
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 细胞生物学I提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18307/#review-88853
+
+### 009103 自动控制原理
+
+专业课 · 自动化
+
+- **学习资料**
+  - 自控笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22467/#review-87592
+
+### 009171 机械制图及CAD(B)
+
+专业课 · 机械与仪器
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：非机类制图 2011—2012 学年考试卷 —— USTC 评课社区 https://icourse.club/course/3624/#review-327
+- **作业、习题与小测**
+  - 机械制图 第三次作业（CAD 文件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3624/#review-327
+- **学习资料**
+  - 机械制图及CAD(B)：学习资料（9 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3624/#review-327
+
+### 009175 传感器及测试技术
+
+专业课 · 机械与仪器
+
+- **作业、习题与小测**
+  - 传感器作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/426/#review-82652
+- **学习资料**
+  - 传感器及测试技术：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/426/#review-82652
 
 ### 009501 机械制图及CAD基础
 
@@ -452,6 +730,10 @@
 
 专业课 · 人工智能
 
+- **作业、习题与小测**
+  - 模式识别导论：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23043/#review-104683
+- **学习资料**
+  - 模式识别导论：学习资料（7 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23043/#review-104683
 - **大作业与考核作品**
   - 2020 年：模式识别 2020 秋 3 个实验源码 —— yxli2123/pattern-recognition-experiments；核验于 2026-11-19 https://github.com/yxli2123/pattern-recognition-experiments（资料目录）
 
@@ -461,8 +743,13 @@
 
 - **试题与解析**
   - 2021—2022 学年（期末、形式不明、解答情况不明）：自动控制原理 2021—2022学年（公历年份未确认） 期末 —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E5%BE%80%E5%B9%B4%E9%A2%98/2021-2022%E6%9C%9F%E6%9C%AB%20%281%29%281%29.pdf
+- **作业、习题与小测**
+  - 现代控制系统（第 12 版）课后答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5917/#review-94942
+  - 自动控制原理：作业与习题（11 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5917/#review-92272
 - **学习资料**
+  - 自动控制原理：学习资料（11 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5917/#review-94942
   - 自动控制原理复习资料（简答/计算题准备） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E5%A4%8D%E4%B9%A0
+  - 自动控制原理习题课（2025-06-13） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5917/#review-92272
 
 ### 010177 现代控制理论
 
@@ -482,6 +769,7 @@
 - **学习资料**
   - 现代控制理论复习 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E6%8E%A7%E5%A4%8D%E4%B9%A0
   - 现代控制理论复习资料 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）、EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E7%8E%B0%E6%8E%A7%E5%A4%8D%E4%B9%A0/%E7%8E%B0%E6%8E%A7%E8%A6%81%E7%82%B9.pdf（文件页）
+  - 现代控制理论课程课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4455/#review-104682
   - 现代控制理论课程PPT —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）、EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E6%9C%AC%E8%AF%BE%E4%BB%B6/AAL.pdf（文件页）
   - 现代控制理论课件 —— EpiHio/USTC_Automation（自动化专业课程资料）、duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E7%8E%B0%E4%BB%A3%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA/%E8%AF%BE%E7%A8%8Bppt/AAL.pdf（文件页）
 
@@ -489,13 +777,27 @@
 
 专业课 · 机械与仪器 · 自动化
 
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：传感器试卷 —— USTC 评课社区 https://icourse.club/course/424/#review-94943
+  - 年份待确认（期末、形式不明、解答情况不明）：传感器原理与技术 2021—2022 学年期末试卷 —— USTC 评课社区 https://icourse.club/course/425/#review-40077
+  - 年份待确认（类型不明、形式不明、解答情况不明）：传感器原理与技术 考题回忆版 —— USTC 评课社区 https://icourse.club/course/425/#review-93157
+- **作业、习题与小测**
+  - 传感器原理与技术 思考题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26263/#review-102913
+  - 传感器原理与技术 自测题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-93157
+  - 传感器原理与技术：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/424/#review-94943
+  - 传感器自测题 v1.2 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-40077
 - **学习资料**
+  - 传感器复习准备资料 v1.2 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-40077
+  - 传感器原理与技术：学习资料（19 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/424/#review-94943
+  - 传感器原理与技术：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-93157
   - 传感器原理与技术章节总结（第一章至第七章 PDF） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E4%BC%A0%E6%84%9F%E5%99%A8%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8A%80%E6%9C%AF/%E6%80%BB%E7%BB%93
 
 ### 010197 执行器技术
 
 专业课 · 自动化 · 机械与仪器
 
+- **作业、习题与小测**
+  - 执行器技术：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12799/#review-94938
 - **学习资料**
   - 执行器技术 复习提纲（3 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/6eed366709c9e1580cc7c1c1f8a5750c3c8892b9.png
   - 执行器技术课件与作业（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF/%E6%89%A7%E8%A1%8C%E5%99%A8%E6%8A%80%E6%9C%AF
@@ -505,10 +807,18 @@
 专业课 · 自动化
 
 - **作业、习题与小测**
+  - 运动控制：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6490/#review-96920
   - 运动控制课后习题答案（电力拖动自动控制系统） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E7%94%B5%E5%8A%9B%E6%8B%96%E5%8A%A8%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F-%E7%AC%AC%E4%BA%94%E7%89%88-%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf
 - **学习资料**
   - 运动控制课程PDF（绪论至多轴协调） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/Motion_Control/PDF%E7%89%88%E6%9C%AC/1.%E7%BB%AA%E8%AE%BA.pdf（文件页）
   - 运动控制知识点总结 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6/%E8%BF%90%E5%8A%A8%E6%8E%A7%E5%88%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.pdf
+
+### 010209 系统工程概论
+
+专业课 · 自动化 · 管理
+
+- **学习资料**
+  - 系统工程概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5405/#review-102392
 
 ### 010214 计算机控制
 
@@ -545,6 +855,15 @@
   - 计算机控制大抄 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%8A%84
   - 计算机控制课堂PPT与例程 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6/06%20CC-6-00%2B8%2B49
 
+### 010217 系统与控制实验(1)
+
+专业课 · 自动化
+
+- **学习资料**
+  - 系统与控制实验(1)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23440/#review-104678
+- **大作业与考核作品**
+  - 系统与控制实验(1)：实验与项目（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23440/#review-104678
+
 ### 011040 图论
 
 专业课 · 数学 · 计算机
@@ -553,6 +872,7 @@
   - 2025 年（期末、回忆版、解答情况不明）：图论 2025 期末回忆版（许胤龙、吕敏班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2025F.pdf
   - 2024 年（期末、回忆版、解答情况不明）：图论 2024 期末回忆版（徐宏力班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2024F.md
   - 2022 年（期末、回忆版、解答情况不明）：图论 2022 期末回忆版 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2022F.pdf
+  - 2022 年（期末、形式不明、解答情况不明）：图论 2022 期末试卷 —— USTC 评课社区 https://icourse.club/course/1457/#review-56701
   - 2021 年（期末、回忆版、解答情况不明）：图论 2021 期末回忆版 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2021F.docx
   - 2021 年（期末、形式不明、解答情况不明）：图论 2021 秋期末试题（回忆文本） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2021%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.txt（文件页）
   - 2018 年、2019 年、2020 年（期末、回忆版、含解答）：图论 2018-2020 试题答案 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GraphTheory2018-2020Ans.pdf
@@ -563,7 +883,15 @@
   - 2019 年（期末、形式不明、含解答）：图论 2019 秋期末试题与答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2019%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
   - 2018 年（期末、回忆版、解答情况不明）：图论 2018 期末回忆版（许胤龙、吕敏班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/GT2018F.pdf
   - 2018 年（期末、形式不明、含解答）：图论 2018 秋期末试题与答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E5%9B%BE%E8%AE%BA/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E5%9B%BE%E8%AE%BA%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
+  - 年份待确认（期末、形式不明、解答情况不明）：图论 历年试题合订 —— USTC 评课社区 https://icourse.club/course/20656/#review-100874
+  - 年份待确认（期末、形式不明、解答情况不明）：图论 期末回忆版 —— USTC 评课社区 https://icourse.club/course/1458/#review-11055
+- **作业、习题与小测**
+  - 图论 习题 1 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1458/#review-87263
+  - 图论导引 习题解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20656/#review-55209
 - **学习资料**
+  - 图论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1458/#review-87263
+  - 图论复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20656/#review-80457
+  - 图论算法手算整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1458/#review-88778
   - USTC 图论课程答案与笔记（sakura0423） —— USTC 图论课程答案与笔记；核验于 2026-11-19 https://github.com/sakura0423/USTC_Graph_Theory（资料目录）
 - **大作业与考核作品**
   - 图论 答案与习题课 PPT（hwp-lab 整理） —— hwp-lab/USTC-Courses-Data（计算机学院课程资料）；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Graph%20Theory（资料目录）
@@ -589,13 +917,19 @@
   - 2019 年（类型不明、原题、无解答）：代数结构 2019 试卷（徐宏力班） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AlgebraicStructure2019.pdf
   - 2018 年（期末、原题、无解答）：代数结构 2018 春期末试题（Lyncien 整理） —— USTC-Resource/USTC-Course、USTC-CS-Course-Resource/USTC-CS-Resources、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2020—2021 学年（期末、原题、解答情况不明）：代数结构 2020—2021 学年第二学期期末试题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/2021%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：代数结构 考试回忆 —— USTC 评课社区 https://icourse.club/course/12381/#review-11059
+  - 年份待确认（期末、形式不明、解答情况不明）：代数结构 历年期末试卷合集 —— USTC 评课社区 https://icourse.club/course/26264/#review-102329
 - **作业、习题与小测**
   - 年份待确认（小测、原题、解答情况不明）：2020代数结构小测 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/2020%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E5%B0%8F%E6%B5%8B.pdf（文件页）
   - 代数结构（孙淑玲）课后习题答案与讲义 —— Enguikong/Algebraic_structure；核验于 2026-11-19 https://github.com/Enguikong/Algebraic_structure（资料目录）
+  - 代数结构作业答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26264/#review-102329
 - **学习资料**
+  - 代数结构 笔记与题解 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14363/#review-55207
   - 代数结构 讲义与复习资料（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84
   - 代数结构 课程网站（2020代数结构课程主页） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://home.ustc.edu.cn/~lt1378520056/
   - 2017 年、2018 年、2019 年、2021 年、2022 年：代数结构 资料（ustc-course-resources） —— Melmaphother/ustc-course-resources；核验于 2026-11-18 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84
+  - 代数结构期末复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/360/#review-94991
+  - 代数结构习题课讲义（第 1—3 次） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26264/#review-102329
 
 ### 011119 人工智能基础
 
@@ -618,10 +952,12 @@
 
 - **试题与解析**
   - 2024 年（期中、形式不明、解答情况不明）：计算机网络 2024 期中（华蓓班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CN2024M.pdf
+  - 2022 年（期末、形式不明、解答情况不明）：计算机网络 2022 秋期末试卷（另一教学班） —— USTC 评课社区 https://icourse.club/course/25895/#review-100249
   - 2020 年（期末、原题、含解答）：计算机网络 2020 期末（华蓓班，含扫描答案） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CN2020F.pdf
   - 2019 年（期中、原题、含解答）：计算机网络 2019 期中（华蓓班，含自做答案） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CN2019M.pdf
   - 2018 年（期末、原题、无解答）：计算机网络 2018 秋期末试题 —— USTC-Resource/USTC-Course、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/exams/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2018 年（期中期末混合、形式不明、解答情况不明）：计算机网络期末试卷合集（2016—2017、2018 秋、2020—2021） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%BD%91%E6%9C%9F%E6%9C%AB%E5%90%88%E9%9B%86.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：计算机网络 小测题 —— USTC 评课社区 https://icourse.club/course/6260/#review-10812
 - **作业、习题与小测**
   - 《计算机网络：自顶向下方法（第 7 版）》课后习题参考答案（食铁兽） —— 食铁兽（JackeyLea）技术博客；核验于 2026-11-19 https://feater.top/book/compute-network-top-down-mothed-answer/
   - 《计算机网络：自顶向下方法》课后题、实验与编程作业答案 —— jzplp/Computer-Network-A-Top-Down-Approach-Answer；核验于 2026-11-19 https://github.com/jzplp/Computer-Network-A-Top-Down-Approach-Answer（资料目录）
@@ -634,8 +970,12 @@
   - 2017 年：计算机网络 课件与作业（USTC-CS-Courses-Resource，华蓓/v7/信明三套课件） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
   - 计算机网络 知识点与小抄（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes
   - 计算机网络 资料（ustc-course-resources） —— Melmaphother/ustc-course-resources；核验于 2026-11-18 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C
+  - 计算机网络：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12994/#review-87972
+  - 计算机网络：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6259/#review-56635
   - 计算机网络期末大抄（标准版、详细版） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%9C%9F%E6%9C%AB%E5%A4%A7%E6%8A%84.docx（文件页）
   - 计算机网络期中大抄（标准版、5 号字版、详细版） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%9C%9F%E4%B8%AD%E5%A4%A7%E6%8A%84.docx（文件页）
+  - 计网期末大抄 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12994/#review-40293
+  - 期末大抄（PPT 特编版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12994/#review-91450
 - **大作业与考核作品**
   - 2020 年：计算机网络 Lab1 DNS Relay 代码与实验报告 —— WalterSumbon/DNS-Relay；核验于 2026-11-19 https://github.com/WalterSumbon/DNS-Relay（资料目录）
   - 计算机网络实验报告（EXP1—EXP6，sxl） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%AE%9E%E9%AA%8C/sxl%20EXP1.pdf（文件页）
@@ -647,6 +987,7 @@
 - **试题与解析**
   - 2017 年（期末、原题、解答情况不明）：计算机组成原理 2017 期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2017%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
   - 2017 年（期末、回忆版、解答情况不明）：计算机组成原理 2017 试卷（2016-2017 学年第二学期，回忆版） —— guch8017/USTC_CS_EXAM（跨课试卷索引）、USTC-Resource/USTC-Course https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/COD2017.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：计算机组成原理：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/13327/#review-105394
 - **作业、习题与小测**
   - 计算机组成原理课本习题答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%AF%BE%E6%9C%AC%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
@@ -658,6 +999,7 @@
   - 计算机组成原理复习概要与重点 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E5%A4%8D%E4%B9%A0%E6%A6%82%E8%A6%81.pdf（文件页）
 - **大作业与考核作品**
   - 计算机组成原理 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/codes
+  - 计算机组成原理：实验与项目（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6251/#review-1596
   - 2023 年：计算机组成原理（卢建良班）2024 春实验（USTC-COD-SP24） —— lrel7/USTC-COD-SP24；核验于 2026-11-18 https://github.com/lrel7/USTC-COD-SP24/tree/master/
   - 2023 年、2025 年：计算机组成原理（卢建良班）实验与理论资料 —— TinyRubbish/Course-Materials；核验于 2026-11-18 https://github.com/TinyRubbish/Course-Materials/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%8D%A2%E5%BB%BA%E8%89%AF
 
@@ -669,6 +1011,7 @@
   - 2026 年（期末、形式不明、解答情况不明）：算法基础 2026 春期末（陈雪班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Algo2026Final.pdf
   - 2026 年（期中、形式不明、解答情况不明）：算法基础 2026 春期中（陈雪班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Algo2026Mid.pdf
   - 2022 年、2023 年、2024 年（期中期末混合、原题、含解答）：算法基础 2022-2024 试卷与答案合集 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/22-24%E8%AF%95%E5%8D%B7%2B%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 2022 年、2023 年、2024 年（期中期末混合、形式不明、解答情况不明）：算法基础：试题与解析（9 个附件） —— USTC 评课社区 https://icourse.club/course/21469/#review-94360
   - 2023 年（期末、原题、解答情况不明）：算法基础 2023 春期末（陈雪班） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/2023%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%EF%BC%88%E9%99%88%E9%9B%AA%E7%8F%AD%EF%BC%89.pdf（文件页）
   - 2023 年（期中、原题、含解答）：算法基础 2023 春期中（陈雪班，含民间答案） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/2023%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%EF%BC%88%E9%99%88%E9%9B%AA%E7%8F%AD%EF%BC%89.pdf（文件页）
   - 2023 年（期末、形式不明、解答情况不明）：算法基础 2023 期末（陈雪、邵帅班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Algo2023Final.pdf
@@ -685,17 +1028,23 @@
   - 2019 年（类型不明、形式不明、解答情况不明）：算法基础 2019 秋试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/FundamentalAlgorithms%202019%20Autumn.pdf
   - 2018 年（期末、原题、解答情况不明）：算法基础 2018 秋期末试题 —— USTC-Resource/USTC-Course、guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/exams/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98-%E5%BE%90%E4%BA%91.pdf
   - 2018 年（期中、原题、解答情况不明）：算法基础 2018 秋期中试题 —— USTC-Resource/USTC-Course、guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/exams/2018%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98-%E5%BE%90%E4%BA%91.pdf
+  - 2018 年（期中期末混合、形式不明、解答情况不明）：算法基础：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/5261/#review-12066
   - 2017 年（类型不明、形式不明、解答情况不明）：算法基础 2017 秋试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/FundamentalAlgorithms%202017%20Autumn.pdf
   - 2009 年（期末、原题、含解答）：算法基础 2009 秋期末试题及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/2009%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.doc（文件页）
   - 2009 年（类型不明、形式不明、解答情况不明）：算法基础 2009 试卷（顾乃杰班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/FundamentalAlgorithms2009A.doc
   - 2009 年（类型不明、形式不明、解答情况不明）：算法基础 2009 试题（第二份） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/FundamentalAlgorithms2009Q.doc
   - 年份待确认（期末、形式不明、含解答）：算法基础 2025 秋期末试卷部分答案（4 图） —— USTC 评课社区 https://icourse.club/uploads/files/1d8162c7faf4dd95053bae00185fe3e890666068.jpg
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：算法基础：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21469/#review-102413
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：算法基础：试题与解析（4 个附件） —— USTC 评课社区 https://icourse.club/course/22469/#review-63516
+  - 年份待确认（类型不明、形式不明、解答情况不明）：算法基础：试题与解析（4 个附件） —— USTC 评课社区 https://icourse.club/course/5260/#review-43916
+  - 年份待确认（期末、形式不明、解答情况不明）：算法基础期末样卷 —— USTC 评课社区 https://icourse.club/course/18315/#review-62320
 - **学习资料**
   - 算法基础 笔记与课件（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes（资料目录）
   - 算法基础 课程网站（��ӭ���ʡ��㷨�������γ̽�ѧ��ҳ） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~xuyun/algcs.htm
   - 2009 年：算法基础 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80
   - 算法基础 资料（ustc-course-resource） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80
   - 2018 年：算法基础 资料（ustc-course-resources） —— Melmaphother/ustc-course-resources；核验于 2026-11-18 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80
+  - 算法基础 alg复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5261/#review-88717
   - 算法基础期中/期末大抄（陈雪班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E6%9C%9F%E6%9C%AB%E5%A4%A7%E6%8A%84%EF%BC%88%E9%99%88%E9%9B%AA%E7%8F%AD%EF%BC%89.docx（文件页）
   - CLRS（算法导论）习题解答（walkccc） —— walkccc/CLRS 习题解答；核验于 2026-11-19 https://walkccc.github.io/CLRS/
 - **大作业与考核作品**
@@ -706,12 +1055,18 @@
 专业课 · 计算机
 
 - **试题与解析**
+  - 2024 年（期末、形式不明、解答情况不明）：数据库系统及应用 2024final —— USTC 评课社区 https://icourse.club/course/22470/#review-84641
   - 2020 年（类型不明、形式不明、解答情况不明）：数据库系统及应用 2020 春试卷（金培权班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202020%20Spring.pdf
   - 2020 年（期末、原题、解答情况不明）：数据库系统与应用 2020 期末考试 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82020%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2019 年（类型不明、形式不明、解答情况不明）：数据库系统及应用 2019 春试卷（金培权班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/Database%202019%20Spring.pdf
   - 2019 年（期末、原题、解答情况不明）：数据库系统与应用 2019 期末考试 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%BA%94%E7%94%A82019%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
+- **作业、习题与小测**
+  - 数据库练习题_1 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14365/#review-34602
 - **学习资料**
   - 2009 年、2010 年：数据库系统及应用 课程网站（<font size=5>���ݿ�ϵͳ��Ӧ��</font>） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~ywyu/DBSystem.html
+  - 数据库系统及应用课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2904/#review-24143
+  - 数据库系统及应用提纲1 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25106/#review-93856
+  - 数据库知识点复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2904/#review-94039
 - **大作业与考核作品**
   - 数据库系统及应用 BankDB 课程项目（前后端） —— 数据库课程 BankDB 项目（前端与后端两个仓库）；核验于 2026-11-19 https://github.com/guch8017/BankDBFrontend（资料目录）
 
@@ -719,9 +1074,12 @@
 
 专业课 · 电子
 
+- **学习资料**
+  - 数字逻辑实验课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3910/#review-4608
 - **大作业与考核作品**
   - 模拟与数字电路实验课程资料与实验工程 —— hwp-lab/USTC-Courses-Data；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Analog%20and%20Digital%20Circuits%20Lab（资料目录）
   - 数字电路实验 2021 秋大作业（LED 大作业生成器） —— txtxj/USTC-Digital-Logic-Lab10；核验于 2026-11-19 https://github.com/txtxj/USTC-Digital-Logic-Lab10（资料目录）
+  - 数字逻辑实验指导 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3910/#review-4608
 
 ### 011163 编译原理和技术
 
@@ -729,6 +1087,7 @@
 
 - **试题与解析**
   - 2026 年（期中、回忆版、解答情况不明）：编译原理和技术 2026 秋期中回忆版（李诚、徐伟班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/CompilerPrinciples2026AutumnMid.md
+  - 2025 年（期末、形式不明、解答情况不明）：编译原理 2025 期末回忆卷 —— USTC 评课社区 https://icourse.club/course/25468/#review-99564
   - 2018 年（期中、原题、含解答）：编译原理和技术 2018 期中试题与参考答案 —— USTC-Resource/USTC-Course、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/exams/2018%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E4%B8%8E%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：编译原理历年真题合集 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
@@ -749,6 +1108,7 @@
   - 2026 年（类型不明、回忆版、解答情况不明）：操作系统原理与设计 2026 春回忆版（李永坤班，第二份） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2026SpringLYK.pdf
   - 2021 年（类型不明、回忆版、解答情况不明）：操作系统原理与设计 2021 考试要点（陈香兰班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2021.pdf
   - 2021 年（期末、原题、解答情况不明）：操作系统原理与设计 2021 期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2021%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
+  - 2020 年（类型不明、形式不明、解答情况不明）：操作系统 2020 试卷回忆版 —— USTC 评课社区 https://icourse.club/course/13766/#review-23009
   - 2018 年（期末、原题、无解答）：操作系统原理与设计 2018 春期末试题 —— USTC-Resource/USTC-Course、guch8017/USTC_CS_EXAM（跨课试卷索引）、feixu 学习资料分享站（AList） https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2018 年（期末、原题、含解答）：操作系统原理与设计 2018 春期末试题参考答案 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OS2018Solution.pdf
   - 2018 年（期末、回忆版、无解答）：操作系统原理与设计 2018 期末试卷回忆（secon） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.md（文件页）
@@ -757,9 +1117,12 @@
   - 操作系统原理与设计 作业（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/homeworks/4/hw4_sol.pdf（文件页）
 - **学习资料**
   - 操作系统读书笔记（死锁 / 文件 IO / 多处理器） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary（资料目录）
+  - 操作系统复习笔记（os-review） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13766/#review-65911
   - 2015 年、2016 年、2017 年：操作系统原理与设计 课件与实验（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1
   - USTC OS Docs：操作系统实验与作业文档站 —— USTC OS Docs（操作系统实验文档）；核验于 2026-11-19 http://home.ustc.edu.cn/~pzw2002/
 - **大作业与考核作品**
+  - 操作系统 WSL 实验环境说明 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2680/#review-50358
+  - 操作系统实验一（2022） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13766/#review-6965
   - 操作系统原理与设计 实验报告 2（NachOS Fork/Exec/Join/Shell，USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab2_PB16020923.pdf
   - 操作系统原理与设计 实验报告 3（NachOS 文件系统，USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/labs/Lyncien/Lab3_PB16020923.pdf
   - 操作系统原理与设计 实验代码（USTC-OS-Lab-2022，lab1–lab4） —— Fluuuegel/USTC-OS-Lab-2022（操作系统实验）；核验于 2026-11-19 https://github.com/Fluuuegel/USTC-OS-lab-2022（资料目录）
@@ -769,9 +1132,15 @@
 
 专业课 · 计算机
 
+- **作业、习题与小测**
+  - Web 信息处理与应用 作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18319/#review-61598
 - **学习资料**
+  - HMM 补充讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18319/#review-61247
   - Web 信息处理与应用 复习提纲与总结（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes（资料目录）
+  - Web 信息处理与应用 考试速查 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18319/#review-77782
+  - Web 信息处理与应用 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18319/#review-60219
   - 2017 年：Web 信息处理与应用 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8A/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8
+  - Web 信息处理与应用 期末内容整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18319/#review-75139
   - Web 信息处理与应用 A4 速查资料（ljyA4.docx） —— 中科大计算机学院学习资料（含 WebInfo）；核验于 2026-11-19 https://github.com/ljy0ustc/USTC_Resources/blob/main/WebInfo/ljyA4.docx（文件页）
 - **大作业与考核作品**
   - Web 信息处理与应用 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/labs
@@ -789,6 +1158,7 @@
 - **作业、习题与小测**
   - 大数据算法 作业（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/%E4%BD%9C%E4%B8%9A3%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
+  - 大数据算法 核心集与草图讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18025/#review-104663
   - 大数据算法 课程笔记（聚类、分类等章节 Markdown） —— sigma-aster/Big-data-algorithms（大数据算法笔记）；核验于 2026-11-19 https://github.com/sigma-aster/Big-data-algorithms（资料目录）
   - 2024 年：大数据算法 Lecture 1：基础数学和统计工具 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Lecture1%20%E5%9F%BA%E7%A1%80%E6%95%B0%E5%AD%A6%E5%92%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E5%85%B7.pdf（文件页）
   - 2025 年：大数据算法 Notes Lec5 流算法 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%28minor%29%20Algorithms%20for%20Big%20Data/slides/Notes%20Lec5%20%E6%B5%81%E7%AE%97%E6%B3%95.pdf（文件页）
@@ -818,11 +1188,14 @@
 
 专业课 · 计算机
 
+- **试题与解析**
+  - 2023 年（期中、形式不明、解答情况不明）：计算机系统概论 2023 期中试卷 —— USTC 评课社区 https://icourse.club/course/6242/#review-73444
 - **作业、习题与小测**
   - 计算机系统概论 · Homework01（含参考解答） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-19 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/%E4%BD%9C%E4%B8%9A/hw01_2020.pdf（文件页）
   - 2020 年：计算机系统概论 作业与实验（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
 - **学习资料**
   - 计算机系统概论 课程网站（acsa.ustc.edu.cn/ics） —— 中国科学技术大学计算机系统概论课程网站；核验于 2026-11-19 http://acsa.ustc.edu.cn/ics/
+  - 计算机系统概论 期末复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6242/#review-98579
 - **大作业与考核作品**
   - 计算机系统概论 作业与实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
   - 2015 年：计算机系统概论 作业与实验（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA
@@ -838,13 +1211,29 @@
   - 2021 年（期末、回忆版、无解答）：操作系统(H) 2021 期末试题（回忆） —— Wloner0809/ustc-course-resource https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2021%E6%9C%9F%E6%9C%AB.pdf
   - 2021 年（类型不明、形式不明、解答情况不明）：操作系统(H) 2021 试卷（邢凯班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/OSH2021.pdf
   - 2018 年（期末、回忆版、无解答）：操作系统(H) 2018 期末试题（回忆） —— Wloner0809/ustc-course-resource https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/exam/2018%E6%9C%9F%E6%9C%AB.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：操作系统(H) 往年试卷合集 —— USTC 评课社区 https://icourse.club/course/2681/#review-87446
 - **学习资料**
   - 操作系统(H) 笔记（USTC-CS-Resources） —— USTC-CS-Course-Resource/USTC-CS-Resources；核验于 2026-11-18 https://github.com/USTC-CS-Course-Resource/USTC-CS-Resources/tree/master/CS/OS
   - 操作系统(H) 复习笔记（Wloner0809） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/review_note/OSH_review.md
   - 2021 年：操作系统原理与设计(H) 复习与试题（ustc-course-resources） —— Melmaphother/ustc-course-resources；核验于 2026-11-18 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)
 - **大作业与考核作品**
   - 操作系统(H) 2023 实验（Wloner0809） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FH/osh-2023-labs
+  - 操作系统课程大作业设计报告 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2681/#review-1593
   - 操作系统原理与设计(H) 实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1(H)
+
+### 013149 工程热力学B
+
+专业课 · 热能
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：试卷 —— USTC 评课社区 https://icourse.club/course/22471/#review-80636
+
+### 013X08 张量初步
+
+通识课 · 数学 · 力学 · 物理
+
+- **学习资料**
+  - 张量初步讲义压缩包 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2312/#review-9625
 
 ### 014007 固体材料结构基础
 
@@ -853,6 +1242,16 @@
 - **学习资料**
   - 2023 年：固体材料结构基础 2023 秋季课程讲义（014007.01） —— YIXUAN CHE 个人主页课程页（home.ustc.edu.cn/~zz0312）；核验于 2026-11-18 http://home.ustc.edu.cn/~zz0312/StrucMater.html
   - 固体材料结构基础：固体空间群参考资料（space groups for solid） —— flimmernz/course-note（材料系课程笔记与报告）；核验于 2026-11-18 https://github.com/flimmernz/course-note/blob/main/space%20groups%20for%20solid.pdf
+
+### 014014 固体物理
+
+专业课 · 物理 · 材料
+
+- **作业、习题与小测**
+  - 固体物理：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18031/#review-34604
+- **学习资料**
+  - 固体物理：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18031/#review-106577
+  - 固体物理：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18031/#review-46387
 
 ### 014127 材料物性
 
@@ -888,8 +1287,22 @@
 
 专业课 · 统计
 
+- **试题与解析**
+  - 2024 年（期中、形式不明、解答情况不明）：期中考试试卷分析（2024.4.19） (1) (1) —— USTC 评课社区 https://icourse.club/course/24080/#review-85525
+  - 年份待确认（期末、形式不明、解答情况不明）：25期末参考答案及评分要点 —— USTC 评课社区 https://icourse.club/course/25111/#review-92610
 - **学习资料**
   - 数理统计（USTC 慕课，张伟平） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000001949.html
+
+### 017129 实用随机过程
+
+专业课 · 统计
+
+- **试题与解析**
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：实用随机过程：试题与解析（16 个附件） —— USTC 评课社区 https://icourse.club/course/2093/#review-93966
+- **作业、习题与小测**
+  - 实用随机过程：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2093/#review-93966
+- **学习资料**
+  - 实用随机过程：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2092/#review-85367
 
 ### 017131 随机过程A
 
@@ -899,6 +1312,13 @@
   - 2017 年（期末、原题、解答情况不明）：随机过程A 2016-2017学年第二学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf
   - 2017 年（期中、原题、解答情况不明）：随机过程A 2016-2017学年第二学期期中试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BA2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E6%9C%9F%E4%B8%AD%E8%AF%95%E5%8D%B7.pdf
 
+### 017137 金融学导论
+
+专业课 · 金融
+
+- **学习资料**
+  - 金融学导论 思维导图 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6718/#review-60325
+
 ### 017139 金融经济学基础
 
 专业课 · 金融 · 经济
@@ -906,6 +1326,7 @@
 - **作业、习题与小测**
   - 金融经济学基础课后习题与答案 —— USTC_Finance_Minor（RachelK9790715）；核验于 2026-11-18 https://github.com/RachelK9790715/USTC_Finance_Minor/blob/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98_%E9%A2%98%E7%9B%AE%E7%89%88.pdf（文件页）
 - **学习资料**
+  - 金融经济学基础 学习笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22099/#review-90068
   - 金融经济学基础课件（Bodie 版） —— USTC_Finance_Minor（RachelK9790715）；核验于 2026-11-18 https://github.com/RachelK9790715/USTC_Finance_Minor/tree/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%9F%BA%E7%A1%80PPT
 
 ### 017144 随机过程B
@@ -913,6 +1334,8 @@
 专业课 · 统计
 
 - **试题与解析**
+  - 2026 年（类型不明、形式不明、解答情况不明）：随机过程B 2026 春试卷 —— USTC 评课社区 https://icourse.club/course/6780/#review-103397
+  - 2024 年（期末、形式不明、解答情况不明）：随机过程B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/6780/#review-103522
   - 2022 年（期末、原题、解答情况不明）：随机过程B 2021-2022学年第二学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
   - 2021 年（期末、原题、无解答）：随机过程B 2020-2021学年第二学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2020-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
   - 2021 年（期末、原题、含解答）：随机过程B 2020-2021学年第二学期期末试卷解答（独立文件） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%20B%202020-2021%20%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7%E8%A7%A3%E7%AD%94.pdf
@@ -925,25 +1348,56 @@
   - 2017 年（期末、原题、解答情况不明）：随机过程B 2016-2017学年第二学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
   - 2017 年（期末、原题、解答情况不明）：随机过程B 2016-2017学年第一学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2016-2017%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
   - 2016 年（期末、原题、解答情况不明）：随机过程B 2015-2016学年第二学期补考试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2015-2016%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E8%A1%A5%E8%80%83%E8%AF%95%E5%8D%B7.pdf
+  - 2013 年（期末、形式不明、解答情况不明）：随机过程 2013-01-22 试卷 —— USTC 评课社区 https://icourse.club/course/18997/#review-29106
+  - 年份待确认（期末、形式不明、解答情况不明）：随机过程 期末试卷（RPFinal） —— USTC 评课社区 https://icourse.club/course/18997/#review-29295
+  - 年份待确认（类型不明、形式不明、解答情况不明）：随机过程 往年真题 —— USTC 评课社区 https://icourse.club/course/6780/#review-91494
   - 2021—2022 学年（期末、原题、解答情况不明）：随机过程B 2021-2022学年秋季学期期末试卷 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9B%B8%E5%85%B3%E7%AD%94%E6%A1%88/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB2021-2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E5%8D%B7.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：随机过程B 试卷 —— USTC 评课社区 https://icourse.club/course/6780/#review-47393
+  - 年份待确认（类型不明、形式不明、解答情况不明）：随机过程B：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/18997/#review-94940
 - **作业、习题与小测**
+  - 复习题答案（带批注纠错版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18041/#review-85847
+  - 复习题答案与解析 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6780/#review-46886
+  - 随机过程 作业答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6780/#review-91494
+  - 随机过程 作业答案合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18041/#review-52449
   - 随机过程习题答案（方兆本教材/第三、四章） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/homework/%E6%96%B9%E5%85%86%E6%9C%AC_%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B_%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
+  - 随机过程 大抄 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18996/#review-103774
+  - 随机过程 大抄（另一帖） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18997/#review-66284
+  - 随机过程 大抄（压缩版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18041/#review-85847
+  - 随机过程 大抄（A4 双面） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18996/#review-104703
+  - 随机过程 复习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12406/#review-27113
   - 随机过程 复习资料（GitHub 仓库） —— Oyyko/USTC-Random-Process；核验于 2026-11-19 https://github.com/Oyyko/USTC-Random-Process
+  - 随机过程 A4 复习纸 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6777/#review-11481
   - 随机过程 A4 复习纸（GitHub 文件页） —— ljy0ustc/USTC_Resources；核验于 2026-11-19 https://github.com/ljy0ustc/USTC_Resources/blob/main/StochasticProcess/A4/ljy%E7%9A%84A4%E7%BA%B8.docx
   - 随机过程复习与总结 —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/notes（资料目录）
+  - 随机过程B：学习资料（12 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18997/#review-94940
+  - 随机过程B：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18997/#review-29106
+  - A4 复习纸 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6777/#review-42109
 
 ### 017146 回归分析
 
 专业课 · 统计
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：回归分析 2025 期末最后一题 —— USTC 评课社区 https://icourse.club/course/1350/#review-100405
 - **作业、习题与小测**
   - 回归分析 2025 Lab1–4 讲义与作业 —— 中科大回归分析 2025 lab（IrvingYou）；核验于 2026-11-18 https://github.com/IrvingYou/USTC-Regression-Analysis-lab2025/blob/main/lab1/lab1%20tutorial.pdf（文件页）
+- **学习资料**
+  - 回归分析 课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1350/#review-91237
+
+### 017162 多元统计分析A
+
+专业课 · 统计
+
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：多元统计分析A 2026 期末试卷 —— USTC 评课社区 https://icourse.club/course/22474/#review-103648
 
 ### 017164 时间序列分析A
 
 专业课 · 统计
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：时间序列分析A 2026 期末（回忆版） —— USTC 评课社区 https://icourse.club/course/26273/#review-103383
 - **学习资料**
   - 时间序列分析 讲义（李东风，北京大学） —— 李东风 时间序列讲义；核验于 2026-11-19 http://www.math.pku.edu.cn/teachers/lidf/course/fts/ftsnotes/html/_ftsnotes/index.html
 
@@ -951,8 +1405,25 @@
 
 专业课 · 统计
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：时间序列分析B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/25613/#review-103240
 - **作业、习题与小测**
   - 时间序列分析B 2022春 Lab1–5 源码与实验报告 —— USTC 2022春《时间序列分析B》课程资源（hehaha68）；核验于 2026-11-18 https://github.com/hehaha68/USTC_2022Spring_Time-Series-Analysis-B/blob/master/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1.pdf（文件页）
+  - 时间序列分析B：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25613/#review-103240
+
+### 017166 凸优化
+
+专业课 · 数学
+
+- **试题与解析**
+  - 2025 年（期末、形式不明、解答情况不明）：2025秋凸优化(张靖南,金百锁)期末考试试卷 —— USTC 评课社区 https://icourse.club/course/24082/#review-98834
+
+### 017703 金融衍生品
+
+专业课 · 金融
+
+- **作业、习题与小测**
+  - 金融衍生品：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6736/#review-46654
 
 ### 019011 有机化学(A1)
 
@@ -960,6 +1431,12 @@
 
 - **试题与解析**
   - 2021 年（期中、原题、无解答）：有机化学(A1) 2021—2022 学年第一学期期中考试试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E5%85%B6%E4%BB%96/%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6A1/2021-2022%E6%9C%89%E6%9C%BA%E5%8C%96%E5%AD%A6(AI)%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：有机化学(A1)：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/3482/#review-101489
+- **作业、习题与小测**
+  - 有机化学(A1) 第二次小测（答案） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3482/#review-101489
+  - 有机化学(A1) 小测 1 试卷与答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26009/#review-99678
+- **学习资料**
+  - 有机化学(A1)：学习资料（10 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26009/#review-99678
 
 ### 019012 有机化学(A2)
 
@@ -975,12 +1452,60 @@
 - **学习资料**
   - 有机化学(A2) 分章复习图（羧酸、胺、糖、杂环、周环反应等 9 张） —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/3490/
 
+### 019029 仪器分析实验
+
+专业课 · 化学 · 机械与仪器
+
+- **大作业与考核作品**
+  - 仪器分析实验 实验八 循环伏安和交流阻抗测试 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26275/#review-102034
+
+### 019040 环境化学
+
+专业课 · 化学 · 环境
+
+- **学习资料**
+  - 环境化学 复习笔记（截图版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22477/#review-101912
+
+### 019047 有机化学B
+
+专业课 · 化学
+
+- **试题与解析**
+  - 2022 年（期中、形式不明、解答情况不明）：2022秋有机化学B期中试卷及答案 —— USTC 评课社区 https://icourse.club/course/20670/#review-57564
+  - 2021 年（类型不明、形式不明、解答情况不明）：有机化学B：试题与解析（5 个附件） —— USTC 评课社区 https://icourse.club/course/20670/#review-40468
+- **作业、习题与小测**
+  - 有机化学习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3503/#review-40885
+  - 有机化学B：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20670/#review-57564
+
+### 019060 物理有机化学
+
+专业课 · 化学
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：物理有机化学：试题与解析（4 个附件） —— USTC 评课社区 https://icourse.club/course/4309/#review-99682
+- **作业、习题与小测**
+  - 物理有机教程书后习题摘编 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4309/#review-99682
+- **学习资料**
+  - 关键题目背诵整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4309/#review-99682
+  - 物理有机化学：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4309/#review-40254
+
 ### 019080 普通化学实验
 
 专业课 · 化学
 
 - **学习资料**
   - 普通化学实验电子版实验报告 —— home.ustc.edu.cn/~shiyaowei040126；核验于 2026-11-19 http://home.ustc.edu.cn/~shiyaowei040126/General_Chemistry_Experiment_Report.pdf（文件页）
+
+### 019128 化工原理
+
+专业课 · 化学
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：化工原理 试卷答案与订正 —— USTC 评课社区 https://icourse.club/course/1140/#review-100007
+  - 年份待确认（类型不明、形式不明、解答情况不明）：化工原理 往年试卷（商业试卷店扫描） —— USTC 评课社区 https://icourse.club/course/1140/#review-40975
+- **学习资料**
+  - 化工原理 复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1140/#review-100007
+  - 化工原理：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1140/#review-100638
 
 ### 019147 无机化学基础实验(上)
 
@@ -989,19 +1514,37 @@
 - **大作业与考核作品**
   - 2024 年：无机化学基础实验（上）：反应速率与活化能实验报告单、实验图像与过程照片 —— Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I；核验于 2026-11-18 https://github.com/Brilliant-Pig-CN/USTC-Fundamental-Inorganic-Chemistry-Experiment-I
 
-### 019161 化学原理A
+### 019151 有机化学基础实验(上)
 
 专业课 · 化学
 
 - **学习资料**
+  - 有机化学实验_考点总结与模拟卷 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26278/#review-103058
+
+### 019161 化学原理A
+
+专业课 · 化学
+
+- **试题与解析**
+  - 2024 年（期末、形式不明、解答情况不明）：化学原理A 2024 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/24619/#review-98725
+  - 年份待确认（类型不明、形式不明、解答情况不明）：化学原理 真题 —— USTC 评课社区 https://icourse.club/course/12859/#review-76508
+- **作业、习题与小测**
+  - 化学原理 习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19010/#review-96756
+  - 化学原理 习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1078/#review-79816
+- **学习资料**
   - 化学原理A 第三次习题课：氧化还原反应与电化学及期中复习（2022 秋，王建平） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%8C%96%E5%AD%A6%E5%8E%9F%E7%90%86%20%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6/%E5%8C%96%E5%AD%A6%E5%8E%9F%E7%90%86%E6%9C%9F%E4%B8%AD%20%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94%E7%AB%A0.pdf（文件页）
+  - 化学原理A：学习资料（20 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19010/#review-96756
 
 ### 019163 化学原理B
 
 专业课 · 化学
 
+- **作业、习题与小测**
+  - 化学原理B：作业与习题（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14198/#review-31974
 - **学习资料**
   - 化学原理B 课程 PPT 合集【时亮】（压缩包 37.7 MB） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/hua-xue/hua-xue-yuan-li-b.md
+  - 化学原理B：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14198/#review-31974
+  - 化学原理B：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12862/#review-29117
 
 ### 019165 普通化学
 
@@ -1016,6 +1559,8 @@
 
 - **学习资料**
   - 无机化学I 课件与习题课讲义（C/O/F 区、BN、ds,d,f 区金属） —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/21245/
+  - 无机化学I：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21245/#review-84119
+  - 无机化学I：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21244/#review-84043
 
 ### 019172 应用量子化学
 
@@ -1024,6 +1569,7 @@
 - **作业、习题与小测**
   - 应用量子化学 作业 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/blob/main/%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6/%E5%BA%94%E7%94%A8%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6%E4%BD%9C%E4%B8%9A.pdf
 - **学习资料**
+  - 化学学习笔记-应用量子化学 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12592/#review-103163
   - 应用量子化学 章节讲义（Hartree-Fock、电子关联与后 HF、密度泛函理论、电子结构计算数值方法、量子化学的应用） —— 李震宇（Prof. Zhenyu Li）教学页 q2chemistry.net/teaching；核验于 2026-11-18 https://q2chemistry.net/teaching.html
 
 ### 019173 有机结构分析
@@ -1044,6 +1590,8 @@
 
 专业课 · 化学
 
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：分析化学真题 —— USTC 评课社区 https://icourse.club/course/909/#review-87364
 - **作业、习题与小测**
   - 2025 年：分析化学I 2025春 作业：章节 MATLAB/Python 代码与滴定曲线图 —— gold3fluoride/2025spr.ustc.019175.05.wxz（分析化学I 2025春作业）；核验于 2026-11-18 https://github.com/gold3fluoride/2025spr.ustc.019175.05.wxz/blob/main/trial0329_0.m（文件页）
 - **学习资料**
@@ -1062,6 +1610,8 @@
 
 - **试题与解析**
   - 2026 年（期末、原题、含解答）：专业必修 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpObsAstroFinal.pdf
+- **学习资料**
+  - 实测天体物理课程内容大纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2074/#review-33965
 
 ### 022012 计算物理A
 
@@ -1082,6 +1632,8 @@
 
 专业课 · 力学 · 物理
 
+- **学习资料**
+  - 理论力学B：学习资料（11 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26615/#review-104686
 - **大作业与考核作品**
   - 理论力学 课程资料（qc-1） —— qc-1/Course-Materials；核验于 2026-11-19 https://github.com/qc-1/Course-Materials/tree/main/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6（资料目录）
 
@@ -1113,10 +1665,15 @@
   - 2015 年（期末、原题、解答情况不明）：电动力学 2015 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/15SpEDAFinalPHJ.pdf
   - 2014 年（期末、原题、解答情况不明）：电动力学 2014 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
   - 年份待确认（期末、原题、解答情况不明）：电动力学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaEDAFinal.pdf
+- **作业、习题与小测**
+  - 电动力学：作业与习题（18 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23458/#review-72448
 - **学习资料**
+  - 电动力学：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23458/#review-72448
   - 电动力学大抄（陶鑫班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E5%A4%A7%E6%8A%84%EF%BC%88%E9%99%B6%E9%91%AB%E7%8F%AD%EF%BC%89.docx（文件页）
+  - 电动力学课程幻灯片 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21251/#review-58500
   - 电动力学期末大抄（陶鑫班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%9C%9F%E6%9C%AB%E5%A4%A7%E6%8A%84%EF%BC%88%E9%99%B6%E9%91%AB%E7%8F%AD%EF%BC%89.pdf（文件页）
   - 电动力学期中大抄（陶鑫班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E5%A4%A7%E6%8A%84%EF%BC%88%E9%99%B6%E9%91%AB%E7%8F%AD%EF%BC%89.pdf（文件页）
+  - 电动力学思考题解析 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4778/#review-90400
 
 ### 022059 量子力学B
 
@@ -1141,6 +1698,7 @@
   - 2022 年（期末、形式不明、解答情况不明）：热力学与统计物理 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22SpTDAFinal.pdf
   - 2022 年（期中、原题、解答情况不明）：热力学与统计物理 2022 期中 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/22SpTDAMid.pdf
   - 2021 年（期末、原题、解答情况不明）：热力学与统计物理 2021 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/21SpTDAFinal.pdf
+  - 2021 年（期末、形式不明、解答情况不明）：热力学与统计物理 2021 期末答案 —— USTC 评课社区 https://icourse.club/course/4123/#review-32813
   - 2021 年（期中、原题、解答情况不明）：热力学与统计物理 2021 期中 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/21SpTDAMid.pdf
   - 2020 年（期中、形式不明、解答情况不明）：热力学与统计物理 2020 春期中 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/20SpTDAMid.pdf
   - 2020 年（期末、形式不明、解答情况不明）：热力学与统计物理 2020 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/20SpTDAFinal.pdf
@@ -1165,6 +1723,8 @@
 
 - **试题与解析**
   - 2026 年（期中、原题、解答情况不明）：热力学与统计物理 2026 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpTDBMid.pdf
+- **学习资料**
+  - 自编讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4130/#review-52748
 
 ### 022075 天体物理概论
 
@@ -1172,6 +1732,21 @@
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：专业必修 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaIntroAstroPhyFinal.pdf
+- **学习资料**
+  - 天体物理概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14268/#review-76120
+  - 天体物理概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14268/#review-47594
+
+### 022095 量子力学C
+
+专业课 · 物理
+
+- **试题与解析**
+  - 2025 年（类型不明、形式不明、解答情况不明）：量子力学C 2025 试卷（题面） —— USTC 评课社区 https://icourse.club/course/12615/#review-91716
+  - 2016 年、2020 年（类型不明、形式不明、解答情况不明）：量子力学C：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/12615/#review-23280
+  - 年份待确认（类型不明、形式不明、解答情况不明）：量子力学C 考题合集（压缩包） —— USTC 评课社区 https://icourse.club/course/12615/#review-48398
+- **学习资料**
+  - 量子力学C 期末复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12615/#review-91716
+  - 量子力学C：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21885/#review-97291
 
 ### 022118 固体物理B
 
@@ -1181,6 +1756,8 @@
   - 2026 年（期末、原题、解答情况不明）：固体物理 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpSSPBFinalZQJ.pdf
 - **学习资料**
   - 固体物理 讲义（晶体结构、晶体结合、晶格振动等 PDF） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~gzwang/（资料目录）
+  - 固体物理 期末整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1398/#review-48135
+  - 固体物理B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1398/#review-94053
 
 ### 022148 量子力学A
 
@@ -1190,6 +1767,7 @@
   - 2026 年（期末、回忆版、解答情况不明）：量子力学 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaQMAFinalSMJ.pdf
   - 2026 年（期末、回忆版、解答情况不明）：量子力学 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaQMAFinalYXC.pdf
   - 2025 年（期末、形式不明、解答情况不明）：量子力学 2024 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/24FaQMAFinalSMJ.pdf
+  - 2025 年（类型不明、形式不明、解答情况不明）：量子力学A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/24102/#review-92596
   - 2024 年（期末、形式不明、解答情况不明）：量子力学 2023 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23FaQMAFinalSMJ.pdf
   - 2024 年（期末、原题、解答情况不明）：量子力学 2024 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/24FaQMAFinalYHX.pdf
   - 2024 年（期中、原题、解答情况不明）：量子力学 2024 期中 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/24FaQMAMidYHX.pdf
@@ -1213,15 +1791,28 @@
   - 2013 年（期末、原题、解答情况不明）：量子力学 2013 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/13FaQMAFinalSMJ.pdf
   - 2012 年（期末、原题、解答情况不明）：量子力学 2012 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/12FaQMAFinalSMJ.pdf
   - 年份待确认（期末、形式不明、解答情况不明）：量子力学 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaQMAFinalSMJ.pdf
+- **作业、习题与小测**
+  - 量子力学A 作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12793/#review-60252
 - **学习资料**
+  - 量子力学笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22025/#review-56946
   - 量子力学知识点整理（杨焕雄班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86%EF%BC%88%E6%9D%A8%E7%84%95%E9%9B%84%E7%8F%AD%EF%BC%89.docx（文件页）
+  - 量子力学A 知识点梳理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6639/#review-82913
 
 ### 022166 天文学导论
 
 专业课 · 天文 · 物理
 
+- **作业、习题与小测**
+  - 天文学导论：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-88878
+  - 天文学导论：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-38097
+  - 天文学导论：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-98194
+  - 天文学导论：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-100224
 - **学习资料**
   - 天文学导论 课程讲义（薛永泉课程主页） —— 薛永泉 天文学导论课程主页；核验于 2026-11-19 http://staff.ustc.edu.cn/~xuey/IAC/000_Introduction_to_Astronomy_and_Cosmology.pdf（文件页）
+  - 天文学导论 课件精选 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-88878
+  - 天文学导论：学习资料（14 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-100224
+  - 天文学导论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-38097
+  - 天文学导论：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1992/#review-98194
 
 ### 022169 天体力学与天体测量基础
 
@@ -1229,6 +1820,8 @@
 
 - **试题与解析**
   - 2026 年（期末、原题、含解答）：专业必修 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpCMAMFinal.pdf
+- **学习资料**
+  - 天体力学与天体测量基础 笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1970/#review-73881
 
 ### 022171 恒星物理基础
 
@@ -1249,6 +1842,8 @@
   - 2026 年（期末、原题、含解答）：专业选修 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaTSFinal.pdf
   - 2024 年（期末、回忆版、解答情况不明）：专业选修 2023 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23FaTSFinal.pdf
   - 2023 年（期末、回忆版、解答情况不明）：专业选修 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22FaTSFinal.pdf
+- **学习资料**
+  - 时间和空间 课程笔记（修改版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20688/#review-38383
 
 ### 022392 理论力学A
 
@@ -1283,9 +1878,13 @@
   - 2018 年（期末、原题、解答情况不明）：理论力学 2018 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/18FaTMAFinalPHJ.pdf
   - 2016 年（期末、形式不明、含解答）：理论力学 2016 秋期末考试及参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A62016%E7%A7%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：理论力学A 考卷照片（2022 秋） —— USTC 评课社区 https://icourse.club/uploads/images/82706a20a51ba3a16006b4affefcd8b0e0066c53.jpg
+  - 年份待确认（类型不明、形式不明、解答情况不明）：理论力学A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/4526/#review-40430
 - **作业、习题与小测**
   - 理论力学期中练习题 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E6%9C%9F%E4%B8%AD%E7%BB%83%E4%B9%A0%E9%A2%98.pdf（文件页）
+  - 理论力学学习指导与习题解析 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4526/#review-40430
 - **学习资料**
+  - 冯老师理力讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23461/#review-100123
+  - 经典力学讲义_by高显（sysu） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4523/#review-98851
   - 理论力学讲义（朱界杰） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6/%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%EF%BC%88%E6%9C%B1%E7%95%8C%E6%9D%B0%EF%BC%89.pdf（文件页）
   - 理论力学A 课程笔记（2 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/images/f16be3611a5b632b2446e66fdfa31717aab58202.png
   - 理论力学A 期末复习 PPT 内容整理（选择题范围，10 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/237e50ff574e2ea7da0b1137b3f5f4c8ca92b7af.jpg
@@ -1298,6 +1897,7 @@
 - **试题与解析**
   - 2019 年（期末、回忆版、解答情况不明）：线性电子线路 2019 期末（回忆版） —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/19%E6%98%A5%281%29.pdf
   - 2019 年（期末、回忆版、解答情况不明）：线性电子线路 2019 期末（回忆版）（2） —— Mr-Philo/USTC_EEIS_Courses（6系本科资料）、li-qi-lin/USTC-Course-Materials-Sharing、feixu 学习资料分享站（AList） https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF2019%E6%98%A5.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：往年试题 —— USTC 评课社区 https://icourse.club/course/14404/#review-32918
   - 年份待确认（期末、模拟练习、解答情况不明）：线性电子线路 年份未标 期末（样卷/模拟） —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B73%281%29.pdf
   - 年份待确认（期末、模拟练习、解答情况不明）：线性电子线路 年份未标 期末（样卷/模拟）（2） —— Mr-Philo/USTC_EEIS_Courses（6系本科资料）、li-qi-lin/USTC-Course-Materials-Sharing https://github.com/Mr-Philo/USTC_EEIS_Courses/blob/main/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF%E6%A0%B7%E5%8D%B7.pdf
   - 年份待确认（类型不明、形式不明、解答情况不明）：线性电子线路 年份未标 试卷 —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E5%BE%80%E5%B9%B4%E8%AF%95%E5%8D%B7%20%EF%BC%8814%2B16%EF%BC%89%281%29.pdf
@@ -1305,8 +1905,10 @@
   - 年份待确认（类型不明、模拟练习、解答情况不明）：线性电子线路 年份未标 试卷（样卷/模拟） —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B71%281%29.pdf
   - 年份待确认（类型不明、模拟练习、解答情况不明）：线性电子线路 年份未标 试卷（样卷/模拟）（2） —— EpiHio/USTC_Automation（自动化专业课程资料） https://github.com/EpiHio/USTC_Automation/blob/main/2A%E7%A7%8B%20%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E8%AF%95%E5%8D%B7/%E8%AF%95%E5%8D%B7%E6%A0%B7%E5%8D%B72%281%29.pdf
   - 年份待确认（类型不明、原题、含解答）：线性电子线路 年份未标 试卷（原卷） —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/%E7%BA%BF%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98%EF%BC%88%E5%B9%B4%E4%BB%BD%E4%B8%8D%E8%AF%A6%EF%BC%89.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：线性电子线路：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/5501/#review-89537
   - 年份待确认（类型不明、原题、解答情况不明）：线性电子线路往年卷合集（2014 秋起，12 页） —— ly382965/USTC_learning_materials（6系课程资料）、feixu 学习资料分享站（AList） https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E9%9B%86.pdf
 - **作业、习题与小测**
+  - 线性电子线路：作业与习题（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5501/#review-89537
   - 线性电子线路章节练习与小结 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E7%BA%BF%E6%80%A7%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF/exercise%281%29.pdf（文件页）
   - 线性电子线路章节习题答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Linear%20Electronic%20Circuits/%E7%AD%94%E6%A1%88/answers_chap1_2.pdf（文件页）
 - **学习资料**
@@ -1319,7 +1921,15 @@
 专业课 · 通信
 
 - **学习资料**
+  - 新闻学概论 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3193/#review-91402
   - 新闻学概论（USTC 慕课，林爱兵） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000001309.html
+
+### 033001 编译原理B
+
+专业课 · 计算机
+
+- **大作业与考核作品**
+  - 编译原理B 实验（压缩包） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18063/#review-89664
 
 ### 033002 信息论B
 
@@ -1336,12 +1946,55 @@
 - **大作业与考核作品**
   - 近代光学基础 编程作业（GitHub 仓库目录） —— wangxiaoou2013/USTC-Course（高等光学编程作业）；核验于 2026-11-19 https://github.com/wangxiaoou2013/USTC-Course/tree/master/Fundamental%20of%20Advanced%20Optics
 
+### 038011 量子信息导论
+
+专业课 · 物理
+
+- **学习资料**
+  - 量子信息导论 复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6613/#review-98258
+
+### 203001 先进光子物理
+
+专业课 · 物理
+
+- **作业、习题与小测**
+  - 先进光子物理 习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12570/#review-85118
+  - 先进光子物理 习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12570/#review-23201
+
+### 210002 操作系统
+
+专业课 · 计算机
+
+- **作业、习题与小测**
+  - 操作系统 复习练习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2668/#review-90545
+
+### 210004 密码学导论
+
+专业课 · 网络安全 · 计算机
+
+- **试题与解析**
+  - 2018 年、2019 年、2020 年（类型不明、形式不明、解答情况不明）：密码学导论：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/2117/#review-27100
+
+### 210008 计算机安全
+
+专业课 · 网络安全 · 计算机
+
+- **学习资料**
+  - 2024-review —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6142/#review-84100
+  - 复习内容 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6142/#review-84257
+  - 计算机安全 review —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6142/#review-84138
+  - 计算机安全：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6142/#review-84084
+
 ### 210031 网络安全协议
 
 专业课 · 网络安全 · 计算机 · 通信
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：网络安全协议 2026 春期末（薛开平班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/NetworkSecurityProtocols2026F.md
+  - 2024 年（期末、形式不明、解答情况不明）：2024NSP期末考试 —— USTC 评课社区 https://icourse.club/course/24112/#review-83715
+  - 2024 年（类型不明、形式不明、解答情况不明）：网络安全协议 2024回忆版试卷答案 —— USTC 评课社区 https://icourse.club/course/24112/#review-83710
+- **学习资料**
+  - NSP期末复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24112/#review-83971
 
 ### 210037 数理逻辑与图论
 
@@ -1349,6 +2002,7 @@
 
 - **试题与解析**
   - 2025 年（期末、形式不明、解答情况不明）：数理逻辑与图论 2025 秋期末（刘斌班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathLogicGT2025F.pdf
+  - 年份待确认（期末、形式不明、解答情况不明）：数理逻辑与图论 期末试卷 —— USTC 评课社区 https://icourse.club/course/3018/#review-97915
 - **作业、习题与小测**
   - 数理逻辑与图论（2023 秋，刘斌班）作业反馈与答案 —— minervazz/USTC_23fa_Mathematical-Logic-and-Graph-Theory；核验于 2026-11-19 https://github.com/StellaVesperi/USTC_23fa_Mathematical-Logic-and-Graph-Theory（资料目录）
 
@@ -1357,8 +2011,14 @@
 专业课 · 电子
 
 - **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：电路基本理论 2017–2018 学年试卷答案 —— USTC 评课社区 https://icourse.club/course/14067/#review-52447
   - 年份待确认（期中期末混合、形式不明、解答情况不明）：电路基本理论 2018-2025 历年试卷合集 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA/2018-2025%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%E5%8E%86%E5%B9%B4%E8%AF%95%E5%8D%B7.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：电路基本理论：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/4989/#review-18859
+- **作业、习题与小测**
+  - 电路理论基础（第四版）习题解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4984/#review-87143
 - **学习资料**
+  - 电路基本理论 第一章讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4984/#review-4604
+  - 电路基本理论 翻转课堂材料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4989/#review-71301
   - 2015 年、2016 年、2017 年、2018 年、2019 年、2020 年、2021 年、2022 年、2023 年、2024 年、2025 年：电路基本理论 课件与往年真题（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%94%B5%E8%B7%AF%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA
   - 2023 年：电路基本理论 试题与资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/1SP%20Fundamentals%20of%20Circuit%20Analysis
 
@@ -1367,6 +2027,8 @@
 专业课 · 电子
 
 - **试题与解析**
+  - 2016 年（期末、形式不明、解答情况不明）：数电2016年期末考试 —— USTC 评课社区 https://icourse.club/course/2787/#review-26869
+  - 年份待确认（类型不明、形式不明、解答情况不明）：2015-2016第1学期数字逻辑电路考试题 —— USTC 评课社区 https://icourse.club/course/2791/#review-17628
   - 年份待确认（类型不明、原题、含解答）：数字逻辑电路 2015-2016 第一学期 A 卷答案 —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A%E7%AD%94%E6%A1%88.pdf
   - 2015—2016 学年（类型不明、原题、无解答）：数字逻辑电路 2015-2016 第一学期 A 卷与答案 —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E6%95%B0%E7%94%B5%E7%9C%9F%E9%A2%98/%E7%9C%9F%E9%A2%98/2015-2016%E7%9C%9F%E9%A2%98A.pdf
   - 2015—2016 学年（期末、原题、无解答）：数字逻辑电路 2015-2016 试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF2015-2016.pdf（文件页）
@@ -1378,13 +2040,19 @@
   - 2020—2021 学年（期末、原题、含解答）：数字逻辑电路 2020-2021 期末答案 —— guch8017/USTC_CS_EXAM（跨课试卷索引）、li-qi-lin/USTC-Course-Materials-Sharing https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2020-2021FAns.pdf
   - 2021—2022 学年（期末、原题、无解答）：数字逻辑电路 2021-2022 期末 —— guch8017/USTC_CS_EXAM（跨课试卷索引）、li-qi-lin/USTC-Course-Materials-Sharing https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2021-2022F.pdf
   - 2022—2023 学年（期末、原题、无解答）：数字逻辑电路 2022-2023 期末 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalLogic2022-2023F.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数字逻辑电路：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/2787/#review-58317
   - 年份待确认（期末、模拟练习、解答情况不明）：数字逻辑电路模拟卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E6%A8%A1%E6%8B%9F%E5%8D%B7.pdf（文件页）
   - 年份待确认（期中期末混合、回忆版、解答情况不明）：数字逻辑电路真题回忆 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%9C%9F%E9%A2%98%E5%9B%9E%E5%BF%86.pdf（文件页）
 - **作业、习题与小测**
+  - 2025年秋季学期数字逻辑电路思考题汇编 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2792/#review-89140
   - 数字逻辑电路 习题课讲义与作业解答（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89
 - **学习资料**
+  - 数电复习准备v1.0 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2787/#review-40068
   - 数字逻辑电路 资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Digital%20Logic%20Circuits
+  - 数字逻辑电路：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2794/#review-40454
+  - 数字逻辑电路：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2792/#review-89140
   - 2023 年：数字逻辑电路第一次习题课讲义（1—2、4 章） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-19 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E7%94%B5%E8%B7%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE_124%E7%AB%A0.pptx（文件页）
+  - 数字逻辑电路学习指导 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2787/#review-26869
 - **大作业与考核作品**
   - 数字逻辑电路 课程资料仓库 —— 数字逻辑电路课程资料整理；核验于 2026-11-19 https://github.com/xuzhen0913/digital-circuit（资料目录）
 
@@ -1392,6 +2060,15 @@
 
 专业课 · 计算机 · 通信
 
+- **试题与解析**
+  - 2020 年（类型不明、形式不明、解答情况不明）：计算机网络 2020 年补考试卷 —— USTC 评课社区 https://icourse.club/course/6263/#review-42603
+  - 2020 年（期末、形式不明、解答情况不明）：计算机网络 2020 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/18387/#review-29470
+- **学习资料**
+  - 计算机网络 2021 总复习课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6267/#review-40523
+  - 计算机网络：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6255/#review-56460
+  - 计算机网络复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6263/#review-36855
+  - 计算机网络课程课件（第 1—9 章） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6255/#review-90312
+  - 计算机网络知识点小结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6255/#review-98464
 - **大作业与考核作品**
   - 计算机网络课程实验文档（信息网络实验室 GitLab） —— 信息网络实验室 computer-network-experiment（USTC GitLab）；核验于 2026-11-19 https://git.ustc.edu.cn/infonet/computer-network-experiment（资料目录）
 
@@ -1401,6 +2078,7 @@
 
 - **学习资料**
   - 2019 年：近世代数与数论 课程网站（近世代数与数论课程主页） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~zhangwm/course1.html
+  - 数论与近世代数复习资料（手写提纲浓缩） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6526/#review-78837
 
 ### 210070 数据结构及其算法
 
@@ -1415,18 +2093,28 @@
   - 2017—2018 学年（期末、原题、含解答）：数据结构及其算法 2017-2018 第一学期真题参考答案 —— feixu 学习资料分享站（AList）、ly382965/USTC_learning_materials（6系课程资料） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952017-2018%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2018—2019 学年（期末、原题、含解答）：数据结构及其算法 2018-2019 第一学期真题参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%952018-2019%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（期中期末混合、形式不明、含解答）：数据结构及其算法历年真题与参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数据结构早期期末试卷 —— USTC 评课社区 https://icourse.club/course/2948/#review-54895
 - **作业、习题与小测**
+  - 数据结构第一、二章作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24633/#review-91272
   - 2022 年、2023 年、2024 年：数据结构及其算法 往年题与习题（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2FA%20Data%20Structure%20and%20Algorithm
   - 数据结构及其算法 习题与习题课（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95/%E8%AF%95%E5%8D%B7%E5%8F%8A%E4%B9%A0%E9%A2%98/2-4-6-8%E4%B9%A0%E9%A2%98.pdf
 - **学习资料**
   - 数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa
   - 数据结构错题集 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E9%A2%98%E9%9B%86.txt（文件页）
   - 数据结构第二~五章习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/2FA%20Data%20Structure%20and%20Algorithm/%E5%BE%80%E5%B9%B4%E9%A2%98%E5%8F%8A%E9%83%A8%E5%88%86%E7%AD%94%E6%A1%88/%E4%B9%A0%E9%A2%98%E8%AF%BE10.24.pdf（文件页）
+  - 数据结构及其算法复习整理（对照考试范围） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25785/#review-98268
   - 数据结构及应用算法经验分享 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%8A%E5%BA%94%E7%94%A8%E7%AE%97%E6%B3%95%20%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.pdf（文件页）
   - 数据结构实验讲义（n_exp.pdf） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~ypb/exp/n_exp.pdf（文件页）
 - **大作业与考核作品**
   - 数据结构及其算法 实验题解与优秀代码（顾为兵班，2019 秋） —— 2019 秋顾为兵《数据结构及其算法》实验题解与优秀代码；核验于 2026-11-19 https://github.com/mhy98/DSACodes（资料目录）
   - 数据结构及其算法 LAB5 马踏棋盘 —— DSA LAB5 马踏棋盘实验；核验于 2026-11-19 https://github.com/invictus-z/Knight-Tour-Game（资料目录）
+
+### 210072 算法分析与设计
+
+专业课 · 计算机
+
+- **试题与解析**
+  - 2021 年（期末、形式不明、解答情况不明）：算法分析与设计 2021期末考试回忆版 —— USTC 评课社区 https://icourse.club/course/18088/#review-33525
 
 ### 210073 电子技术实验I
 
@@ -1438,6 +2126,7 @@
 - **大作业与考核作品**
   - 2024—2025 学年：电子技术实验 I 实验报告（2024 秋，RC／晶体管／运放 5 份） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E4%B8%80%E9%98%B6RC%E7%94%B5%E8%B7%AF%E7%9A%84%E7%A0%94%E7%A9%B6.pdf（文件页）
   - 电子技术实验 I 资料（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C1
+  - 电子技术实验I 实验报告合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14420/#review-23737
 
 ### 210074 电子技术实验II
 
@@ -1446,6 +2135,7 @@
 - **学习资料**
   - 电子技术实验 II 讲义与资料（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Electronic%20Technology%20Experiment%20II
   - 电子技术实验讲义（101、112 实验室，实验一 常用电子仪器） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/101%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89.pdf（文件页）
+  - 电子技术实验II讲义（扫描版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18390/#review-84045
 - **大作业与考核作品**
   - 2024—2025 学年：电子技术实验 II 实验报告（2024 秋，门电路／抢答器） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%AE%9E%E9%AA%8C/%E9%97%A8%E7%94%B5%E8%B7%AF%E6%B5%8B%E8%AF%95%E4%B8%8E%E5%BA%94%E7%94%A8.pdf（文件页）
 
@@ -1460,19 +2150,31 @@
 
 专业课 · 电子 · 通信
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：非线性电子线路 2024—2025 学年期末试卷（回忆版） —— USTC 评课社区 https://icourse.club/course/18391/#review-88474
+  - 年份待确认（类型不明、形式不明、解答情况不明）：非线性电子线路 试卷答案 —— USTC 评课社区 https://icourse.club/course/6811/#review-17032
 - **学习资料**
+  - 非线性电子线路 重点与易错总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6811/#review-88453
   - 2024 年：非线性电子线路 资料（USTC_learning_materials，排除教材扫描） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Nonlinear%20Electronic%20Circuits
+  - 非线性电子线路复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19032/#review-70375
 
 ### 210078 电子系统设计
 
 专业课 · 电子
 
+- **试题与解析**
+  - 2020 年（类型不明、形式不明、解答情况不明）：电子系统设计2020试卷 —— USTC 评课社区 https://icourse.club/course/4842/#review-73233
+- **作业、习题与小测**
+  - 电子系统设计 思考题2025(V1.0) —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25899/#review-97710
+  - 电子系统设计思考题2025 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4846/#review-104673
 - **学习资料**
   - 电子系统设计 实验资料与课件（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1
+  - 电子系统设计：学习资料（10 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4846/#review-104673
 - **大作业与考核作品**
   - 电子系统设计 课程资源（xuzhen0913） —— xuzhen0913/electronic-system-designation；核验于 2026-11-19 https://github.com/xuzhen0913/electronic-system-designation/tree/main（资料目录）
   - 2024 年：电子系统设计 实验（USTC-Course-Materials-Sharing） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/5-%E7%94%B5%E5%AD%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1
   - 2024 年、2025 年、2026 年：电子系统设计 实验与报告（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3FA%20Electronic%20System%20Design
+  - 电子系统设计 FPGA_EXP —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4842/#review-97726
 
 ### 210503 数据结构与数据库
 
@@ -1490,6 +2192,35 @@
 - **学习资料**
   - 数据库基础 课程笔记（公开站点） —— 数据库基础课程笔记（jonbgua.com）；核验于 2026-11-19 https://coursenotes.jonbgua.com/sql/
   - 数据库基础讲义与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf（文件页）
+
+### 210515 电子线路
+
+专业课 · 电子
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：电子线路：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/22050/#review-54440
+  - 年份待确认（类型不明、形式不明、解答情况不明）：电子线路：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/4856/#review-96687
+  - 年份待确认（类型不明、形式不明、解答情况不明）：电子线路往年题 —— USTC 评课社区 https://icourse.club/course/4853/#review-84996
+- **学习资料**
+  - 电子线路 习题课6.3 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4853/#review-84996
+  - 电子线路：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4853/#review-83788
+  - 电子线路总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4853/#review-26141
+
+### 210703 电子设计实践I
+
+专业课 · 电子
+
+- **学习资料**
+  - 电子设计实践 I 课程总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12444/#review-79613
+
+### 210706 脑与认知科学导论
+
+专业课 · 心理 · 生命科学 · 人工智能
+
+- **学习资料**
+  - 脑与认知科学导论 复习知识点 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13727/#review-23112
+  - 脑与认知科学导论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13727/#review-31803
+  - 脑与认知科学导论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13727/#review-56423
 
 ### 210708 数字图像处理B
 
@@ -1512,11 +2243,44 @@
 - **学习资料**
   - 深度学习实践 课件（USTC_learning_materials） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Deep%20Learning%20Practice
 
+### 219001 量子物理B
+
+专业课 · 物理
+
+- **试题与解析**
+  - 2025 年（期中期末混合、形式不明、解答情况不明）：量子物理B：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/25131/#review-93915
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：量子物理B：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/20698/#review-105236
+
+### 219005 数字集成电路设计
+
+专业课 · 集成电路 · 电子
+
+- **学习资料**
+  - 2022数字集成电路设计复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21260/#review-52154
+
+### 219006 集成电路工艺原理
+
+专业课 · 集成电路 · 材料
+
+- **学习资料**
+  - 集成电路工艺原理 讲义（markdown） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18104/#review-66509
+
+### 221001 网络空间安全导论
+
+专业课 · 网络安全 · 计算机
+
+- **作业、习题与小测**
+  - 网络空间安全导论习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23468/#review-96681
+- **学习资料**
+  - 网络空间安全导论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23468/#review-89820
+
 ### 229001 离散数学
 
 专业课 · 数学 · 计算机
 
 - **试题与解析**
+  - 2025 年（期中期末混合、形式不明、解答情况不明）：离散数学：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/25952/#review-100440
+  - 2023 年、2024 年（期中期末混合、形式不明、解答情况不明）：离散数学：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/23469/#review-88316
   - 2021—2022 学年（期中期末混合、回忆版、无解答）：离散数学 2021 秋期末（回忆版，附期中回忆） —— USTC 评课社区 https://icourse.club/uploads/files/02aedd502d07e0c243ca9517d7e89dd77f48903f.pdf（文件页）
   - 2023—2024 学年（期末、回忆版、无解答）：离散数学 2023 秋期末（回忆版，邵帅班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA23F.md（文件页）
   - 2023—2024 学年（期中、回忆版、无解答）：离散数学 2023 秋期中（回忆版，邵帅班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/DMA23M.md（文件页）
@@ -1524,6 +2288,9 @@
 - **作业、习题与小测**
   - 《离散数学教程》习题解答（个人整理） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-19 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E3%80%8A%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%95%99%E7%A8%8B%E3%80%8B%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20beta%2016%5B1%5D%5B1%5D.11%20%E7%89%88.pdf（文件页）
   - 离散数学 作业与图算法课件（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E4%BD%9C%E4%B8%9A/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E4%BD%9C%E4%B8%9A%E4%B8%80.pdf（文件页）
+  - 离散数学：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23469/#review-88316
+- **学习资料**
+  - 离散数学复习提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23469/#review-73005
 - **教材与参考书**
   - Discrete Mathematics: An Open Introduction（第 4 版，补充参考） —— Oscar Levin · Discrete Mathematics: An Open Introduction；免登录公开全文 PDF；核验于 2026-11-18 https://discrete.openmathbooks.org/pdfs/dmoi4.pdf
 
@@ -1540,6 +2307,8 @@
 
 通修课 · 人工智能 · 数学
 
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：人工智能数学原理与算法B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/26225/#review-98231
 - **学习资料**
   - 2025 年：人工智能数学原理与算法 课件（课程站点 source/slides） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/slides
   - 2025 年：人工智能数学原理与算法 实验（课程站点 source/experiment） —— ustc-ai-sgy/ustc-ai-sgy.github.io；核验于 2026-11-18 https://github.com/ustc-ai-sgy/ustc-ai-sgy.github.io/tree/main/source/experiment
@@ -1552,6 +2321,7 @@
   - 2024 年（类型不明、回忆版、解答情况不明）：人工智能导论 2024 秋回忆版（王子磊等） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/AIIntroduction2024F.pdf
 - **学习资料**
   - 2022 年、2023 年、2024 年：人工智能导论 课件（USTC-Course-Materials） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AF%BC%E8%AE%BA
+  - 人工智能导论A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25963/#review-104676
 
 ### AI2001B 人工智能导论B
 
@@ -1566,6 +2336,10 @@
 
 专业课 · 人工智能
 
+- **作业、习题与小测**
+  - 机器学习A 第一次作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26224/#review-97204
+- **学习资料**
+  - 机器学习A 第二讲：线性回归课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26224/#review-97204
 - **大作业与考核作品**
   - 机器学习A 课程项目（Stardust-math） —— Stardust-math/Machine_Learning_A；核验于 2026-11-19 https://github.com/Stardust-math/Machine_Learning_A（资料目录）
 
@@ -1574,8 +2348,11 @@
 专业课 · 人工智能
 
 - **学习资料**
+  - 人工智能与机器学习基础 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26106/#review-97214
+  - 人工智能与机器学习基础 Lab1 讲解 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26106/#review-97655
   - 2026 年：人工智能与机器学习基础 Lab1 指南（2026 秋，3 份 PDF） —— Wanglulu114514/ResourceforAIML26；核验于 2026-11-19 https://github.com/Wanglulu114514/ResourceforAIML26（资料目录）
 - **大作业与考核作品**
+  - 人工智能与机器学习基础 附加实验设计思路 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26883/#review-106166
   - 人工智能与机器学习基础 五子棋大作业（强化学习智能体） —— xinchengo/autoresearch-gomoku；核验于 2026-11-19 https://github.com/xinchengo/autoresearch-gomoku（资料目录）
 
 ### AI3003 深度学习基础
@@ -1584,6 +2361,17 @@
 
 - **大作业与考核作品**
   - 深度学习基础 大作业：模型实现与报告（点评作者作品） —— cbyybc/deeplearning（深度学习大作业）；核验于 2026-11-19 https://github.com/cbyybc/deeplearning（资料目录）
+  - 深度学习基础 大作业报告 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26299/#review-105018
+
+### ASTRON1501 天体物理概观
+
+通识课 · 天文
+
+- **试题与解析**
+  - 2024 年（期末、形式不明、解答情况不明）：天体物理概观 2024 春期末试卷 —— USTC 评课社区 https://icourse.club/course/22490/#review-85289
+  - 年份待确认（期末、形式不明、解答情况不明）：天体物理概观 2023 春期末试卷 —— USTC 评课社区 https://icourse.club/course/22490/#review-69392
+- **学习资料**
+  - 天体物理概观：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26307/#review-103149
 
 ### BADM2003 会计学原理
 
@@ -1591,6 +2379,20 @@
 
 - **学习资料**
   - 会计学原理分章幻灯片与重点 —— 15172658790/Blog、ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-19 https://github.com/15172658790/Blog/tree/branch_1/%E7%BB%8F%E7%AE%A1%E7%B1%BB/%E4%BC%9A%E8%AE%A1%E5%AD%A6%E5%8E%9F%E7%90%86
+
+### BIO1501 生命科学导论实验
+
+通识课 · 生命科学
+
+- **大作业与考核作品**
+  - 生命科学导论实验 报告参考 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20725/#review-85436
+
+### BIO1502 生命科学与医学导论
+
+通识课 · 生命科学 · 医学
+
+- **学习资料**
+  - 生命科学与医学导论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23481/#review-79821
 
 ### BIO1504G 人体健康与疾病
 
@@ -1622,6 +2424,21 @@
 - **大作业与考核作品**
   - 解码生命信息 ATAC-seq 分析报告 —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/24654/
 
+### BIO2701 生命科学前沿I
+
+专业课 · 生命科学
+
+- **作业、习题与小测**
+  - 生命科学前沿I 作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24658/#review-91761
+
+### BIO3001 生物化学A1
+
+专业课 · 生命科学 · 化学
+
+- **学习资料**
+  - 生物化学A1：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22046/#review-95952
+  - 生物化学A1笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23486/#review-88724
+
 ### BIO3002 生物化学A2
 
 专业课 · 生命科学 · 化学
@@ -1629,10 +2446,40 @@
 - **学习资料**
   - 生物化学A2 总结笔记 —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/22502/
 
+### BIO3004 分子生物学研讨
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 分子生物学研讨：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24497/#review-92966
+
+### BIO3005 细胞生物学研讨
+
+专业课 · 生命科学
+
+- **学习资料**
+  - 细胞生物学研讨：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24144/#review-93049
+
+### BIO3701 生物医学论文写作
+
+专业课 · 医学
+
+- **学习资料**
+  - 生物医学论文写作 期末试卷讲解-本科生 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24662/#review-101293
+
+### CHEM1501 生活中的化学科普实验
+
+通识课 · 化学
+
+- **学习资料**
+  - 生活中的化学科普实验：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4612/#review-91401
+
 ### CHEM3002 分子光谱学基础
 
 专业课 · 化学 · 物理
 
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：回忆版试卷 —— USTC 评课社区 https://icourse.club/course/26643/#review-101843
 - **学习资料**
   - 分子光谱学 笔记与作业 —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E5%88%86%E5%AD%90%E5%85%89%E8%B0%B1%E5%AD%A6
 
@@ -1656,14 +2503,22 @@
 
 - **试题与解析**
   - 2023 年（期中、形式不明、解答情况不明）：计算系统概论A(ICS) 2023 期中（安虹班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ICS2023Mid.pdf
+  - 年份待确认（期中、形式不明、解答情况不明）：计算系统概论A：试题与解析（4 个附件） —— USTC 评课社区 https://icourse.club/course/20776/#review-88115
+  - 年份待确认（期末、形式不明、解答情况不明）：期末考试 —— USTC 评课社区 https://icourse.club/course/20777/#review-42132
 - **作业、习题与小测**
   - 《Introduction to Computing Systems》第 3 版教材习题解答（第三方） —— erkamuzuncayir/solutions-of-introduction-to-computing-systems（ICS 教材习题解答）；核验于 2026-11-19 https://github.com/erkamuzuncayir/solutions-of-introduction-to-computing-systems
   - 计算机系统概论(H)（2020秋）教材课后习题答案（hehaha68） —— hehaha68/USTC_2020Fall_Introduction-to-Computing-System（2020秋计算机系统概论(H)）；核验于 2026-11-19 https://github.com/hehaha68/USTC_2020Fall_Introduction-to-Computing-System/tree/master/%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88
   - 计算系统概论 教材课后题答案（第 3 版前 5 章部分，PDF） —— git.ustc.edu.cn W L / ics（ICS 课后题答案）；核验于 2026-11-19 https://git.ustc.edu.cn/flurry_lw/ics/-/raw/main/ics%E8%AF%BE%E5%90%8E%E9%A2%98.pdf（文件页）
   - 计算系统概论 作业 hw1–hw7 与部分答案（USTC-Courses-Data） —— hwp-lab/USTC-Courses-Data（计算机学院课程资料）；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/homework
+  - 计算系统概论A：作业与习题（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20777/#review-57251
+  - LCS 2021 作业与实验包 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20776/#review-42538
+- **学习资料**
+  - 2021 midterm重点 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20777/#review-42132
+  - 计算系统概论A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20776/#review-88115
 - **大作业与考核作品**
   - 计算系统概论 实验（labs，USTC-Courses-Data） —— hwp-lab/USTC-Courses-Data（计算机学院课程资料）；核验于 2026-11-19 https://github.com/hwp-lab/USTC-Courses-Data/tree/main/Introduction%20to%20Computer%20Science/labs
   - 计算系统概论A 附加实验：LC-3 汇编器与模拟器（ICS-Additional-Labs） —— Wanglulu114514/ICS-Additional-Labs（ICS 附加实验）；核验于 2026-11-19 https://github.com/Wanglulu114514/ICS-Additional-Labs
+  - 计算系统概论A：实验与项目（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20777/#review-57251
   - 计算系统概论A（2021）实验代码（zzx6869/ics_experiment_2021） —— zzx6869/ics_experiment_2021（2021 ICS 实验）；核验于 2026-11-19 https://github.com/zzx6869/ics_experiment_2021
   - 计算系统概论A（2022秋）课程资料：作业与实验（KZ25T/2022ics） —— KZ25T/2022ics（2022秋计算系统概论A课程资料）；核验于 2026-11-19 https://github.com/KZ25T/2022ics
 
@@ -1685,11 +2540,17 @@
   - 2019 年（期中、原题、解答情况不明）：程序设计Ⅰ 2019 秋期中 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E2%85%A0%202019%E7%A7%8B%E5%AD%A3%E6%9C%9F%E4%B8%AD%E8%80%83.pdf（文件页）
   - 2018 年（期末、原题、含解答）：计算机程序设计 2018 秋期末（含选择题答案） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12018%E7%A7%8B%E5%AD%A3%E6%9C%9F%E6%9C%AB%E8%80%83.pdf（文件页）
   - 2018 年（类型不明、形式不明、解答情况不明）：计算机程序设计 2018 试卷（README：ALL 班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2018.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：计算机程序设计：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/25853/#review-101251
+  - 年份待确认（类型不明、形式不明、解答情况不明）：计算机程序设计试题集及答案 —— USTC 评课社区 https://icourse.club/course/26056/#review-98576
 - **作业、习题与小测**
   - 程序设计基础与实验 期中练习与答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%9C%9F%E4%B8%AD%E7%BB%83%E4%B9%A0.doc（文件页）
   - 2021 年（小测、原题、含解答）：计算机程序设计 2021 秋小测及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A12021%E7%A7%8B%E5%AD%A3%E5%B0%8F%E6%B5%8B%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 计算机程序设计 指针专题练习与答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E6%8C%87%E9%92%88%E4%B8%93%E9%A2%98%E7%BB%83%E4%B9%A0.docx（文件页）
+  - 计算机程序设计复习用测试题（2025 版，另一帖） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
+  - 计算机程序设计复习用测试题（2025 版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
 - **学习资料**
+  - 计算机程序设计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
+  - 计算机程序设计期末上机习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计总结与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%BB%93%E4%B8%8E%E5%A4%8D%E4%B9%A0.pdf（文件页）
   - C 语言考前复习记忆 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/C%E8%AF%AD%E8%A8%80%E8%80%83%E5%89%8D%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BF%86.pdf（文件页）
 
@@ -1701,6 +2562,9 @@
   - 2021 年、2023 年、2024 年、2025 年、2026 年（期中期末混合、形式不明、解答情况不明）：计算机程序设计／计算机程序设计(L) 考试与复习合集 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档） https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1
   - 2025 年（类型不明、原题、解答情况不明）：计算机程序设计(L) 2025 秋机考二（唐建班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz2.pdf
   - 2025 年（类型不明、原题、解答情况不明）：计算机程序设计(L) 2025 秋机考一（唐建班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProgramDesign2025LQuiz1.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：计算机程序设计(L)：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/25885/#review-96896
+- **学习资料**
+  - 计算机程序设计(L)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25885/#review-96896
 
 ### CS1502 计算机系统详解
 
@@ -1722,6 +2586,8 @@
 
 通识课 · 计算机 · 人工智能
 
+- **学习资料**
+  - 往年课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20039/#review-72303
 - **大作业与考核作品**
   - Python 与深度学习 课程作业（SqrtiZhang） —— SqrtiZhang/USTC；核验于 2026-11-19 https://github.com/SqrtiZhang/USTC/tree/master/Spring.2019/Python%26DeepLearning（资料目录）
 
@@ -1753,11 +2619,14 @@
   - 2020 年（期中、形式不明、解答情况不明）：数理逻辑(基础) 2020 期中 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/MathematicalLogic2020Mid.pdf
   - 2018 年（期末、回忆版、无解答）：数理逻辑 2018 春期末试题（回忆版） —— USTC-Resource/USTC-Course https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A62018%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf
   - 2017 年（类型不明、回忆版、无解答）：数理逻辑 2017 试卷（回忆版） —— USTC-Resource/USTC-Course https://github.com/USTC-Resource/USTC-Course/blob/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/exams/2017%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E8%AF%95%E5%8D%B7%E5%9B%9E%E5%BF%86.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数理逻辑基础 真题合集（压缩包） —— USTC 评课社区 https://icourse.club/course/24186/#review-104000
 - **作业、习题与小测**
   - 数理逻辑基础 习题课与作业答案（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/2.24%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
   - 数理逻辑 笔记（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes
   - 数理逻辑 课件（USTC-CS-Courses-Resource） —— ustcwpz/USTC-CS-Courses-Resource（历史CS资料）；核验于 2026-11-18 https://github.com/ustcwpz/USTC-CS-Courses-Resource/tree/master/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91
+  - 数理逻辑基础 直接证明处理思路 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24187/#review-86300
+  - 数理逻辑基础 直接证明专题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24186/#review-104000
   - USTC 数理逻辑基础课程资源目录 —— Wloner0809/ustc-curriculum-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80（资料目录）
   - USTC 数理逻辑基础课程资源目录（复习笔记） —— Melmaphother/ustc-course-resources；核验于 2026-11-19 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91（资料目录）
 - **大作业与考核作品**
@@ -1769,6 +2638,7 @@
 
 - **试题与解析**
   - 2026 年（类型不明、回忆版、解答情况不明）：系统程序设计基础 2026 春回忆版（马建辉、王志强班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/SystemProgramming2026F.md
+  - 年份待确认（期末、形式不明、解答情况不明）：期末机考 —— USTC 评课社区 https://icourse.club/course/26652/#review-103053
 - **学习资料**
   - 系统程序设计基础大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E5%A4%A7%E6%8A%84.pdf（文件页）
   - 系统程序设计基础课程主页（USTC ISP） —— 系统程序设计基础（USTC ISP）；核验于 2026-11-19 https://ustc-isp.github.io/
@@ -1798,10 +2668,19 @@
   - 数据结构、数据结构及其算法 资料簿条目（USTC课程资料簿） —— USTC 课程资料簿（GitBook）；核验于 2026-11-18 https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/xin-zhi-xue-bu-zhuan-ye-ke/shu-ju-jie-gou-shu-ju-jie-gou-ji-qi-suan-fa
   - 2015 年、2025 年：数据结构B 课程网站（�γ���Դ） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~ypb/
 
+### CS2701 图论(H)
+
+专业课 · 数学 · 计算机
+
+- **学习资料**
+  - 图论随笔 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26020/#review-100082
+
 ### CS3001H 计算机组成原理(H)
 
 专业课 · 计算机 · 电子
 
+- **试题与解析**
+  - 2025 年（期末、形式不明、解答情况不明）：2025年组成原理期末考试回忆版 —— USTC 评课社区 https://icourse.club/course/25194/#review-93443
 - **学习资料**
   - 计算机组成原理(H) 复习与习题答案（ustc-course-resources） —— Melmaphother/ustc-course-resources；核验于 2026-11-18 https://github.com/Melmaphother/ustc-course-resources/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86(H)
   - 2023 年：计算机组成原理(H) 资料（ustc-course-resource） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86H
@@ -1824,6 +2703,16 @@
 - **试题与解析**
   - 2026 年（类型不明、回忆版、解答情况不明）：数字图像处理与分析 2026 春回忆版（万寿红班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageProcessingAnalysis2026S.pdf
   - 2026 年（类型不明、形式不明、解答情况不明）：数字图像处理与分析 2026 试卷（README：数字图像分析，本科/硕士标注冲突） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalImageAnalysis2026F.md
+
+### CS4004 区块链技术与应用
+
+专业课 · 计算机 · 网络安全
+
+- **学习资料**
+  - 区块链技术与应用 2026 大抄 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20049/#review-102670
+  - 区块链技术与应用 期末大抄 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20049/#review-33084
+  - 区块链技术与应用 速查表 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20049/#review-96447
+  - 区块链技术与应用 以太坊专题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20049/#review-88027
 
 ### CS4005 形式化方法导引
 
@@ -1870,6 +2759,7 @@
   - 体系结构 作业与答案（HW1—HW6） —— Oyyko/USTC-Computer-Architecture；核验于 2026-11-19 https://github.com/Oyyko/USTC-Computer-Architecture（资料目录）
 - **学习资料**
   - 计算机体系结构 课程网站（USTC�������ϵ�ṹ�γ���ҳ） —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-18 http://staff.ustc.edu.cn/~xhzhou/CA-Spring2020/CA.html
+  - 计算机体系结构：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6099/#review-66592
 - **大作业与考核作品**
   - 2019 年：体系结构 2019 夏季实验代码与要求（课程实验发布仓库） —— Summer-Summer/ComputerArchitectureLab；核验于 2026-11-19 https://github.com/Summer-Summer/ComputerArchitectureLab（资料目录）
 
@@ -1899,14 +2789,23 @@
 - **大作业与考核作品**
   - 网络系统实验 实验（ustc_course_plus） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E9%AA%8C
 
+### DS2002 数据库系统概论
+
+专业课 · 计算机
+
+- **大作业与考核作品**
+  - 数据库系统概论 实验一 SQL练习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21283/#review-92690
+
 ### DS3001 数据分析及实践
 
 专业课 · 统计 · 计算机
 
 - **试题与解析**
   - 2026 年（期末、回忆版、解答情况不明）：数据分析及实践 2026 春期末（刘淇、程明月班） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DataAnalysisPractice2026F.md
+  - 2024 年、2025 年（期末、形式不明、解答情况不明）：数据分析及实践：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/20053/#review-93456
 - **学习资料**
   - 2021 年：数据分析及实践 课件与实验（ustc_ds_undergraduate_course） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E5%AE%9E%E8%B7%B5
+  - 数据分析及实践：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24511/#review-102091
   - 数据科学导论（刘淇）2019 秋课程主页 —— USTC 教师个人主页（staff/faculty）；核验于 2026-11-19 http://staff.ustc.edu.cn/~qiliuql/DS2019tuesday.html
 
 ### EE1501 物联网导论
@@ -1934,6 +2833,13 @@
 - **大作业与考核作品**
   - 电子设计实践基础实验工程 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E5%9F%BA%E7%A1%80/%E5%AE%9E%E9%AA%8C1
 
+### EE1513 文本表征学习
+
+通识课 · 人工智能
+
+- **大作业与考核作品**
+  - 文本表征学习 NLP 课程报告（1—4） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22521/#review-61164
+
 ### EE2003 计算机原理与嵌入式系统
 
 专业课 · 计算机 · 电子
@@ -1943,15 +2849,21 @@
   - 2023—2024 学年（期末、原题、解答情况不明）：计算机原理与嵌入式系统 2023—2024 学年第二学期期末试卷 —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/23%E8%AE%A1%E5%B5%8C%E6%9C%9F%E6%9C%AB.pdf
   - 2023—2024 学年（类型不明、模拟练习、无解答）：计算机原理与嵌入式系统 2023—2024学年（公历年份未确认） 试卷（样卷/模拟） —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList） https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7/%E8%AE%A1%E5%B5%8C-%E5%8D%8A%E5%BC%80%E5%8D%B7-%E9%A2%98%E5%9E%8B%E7%A4%BA%E6%84%8F%E5%8D%B7%281%29.pdf
 - **作业、习题与小测**
+  - 计嵌第八章题目解析 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25202/#review-94948
   - 2025 年：计算机原理与嵌入式系统 · 2025 版作业参考答案（含解析） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-19 https://github.com/EpiHio/USTC_Automation/blob/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E8%AE%A1%E5%B5%8C%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 计算机原理与嵌入式系统课后练习（2024SP） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/ex_chapter-1-%5B2024SP%5D.docx（文件页）
   - 计算机原理与嵌入式系统作业参考答案 —— EpiHio/USTC_Automation（自动化专业课程资料）、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88
 - **学习资料**
+  - 计嵌大抄 v3（另一帖） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22522/#review-84882
   - 计嵌大抄（A4排版） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E5%A4%A7%E6%8A%84inA4.pdf
   - 计嵌复习提要（2024-05-23 版与 2025-05-22 v2） —— ly382965/USTC_learning_materials（6系课程资料）、feixu 学习资料分享站（AList）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/%E3%80%8A%E8%AE%A1%E5%B5%8C%E3%80%8B%E5%A4%8D%E4%B9%A0%E6%8F%90%E8%A6%8120240523.pdf
+  - 计算机原理与嵌入式系统：学习资料（10 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21287/#review-46454
+  - 计算机原理与嵌入式系统：学习资料（12 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25202/#review-94948
+  - 计算机原理与嵌入式系统：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21286/#review-84603
   - 计算机原理与嵌入式系统大抄 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-19 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/dxy%E7%9A%84%E5%A4%A7%E6%8A%84.docx（文件页）
   - 计算机原理与嵌入式系统大抄 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%A7%E6%8A%84
   - 计算机原理与嵌入式系统复习资料 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/2B%E6%98%A5%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/%E5%A4%8D%E4%B9%A0
+  - 计算机原理与嵌入式系统课程要点 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25202/#review-92780
   - 计算机原理与嵌入式系统课件 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Principles%20of%20Computers%20and%20Embedded%20Systems/ppt
   - 计算机原理与嵌入式系统课件（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%9F%E7%90%86%E4%B8%8E%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F
 - **大作业与考核作品**
@@ -1981,6 +2893,7 @@
   - 计算机网络复习总结 PDF（USTC 自动化资料库） —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-19 https://github.com/EpiHio/USTC_Automation.git（资料目录）
   - 计算机网络课程资料目录 —— qc-1/Course-Materials；核验于 2026-11-19 https://github.com/qc-1/Course-Materials/tree/main/%E8%AE%A1%E7%BD%91（资料目录）
   - 计算机网络课件（2025） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AF%BE%E4%BB%B6/cn-1%EF%BC%882025%EF%BC%89.pdf（文件页）
+  - 计算机网络B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25814/#review-104674
   - 计算机网络B复习记录与图示源码 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/blob/main/3A%E7%A7%8B%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9CB/%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95pdf%E5%8F%8A%E6%BA%90%E7%A0%81/%E8%AE%A1%E7%BD%91%E5%A4%8D%E4%B9%A0%E8%AE%B0%E5%BD%95.pdf（文件页）
 - **大作业与考核作品**
   - 计算机网络实验（RDT/滑动窗口） —— Mr-Philo/USTC_EEIS_Courses（6系本科资料）；核验于 2026-11-18 https://github.com/Mr-Philo/USTC_EEIS_Courses/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%AE%9E%E9%AA%8C
@@ -2029,15 +2942,28 @@
 - **学习资料**
   - 运筹学复习资料 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%A4%8D%E4%B9%A0.pdf
   - 运筹学基础讲义与专题（线性/非线性规划） —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E8%BF%90%E7%AD%B9%E5%AD%A6%E5%9F%BA%E7%A1%80%E8%AE%B2%E4%B9%89.pdf
+  - 运筹学A：学习资料（7 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25857/#review-104677
   - 运筹学A复习资料 —— EpiHio/USTC_Automation（自动化专业课程资料）；核验于 2026-11-18 https://github.com/EpiHio/USTC_Automation/tree/main/3A%E7%A7%8B%20%E8%BF%90%E7%AD%B9%E5%AD%A6A/%E5%A4%8D%E4%B9%A0
+
+### EE2009 数字信号处理A
+
+专业课 · 电子 · 通信
+
+- **试题与解析**
+  - 2020 年、2021 年、2023 年（类型不明、形式不明、解答情况不明）：数字信号处理A：试题与解析（4 个附件） —— USTC 评课社区 https://icourse.club/course/25882/#review-99351
+- **学习资料**
+  - 数字信号处理A：学习资料（7 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25882/#review-99351
 
 ### EE2501 电子技术基础
 
 专业课 · 电子
 
 - **学习资料**
+  - 电子技术基础 复习指北 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21877/#review-51598
   - 电子技术基础 模拟部分 重点记忆内容 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20%E6%A8%A1%E6%8B%9F%E9%83%A8%E5%88%86%20%E9%87%8D%E7%82%B9%E8%AE%B0%E5%BF%86%E5%86%85%E5%AE%B9.docx（文件页）
   - 电子技术基础 模拟部分（第7版）学习辅导与习题解答 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80%20%E6%A8%A1%E6%8B%9F%E9%83%A8%E5%88%86%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%AF%BC%E4%B8%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
+  - 电子技术基础：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21877/#review-78586
+  - 电子技术基础：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21877/#review-91638
 
 ### EE2502 数字电路
 
@@ -2045,11 +2971,18 @@
 
 - **试题与解析**
   - 2025 年（期末、回忆版、解答情况不明）：数字电路 2025 期末（回忆版） —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DigitalCircuit2025F.md
+- **作业、习题与小测**
+  - 数字电路 习题课重点题目与小测解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21880/#review-100969
+- **学习资料**
+  - 电子技术基础 数字部分 学习辅导与习题解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21880/#review-90524
+  - 数字电路课程纲要 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21882/#review-91821
 
 ### EE3003 微波技术基础
 
 专业课 · 电子 · 通信
 
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：微波技术基础 样卷 —— USTC 评课社区 https://icourse.club/course/24519/#review-102926
 - **作业、习题与小测**
   - 微波技术基础作业（2022） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Fundamentals%20of%20Microwave%20Technology/homework2022.pdf
 - **学习资料**
@@ -2080,6 +3013,15 @@
   - 计算机控制基础 作业讲解与答案（第 1—6 次） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3.pdf（文件页）
 - **学习资料**
   - 计算机控制基础常见公式表（CCS25Formula2col） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8E%A7%E5%88%B6%E5%9F%BA%E7%A1%80/%E4%BD%9C%E4%B8%9A%E8%AE%B2%E8%A7%A3%E8%B5%84%E6%96%99/%E5%B8%B8%E8%A7%81%E5%85%AC%E5%BC%8F-CCS25Formula2col.pdf（文件页）
+- **大作业与考核作品**
+  - 计算机控制基础 大实验要求与报告 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21863/#review-56334
+
+### EE3007 机器人创新实践
+
+专业课 · 自动化 · 创新创业
+
+- **学习资料**
+  - 机器人创新实践：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24523/#review-94947
 
 ### EE3502 机器学习B
 
@@ -2105,8 +3047,10 @@
 
 - **试题与解析**
   - 2025 年（类型不明、形式不明、解答情况不明）：数字图像处理A 2025 试卷 —— guch8017/USTC_CS_EXAM（跨课试卷索引） https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/DIP-A2025S.md
+  - 年份待确认（类型不明、形式不明、解答情况不明）：样卷 —— USTC 评课社区 https://icourse.club/course/25210/#review-94287
 - **作业、习题与小测**
   - 数字图像处理A作业1-7与习题答案 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A
+  - 祖传习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25210/#review-94287
 - **学习资料**
   - 2013 年：数字图像处理 · 2013 年习题课讲义（第 2–7 章） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-19 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E7%A5%96%E4%BC%A0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf（文件页）
   - 数字图像处理A复习纲要与习题课 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/blob/main/3SP%20Digital%20Image%20Processing%20A/%E4%B9%A0%E9%A2%98%E8%AF%BE250606.pdf（文件页）
@@ -2115,12 +3059,63 @@
   - 数字图像处理项目一/二源码与结果 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/tree/main/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86
   - 数字图像处理A实验源码（Python） —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/3SP%20Digital%20Image%20Processing%20A/%E5%AE%9E%E9%AA%8C%E6%BA%90%E7%A0%81
 
+### ESS1509 地球物理与地球演化
+
+通识课 · 地球科学
+
+- **学习资料**
+  - 21 世纪地球科学研究的十大科学问题（科学网） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21291/#review-84298
+
+### ESS2006 地球和空间科学基础
+
+专业课 · 地球科学 · 空间科学
+
+- **学习资料**
+  - 地球和空间科学基础 笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22015/#review-62345
+
+### ESS4002 航天电子电路设计
+
+专业课 · 地球科学 · 电子 · 空间科学
+
+- **学习资料**
+  - 航天电子电路设计：学习资料（13 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23569/#review-91407
+
+### ESS4004 航天器轨道动力学
+
+专业课 · 地球科学 · 力学 · 空间科学
+
+- **学习资料**
+  - 航天器轨道动力学 课程复习课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23094/#review-78812
+
+### FIN1503 证券理论与实务
+
+通识课 · 金融
+
+- **学习资料**
+  - REVISION —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6343/#review-27681
+
 ### FIN2001 经济学基础
 
 专业课 · 经济
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：经济学基础 25春期末（回忆版） —— USTC 评课社区 https://icourse.club/course/20334/#review-94169
 - **学习资料**
   - 经济学基础 手写笔记（第 1—14 章，6 页） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/0ee2732eddf33027a2ef17c07e3d2e2991a94a14.jpg
+
+### FIN3002 货币金融学
+
+专业课 · 金融
+
+- **学习资料**
+  - 货币金融学 2022 复习课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21296/#review-50119
+
+### FL1004 英语交流II
+
+通修课 · 外语
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：英语交流II 课内口语考试材料 —— USTC 评课社区 https://icourse.club/course/21299/#review-68990
 
 ### FL1005 英语读写I
 
@@ -2128,6 +3123,7 @@
 
 - **学习资料**
   - 英语读写I 2023 秋课程内容图示（阅读写作方法、课文讲解与课程总结，4 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/images/50d4877da32b3de113e64b0851ed87539bc9ff1f.png
+  - 英语读写I 词汇复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19200/#review-90131
   - 英语读写I 阅读策略课件内容（4 图） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/da9241d07b090536381b937b0512e0ac40ad8868.png
 
 ### FL1006 英语读写II
@@ -2135,13 +3131,22 @@
 通修课 · 外语
 
 - **学习资料**
+  - 英语读写II：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20079/#review-104883
   - 英语读写II（USTC 慕课，陈静） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000003035.html
+
+### FL1007 英语交流进阶I
+
+通修课 · 外语
+
+- **学习资料**
+  - 英语交流进阶I Semester Overview —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19210/#review-88339
 
 ### FL1010 英语读写进阶I
 
 通修课 · 外语
 
 - **学习资料**
+  - 英语读写进阶I：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19213/#review-75731
   - 英语读写进阶I（USTC 慕课，孙波） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000002518.html
 
 ### FL1011 英语读写进阶II
@@ -2149,6 +3154,8 @@
 通修课 · 外语
 
 - **学习资料**
+  - 英语读写进阶 II 第 5 讲课件（essentials） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20085/#review-104801
+  - 英语读写进阶 II 期末题型说明 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20085/#review-50086
   - 英语读写进阶II（USTC 慕课，孙波） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/mooc-ans/course/419670000002631.html?edit=false&articleId=20985
 
 ### FL1103A 跨文化交流
@@ -2158,12 +3165,29 @@
 - **学习资料**
   - 跨文化交流（USTC 慕课，李献伟） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000002565.html
 
+### FL1105A 学术英语读写
+
+通修课 · 外语
+
+- **作业、习题与小测**
+  - 学术英语读写 composition hw —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22110/#review-55134
+
 ### FL1506 德国语言与文化(初级)
 
 通识课 · 外语
 
 - **学习资料**
+  - 德国语言与文化(初级)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2545/#review-98206
   - 德国语言与文化(初级)（USTC 慕课，徐筱春） —— 中国科学技术大学慕课平台；核验于 2026-11-18 https://mooc.course.ustc.edu.cn/course/419670000002827.html
+
+### FL1507 德国语言与文化(中级)
+
+通识课 · 外语
+
+- **作业、习题与小测**
+  - 德语练习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2542/#review-85252
+- **学习资料**
+  - 德语2024春笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2542/#review-85252
 
 ### FS1001 “科学与社会”研讨课
 
@@ -2174,12 +3198,88 @@
 - **大作业与考核作品**
   - 摄像头手写数字识别项目（CNN + MNIST） —— Calvino-Elon/MINIST-and-camera-based-written-number-recognition；核验于 2026-11-19 https://github.com/Calvino-Elon/MINIST-and-camera-based-written-number-recognition（资料目录）
 
+### GEOP3005 空间探测基础实习
+
+专业课 · 地球科学 · 机械与仪器 · 空间科学
+
+- **学习资料**
+  - IDL+SSW 安装过程说明 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21780/#review-52427
+
+### GEOP3007 流体力学
+
+专业课 · 地球科学 · 力学
+
+- **试题与解析**
+  - 2022 年（类型不明、形式不明、解答情况不明）：流体力学 A 卷（2022-12-12 回忆版） —— USTC 评课社区 https://icourse.club/course/12858/#review-58482
+
+### GEOP3008 磁流体力学
+
+专业课 · 地球科学 · 物理 · 空间科学
+
+- **学习资料**
+  - 磁流体力学讲义公式含义表 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5042/#review-67011
+
+### GEOP3009 空间物理学导论
+
+专业课 · 地球科学 · 空间科学
+
+- **作业、习题与小测**
+  - 电离层思考题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22553/#review-96555
+  - 空间物理学导论 思考题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22553/#review-66646
+- **学习资料**
+  - 空间物理学导论 复习课课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22553/#review-66646
+  - 空间物理学导论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22553/#review-96691
+
+### GEOP4003 地震勘探引论
+
+专业课 · 地球科学
+
+- **大作业与考核作品**
+  - 期末大作业2020 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1526/#review-30312
+
+### GEOP4010 空间环境与航天工程
+
+专业课 · 地球科学 · 环境 · 空间科学
+
+- **学习资料**
+  - 空间环境与航天工程：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22019/#review-63420
+- **大作业与考核作品**
+  - 空间环境与航天工程课程论文 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22019/#review-63420
+
+### GEOP4011 遥感技术
+
+专业课 · 地球科学 · 空间科学
+
+- **试题与解析**
+  - 2022 年（期末、形式不明、解答情况不明）：遥感技术 2022 秋期末试卷（回忆版） —— USTC 评课社区 https://icourse.club/course/22000/#review-61918
+
+### GEOP4013 行星大气
+
+专业课 · 天文 · 地球科学
+
+- **试题与解析**
+  - 2023 年（期末、形式不明、解答情况不明）：行星大气 2023 秋期末回忆版 —— USTC 评课社区 https://icourse.club/course/23637/#review-79561
+
 ### GEOP4017 地质学与大地构造概论
 
 专业课 · 地球科学
 
 - **学习资料**
   - 地质学与大地构造概论 A4 手写复习纸（2 页） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/f6c812e39b4dc34efb80b342572a386c78ed80f6.jpg
+
+### HS1509M 经济与社会：如何用决策思维洞察生活
+
+通识课 · 经济
+
+- **学习资料**
+  - 经济与社会 直播课文档（2022-04-21） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19460/#review-49089
+
+### HS1519 中国文化史
+
+通识课 · 历史
+
+- **学习资料**
+  - 中国文化·第九讲：佛教文化课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/229/#review-86254
 
 ### HS1528 日本社会文化解读(双语课程)
 
@@ -2188,12 +3288,21 @@
 - **作业、习题与小测**
   - 日本社会文化解读学生作品（Op.159） —— dasWalpurgis/USTC（化学系、化学物理系课程资料）；核验于 2026-11-18 https://github.com/dasWalpurgis/USTC/tree/main/%E6%97%A5%E6%9C%AC%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E8%A7%A3%E8%AF%BB
 
+### HS1531 大学生心理学
+
+通识课 · 心理
+
+- **学习资料**
+  - 25春大学生心理学01_绪论 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25265/#review-92859
+
 ### HS1534 社会心理学
 
 通识课 · 心理
 
 - **作业、习题与小测**
   - 社会心理学期末调查与论文 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6
+- **学习资料**
+  - 社会心理学 2021 春课件包 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5056/#review-34460
 
 ### HS1551 交响乐赏析
 
@@ -2231,12 +3340,52 @@
 - **大作业与考核作品**
   - 元宇宙导论 2022春 大作业作品与报告 —— USTC 2022春《元宇宙导论》课程资源（hehaha68）；核验于 2026-11-18 https://github.com/hehaha68/USTC_2022Spring_An-introduction-to-Metaverse
 
+### HS1590 中国纸墨笔砚
+
+通识课 · 艺术 · 历史
+
+- **学习资料**
+  - 中国纸墨笔砚课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21335/#review-50445
+
+### HS1593 西方文明史
+
+通识课 · 历史
+
+- **大作业与考核作品**
+  - 西方文明史 大作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21813/#review-91948
+
+### HS1606 化学与艺术-手工印染
+
+通识课 · 化学 · 艺术
+
+- **学习资料**
+  - 化学印染资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24243/#review-103039
+- **大作业与考核作品**
+  - 化学扎染课程展示（学生作业） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24243/#review-96783
+
+### HS1611 当我们谈论科学时
+
+通识课 · 哲学 · 历史
+
+- **学习资料**
+  - 当我们谈论科学时：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22564/#review-105223
+
 ### HS1648 生活中的公共事务
 
 通识课 · 思政
 
 - **作业、习题与小测**
   - 生活中的公共事务课程作业与内参范文 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.docx（文件页）
+
+### HS1651 西方音乐通史
+
+通识课 · 艺术 · 历史
+
+- **学习资料**
+  - 西方音乐通史 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24787/#review-93767
+- **大作业与考核作品**
+  - 西方音乐通史 课堂展示：拉赫玛尼诺夫第二协奏曲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24787/#review-93767
+  - 西方音乐通史：实验与项目（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24787/#review-92936
 
 ### HS2001 科学、技术与工程导论
 
@@ -2264,33 +3413,58 @@
 通修课 · 思政 · 历史
 
 - **作业、习题与小测**
+  - 中国近现代史纲要 易混题目 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21340/#review-102955
   - 年份待确认（小测、原题、解答情况不明）：中国近现代史纲要 最后一次课小测题目（2 图） —— USTC 评课社区 https://icourse.club/uploads/files/740766acb98dd0e332082de270f431562b81bfc0.jpg
   - 中国近现代史纲要题库（2022春） —— feixu 学习资料分享站（AList）；核验于 2026-11-19 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81%E3%80%8B%E9%A2%98%E5%BA%93%EF%BC%882022%E6%98%A5%EF%BC%89.xls（文件页）
 - **学习资料**
+  - 中国近现代史纲要 简记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14036/#review-70487
   - 中国近现代史纲要 课堂内容记录 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/uploads/files/1b66acb0502febd20945ccb4ade01373d028b94e.png
+  - 中国近现代史纲要：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21340/#review-85185
+  - 中国近现代史纲要：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20145/#review-50104
+  - 中国近现代史纲要：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21340/#review-102955
 
 ### MARX1011 马克思主义基本原理
 
 通修课 · 思政
 
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：马克思主义基本原理 某年期末试题 —— USTC 评课社区 https://icourse.club/course/6863/#review-75527
 - **作业、习题与小测**
   - 2023年新版马原复习题库答案 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E9%A9%AC%E5%8E%9F%E5%B0%8F%E6%96%87%E6%A1%A3/2023%E5%B9%B4%E6%96%B0%E7%89%88%E9%A9%AC%E5%8E%9F%E5%A4%8D%E4%B9%A0%E9%A2%98%E5%BA%93%E7%AD%94%E6%A1%88.pdf
   - 马原第三、六、七章复习题 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%A4%8D%E4%B9%A0%E9%A2%98.pdf（文件页）
+  - 马原教材课后习题解答（2023 版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19492/#review-91330
 - **学习资料**
   - 《马克思主义基本原理》重点整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E3%80%8A%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E3%80%8B%E9%87%8D%E7%82%B9%E6%95%B4%E7%90%86.pdf（文件页）
   - 18年版《马原》期末复习资料 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/blob/master/3-%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%8E%9F%E7%90%86/%E9%A9%AC%E5%8E%9F/18%E5%B9%B4%E7%89%88%E3%80%8A%E9%A9%AC%E5%8E%9F%E3%80%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99-%E6%91%98%E4%BA%91%E5%AD%90.pdf
+  - 马克思主义基本原理 教学要点 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20920/#review-59289
+  - 马克思主义基本原理：学习资料（10 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6868/#review-4611
+  - 马克思主义基本原理：学习资料（11 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6868/#review-15908
+  - 马克思主义基本原理：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23671/#review-82069
+  - 马克思主义基本原理：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19492/#review-91330
+  - 马克思主义基本原理：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6867/#review-82080
   - 马克思主义基本原理概论笔记（基本概念、定理及推论） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes
   - 马克思主义基本原理概论课件压缩包 —— 15172658790/Blog；核验于 2026-11-18 https://github.com/15172658790/Blog/tree/branch_1/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91%E7%B1%BB/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA
+  - 马原各章原理知识框架（第一—七章） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6863/#review-75527
+  - 马原索引 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23671/#review-82994
+  - 马原提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6867/#review-38919
 
 ### MARX1012 思想道德与法治
 
 通修课 · 思政
 
 - **试题与解析**
+  - 2025 年（类型不明、形式不明、解答情况不明）：2025德法无纸化考试题库 —— USTC 评课社区 https://icourse.club/course/20930/#review-100348
   - 2023 年（期末、回忆版、无解答）：思想道德与法治 2023年期末参考回忆版 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc（文件页）
+  - 2021 年（类型不明、形式不明、解答情况不明）：2021秋季学期《思想道德与法治》课机考试题库 —— USTC 评课社区 https://icourse.club/course/20933/#review-42671
+  - 年份待确认（类型不明、形式不明、解答情况不明）：思想道德与法治：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/20930/#review-98354
+  - 年份待确认（类型不明、形式不明、解答情况不明）：思想道德与法治：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/20934/#review-96384
+  - 年份待确认（期末、形式不明、解答情况不明）：思想道德与法治2024-2025期末试题 —— USTC 评课社区 https://icourse.club/course/20934/#review-88521
 - **作业、习题与小测**
   - 思想道德与法治 2021秋机考题库 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B2021%E7%A7%8B%E6%9C%BA%E8%80%83%E9%A2%98%E5%BA%93.xlsx（文件页）
+  - 思政课后题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21948/#review-85186
 - **学习资料**
+  - 思想道德法治提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20930/#review-98354
+  - 思想道德与法治：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20930/#review-100348
   - 思想道德与法治课本索引 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB/%E3%80%8A%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%B8%8E%E6%B3%95%E6%B2%BB%E3%80%8B%E8%AF%BE%E6%9C%AC%E7%B4%A2%E5%BC%95.pdf（文件页）
 
 ### MARX1013 毛泽东思想和中国特色社会主义理论体系概论
@@ -2304,11 +3478,16 @@
   - 年份待确认（期中、原题、无解答）：毛泽东思想和中国特色社会主义理论体系概论 期中试题（选择与问答） —— USTC 评课社区 https://icourse.club/uploads/files/8939bef23963b6c1c78c5a7613b3a3ffb9f81c45.jpg（文件页）
 - **作业、习题与小测**
   - 23版毛概课后习题答案 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/23%E7%89%88%E6%AF%9B%E6%A6%82%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88.pdf
+  - 毛泽东思想和中国特色社会主义理论体系概论：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18072/#review-50115
 - **学习资料**
   - 《毛泽东思想和中国特色社会主义理论体系概论》（2021年版）笔记和课后习题（含考研真题）详解 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E3%80%8A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%94%E8%AE%B0%E5%92%8C%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%AF%A6%E8%A7%A3.pdf（文件页）
   - 毛概2021版分章知识点、练习题与复习重点 —— ly382965/USTC_learning_materials（6系课程资料）；核验于 2026-11-18 https://github.com/ly382965/USTC_learning_materials/tree/main/2SP%20Introduction%20to%20Mao%20Zedong%20Thought%20and%20Theoretical%20System%20of%20Socialism%20with%20Chinese%20Characteristics
   - 毛概大框架知识点梳理讲义 —— duxiaoyang-creator/USTC-Course-Materials（本科课程存档）；核验于 2026-11-18 https://github.com/duxiaoyang-creator/USTC-Course-Materials/blob/main/%E5%A4%A7%E4%BA%8C%E4%B8%8B/2023%E7%89%88%E6%AF%9B%E6%A6%82/%E6%AF%9B%E6%A6%82%E5%A4%A7%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86%E8%AE%B2%E4%B9%89.pdf
   - 毛概期末试卷考场抄写版（2022春） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%80%83%E5%9C%BA%E6%8A%84%E5%86%99%E7%89%88.docx
+  - 毛概提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18072/#review-50115
+  - 毛概一些资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18075/#review-93198
+  - 毛概总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18075/#review-85923
+  - 毛泽东思想和中国特色社会主义理论体系概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18075/#review-85184
 
 ### MARX1014 习近平新时代中国特色社会主义思想概论
 
@@ -2316,8 +3495,16 @@
 
 - **试题与解析**
   - 2023 年（期末、回忆版、无解答）：习近平新时代中国特色社会主义思想概论 2023年期末题（回忆版） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.doc（文件页）
+  - 2022 年（期末、形式不明、解答情况不明）：习概 2022 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/22354/#review-96639
 - **学习资料**
+  - 习概 2025 秋学期总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25826/#review-98252
+  - 习概笔记（Word 版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22355/#review-81611
+  - 习近平新时代中国特色社会主义思想概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24800/#review-100341
+  - 习近平新时代中国特色社会主义思想概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22354/#review-96639
+  - 习近平新时代中国特色社会主义思想概论：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24800/#review-98600
   - 习近平新时代中国特色社会主义思想概论笔记与课本索引 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%94%BF%E6%B2%BB%E7%B1%BB/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA/%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%B0%E6%97%B6%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%80%9D%E6%83%B3%E6%A6%82%E8%AE%BA%E3%80%8B%E7%AC%94%E8%AE%B0.pdf（文件页）
+- **大作业与考核作品**
+  - 习近平新时代中国特色社会主义思想概论：实验与项目（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24800/#review-100341
 
 ### MATH1001 数学分析(A1)
 
@@ -2367,10 +3554,17 @@
   - 2018 年（期末、形式不明、解答情况不明）：2018数学分析(A2)期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2018%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2018 年（期末、形式不明、含解答）：数学分析A2 2018 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2018MAA2finalsol.pdf
   - 2016 年（期末、形式不明、解答情况不明）：2016数学分析(A2)期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2016%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(A2)：试题与解析（4 个附件） —— USTC 评课社区 https://icourse.club/course/12392/#review-23487
+  - 年份待确认（期末、形式不明、解答情况不明）：MAA2 finalsol —— USTC 评课社区 https://icourse.club/course/2828/#review-104139
+  - 年份待确认（类型不明、形式不明、解答情况不明）：Reference answer for MAII —— USTC 评课社区 https://icourse.club/course/12392/#review-50171
 - **作业、习题与小测**
   - 2021 年（小测、形式不明、解答情况不明）：2021数学分析(A2)小测1 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B1.pdf（文件页）
   - 2021 年（小测、形式不明、解答情况不明）：2021数学分析(A2)小测2 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B2.pdf（文件页）
   - 2021 年（小测、形式不明、含解答）：2021数学分析(A2)小测3 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E7%9C%9F%E9%A2%98/2021%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A2%29%E5%B0%8F%E6%B5%8B3.pdf（文件页）
+  - 数学分析(A2)：作业与习题（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12392/#review-23487
+  - 数学分析教程下册 第10-13章习题整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2828/#review-104519
+- **学习资料**
+  - 数学分析(A2)：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2828/#review-104519
 
 ### MATH1003 数学分析(A3)
 
@@ -2383,14 +3577,19 @@
   - 2024 年（期中、回忆版、解答情况不明）：数学分析A3 2022 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2022MAA3mid.pdf
   - 2024 年（期末、形式不明、解答情况不明）：数学分析A3 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024MAA3final.pdf
   - 2024 年（期中、形式不明、解答情况不明）：数学分析A3 2024 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024MAA3mid.pdf
+  - 2024 年（期中、形式不明、解答情况不明）：数学分析A3 2024 期中评分标准 —— USTC 评课社区 https://icourse.club/course/13494/#review-87963
+  - 2023 年（期中期末混合、形式不明、解答情况不明）：数学分析(A3)：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/13494/#review-68716
   - 2023 年（期末、形式不明、解答情况不明）：数学分析A3 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023MAA3final.pdf
   - 2023 年（期中、形式不明、解答情况不明）：数学分析A3 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023MAA3mid.pdf
   - 2020 年（期中、形式不明、解答情况不明）：2020数学分析(A3)期中 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E7%9C%9F%E9%A2%98/2020%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E6%9C%9F%E4%B8%AD.pdf（文件页）
+  - 2020 年（期末、形式不明、解答情况不明）：数学分析A3 2020 秋期末试卷 —— USTC 评课社区 https://icourse.club/course/2831/#review-27987
   - 2019 年（期末、原题、解答情况不明）：2019数学分析(A3)期末 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E7%9C%9F%E9%A2%98/2019%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2019 年（期末、原题、解答情况不明）：数学分析A3 2019 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019MAA3final.pdf
   - 2017 年（期末、原题、解答情况不明）：2017数学分析(A3)期末 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E7%9C%9F%E9%A2%98/2017%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2017 年（期末、原题、解答情况不明）：数学分析A3 2017 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2017MAA3final.pdf
   - 2016 年（期末、原题、解答情况不明）：2016数学分析(A3)期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E7%9C%9F%E9%A2%98/2016%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28A3%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
+- **学习资料**
+  - 数学分析(A3)：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13494/#review-68716
 
 ### MATH1004 线性代数(A1)
 
@@ -2408,6 +3607,7 @@
   - 2023 年（期末、形式不明、含解答）：线性代数A1 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023LAA1finalsol.pdf
   - 2023 年（期末、原题、解答情况不明）：线性代数A1 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023LAA1final.pdf
   - 2023 年（期中、形式不明、解答情况不明）：线性代数A1 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023LAA1mid.pdf
+  - 2023 年（期末、形式不明、解答情况不明）：中国科学技术大学2023-2024学年线性代数A1期末考试答案 —— USTC 评课社区 https://icourse.club/course/13221/#review-85795
   - 2021 年（期末、原题、解答情况不明）：2021线性代数(A1)期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2021 年（期中、原题、解答情况不明）：2021线性代数(A1)期中 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2021%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E4%B8%AD.pdf（文件页）
   - 2019 年（期末、原题、解答情况不明）：2019线性代数(A1)期末 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2019%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A1%29%E6%9C%9F%E6%9C%AB.pdf（文件页）
@@ -2416,6 +3616,8 @@
   - 2013—2014 学年、2014—2015 学年、2017—2018 学年、2018—2019 学年、2020—2021 学年（期中期末混合、原题、解答情况不明）：线性代数(A)历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28A%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 年份待确认（期中期末混合、原题、无解答）：线性代数(B) 历年真题（B1/B2/A 合集） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
+  - 习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12386/#review-84696
+  - 线性代数(A1)：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13221/#review-85795
   - 线性代数习题解答（配套王新茂讲义） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%8E%8B%E6%96%B0%E8%8C%82%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
 - **教材与参考书**
   - Linear Algebra Done Right（第 4 版，作者开放获取） —— Linear Algebra Done Right（Sheldon Axler）；免登录公开全文 PDF；核验于 2026-11-19 https://linear.axler.net/LADR4e.pdf（文件页）
@@ -2443,6 +3645,8 @@
   - 年份待确认（期中期末混合、原题、无解答）：线性代数(B) 历年真题（B1/B2/A 合集） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
 - **作业、习题与小测**
   - 线性代数习题解答（配套王新茂讲义） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%8E%8B%E6%96%B0%E8%8C%82%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
+- **学习资料**
+  - 线性代数：相似标准形专题笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18270/#review-72509
 
 ### MATH1006 数学分析(B1)
 
@@ -2463,6 +3667,9 @@
   - 2021 年（期末、形式不明、解答情况不明）：2021秋数学分析(B1)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2021 年（期中、形式不明、解答情况不明）：2021秋数学分析(B1)期中参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2020 年（期末、形式不明、解答情况不明）：2020秋数学分析(B1)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 2020 年（期中、形式不明、解答情况不明）：2020数分B1期中考试卷和答案 —— USTC 评课社区 https://icourse.club/course/2840/#review-29420
+  - 2020 年（期中、形式不明、解答情况不明）：20秋-数学分析(B1)期中考试解析与评分细则 —— USTC 评课社区 https://icourse.club/course/21918/#review-57454
+  - 2020 年（期中、形式不明、解答情况不明）：数学分析(B1) 2020秋 期中答案 —— USTC 评课社区 https://icourse.club/course/13486/#review-69910
   - 2019 年（期中、原题、含解答）：2019 秋数学分析(B1)期中考试解析与评分细则 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
   - 2019 年（期末、形式不明、解答情况不明）：2019秋数学分析(B1)期末考试解析与评分细则 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
   - 2018 年（期末、形式不明、解答情况不明）：2018秋数学分析(B1)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
@@ -2472,15 +3679,25 @@
   - 年份待确认（期中、原题、含解答）：2019秋数学分析(B1)期中考试解析与评分细则 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
   - 年份待确认（期中期末混合、原题、无解答）：数学分析(B) 历年考试真题汇编（2025 I 版） —— Passiflora-sago 课程主页与讲义发布 https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/maexams_2025-v1.pdf（文件页）
   - 2003—2004 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2011—2012 学年、2012—2013 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年（期中期末混合、原题、解答情况不明）：数学分析(B)历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(B1) 往年真题 —— USTC 评课社区 https://icourse.club/course/26560/#review-99720
   - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(B1)历年真题压轴题及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8E%8B%E8%BD%B4%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(B1)历年真题sxl答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（期末、形式不明、解答情况不明）：数学分析B1 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/MAB1exams.zip
 - **作业、习题与小测**
+  - 数学分析(B1)：作业与习题（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13486/#review-69910
   - 2016 年（小测、形式不明、解答情况不明）：数学分析B1 2016 小测 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016MAB1test.pdf
 - **学习资料**
+  - 21-22年数分学习笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19511/#review-41066
   - 第1-3章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC1-3%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第4-7章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC4-7%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
+  - 数分习题课讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19516/#review-77292
   - 2024 年：数学分析(B1) 2024 秋课程讲义（助教整理，v2.0） —— Passiflora-sago 课程主页与讲义发布；核验于 2026-11-19 https://github.com/Passiflora-sago/Passiflora-sago.github.io/releases/download/v1.0.0/24FallMAB1.pdf（文件页）
+  - 数学分析(B1) 笔记 17 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19512/#review-105840
+  - 数学分析(B1) 学习指导v1.0 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26560/#review-99720
+  - 数学分析(B1)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19517/#review-90507
+  - 数学分析(B1)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19512/#review-100047
+  - 数学分析(B1)：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19509/#review-68125
+  - 数学分析(B1)：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13486/#review-69910
   - 数学分析(B1)笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 数学分析(B1)习题课讲义 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf（文件页）
 
@@ -2509,11 +3726,19 @@
   - 2018 年（期末、形式不明、解答情况不明）：2018春数学分析(B2)期末参考答案 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E6%98%A5%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2018 年（期中、形式不明、解答情况不明）：2018春数学分析(B2)期中参考答案 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2018%E6%98%A5%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2003—2004 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2011—2012 学年、2012—2013 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年（期中期末混合、原题、解答情况不明）：数学分析(B)历年真题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 年份待确认（期中、形式不明、解答情况不明）：数学分析(B2) 期中答案 —— USTC 评课社区 https://icourse.club/course/20161/#review-102432
   - 年份待确认（类型不明、形式不明、解答情况不明）：数学分析(B2)历年真题sxl答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf（文件页）
+- **作业、习题与小测**
+  - 数学分析(B2) 2018–2019 春季练习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13222/#review-70644
+  - 数学分析(B2) 教材习题答案（第一部分） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2847/#review-83583
 - **学习资料**
   - 第11章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC11%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第12章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC12%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
   - 第13章复习提纲 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E7%AC%AC13%E7%AB%A0%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf（文件页）
+  - 数学分析(B2) 课程讲稿 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13223/#review-46622
+  - 数学分析(B2)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13222/#review-86578
+  - 数学分析(B2)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2848/#review-104511
+  - 数学分析(B2)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20161/#review-104266
   - 数学分析(B2)笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 数学分析(B2)习题课讲义 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B%29%E6%8F%90%E7%BA%B2%E5%8F%8A%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B2%29%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf（文件页）
 
@@ -2549,6 +3774,8 @@
   - 2025 年（期中、原题、含解答）：线性代数B1 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025FLAB1mid.pdf（资料目录）
   - 2025 年（期中、原题、含解答）：线性代数B1 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025SLAB1mid.pdf（资料目录）
   - 2024 年（期末、形式不明、解答情况不明）：线性代数B1 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024SLAB1final.pdf
+  - 2024 年（期末、形式不明、解答情况不明）：线性代数B1 2024F final ans —— USTC 评课社区 https://icourse.club/course/5481/#review-85352
+  - 2022 年、2023 年（期中期末混合、形式不明、解答情况不明）：线性代数(B1)：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/5483/#review-80978
   - 2020 年（期末、形式不明、解答情况不明）：线性代数B1 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020FLAB1final.pdf
   - 2019 年（期末、形式不明、解答情况不明）：线性代数B1 2019 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019FLAB1final.pdf
   - 2009—2010 学年（期中、原题、无解答）：2009-2010第二学期线性代数(B1)期中考试试卷 —— fandahao17/USTC-CS-Courses-Resource（历史课程资料） https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2009%E2%80%942010%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf（文件页）
@@ -2566,13 +3793,27 @@
   - 2016—2017 学年（期中、原题、含解答）：2016-2017第二学期线性代数(B1)期中参考答案 —— feixu 学习资料分享站（AList）、fandahao17/USTC-CS-Courses-Resource（历史课程资料） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2016-2017%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2016—2017 学年（期中、原题、无解答）：2016-2017第一学期线性代数B1期中考试试卷 —— fandahao17/USTC-CS-Courses-Resource（历史课程资料） https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7.pdf（文件页）
   - 2016—2017 学年（期末、原题、无解答）：2016-2017第一学期线性代数B1期终考试试卷 —— fandahao17/USTC-CS-Courses-Resource（历史课程资料） https://raw.githubusercontent.com/fandahao17/USTC-CS-Courses-Resource/master/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1/2016%E2%80%942017%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F%E3%80%8A%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0B1%E3%80%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：往年真题 —— USTC 评课社区 https://icourse.club/course/5470/#review-81575
   - 年份待确认（期中期末混合、原题、无解答）：线性代数(B) 历年真题（B1/B2/A 合集） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：线性代数(B1)：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/5484/#review-18340
+  - 年份待确认（类型不明、形式不明、解答情况不明）：线性代数(B1)：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/24268/#review-84581
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：线性代数(B1)：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/5480/#review-13641
   - 年份待确认（类型不明、原题、含解答）：线性代数(B1)历年真题及参考解答（2024版） —— feixu 学习资料分享站（AList）、USTC 评课社区 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：线性代数(B1)历年真题sxl答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98sxl%E7%AD%94%E6%A1%88.pdf（文件页）
 - **学习资料**
+  - 《线性代数B1》定理整理（未校对版本） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5492/#review-31976
+  - 《线性代数B1》讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5481/#review-85352
+  - 理论力学习题课·线性代数复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5484/#review-18340
+  - 线性代数 01 第一章 向量 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21346/#review-94919
+  - 线性代数(B1) 2025-09 讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25296/#review-94790
+  - 线性代数(B1) 讲义 2023S —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5481/#review-73657
   - 线性代数(B1) 线代B1（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E7%BA%BF%E4%BB%A3B1
+  - 线性代数(B1)：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18268/#review-86625
   - 线性代数(B1)笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 线性代数(B1)习题讲义 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B1%29%E4%B9%A0%E9%A2%98%E8%AE%B2%E4%B9%89.pdf（文件页）
+  - 线性代数(B1)习题讲义合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5470/#review-81575
+  - 线性代数期中复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24268/#review-84581
+  - How Linear Algebra B1 Should Have Been —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5469/#review-87167
 
 ### MATH1010 线性代数(B2)
 
@@ -2590,6 +3831,11 @@
   - 2021 年（期末、形式不明、解答情况不明）：线性代数B2 2021 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2021LAB2final.pdf
   - 2020 年（期中、形式不明、解答情况不明）：2020线性代数(B2)期中 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/2020%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B2%29%E6%9C%9F%E4%B8%AD.pdf（文件页）
   - 年份待确认（期中期末混合、原题、无解答）：线性代数(B) 历年真题（B1/B2/A 合集） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%28B%29%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：线性代数(B2)：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/5495/#review-88028
+  - 年份待确认（期末、形式不明、解答情况不明）：线性代数B2 2022—2023 学年期末试卷 —— USTC 评课社区 https://icourse.club/course/5493/#review-89897
+  - 年份待确认（期中、形式不明、解答情况不明）：线性代数B2 2023 秋期中参考答案 —— USTC 评课社区 https://icourse.club/course/5494/#review-81564
+- **学习资料**
+  - 线性代数趣味应用案例 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/5494/#review-78102
 
 ### MATH1012 微积分II
 
@@ -2603,6 +3849,8 @@
 专业课 · 计算机 · 数学
 
 - **试题与解析**
+  - 2024 年（期末、形式不明、解答情况不明）：24春计算方法期末回忆版 —— USTC 评课社区 https://icourse.club/course/24269/#review-85502
+  - 2023 年（期末、形式不明、解答情况不明）：计算方法 2023春期末 —— USTC 评课社区 https://icourse.club/course/21350/#review-67755
   - 2022 年（类型不明、形式不明、解答情况不明）：2022春（李治平） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E6%98%A5%EF%BC%88%E6%9D%8E%E6%B2%BB%E5%B9%B3%EF%BC%89.pdf（文件页）
   - 2022 年（类型不明、形式不明、解答情况不明）：2022春（李治平整理） —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E6%98%A5%EF%BC%88%E6%9D%8E%E6%B2%BB%E5%B9%B3%E6%95%B4%E7%90%86%EF%BC%89.pdf（文件页）
   - 2022 年（类型不明、形式不明、解答情况不明）：2022秋 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2022%E7%A7%8B.pdf（文件页）
@@ -2661,9 +3909,20 @@
   - 2014—2015 学年（类型不明、形式不明、解答情况不明）：2014-2015第一学期 (6) —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F/2014-2015%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%20%286%29.JPG（文件页）
   - 2016—2017 学年（类型不明、形式不明、解答情况不明）：2016-2017第二学期 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2016-2017%E7%AC%AC%E4%BA%8C%E5%AD%A6%E6%9C%9F.doc（文件页）
   - 2016—2017 学年（类型不明、形式不明、解答情况不明）：2016-2017第一学期 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/2016-2017%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：计算方法 往年真题 —— USTC 评课社区 https://icourse.club/course/20952/#review-94108
+- **作业、习题与小测**
+  - 计算方法：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20952/#review-94108
+  - 计算方法：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21350/#review-76125
 - **学习资料**
   - 计算方法 计算方法（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
   - 计算方法 计算方法（notes） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
+  - 计算方法 简要 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24269/#review-85502
+  - 计算方法 数值计算方法扩充教程 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20952/#review-94108
+  - 计算方法 自编讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22586/#review-66650
+  - 计算方法：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21925/#review-102038
+  - 计算方法：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21350/#review-46583
+  - 计算方法习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21925/#review-106377
+  - 计算方法总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21350/#review-76125
 - **大作业与考核作品**
   - 计算方法 2022 实验（GitHub 仓库） —— xXuHaiyang/USTC_Computation2022_Lab；核验于 2026-11-19 https://github.com/xXuHaiyang/USTC_Computation2022_Lab
   - 计算方法 实验（USTC-Course） —— USTC-Resource/USTC-Course；核验于 2026-11-19 https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95
@@ -2710,6 +3969,17 @@
   - 代数学基础期中复习讲义 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0%E8%AE%B2%E4%B9%89.pdf（文件页）
   - 代数学基础往年题精选 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80/%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80%E5%BE%80%E5%B9%B4%E9%A2%98%E7%B2%BE%E9%80%89.pdf（文件页）
 
+### MATH2502 微分方程概论
+
+专业课 · 数学
+
+- **试题与解析**
+  - 2025 年（期末、形式不明、解答情况不明）：微分方程概论 2025 秋期末试卷（回忆版） —— USTC 评课社区 https://icourse.club/course/22362/#review-98809
+  - 年份待确认（期末、形式不明、解答情况不明）：微分方程概论：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/22362/#review-89851
+- **学习资料**
+  - 微分方程概论习题课材料（2023 秋） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22362/#review-85362
+  - 微分方程习题课讲义（2025） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22362/#review-101241
+
 ### MATH3001 近世代数
 
 专业课 · 数学
@@ -2722,6 +3992,7 @@
   - 2025 年（期中、形式不明、解答情况不明）：近世代数 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025alg2mid2.pdf
   - 2024 年（期中、原题、解答情况不明）：近世代数 2024 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024alg2mid1.pdf
   - 2024 年（期中、原题、解答情况不明）：近世代数 2024 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024alg2mid2.pdf
+  - 2024 年（期中期末混合、形式不明、解答情况不明）：近世代数：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/6520/#review-83625
   - 2023 年（期末、原题、解答情况不明）：近世代数 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023alg2final.pdf
   - 2023 年（期中、形式不明、解答情况不明）：近世代数 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023alg2Hmid.pdf
   - 2023 年（期中、原题、解答情况不明）：近世代数 2023 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023alg2mid.pdf
@@ -2735,6 +4006,10 @@
   - 2019 年（期末、原题、解答情况不明）：近世代数 2019 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019alg2final.pdf
   - 2019 年（期中、形式不明、解答情况不明）：近世代数 2019 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019alg2Hmid.pdf
   - 2017 年（期中、形式不明、解答情况不明）：近世代数 2017 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2017alg2Hmid.pdf
+- **作业、习题与小测**
+  - 近世代数：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13213/#review-47004
+- **学习资料**
+  - 近世代数-讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/6518/#review-104518
 
 ### MATH3002 实分析
 
@@ -2773,6 +4048,7 @@
 - **学习资料**
   - 实分析 实分析Real Analysis（lectures） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
   - 实分析 实分析Real Analysis（notes） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://github.com/Weiyu-USTC/USTCmath-stat/tree/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis
+  - 实分析 习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24273/#review-83894
   - 实分析（2026 春，刘聪文）课程主页：讲义、作业与习题课材料 —— 实分析 2026 春课程主页（刘聪文）；核验于 2026-11-19 https://cardigan0214.github.io/course/26SpringRA.html
 
 ### MATH3003 拓扑学
@@ -2881,6 +4157,15 @@
   - 2015 年（期末、形式不明、解答情况不明）：2015春期末 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2015%E6%98%A5%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2015 年（期中、形式不明、解答情况不明）：2015春期中 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%EF%BC%88%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%EF%BC%89/2015%E6%98%A5%E6%9C%9F%E4%B8%AD.pdf（文件页）
   - 2013 年（期末、形式不明、解答情况不明）：概率论（数院） 2013 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2013Fprobfinal.pdf
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：概率论：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/3839/#review-83898
+- **作业、习题与小测**
+  - 概率论后三章习题解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3839/#review-93147
+  - 概率论作业（2024 秋） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3839/#review-95955
+- **学习资料**
+  - 概率论：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/12816/#review-64780
+  - 概率论：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3839/#review-54830
+  - 概率论课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3839/#review-32835
+  - 概率论习题课讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3839/#review-100689
 
 ### MATH3008 复分析
 
@@ -2918,6 +4203,9 @@
   - 2014 年（期中、原题、解答情况不明）：2014复分析期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2014%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
   - 2014 年（期末、形式不明、解答情况不明）：复分析 2014 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2014complexfinal.pdf
   - 2011 年（期末、形式不明、解答情况不明）：2011复分析期末考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/2011%E5%A4%8D%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
+- **学习资料**
+  - 复分析 习题课讲义合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/17982/#review-71214
+  - 复分析：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13834/#review-67300
 
 ### MATH3009 微分几何
 
@@ -2936,6 +4224,8 @@
   - 2019 年（期中、形式不明、解答情况不明）：微分几何 2019 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2019DGmid.pdf
   - 2018 年（期末、形式不明、解答情况不明）：微分几何 2018 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2018DGfinal.pdf
   - 2017 年（期末、原题、解答情况不明）：微分几何 2017 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2017DGfinal.pdf
+- **学习资料**
+  - 微分几何：学习资料（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21912/#review-79725
 
 ### MATH3010 组合学
 
@@ -2945,6 +4235,7 @@
   - 2026 年（期中、形式不明、解答情况不明）：组合学 2026 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2026combmid.pdf
   - 2025 年（期中、回忆版、含解答）：组合学 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025combmid.pdf
   - 2024 年（期末、形式不明、解答情况不明）：组合学 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024combfinal.pdf
+  - 2023 年（期中期末混合、形式不明、解答情况不明）：组合学：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/20622/#review-72061
   - 2020 年（期末、原题、解答情况不明）：组合学 2020 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2020combfinal.pdf
   - 2016 年（期末、形式不明、解答情况不明）：组合学 2016 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2016combfinal.pdf
 
@@ -2953,9 +4244,11 @@
 专业课 · 数学
 
 - **试题与解析**
+  - 2025 年（期末、形式不明、解答情况不明）：2025 秋运筹学期末试卷 —— USTC 评课社区 https://icourse.club/course/23685/#review-99460
   - 年份待确认（类型不明、原题、解答情况不明）：运筹学 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/exam/exam.pdf
   - 年份待确认（类型不明、形式不明、解答情况不明）：运筹学 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/exam/exam.md
 - **作业、习题与小测**
+  - 运筹学 期中小测 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23685/#review-72634
   - 运筹学 运筹学（homework） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E7%AC%AC%E4%B8%80%E7%AB%A0%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
 - **学习资料**
   - 运筹学 运筹学（lectures） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/blob/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BF%90%E7%AD%B9%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89v1.pdf（文件页）
@@ -2977,6 +4270,23 @@
 
 - **学习资料**
   - 极值与概率图论 课程讲义（马杰，2020 春） —— 马杰 极值与概率图论课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~jiema/ExtrGT2020/（资料目录）
+  - 组合学进阶：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21915/#review-74938
+
+### MATH3016 数理统计进阶
+
+专业课 · 数学 · 统计
+
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：数理统计进阶 期末试卷 —— USTC 评课社区 https://icourse.club/course/21913/#review-88815
+- **学习资料**
+  - 数理统计进阶 笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21913/#review-88815
+
+### MATH3701 华罗庚讨论班(H)
+
+专业课 · 数学
+
+- **学习资料**
+  - 复动力系统若干对象（讨论班报告） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24813/#review-94099
 
 ### MATH4001 回归分析
 
@@ -2995,6 +4305,13 @@
 - **大作业与考核作品**
   - 算法基础 2022SP 实验（陈雪） —— txtxj/USTC-Algorithm；核验于 2026-11-18 https://github.com/txtxj/USTC-Algorithm
 
+### MATH4004 现代概率方法导论
+
+专业课 · 数学 · 统计
+
+- **学习资料**
+  - 集中不等式讲义（第 1 部分） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26410/#review-102127
+
 ### ME1501 机器人设计与制作
 
 通识课 · 自动化 · 机械与仪器 · 创新创业
@@ -3003,6 +4320,44 @@
   - RoboGame 2022 机器人项目（BlackStar） —— Deagle-PrintStream/BlackStar_ustc_robogame_2022；核验于 2026-11-19 https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022（资料目录）
   - RoboGame 机器人项目（epsilonGoal） —— MichaelFW-ui/RoboGame-epsilonGoal；核验于 2026-11-19 https://github.com/MichaelFW-ui/RoboGame-epsilonGoal（资料目录）
 
+### ME2006 理论力学B
+
+专业课 · 力学
+
+- **作业、习题与小测**
+  - 理论力学 答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24828/#review-91294
+  - 理论力学 答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25793/#review-105672
+- **学习资料**
+  - 理论力学B：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23690/#review-97971
+
+### ME2010 材料力学A
+
+专业课 · 力学 · 材料
+
+- **试题与解析**
+  - 2017 年、2019 年（类型不明、形式不明、解答情况不明）：材料力学A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/22076/#review-83592
+
+### ME2015 工程材料及成型技术基础
+
+专业课 · 材料
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：工程材料试卷 —— USTC 评课社区 https://icourse.club/course/25801/#review-101081
+
+### ME2501 材料力学B
+
+专业课 · 力学 · 材料
+
+- **学习资料**
+  - 材料力学B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21953/#review-100708
+
+### ME4011 振动理论
+
+专业课 · 力学
+
+- **作业、习题与小测**
+  - 振动理论及应用（第 5 版）课后答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2636/#review-41556
+
 ### MED1502 人体结构、功能与疾病
 
 通识课 · 医学
@@ -3010,12 +4365,49 @@
 - **学习资料**
   - 人体结构、功能与疾病 重点整理、考纲与分章笔记 —— USTC 评课社区；核验于 2026-11-18 https://icourse.club/course/21356/
 
+### MED2003 生理学
+
+专业课 · 医学 · 生命科学
+
+- **学习资料**
+  - 生理学 复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14252/#review-36643
+
 ### MIL1001 军事理论
 
 通修课 · 思政
 
 - **作业、习题与小测**
   - 军事理论在线测试答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88.md（文件页）
+
+### MNSC3008 数据分析编程基础
+
+专业课 · 计算机 · 统计
+
+- **学习资料**
+  - 数据分析编程基础 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21360/#review-71219
+
+### NNM1501 VR/AR/MR技术创意设计与应用
+
+通识课 · 计算机 · 艺术
+
+- **大作业与考核作品**
+  - SwordGame 课程设计程序（Windows） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20982/#review-72958
+
+### NSE3006 反应堆物理
+
+专业课 · 核科学
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：反应堆物理：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/18700/#review-83993
+- **学习资料**
+  - 反应堆物理复习笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18700/#review-83993
+
+### NSE4009 加速器理论基础
+
+专业课 · 核科学
+
+- **学习资料**
+  - 加速器理论基础：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25763/#review-98352
 
 ### PHYS1001A 力学A
 
@@ -3025,15 +4417,21 @@
   - 2026 年（期末、原题、解答情况不明）：2025-2026秋力学A期末 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025-2026%E7%A7%8B%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2025 年（期末、形式不明、含解答）：2025力学A期末答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2024 年（期末、回忆版、解答情况不明）：力学 2024 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/24FaMechAFinal.pdf
+  - 2023 年（期中、形式不明、解答情况不明）：2023期中 —— USTC 评课社区 https://icourse.club/course/19588/#review-90767
   - 2023 年（期末、原题、解答情况不明）：力学 2023 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/23FaMechAFinal.pdf
   - 2023 年（期中、形式不明、解答情况不明）：力学 2023 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23FaMechAMid.pdf
   - 2021 年（期末、回忆版、解答情况不明）：2021力学A期末试题回忆版 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86%E7%89%88.pdf（文件页）
   - 2021 年（期末、形式不明、解答情况不明）：力学 2021 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/21FaMechAFinal.pdf
   - 2021 年（期中、形式不明、解答情况不明）：力学 2021 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/21FaMechAMid.pdf
   - 2020 年（期中、回忆版、解答情况不明）：2020秋向守平班力学A期中试题回忆版 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E7%A7%8B%E5%90%91%E5%AE%88%E5%B9%B3%E7%8F%AD%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86%E7%89%88.pdf（文件页）
+  - 2016 年、2017 年、2018 年、2020 年（期中期末混合、形式不明、解答情况不明）：力学A：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/19589/#review-43609
   - 2024—2025 学年（期末、形式不明、解答情况不明）：2024-2025秋季学期 力学A(AH AL)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024-2025%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%20%E5%8A%9B%E5%AD%A6A%28AH%20AL%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：力学历年考题 —— USTC 评课社区 https://icourse.club/course/19967/#review-27995
 - **学习资料**
+  - 力学A：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22033/#review-90305
   - 力学A大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/%E5%8A%9B%E5%AD%A6A%E5%A4%A7%E6%8A%84.pdf（文件页）
+  - 物理学科学习指南8.16 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19588/#review-90767
+  - 斜抛运动专题结论 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22033/#review-90137
 
 ### PHYS1001AL 力学A(L)
 
@@ -3054,8 +4452,16 @@
   - 2022 年（类型不明、原题、解答情况不明）：2022力学B答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2022%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2021 年（类型不明、原题、解答情况不明）：2021力学B答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2021 年（类型不明、原题、解答情况不明）：2021力学B试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6B%E8%AF%95%E5%8D%B7.pdf（文件页）
+  - 2021 年（期中、形式不明、解答情况不明）：力学B 2021 春期中试卷 —— USTC 评课社区 https://icourse.club/course/20179/#review-49998
   - 2020 年（类型不明、形式不明、解答情况不明）：2020力学B答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E5%8A%9B%E5%AD%A6B%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2020 年（类型不明、原题、解答情况不明）：2020力学B试题 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2020%E5%8A%9B%E5%AD%A6B%E8%AF%95%E9%A2%98.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：力学历年考题 —— USTC 评课社区 https://icourse.club/course/19595/#review-45833
+  - 年份待确认（类型不明、形式不明、解答情况不明）：力学B 往年真题 —— USTC 评课社区 https://icourse.club/course/20179/#review-84332
+- **作业、习题与小测**
+  - 力学B 作业（一份） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20178/#review-46266
+- **学习资料**
+  - 力学B 复习课课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20179/#review-49998
+  - 力学B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19594/#review-92925
 
 ### PHYS1001H 力学(H)
 
@@ -3079,11 +4485,18 @@
   - 2025 年（期末、回忆版、解答情况不明）：热学 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpThermAFinal.pdf
   - 2024 年（期末、回忆版、解答情况不明）：热学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24SpThermAFinal.pdf
   - 2022 年（期末、原题、解答情况不明）：热学 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22SpThermAFinal.pdf
+  - 2017 年（类型不明、形式不明、解答情况不明）：2017年热学公共题部分 —— USTC 评课社区 https://icourse.club/course/20182/#review-86729
+  - 年份待确认（期末、形式不明、解答情况不明）：热学A：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/20182/#review-33854
 - **作业、习题与小测**
   - 2023 春热学参考题（wxf 班） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/2023%E6%98%A5wxf%E7%8F%AD%E7%83%AD%E5%AD%A6%E5%8F%82%E8%80%83%E9%A2%98.docx（文件页）
+  - 大学物理热学习题库试题与答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20187/#review-36580
+  - 热学A：作业与习题（5 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-33854
 - **学习资料**
   - 《热学》（第二版，张玉民）习题解答 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E3%80%8A%E7%83%AD%E5%AD%A6%E3%80%8B%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%8C%E5%BC%A0%E7%8E%89%E6%B0%91%EF%BC%89%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf（文件页）
   - 《热学习题分析与解答》朱晓东 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E3%80%8A%E7%83%AD%E5%AD%A6%E4%B9%A0%E9%A2%98%E5%88%86%E6%9E%90%E4%B8%8E%E8%A7%A3%E7%AD%94%E3%80%8B%E6%9C%B1%E6%99%93%E4%B8%9C.pdf（文件页）
+  - 《热学A》知识点整理（未校对版本） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-86729
+  - 热学笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20189/#review-69168
+  - 热学讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20182/#review-32160
   - 热学A全书要点 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E5%85%A8%E4%B9%A6%E8%A6%81%E7%82%B9.pdf（文件页）
   - 热学A知识点整理 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%AD%A6/%E7%83%AD%E5%AD%A6A%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.docx（文件页）
 
@@ -3093,6 +4506,10 @@
 
 - **试题与解析**
   - 2025 年（期末、形式不明、解答情况不明）：热学 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpThermBFinal.pdf
+  - 2019 年（期中、形式不明、解答情况不明）：2019力热春期中考试参考答案 —— USTC 评课社区 https://icourse.club/course/19599/#review-36830
+  - 年份待确认（类型不明、形式不明、解答情况不明）：往年真题 —— USTC 评课社区 https://icourse.club/course/20194/#review-85779
+- **作业、习题与小测**
+  - 热学B第二次习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19598/#review-95127
 
 ### PHYS1003A 光学A
 
@@ -3107,16 +4524,29 @@
   - 2022—2023 学年（期末、形式不明、解答情况不明）：光学A2022-2023学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2022-2023%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2023—2024 学年（期末、原题、解答情况不明）：光学A2023-2024学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2023-2024%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2024—2025 学年（期末、原题、解答情况不明）：光学A2024-2025学年第一学期期末考试试卷及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A2024-2025%E5%AD%A6%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
+- **作业、习题与小测**
+  - 光学A 题集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-76343
+  - 光学A习题集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21012/#review-90459
 - **学习资料**
+  - 复习光学 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-76343
   - 光学A 助教习题课讲义（Optics2023.pdf） —— 光学A 助教习题课讲义（home.ustc.edu.cn）；核验于 2026-11-19 http://home.ustc.edu.cn/~shiyaowei040126/Optics2023.pdf（文件页）
+  - 光学A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24002/#review-78596
+  - 光学A：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21013/#review-39224
   - 光学A笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E5%85%89%E5%AD%A6A%E7%AC%94%E8%AE%B0.pdf（文件页）
+  - 光学A知识点整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21013/#review-43504
 
 ### PHYS1003B 光学B
 
 通修课 · 物理
 
+- **作业、习题与小测**
+  - 光学B 习题解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21395/#review-102569
+  - 交叉学科光学习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21395/#review-56738
 - **学习资料**
   - 《光学B》第一次习题课录像 —— B 站课程习题课录像；核验于 2026-11-19 https://www.bilibili.com/video/BV1L34y1V7V2
+  - 光学复习讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21394/#review-88983
+  - 光学公式 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21397/#review-82691
+  - 光学B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21395/#review-102569
 
 ### PHYS1004A 电磁学A
 
@@ -3131,23 +4561,47 @@
   - 2024 年（期中、形式不明、解答情况不明）：电磁学 2024 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24SpEMAMidLS.pdf
   - 2023 年（期中、原题、解答情况不明）：电磁学 2023 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23SpEMAMid.pdf
   - 2021 年（期中、原题、解答情况不明）：2021春电磁学A期中试题 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6A%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98.pdf（文件页）
+  - 2021 年（期末、形式不明、解答情况不明）：电磁学A 2021 期末公共题 —— USTC 评课社区 https://icourse.club/course/24421/#review-86524
   - 2020 年（期末、原题、解答情况不明）：电磁学 2020 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/20SpEMAFinal.pdf
   - 2018 年（期末、原题、解答情况不明）：电磁学 2018 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/18SpEMAFinal.pdf
   - 2017 年（期末、原题、含解答）：电磁学 2017 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/17SpEMAFinal.pdf
+- **作业、习题与小测**
+  - 电磁学与电动力学（第二版）习题解答 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24421/#review-86524
+  - 电磁学与电动力学（上册）习题参考答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/13856/#review-86733
+  - 电磁学A 小测三次合集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20200/#review-36575
 - **学习资料**
+  - 电磁学A 磁场习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/20200/#review-36575
+  - 电磁学A 课程笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4937/#review-69650
+  - 电磁学A 例题选讲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23138/#review-70033
+  - 电磁学A：学习资料（8 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4933/#review-4600
   - 电磁学A笔记和大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6A%E7%AC%94%E8%AE%B0%E5%92%8C%E5%A4%A7%E6%8A%84.pdf（文件页）
+
+### PHYS1004B 电磁学B
+
+通修课 · 物理
+
+- **试题与解析**
+  - 2020 年（期末、形式不明、解答情况不明）：2020春《电磁学》期末考试试卷 —— USTC 评课社区 https://icourse.club/course/14403/#review-86577
+- **学习资料**
+  - 电磁学B 讲义 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4969/#review-59283
+  - 电磁学B：学习资料（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14403/#review-86577
 
 ### PHYS1004C 电磁学C
 
 通修课 · 物理
 
 - **试题与解析**
+  - 2025 年（期中、形式不明、解答情况不明）：电磁学C 2025 秋期中试卷 —— USTC 评课社区 https://icourse.club/course/25875/#review-100045
   - 2023 年（期末、原题、解答情况不明）：2023秋电磁学C期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2023%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
   - 2022 年（期末、原题、解答情况不明）：2022秋电磁学C期末试卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2022%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7.pdf（文件页）
   - 2021 年（期末、原题、解答情况不明）：2021秋电磁学C期末试卷(只有公共题) —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%28%E5%8F%AA%E6%9C%89%E5%85%AC%E5%85%B1%E9%A2%98%29.pdf（文件页）
   - 2021 年（期中、形式不明、解答情况不明）：2021秋电磁学C期中考试 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2021%E7%A7%8B%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
+  - 年份待确认（期末、形式不明、解答情况不明）：电磁学C 期末试题（回忆版） —— USTC 评课社区 https://icourse.club/course/4975/#review-98313
+  - 年份待确认（类型不明、形式不明、解答情况不明）：电磁学C 试卷合集（压缩包） —— USTC 评课社区 https://icourse.club/course/4977/#review-60784
 - **学习资料**
+  - 电磁学C 磁学部分期末复习提纲（手写） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/4977/#review-78846
   - 电磁学C 电磁学C（notes） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E7%94%B5%E7%A3%81%E5%AD%A6C
+  - 电磁学C 电学部分总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25875/#review-97448
   - 电磁学C第三次习题课 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf（文件页）
   - 电磁学C期末考试知识总结 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf（文件页）
   - 电磁学C期中考试知识总结 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/%E7%94%B5%E7%A3%81%E5%AD%A6C%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf（文件页）
@@ -3166,6 +4620,7 @@
   - 2025 年（期末、回忆版、含解答）：电磁学 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpEMHFinal.pdf
   - 2024 年（期中、回忆版、解答情况不明）：2024春电磁学H期中考试 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E7%A3%81%E5%AD%A6/2024%E6%98%A5%E7%94%B5%E7%A3%81%E5%AD%A6H%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
   - 2024 年（期末、回忆版、解答情况不明）：电磁学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24SpEMHFinal.pdf
+  - 2024 年（期中、形式不明、解答情况不明）：电磁学(H) 2024sp_midterm —— USTC 评课社区 https://icourse.club/course/24422/#review-86019
   - 2023 年（期中、原题、解答情况不明）：电磁学 2023 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23SpEMAMid.pdf
 
 ### PHYS1005A 原子物理A
@@ -3176,16 +4631,43 @@
   - 2026 年（期末、形式不明、解答情况不明）：原子物理 2026 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/26SpAtomAFinal.pdf
   - 2025 年（期末、原题、解答情况不明）：原子物理 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaAtomAFinal.pdf
   - 2025 年（期末、原题、解答情况不明）：原子物理 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25SpAtomAFinal.pdf
+  - 2025 年（类型不明、形式不明、解答情况不明）：原子物理 2025 秋小测答案 —— USTC 评课社区 https://icourse.club/course/24423/#review-99248
   - 2022 年（期末、形式不明、解答情况不明）：原子物理 2022 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/22SpAtomAFinal.pdf
   - 2018 年（期末、形式不明、解答情况不明）：原子物理 2018 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/18SpAtomAFinal.pdf
   - 2016 年（期末、形式不明、解答情况不明）：原子物理 2016 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/16SpAtomAFinal.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理A：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21408/#review-48342
+  - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理A：试题与解析（7 个附件） —— USTC 评课社区 https://icourse.club/course/21408/#review-84825
+- **学习资料**
+  - 原子物理 笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21407/#review-94548
+  - 原子物理 简记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21411/#review-87080
+  - 原子物理A：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21409/#review-90701
 
 ### PHYS1005B 原子物理B
 
 通修课 · 物理
 
 - **试题与解析**
+  - 2025 年（类型不明、形式不明、解答情况不明）：原子物理B 2025 试卷 —— USTC 评课社区 https://icourse.club/course/21414/#review-95486
   - 2017 年（期末、形式不明、含解答）：原子物理（乙）2017 期末考试题及答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86/%E5%8E%9F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%B9%99%EF%BC%892017%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.doc（文件页）
+  - 年份待确认（期末、形式不明、解答情况不明）：原子物理B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21022/#review-103626
+  - 年份待确认（类型不明、形式不明、解答情况不明）：原子物理B：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21021/#review-93895
+- **作业、习题与小测**
+  - 原子物理B 教材课后答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21022/#review-103626
+  - 原子物理B 习题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21022/#review-55565
+- **学习资料**
+  - 原子物理B 复习笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21021/#review-100861
+  - 原子物理B 复习公式 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21022/#review-49500
+  - 原子物理B 课件内容整理笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21021/#review-93895
+  - 原子物理B 期末复习 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21413/#review-48922
+  - 原子物理B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21021/#review-37410
+  - 原子物理B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21022/#review-103626
+
+### PHYS1007 大学物理II
+
+通修课 · 物理
+
+- **学习资料**
+  - 物理笔记 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21417/#review-105265
 
 ### PHYS1008A 大学物理-基础实验A
 
@@ -3197,6 +4679,7 @@
 - **大作业与考核作品**
   - 大物实验报告·一级（实验报告合集） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%C2%B7%E4%B8%80%E7%BA%A7.zip（文件页）
   - 大学物理-基础实验数据与报告（孙旭磊） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%8A%A5%E5%91%8A.zip（文件页）
+  - 大学物理-基础实验A：实验与项目（7 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22951/#review-64856
 
 ### PHYS1008B 大学物理-基础实验B
 
@@ -3204,12 +4687,26 @@
 
 - **作业、习题与小测**
   - 年份待确认（小测、原题、解答情况不明）：大学物理-基础实验B 入门/出门测题目 —— USTC 评课社区 https://icourse.club/uploads/images/84940ec6e2d1e28ffe03a1da67dab1f1f81c4735.jpg
+  - 一级大雾预习测&出门测 Release 4.0 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21419/#review-50054
 - **学习资料**
+  - 大学物理-基础实验B：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24426/#review-84217
   - 大学物理·基础实验讲义与指导（含绪论与实验指导） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%C2%B7%E5%9F%BA%E7%A1%80%E5%AE%9E%E9%AA%8C%E8%AE%B2%E4%B9%89%E4%B8%8E%E6%8C%87%E5%AF%BC.zip（文件页）
   - 大学物理实验报告 LaTeX 模板 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8ALatex%E6%A8%A1%E6%9D%BF.zip（文件页）
+  - 一级大雾参考资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24426/#review-83695
 - **大作业与考核作品**
   - 大物实验报告·一级（实验报告合集） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%C2%B7%E4%B8%80%E7%BA%A7.zip（文件页）
   - 大学物理-基础实验数据与报告（孙旭磊） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%E4%B8%8E%E6%8A%A5%E5%91%8A.zip（文件页）
+  - 大学物理-基础实验B：实验与项目（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25421/#review-93326
+
+### PHYS1009B 大学物理-综合实验B
+
+通修课 · 物理
+
+- **学习资料**
+  - 大学物理-综合实验B 互助文档（v1.0） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21901/#review-55186
+  - 大学物理-综合实验B：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24913/#review-96682
+- **大作业与考核作品**
+  - 二级大物实验报告 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23770/#review-80116
 
 ### PHYS1010 量子物理
 
@@ -3219,7 +4716,10 @@
   - 2025 年（期末、形式不明、解答情况不明）：2025期末 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2025%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2024 年（期末、形式不明、解答情况不明）：2024期末-1 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-1.jpg（文件页）
   - 2024 年（期末、形式不明、解答情况不明）：2024期末-2 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/2024%E6%9C%9F%E6%9C%AB-2.jpg（文件页）
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：量子物理：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/22658/#review-66056
+  - 年份待确认（期中期末混合、形式不明、解答情况不明）：量子物理：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/21423/#review-83640
   - 年份待确认（期末、模拟练习、解答情况不明）：期末样卷 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：信智学部量子物理试卷（回忆版） —— USTC 评课社区 https://icourse.club/course/22658/#review-63813
 - **作业、习题与小测**
   - 第二次作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx（文件页）
   - 第六次作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx（文件页）
@@ -3227,6 +4727,7 @@
   - 第四次作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pptx（文件页）
   - 第五次作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 第一次作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 量子物理：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21420/#review-85044
   - 量子物理（作业12-29） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BD%9C%E4%B8%9A12-29%EF%BC%89.pdf（文件页）
   - 量子物理习题解答_别的班的 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94_%E5%88%AB%E7%9A%84%E7%8F%AD%E7%9A%84.zip（文件页）
   - 作业答案 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf（文件页）
@@ -3241,6 +4742,8 @@
   - 量子物理-课堂笔记-4 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-4.pdf（文件页）
   - 量子物理-课堂笔记-5 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-5.pdf（文件页）
   - 量子物理-课堂笔记-6 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0-6.pdf（文件页）
+  - 量子物理：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22658/#review-66056
+  - 量子物理：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21420/#review-94405
   - 量子物理（第二次习题课） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%EF%BC%89.pdf（文件页）
   - 量子物理笔记-涂涛班 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E7%AC%94%E8%AE%B0-%E6%B6%82%E6%B6%9B%E7%8F%AD.pdf（文件页）
   - 量子物理例题 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%EF%BC%88%E4%BF%A1%E8%AE%A1%EF%BC%89/4%20%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%A4%87%E8%80%83/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E4%BE%8B%E9%A2%98.pdf（文件页）
@@ -3261,6 +4764,13 @@
 - **试题与解析**
   - 年份待确认（类型不明、形式不明、解答情况不明）：量子精密测量 考试三道大题 —— USTC 评课社区 https://icourse.club/uploads/files/174876154dd1731212df2a529978a393ac19698e.jpg
 
+### PHYS3005 受控热核聚变导论
+
+专业课 · 核科学 · 物理
+
+- **试题与解析**
+  - 2025 年（类型不明、形式不明、解答情况不明）：聚变试卷2025 —— USTC 评课社区 https://icourse.club/course/22661/#review-94525
+
 ### PHYS4002 核与粒子物理导论
 
 专业课 · 核科学 · 物理
@@ -3268,50 +4778,107 @@
 - **学习资料**
   - 核与粒子物理导论笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA/%E6%A0%B8%E4%B8%8E%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E5%AF%BC%E8%AE%BA%E7%AC%94%E8%AE%B0.pdf（文件页）
 
+### PLNT3006 天体生物学
+
+专业课 · 天文 · 生命科学
+
+- **作业、习题与小测**
+  - 天体生物学 2023 秋平时作业题目辑录 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23638/#review-84565
+
 ### STAT2002 概率论与数理统计
 
 专业课 · 数学 · 统计
 
 - **试题与解析**
   - 2026 年（期末、原题、解答情况不明）：概率论与数理统计 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaProbStatFinal.pdf
+  - 2026 年（类型不明、形式不明、解答情况不明）：概统试卷和参考答案2026春 —— USTC 评课社区 https://icourse.club/course/21052/#review-105456
   - 2025 年（期末、原题、含解答）：概率论与数理统计 2024 秋期末（2025 年 1 月） —— USTC 物理课程往年试卷、USTC 数学课程往年试卷、guch8017/USTC_CS_EXAM（跨课试卷索引） https://ustcphyexam.github.io/USTC/24FaProbStatFinal.pdf（资料目录）
   - 2024 年（期末、原题、含解答）：概率论与数理统计 2023 秋期末（2024 年 1 月） —— USTC 物理课程往年试卷、USTC 数学课程往年试卷、guch8017/USTC_CS_EXAM（跨课试卷索引） https://ustcphyexam.github.io/USTC/23FaProbStatFinal.pdf（资料目录）
   - 2024 年（期末、原题、解答情况不明）：概率论与数理统计 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24SpProbStatFinal.pdf
+  - 2024 年（类型不明、形式不明、解答情况不明）：概统试卷和参考答案202401 —— USTC 评课社区 https://icourse.club/course/3855/#review-79302
   - 2023 年（期末、原题、解答情况不明）：概率论与数理统计 2023 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23SpProbStatFinal.pdf
   - 2023 年（期末、原题、含解答）：概率论与数理统计2022-2023第一学期试题及答案 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷、USTC 数学课程往年试卷、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A12022-2023%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 2023 年（类型不明、形式不明、解答情况不明）：概统2023秋试卷及答案 —— USTC 评课社区 https://icourse.club/course/21048/#review-79734
+  - 2023 年（类型不明、形式不明、解答情况不明）：概统试卷和参考答案2023 —— USTC 评课社区 https://icourse.club/course/21831/#review-96744
   - 2022 年（期末、原题、解答情况不明）：概率论与数理统计 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22SpProbStatFinal.pdf
   - 2020 年（类型不明、形式不明、解答情况不明）：概率论与数理统计 2020 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882020.pdf
   - 2019 年（类型不明、形式不明、解答情况不明）：概率论与数理统计 2019 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882019.pdf
   - 2018 年（类型不明、形式不明、解答情况不明）：概率论与数理统计 2018 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%BB%9F%E8%AF%95%E5%8D%B7%E5%92%8C%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%882018.pdf
   - 2024—2025 学年（期中、原题、无解答）：概率论与数理统计 2025 春期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025Sprobstatmid.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计 大题备考 —— USTC 评课社区 https://icourse.club/course/3855/#review-98594
   - 年份待确认（期末、原题、含解答）：概率论与数理统计 期末合集（2003—2022，含解答） —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/probstatexams.pdf（文件页）
   - 年份待确认（期中、原题、解答情况不明）：概率论与数理统计 试卷 —— guidongnan/ustc_ds_undergraduate_course https://raw.githubusercontent.com/guidongnan/ustc_ds_undergraduate_course/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88.pdf
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计 往年真题 —— USTC 评课社区 https://icourse.club/course/3859/#review-91500
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（2 个附件） —— USTC 评课社区 https://icourse.club/course/21830/#review-85049
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/3854/#review-88202
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/23792/#review-79892
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/3860/#review-56400
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/3860/#review-57241
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版，含手写页） —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版） —— feixu 学习资料分享站（AList）、USTC 评课社区、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 年份待确认（类型不明、形式不明、解答情况不明）：概统往年题2003-2021 —— USTC 评课社区 https://icourse.club/course/3847/#review-43506
+  - 年份待确认（类型不明、形式不明、解答情况不明）：近十年概统往年题合集 —— USTC 评课社区 https://icourse.club/course/21053/#review-103976
 - **作业、习题与小测**
   - 《概率论与数理统计》（缪柏其、张伟平）参考答案（GitHub 仓库） —— Stardust-math/Reference-Answer；核验于 2026-11-19 https://github.com/Stardust-math/Reference-Answer
   - 概率论与数理统计 概率论与数理统计（homework） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/HW%20answer.pdf（文件页）
   - 概率论与数理统计 试卷 —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://raw.githubusercontent.com/Wloner0809/ustc-course-resource/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E9%9B%86%E7%AD%94%E6%A1%88.pdf
+  - 概率论与数理统计：作业与习题（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21052/#review-39545
+  - 概率论与数理统计习题集 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23792/#review-79892
+  - 概率论与数理统计习题集及答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3847/#review-43506
+  - 概率统计习题册 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3847/#review-78579
+  - 概统答案-习题答案、知识和思路(包含在remark部分) —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-103976
+  - 概统习题第一章1-15 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3854/#review-87488
 - **学习资料**
+  - 概率论部分复习资料-2026.1.5 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3854/#review-88202
   - 概率论与数理统计 3-概率论与数理统计（notes） —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（lectures） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/blob/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%90%9C%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89/%E4%B9%A0%E9%A2%98%E8%AF%BE1.pdf（文件页）
   - 概率论与数理统计 概率论与数理统计（notes） —— guidongnan/ustc_ds_undergraduate_course；核验于 2026-11-18 https://github.com/guidongnan/ustc_ds_undergraduate_course/tree/main/%E8%AF%95%E5%8D%B7%E5%8F%8A%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— Wloner0809/ustc-course-resource；核验于 2026-11-18 https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
   - 概率论与数理统计 概率论与数理统计（notes） —— USTC-Resource/USTC-Course；核验于 2026-11-18 https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1
+  - 概率论与数理统计 教案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-40210
   - 概率论与数理统计 课程主页（张伟平） —— 张伟平 概率论与数理统计课程页；核验于 2026-11-19 http://staff.ustc.edu.cn/~zwp/teach/Prob-Stat/probstat.htm
   - 概率论与数理统计 课程资料（Wloner0809 仓库目录） —— Wloner0809/ustc-course-resource；核验于 2026-11-19 https://github.com/Wloner0809/ustc-curriculum-resource/tree/main/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
   - 概率论与数理统计 试卷 —— li-qi-lin/USTC-Course-Materials-Sharing；核验于 2026-11-18 https://raw.githubusercontent.com/li-qi-lin/USTC-Course-Materials-Sharing/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/Prob_Stat_Concepts_Examples.pdf
+  - 概率论与数理统计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3859/#review-91500
+  - 概率论与数理统计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3847/#review-78579
+  - 概率论与数理统计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3855/#review-98594
+  - 概率论与数理统计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-103976
+  - 概率论与数理统计：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3847/#review-43506
+  - 概率论与数理统计：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21831/#review-96744
   - 概率论与数理统计笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.md（文件页）
   - 概率论与数理统计笔记 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0.pdf（文件页）
   - 概率论与数理统计公式 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%85%AC%E5%BC%8F.doc（文件页）
+  - 概率论与数理统计课件(刘杰_2024F) —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/3847/#review-90448
+  - 期末-概率论部分总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21053/#review-105446
+
+### STAT3001 机器学习方法
+
+专业课 · 人工智能 · 统计
+
+- **试题与解析**
+  - 年份待确认（类型不明、形式不明、解答情况不明）：机器学习方法：试题与解析（5 个附件） —— USTC 评课社区 https://icourse.club/course/22067/#review-99219
 
 ### STAT3002 实用统计软件
 
 专业课 · 计算机 · 统计
 
+- **作业、习题与小测**
+  - 实用统计软件作业压缩包 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18336/#review-25685
+- **学习资料**
+  - 实用统计软件课件压缩包 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18336/#review-25685
 - **大作业与考核作品**
   - 实用统计软件 期末项目：LOL 赛事数据分析报告 —— LUNARKN1GHT/lol_esports；核验于 2026-11-19 https://github.com/LUNARKN1GHT/lol_esports（资料目录）
+  - 实用统计软件 R 项目压缩包 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18336/#review-25685
+
+### STAT3003 统计算法基础
+
+专业课 · 计算机 · 统计
+
+- **试题与解析**
+  - 年份待确认（期末、形式不明、解答情况不明）：统计算法基础 2025 期末试卷 —— USTC 评课社区 https://icourse.club/course/22668/#review-98667
+- **学习资料**
+  - 统计算法基础课件压缩包（2024 秋） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22668/#review-96344
 
 ### WZ206001M 人工智能原理与算法
 
@@ -3322,7 +4889,7 @@
 
 ## 来源清单与声明
 
-第三方资料的具体授权以各来源与文件页面的声明为准，不因根目录的 MIT/CC 声明自动覆盖试卷、课件或教材。本站只导航公开页面，不转载文件。
+第三方资料的具体授权以各来源与文件页面的声明为准，不因根目录的 MIT/CC 声明自动覆盖试卷、课件或教材。本站只链接原始来源，不转载文件；部分评课社区附件需登录后下载。
 
 ### Oscar Levin · Discrete Mathematics: An Open Introduction
 
@@ -3692,8 +5259,8 @@
 - 类型：网站
 - 地址：<https://icourse.club/>
 - 维护者：USTC评课社区（jenny42 等）
-- 说明：公开课程页可核对课程号和开课信息（课程号可能附教学班后缀），点评内部分附件要求登录，未绕过。旧索引提供的复变函数 B 与线代 B1 两个附件直链实测匿名返回 206 application/pdf；只登记已证实公开可取的直链，文件权利归原作者。 评课社区历史资料线索回查起点：2026-10-29T09:33:55Z（北京时间 2026-10-29 17:33:55）。以后增量回查从此刻（含）开始；此前不全站重复筛查。本次包内未能匿名核验的链接不计收录。
-- 被正式资料引用：74 处
+- 说明：公开课程页可核对课程号和开课信息（课程号可能附教学班后缀）。评课社区原帖可公开定位、附件已通过正常登录核对的资料，可标为需登录并链接到原帖；不登记登录后才出现的附件直链，不转载文件。文件权利归原作者。 评课社区历史资料线索回查起点：2026-10-29T09:33:55Z（北京时间 2026-10-29 17:33:55）。以后增量回查从此刻（含）开始；此前不全站重复筛查。
+- 被正式资料引用：810 处
 
 ### USTC 数学课程往年试卷
 
@@ -5892,6 +7459,18 @@
 
 ### 001046 数值分析
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25072/#review-102390>
+  - 查询：数值分析 2026 课程课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001046
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2710/#review-64183>
+  - 查询：数值分析 期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001046
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2710/#review-64403>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -5930,6 +7509,12 @@
 
 ### 001065 计算机图形学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6120/#review-102909>
+  - 查询：计算机图形学 考试知识点整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001065
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6120/#review-102909>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
@@ -6205,6 +7790,42 @@
 
 ### 001505 复变函数A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1656/#review-77366>
+  - 查询：复变函数A 纲要
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001505
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13479/#review-95816>
+  - 查询：复变函数A PPT
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001505
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13479/#review-43194>
+  - 查询：复变函数A知识点整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001505
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1651/#review-74450>
+  - 查询：复变函数A 复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001505
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13479/#review-42274>
+  - 查询：2021复变A期末
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001505
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13479/#review-38073>
+  - 查询：复变函数A：学习资料（16 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001505
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1651/#review-16776>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 32 条候选的原页、附件与课程归属，核对公开可访问性
@@ -6261,6 +7882,30 @@
 
 ### 001506 数理方程A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2972/#review-22209>
+  - 查询：第一节课课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001506
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2980/#review-85815>
+  - 查询：数理方程真题(改版)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001506
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2966/#review-46873>
+  - 查询：数理方程A：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001506
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2963/#review-49683>
+  - 查询：2020数理方程A期末试卷及答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001506
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2980/#review-103091>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 24 条候选的原页、附件与课程归属，核对公开可访问性
@@ -6365,6 +8010,36 @@
 
 ### 001548 复变函数B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1670/#review-18832>
+  - 查询：复变函数B 上古密卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21917/#review-87356>
+  - 查询：复变函数B 往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18949/#review-73366>
+  - 查询：复变函数B 2022 秋期中测验参考答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14559/#review-16210>
+  - 查询：复变函数B 课程课件与讲义（第 1—7 章）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21917/#review-96890>
+  - 查询：复变函数讲义（未校对版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001548
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20626/#review-97761>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 39 条候选的原页、附件与课程归属，核对公开可访问性
@@ -6666,6 +8341,126 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：mp-gh-001549-lectures-a44a32。
   - 来源 ID：gh-kobe972
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14346/#review-22669>
+  - 查询：数理方程B：学习资料（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2988/#review-70382>
+  - 查询：数理方程复习指导
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14347/#review-14424>
+  - 查询：2020数理方程B期末参考答案与解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14346/#review-64783>
+  - 查询：期末复习笔记整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2995/#review-93588>
+  - 查询：数理方程复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2992/#review-93741>
+  - 查询：数理方程B 答案（2013-2020）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2992/#review-93741>
+  - 查询：数学物理方程A讲稿
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14346/#review-85062>
+  - 查询：作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14347/#review-14424>
+  - 查询：数理方程作业题目解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24052/#review-83947>
+  - 查询：课后习题解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2995/#review-92842>
+  - 查询：数理方程B：学习资料（8 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2992/#review-93741>
+  - 查询：数理方程B 作业答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21191/#review-53574>
+  - 查询：复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24052/#review-83947>
+  - 查询：数理方程B 复习指导
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21190/#review-64490>
+  - 查询：hw
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14346/#review-85062>
+  - 查询：数理方程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/17985/#review-83962>
+  - 查询：数理方程复习指导
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20211/#review-31786>
+  - 查询：数学物理方法 复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14346/#review-90296>
+  - 查询：习题课
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/17985/#review-83962>
+  - 查询：数理方程真题汇总
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：001549
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017.pdf>
   - 查询：旧库历史资料逐条复核（duplicate）
@@ -7912,6 +9707,12 @@
 
 ### 001705 微分几何(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21906/#review-98492>
+  - 查询：微分几何(H)：作业与习题（15 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001705
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21906/#review-98492>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 25 条候选的原页、附件与课程归属，核对公开可访问性
@@ -8229,6 +10030,12 @@
 
 ### 002001 固体物理A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1392/#review-103144>
+  - 查询：固体物理期末总复习指南
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：002001
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1386/#review-94517>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -8343,6 +10150,18 @@
 
 ### 002122 半导体器件原理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1168/#review-66045>
+  - 查询：半导体器件原理：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：002122
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1168/#review-103157>
+  - 查询：半导体器件原理：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：002122
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1168/#review-103157>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
@@ -8461,6 +10280,18 @@
 
 ### 003056 物理化学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24060/#review-84859>
+  - 查询：物理化学B：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003056
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4255/#review-51137>
+  - 查询：物理化学B：作业与习题（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003056
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4255/#review-51137>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -8632,6 +10463,24 @@
 
 ### 003151 量子化学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6675/#review-46209>
+  - 查询：量子化学必会知识点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003151
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6675/#review-46209>
+  - 查询：量子化学 往年考卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003151
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6673/#review-103478>
+  - 查询：量子化学review
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003151
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 10 条候选，覆盖 2 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -8686,6 +10535,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：仅凭文件名和扫描形态，正文未核
   - 来源 ID：chembio-daswalpurgis
+  - 课程代码：003154
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4267/#review-100396>
+  - 查询：2025年秋季物理化学期末试题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：003154
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4267/#review-92410>
   - 查询：评课包历史资料逐条复核（blocked）
@@ -8849,6 +10704,30 @@
 
 ### 003158 量子物理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25996/#review-97584>
+  - 查询：量子物理：作业与习题（8 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003158
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13498/#review-28595>
+  - 查询：量子物理 习题课（2021-03-03）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003158
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24590/#review-100505>
+  - 查询：量子物理 课程笔记（英文）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003158
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25996/#review-97584>
+  - 查询：量子物理 期末模拟题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：003158
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9001,6 +10880,78 @@
 
 ### 004040 计算物理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21886/#review-56590>
+  - 查询：计算物理总复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21886/#review-90367>
+  - 查询：计算物理考试说明（2024 秋）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24592/#review-91820>
+  - 查询：计算物理纲要
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21886/#review-73616>
+  - 查询：计算物理考试说明（2023）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21886/#review-58116>
+  - 查询：计算物理B 2022 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24592/#review-87828>
+  - 查询：计算物理背记资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18285/#review-38282>
+  - 查询：计算物理B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18285/#review-39506>
+  - 查询：计算物理B 2021 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24593/#review-98837>
+  - 查询：计算物理考试公式清单
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21874/#review-91486>
+  - 查询：计算物理B 2023 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21874/#review-75153>
+  - 查询：计算物理总结笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21886/#review-58116>
+  - 查询：计算物理课程讲义（PDF）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004040
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24592/#review-98765>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9181,6 +11132,18 @@
 
 ### 004139 等离子体物理导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5245/#review-61791>
+  - 查询：等离子体导论课程资料压缩包（2022 秋）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004139
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5245/#review-98874>
+  - 查询：等离子体物理导论讲义（2025 秋）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：004139
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5245/#review-98874>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9439,6 +11402,12 @@
 
 ### 005151 实验力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26254/#review-104071>
+  - 查询：实验力学：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：005151
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26254/#review-104071>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9464,6 +11433,18 @@
 
 ### 006125 信息论A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/592/#review-102750>
+  - 查询：26年信息论A期末(回忆版)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006125
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/592/#review-102750>
+  - 查询：信息论A：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006125
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9645,6 +11626,12 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：006200
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26601/#review-102740>
+  - 查询：26春统计信号_回忆版_2
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006200
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26601/#review-102740>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9753,6 +11740,42 @@
 
 ### 006502 信号与系统B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21213/#review-85059>
+  - 查询：2024信号与系统笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21214/#review-95214>
+  - 查询：信号与系统B：试题与解析（9 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21214/#review-95214>
+  - 查询：信号与系统B 期末练习题目
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21212/#review-105239>
+  - 查询：信号与系统B 往年题合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22458/#review-103884>
+  - 查询：信号与系统B笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21214/#review-95214>
+  - 查询：信号与系统B：学习资料（31 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：006502
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21212/#review-105239>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9784,6 +11807,12 @@
 
 ### 007001 流体力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21997/#review-79594>
+  - 查询：流体力学：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21997/#review-79594>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -9904,6 +11933,12 @@
 
 ### 007167 普通天文学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3321/#review-32468>
+  - 查询：普通天文学 复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007167
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 3 条候选，覆盖 1 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -9954,6 +11989,24 @@
 
 ### 007185 等离子体物理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5229/#review-59492>
+  - 查询：等离子体物理复习思考题和要点2023
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007185
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5229/#review-58487>
+  - 查询：等离子体物理 plasma复习要点+作业题尝试解
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007185
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5229/#review-58487>
+  - 查询：等离子体物理 Plsama_PPT_All
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007185
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5229/#review-1964>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10054,6 +12107,12 @@
 
 ### 007249 地球化学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13571/#review-56951>
+  - 查询：地球化学 公式汇总
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007249
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13571/#review-56951>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10123,6 +12182,18 @@
 
 ### 007277 大气探测学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22681/#review-106709>
+  - 查询：大气探测学讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007277
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22681/#review-88035>
+  - 查询：大气探测复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007277
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10186,6 +12257,12 @@
 
 ### 007281 遥感气象学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6569/#review-50117>
+  - 查询：大气物理进阶复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007281
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10211,6 +12288,24 @@
 
 ### 007282 空间探测仪器原理与方法
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5177/#review-62702>
+  - 查询：空间探测仪器原理与方法作业20221028
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007282
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5177/#review-62702>
+  - 查询：讲义-空间探测仪器原理与方法
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007282
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5177/#review-87840>
+  - 查询：空间探测仪器原理与方法讲义(Overleaf Version)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007282
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 21 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -10236,6 +12331,12 @@
 
 ### 007286 天气学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2000/#review-46782>
+  - 查询：天气学 复习重点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007286
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2000/#review-46782>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10261,6 +12362,12 @@
 
 ### 007290 矿床学与矿相学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24066/#review-95221>
+  - 查询：矿床学考试（回忆版本）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007290
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24066/#review-95221>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10324,6 +12431,12 @@
 
 ### 007314 科学计算与程序设计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12423/#review-32208>
+  - 查询：科学计算与程序设计：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：007314
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 13 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -10410,6 +12523,12 @@
 
 ### 008074 遗传学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23435/#review-96388>
+  - 查询：遗传学复习简报
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008074
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22030/#review-57436>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10441,6 +12560,12 @@
 
 ### 008108 生理学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23039/#review-93599>
+  - 查询：生理学 浓缩笔记（21 页）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008108
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23039/#review-93599>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10516,6 +12641,12 @@
 
 ### 008144 普通生物学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20216/#review-85697>
+  - 查询：普通生物学：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008144
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20216/#review-85697>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10679,6 +12810,18 @@
 
 ### 008185 分子生物学I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13247/#review-103642>
+  - 查询：分子生物学提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008185
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21223/#review-93086>
+  - 查询：分子生物学回忆卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008185
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21223/#review-93086>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10723,6 +12866,12 @@
 
 ### 008190 免疫生物学I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24604/#review-89828>
+  - 查询：免疫生物学I 复习课PPT
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008190
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 8 条候选，覆盖 4 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -10748,6 +12897,12 @@
 
 ### 008191 生理学实验
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12720/#review-89638>
+  - 查询：生理学实验
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008191
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12720/#review-82846>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10779,6 +12934,12 @@
 
 ### 008193 免疫生物学II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20260/#review-102570>
+  - 查询：免疫生物学II 考试复习整理（考前版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008193
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20260/#review-102574>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -10854,6 +13015,18 @@
 
 ### 008198 基础生态学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24071/#review-102185>
+  - 查询：基础生态学 课堂小测
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008198
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24071/#review-92853>
+  - 查询：基础生态学 课程整理笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008198
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24071/#review-102185>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11016,6 +13189,12 @@
 
 ### 008704 细胞生物学I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18307/#review-88853>
+  - 查询：细胞生物学I提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：008704
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18307/#review-68181>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11116,6 +13295,12 @@
 
 ### 009103 自动控制原理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22467/#review-87592>
+  - 查询：自控笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：009103
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22467/#review-87592>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11160,6 +13345,24 @@
 
 ### 009171 机械制图及CAD(B)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3624/#review-327>
+  - 查询：非机类制图 2011—2012 学年考试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：009171
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3624/#review-327>
+  - 查询：机械制图及CAD(B)：学习资料（9 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：009171
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3624/#review-327>
+  - 查询：机械制图 第三次作业（CAD 文件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：009171
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11185,6 +13388,18 @@
 
 ### 009175 传感器及测试技术
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/426/#review-82652>
+  - 查询：传感器作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：009175
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/426/#review-82652>
+  - 查询：传感器及测试技术：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：009175
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -11317,6 +13532,18 @@
 
 ### 010009 模式识别导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23043/#review-104683>
+  - 查询：模式识别导论：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23043/#review-104683>
+  - 查询：模式识别导论：学习资料（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010009
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3900/#review-26952>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11354,6 +13581,30 @@
 
 ### 010159 自动控制原理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5917/#review-94942>
+  - 查询：现代控制系统（第 12 版）课后答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010159
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5917/#review-92272>
+  - 查询：自动控制原理习题课（2025-06-13）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010159
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5917/#review-94942>
+  - 查询：自动控制原理：学习资料（11 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010159
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5917/#review-92272>
+  - 查询：自动控制原理：作业与习题（11 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010159
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20653/#review-94340>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 31 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11427,6 +13678,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：eng-lectures-010177-a6fec94a。
   - 来源 ID：eng-github-epihio-automation
+  - 课程代码：010177
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4455/#review-104682>
+  - 查询：现代控制理论课程课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：010177
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4455/#review-104682>
   - 查询：评课包历史资料逐条复核（blocked）
@@ -11509,6 +13766,66 @@
 
 ### 010196 传感器原理与技术
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/425/#review-93157>
+  - 查询：传感器原理与技术 考题回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/424/#review-94943>
+  - 查询：传感器原理与技术：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/424/#review-94943>
+  - 查询：传感器试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/425/#review-93157>
+  - 查询：传感器原理与技术：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26263/#review-102913>
+  - 查询：传感器原理与技术 思考题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/425/#review-93157>
+  - 查询：传感器原理与技术 自测题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/424/#review-94943>
+  - 查询：传感器原理与技术：学习资料（19 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/425/#review-40077>
+  - 查询：传感器原理与技术 2021—2022 学年期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/425/#review-40077>
+  - 查询：传感器复习准备资料 v1.2
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/425/#review-40077>
+  - 查询：传感器自测题 v1.2
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
 - 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/425/#review-93159>
   - 查询：评课包历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11553,6 +13870,12 @@
 
 ### 010197 执行器技术
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12799/#review-94938>
+  - 查询：执行器技术：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010197
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12799/#review-92027>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11609,6 +13932,12 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：010205
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6490/#review-96920>
+  - 查询：运动控制：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010205
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6490/#review-96920>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11641,6 +13970,12 @@
 
 ### 010209 系统工程概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5405/#review-102392>
+  - 查询：系统工程概论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010209
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 28 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -11784,6 +14119,18 @@
 
 ### 010217 系统与控制实验(1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23440/#review-104678>
+  - 查询：系统与控制实验(1)：实验与项目（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010217
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23440/#review-104678>
+  - 查询：系统与控制实验(1)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：010217
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23440/#review-104678>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -11815,6 +14162,54 @@
 
 ### 011040 图论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1457/#review-56701>
+  - 查询：图论 2022 期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20656/#review-55209>
+  - 查询：图论导引 习题解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1458/#review-87263>
+  - 查询：图论 习题 1
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20656/#review-80457>
+  - 查询：图论复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20656/#review-100874>
+  - 查询：图论 历年试题合订
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1458/#review-87263>
+  - 查询：图论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1458/#review-88778>
+  - 查询：图论算法手算整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1458/#review-11055>
+  - 查询：图论 期末回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011040
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 29 条候选，覆盖 3 个课程页、21 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -11879,6 +14274,42 @@
 
 ### 011103 代数结构
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26264/#review-102329>
+  - 查询：代数结构习题课讲义（第 1—3 次）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26264/#review-102329>
+  - 查询：代数结构作业答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14363/#review-55207>
+  - 查询：代数结构 笔记与题解
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12381/#review-11059>
+  - 查询：代数结构 考试回忆
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26264/#review-102329>
+  - 查询：代数结构 历年期末试卷合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/360/#review-94991>
+  - 查询：代数结构期末复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011103
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84/exams/2018%E5%B9%B4%E6%98%A5%E5%AD%A3%E5%AD%A6%E6%9C%9F%E4%BB%A3%E6%95%B0%E7%BB%93%E6%9E%84%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12045,6 +14476,42 @@
   - 说明：教师专用，禁止分发
   - 来源 ID：gh-kobe972
   - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6259/#review-56635>
+  - 查询：计算机网络：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25895/#review-100249>
+  - 查询：计算机网络 2022 秋期末试卷（另一教学班）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6260/#review-10812>
+  - 查询：计算机网络 小测题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12994/#review-91450>
+  - 查询：期末大抄（PPT 特编版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12994/#review-40293>
+  - 查询：计网期末大抄
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12994/#review-87972>
+  - 查询：计算机网络：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011144
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/notes>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12101,6 +14568,18 @@
 
 ### 011145 计算机组成原理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13327/#review-105394>
+  - 查询：计算机组成原理：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011145
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6251/#review-1596>
+  - 查询：计算机组成原理：实验与项目（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011145
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/exams/2017%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12145,6 +14624,48 @@
 
 ### 011146 算法基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22469/#review-63516>
+  - 查询：算法基础：试题与解析（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5261/#review-88717>
+  - 查询：算法基础 alg复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21469/#review-102413>
+  - 查询：算法基础：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5261/#review-12066>
+  - 查询：算法基础：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21469/#review-94360>
+  - 查询：算法基础：试题与解析（9 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18315/#review-62320>
+  - 查询：算法基础期末样卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5260/#review-43916>
+  - 查询：算法基础：试题与解析（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011146
 - 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/notes>
   - 查询：旧库历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12207,6 +14728,36 @@
 
 ### 011147 数据库系统及应用
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2904/#review-94039>
+  - 查询：数据库知识点复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011147
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25106/#review-93856>
+  - 查询：数据库系统及应用提纲1
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011147
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14365/#review-34602>
+  - 查询：数据库练习题_1
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011147
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22470/#review-84641>
+  - 查询：数据库系统及应用 2024final
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011147
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2904/#review-24143>
+  - 查询：数据库系统及应用课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011147
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 25 条候选，覆盖 5 个课程页、15 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -12233,6 +14784,18 @@
 
 ### 011152 模拟与数字电路实验
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3910/#review-4608>
+  - 查询：数字逻辑实验指导
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011152
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3910/#review-4608>
+  - 查询：数字逻辑实验课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011152
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12271,6 +14834,12 @@
 
 ### 011163 编译原理和技术
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25468/#review-99564>
+  - 查询：编译原理 2025 期末回忆卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011163
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E6%8A%80%E6%9C%AF/labs>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12338,6 +14907,30 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：作为独立资料收录：homework-review-011174-os-reading-notes。
   - 来源 ID：gh-ustc-resource
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13766/#review-65911>
+  - 查询：操作系统复习笔记（os-review）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2680/#review-50358>
+  - 查询：操作系统 WSL 实验环境说明
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13766/#review-6965>
+  - 查询：操作系统实验一（2022）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011174
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13766/#review-23009>
+  - 查询：操作系统 2020 试卷回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：011174
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8E%9F%E7%90%86%E4%B8%8E%E8%AE%BE%E8%AE%A1/notes/mbinary>
   - 查询：旧库历史资料逐条复核（duplicate）
@@ -12407,6 +15000,36 @@
 
 ### 011179 Web信息处理与应用
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18319/#review-61598>
+  - 查询：Web 信息处理与应用 作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011179
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18319/#review-77782>
+  - 查询：Web 信息处理与应用 考试速查
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011179
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18319/#review-61247>
+  - 查询：HMM 补充讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011179
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18319/#review-75139>
+  - 查询：Web 信息处理与应用 期末内容整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011179
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18319/#review-60219>
+  - 查询：Web 信息处理与应用 课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011179
 - 2026-11-19 · GitHub · 已查看 · <https://github.com/USTC-Resource/USTC-Course/tree/master/Web-%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/notes>
   - 查询：旧库历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12467,6 +15090,12 @@
   - 查询：评课社区：大数据算法（丁虎）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：011186
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18025/#review-104663>
+  - 查询：大数据算法 核心集与草图讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：011186
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24076/#review-86501>
@@ -12600,6 +15229,18 @@
   - 说明：教材答案来源与可公开分发性未确认
   - 来源 ID：gh-guidongnan
   - 课程代码：011704
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6242/#review-73444>
+  - 查询：计算机系统概论 2023 期中试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011704
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6242/#review-98579>
+  - 查询：计算机系统概论 期末复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011704
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6242/#review-19345>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12638,6 +15279,18 @@
 
 ### 011705 操作系统原理与设计(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2681/#review-87446>
+  - 查询：操作系统(H) 往年试卷合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011705
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2681/#review-1593>
+  - 查询：操作系统课程大作业设计报告
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：011705
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2681/#review-70892>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 13 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12833,6 +15486,12 @@
 
 ### 013149 工程热力学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22471/#review-80636>
+  - 查询：试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：013149
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22471/#review-80636>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12877,6 +15536,12 @@
 
 ### 013X08 张量初步
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2312/#review-9625>
+  - 查询：张量初步讲义压缩包
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：013X08
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2312/#review-9625>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -12940,6 +15605,24 @@
 
 ### 014014 固体物理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18031/#review-46387>
+  - 查询：固体物理：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：014014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18031/#review-106577>
+  - 查询：固体物理：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：014014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18031/#review-34604>
+  - 查询：固体物理：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：014014
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18031/#review-34604>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
@@ -13539,6 +16222,18 @@
 
 ### 017063 数理统计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24080/#review-85525>
+  - 查询：期中考试试卷分析（2024.4.19） (1) (1)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017063
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25111/#review-92610>
+  - 查询：25期末参考答案及评分要点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017063
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25111/#review-92610>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
@@ -13621,6 +16316,24 @@
 
 ### 017129 实用随机过程
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2093/#review-93966>
+  - 查询：实用随机过程：试题与解析（16 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017129
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2093/#review-93966>
+  - 查询：实用随机过程：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017129
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2092/#review-85367>
+  - 查询：实用随机过程：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017129
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 40 条候选的原页、附件与课程归属，核对公开可访问性
@@ -13768,6 +16481,12 @@
 
 ### 017137 金融学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6718/#review-60325>
+  - 查询：金融学导论 思维导图
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017137
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/6718/#review-60325>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -13810,6 +16529,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：仅见图片列表，未核和PDF有无增量
   - 来源 ID：github-rachel-finance-minor
+  - 课程代码：017139
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22099/#review-90068>
+  - 查询：金融经济学基础 学习笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：017139
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18995/#review-28814>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
@@ -13871,6 +16596,126 @@
   - 检查范围：匿名访问 GitHub 目录页，返回 HTTP 200，确认显示目录清单。
   - 说明：保留可复查的稳定入口，不登记临时签名。
   - 来源 ID：gh-ustc-resource
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6777/#review-11481>
+  - 查询：随机过程 A4 复习纸
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18997/#review-94940>
+  - 查询：随机过程B：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6777/#review-42109>
+  - 查询：A4 复习纸
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18997/#review-29106>
+  - 查询：随机过程B：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18041/#review-85847>
+  - 查询：随机过程 大抄（压缩版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18041/#review-85847>
+  - 查询：复习题答案（带批注纠错版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18041/#review-52449>
+  - 查询：随机过程 作业答案合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18996/#review-103774>
+  - 查询：随机过程 大抄
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6780/#review-103397>
+  - 查询：随机过程B 2026 春试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18997/#review-29106>
+  - 查询：随机过程 2013-01-22 试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18997/#review-94940>
+  - 查询：随机过程B：学习资料（12 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6780/#review-47393>
+  - 查询：随机过程B 试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18996/#review-104703>
+  - 查询：随机过程 大抄（A4 双面）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6780/#review-103522>
+  - 查询：随机过程B：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6780/#review-91494>
+  - 查询：随机过程 往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12406/#review-27113>
+  - 查询：随机过程 复习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18997/#review-66284>
+  - 查询：随机过程 大抄（另一帖）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6780/#review-91494>
+  - 查询：随机过程 作业答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6780/#review-46886>
+  - 查询：复习题答案与解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017144
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18997/#review-29295>
+  - 查询：随机过程 期末试卷（RPFinal）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：017144
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/exams/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98(2018.1.9).pdf>
   - 查询：旧库历史资料逐条复核（duplicate）
@@ -13994,6 +16839,18 @@
   - 说明：补已有资料的具体入口：hum-017146-homework-regression。
   - 来源 ID：github-irvingyou-regression-lab
   - 课程代码：017146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1350/#review-100405>
+  - 查询：回归分析 2025 期末最后一题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017146
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1350/#review-91237>
+  - 查询：回归分析 课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017146
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1350/#review-57649>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14089,6 +16946,12 @@
 
 ### 017162 多元统计分析A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22474/#review-103648>
+  - 查询：多元统计分析A 2026 期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017162
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1707/#review-13036>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14120,6 +16983,12 @@
 
 ### 017164 时间序列分析A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26273/#review-103383>
+  - 查询：时间序列分析A 2026 期末（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017164
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12993/#review-21632>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14170,6 +17039,18 @@
   - 说明：补已有资料的具体入口：hum-017165-homework-timeseries。
   - 来源 ID：github-hehaha68-time-series-b
   - 课程代码：017165
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25613/#review-103240>
+  - 查询：时间序列分析B：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017165
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25613/#review-103240>
+  - 查询：时间序列分析B：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017165
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25613/#review-103240>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14196,6 +17077,12 @@
 
 ### 017166 凸优化
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24082/#review-98834>
+  - 查询：2025秋凸优化(张靖南,金百锁)期末考试试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017166
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24082/#review-98834>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14246,6 +17133,12 @@
 
 ### 017703 金融衍生品
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6736/#review-46654>
+  - 查询：金融衍生品：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：017703
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6736/#review-18250>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14277,6 +17170,30 @@
 
 ### 019011 有机化学(A1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26009/#review-99678>
+  - 查询：有机化学(A1)：学习资料（10 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3482/#review-101489>
+  - 查询：有机化学(A1)：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26009/#review-99678>
+  - 查询：有机化学(A1) 小测 1 试卷与答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3482/#review-101489>
+  - 查询：有机化学(A1) 第二次小测（答案）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019011
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26009/#review-99678>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14389,6 +17306,12 @@
 
 ### 019029 仪器分析实验
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26275/#review-102034>
+  - 查询：仪器分析实验 实验八 循环伏安和交流阻抗测试
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019029
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21240/#review-69169>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14430,6 +17353,12 @@
 
 ### 019040 环境化学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22477/#review-101912>
+  - 查询：环境化学 复习笔记（截图版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019040
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22477/#review-101912>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14467,6 +17396,30 @@
 
 ### 019047 有机化学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3503/#review-40885>
+  - 查询：有机化学习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019047
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20670/#review-57564>
+  - 查询：2022秋有机化学B期中试卷及答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019047
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20670/#review-57564>
+  - 查询：有机化学B：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019047
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20670/#review-40468>
+  - 查询：有机化学B：试题与解析（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019047
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 19 条候选，覆盖 4 个课程页、8 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -14492,6 +17445,30 @@
 
 ### 019060 物理有机化学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4309/#review-40254>
+  - 查询：物理有机化学：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4309/#review-99682>
+  - 查询：物理有机教程书后习题摘编
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4309/#review-99682>
+  - 查询：关键题目背诵整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4309/#review-99682>
+  - 查询：物理有机化学：试题与解析（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019060
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4309/#review-99682>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14652,6 +17629,30 @@
 
 ### 019128 化工原理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1140/#review-40975>
+  - 查询：化工原理 往年试卷（商业试卷店扫描）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019128
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1140/#review-100007>
+  - 查询：化工原理 试卷答案与订正
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019128
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1140/#review-100007>
+  - 查询：化工原理 复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019128
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1140/#review-100638>
+  - 查询：化工原理：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019128
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1140/#review-96901>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -14975,6 +17976,12 @@
 
 ### 019151 有机化学基础实验(上)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26278/#review-103058>
+  - 查询：有机化学实验_考点总结与模拟卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019151
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 2 条候选，覆盖 2 个课程页、2 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -15070,6 +18077,36 @@
 
 ### 019161 化学原理A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19010/#review-96756>
+  - 查询：化学原理 习题答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24619/#review-98725>
+  - 查询：化学原理A 2024 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19010/#review-96756>
+  - 查询：化学原理A：学习资料（20 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12859/#review-76508>
+  - 查询：化学原理 真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1078/#review-79816>
+  - 查询：化学原理 习题答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1078/#review-79816>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15107,6 +18144,24 @@
 
 ### 019163 化学原理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12862/#review-29117>
+  - 查询：化学原理B：学习资料（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019163
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14198/#review-31974>
+  - 查询：化学原理B：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019163
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14198/#review-31974>
+  - 查询：化学原理B：作业与习题（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019163
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12862/#review-24427>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 31 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15157,6 +18212,18 @@
 
 ### 019166 无机化学I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21245/#review-84119>
+  - 查询：无机化学I：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21244/#review-84043>
+  - 查询：无机化学I：学习资料（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019166
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24088/#review-93784>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15251,6 +18318,12 @@
 
 ### 019172 应用量子化学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12592/#review-103163>
+  - 查询：化学学习笔记-应用量子化学
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：019172
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12592/#review-103163>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15366,6 +18439,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：chembio-019175-hw-2025。
   - 来源 ID：chembio-gold3fluoride-019175
+  - 课程代码：019175
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/909/#review-87364>
+  - 查询：分析化学真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：019175
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/912/#review-68974>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
@@ -15630,6 +18709,12 @@
 
 ### 022007 实测天体物理学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2074/#review-33965>
+  - 查询：实测天体物理课程内容大纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022007
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2074/#review-33965>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15744,6 +18829,12 @@
 
 ### 022056 理论力学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26615/#review-104686>
+  - 查询：理论力学B：学习资料（11 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022056
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26615/#review-104686>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15787,6 +18878,30 @@
 
 ### 022057 电动力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23458/#review-72448>
+  - 查询：电动力学：作业与习题（18 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4778/#review-90400>
+  - 查询：电动力学思考题解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21251/#review-58500>
+  - 查询：电动力学课程幻灯片
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23458/#review-72448>
+  - 查询：电动力学：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022057
 - 2026-11-19 · 评课社区 · 候选未确认 · <https://icourse.club/course/21755/#review-46857>
   - 查询：评课包历史资料逐条复核（candidate）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15875,6 +18990,12 @@
   - 说明：已有同课程同期中，未确认是否异卷，不另计
   - 来源 ID：feixu-alist
   - 课程代码：022062
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4123/#review-32813>
+  - 查询：热力学与统计物理 2021 期末答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022062
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12612/#review-32627>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15907,6 +19028,12 @@
 
 ### 022063 热力学与统计物理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4130/#review-52748>
+  - 查询：自编讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022063
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15939,6 +19066,18 @@
 
 ### 022075 天体物理概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14268/#review-76120>
+  - 查询：天体物理概论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022075
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14268/#review-47594>
+  - 查询：天体物理概论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022075
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14268/#review-15823>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -15971,6 +19110,36 @@
 
 ### 022095 量子力学C
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12615/#review-48398>
+  - 查询：量子力学C 考题合集（压缩包）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21885/#review-97291>
+  - 查询：量子力学C：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12615/#review-91716>
+  - 查询：量子力学C 2025 试卷（题面）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12615/#review-23280>
+  - 查询：量子力学C：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12615/#review-91716>
+  - 查询：量子力学C 期末复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022095
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21885/#review-97291>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16008,6 +19177,18 @@
 
 ### 022118 固体物理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1398/#review-94053>
+  - 查询：固体物理B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022118
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1398/#review-48135>
+  - 查询：固体物理 期末整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022118
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1398/#review-48135>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16051,6 +19232,30 @@
   - 检查范围：匿名复核：原站文件页提供实际 HTML 文件，正文含试题及参考解答；网页外壳不是资料。保留站内文件页，不保存临时下载地址。
   - 说明：保留可复查的稳定入口，不登记临时签名。
   - 来源 ID：feixu-alist
+  - 课程代码：022148
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12793/#review-60252>
+  - 查询：量子力学A 作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022148
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24102/#review-92596>
+  - 查询：量子力学A：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022148
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6639/#review-82913>
+  - 查询：量子力学A 知识点梳理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022148
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22025/#review-56946>
+  - 查询：量子力学笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：022148
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
@@ -16140,6 +19345,54 @@
 
 ### 022166 天文学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-100224>
+  - 查询：天文学导论：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-98194>
+  - 查询：天文学导论：学习资料（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-88878>
+  - 查询：天文学导论 课件精选
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-100224>
+  - 查询：天文学导论：学习资料（14 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-88878>
+  - 查询：天文学导论：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-38097>
+  - 查询：天文学导论：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-98194>
+  - 查询：天文学导论：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1992/#review-38097>
+  - 查询：天文学导论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022166
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1992/#review-98194>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 38 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16207,6 +19460,12 @@
 
 ### 022169 天体力学与天体测量基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1970/#review-73881>
+  - 查询：天体力学与天体测量基础 笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022169
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1970/#review-21113>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16296,6 +19555,12 @@
 
 ### 022172 时间和空间
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20688/#review-38383>
+  - 查询：时间和空间 课程笔记（修改版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022172
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20688/#review-38383>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16328,6 +19593,30 @@
 
 ### 022392 理论力学A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4526/#review-40430>
+  - 查询：理论力学学习指导与习题解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022392
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4526/#review-40430>
+  - 查询：理论力学A：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022392
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23461/#review-100123>
+  - 查询：冯老师理力讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022392
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4523/#review-98851>
+  - 查询：经典力学讲义_by高显（sysu）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：022392
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21889/#review-106719>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 54 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16433,6 +19722,24 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：eng-homework-023181-847d2143。
   - 来源 ID：gh-li-qi-lin
+  - 课程代码：023181
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14404/#review-32918>
+  - 查询：往年试题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：023181
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5501/#review-89537>
+  - 查询：线性电子线路：作业与习题（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：023181
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5501/#review-89537>
+  - 查询：线性电子线路：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：023181
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/14404/#review-96980>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
@@ -16572,6 +19879,12 @@
 
 ### 025148 新闻学概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3193/#review-91402>
+  - 查询：新闻学概论 课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：025148
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/3193/#review-91402>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16679,6 +19992,12 @@
 
 ### 033001 编译原理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18063/#review-89664>
+  - 查询：编译原理B 实验（压缩包）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：033001
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18063/#review-75047>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16798,6 +20117,12 @@
 
 ### 038011 量子信息导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6613/#review-98258>
+  - 查询：量子信息导论 复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：038011
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6613/#review-91362>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -16905,6 +20230,18 @@
 
 ### 203001 先进光子物理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12570/#review-23201>
+  - 查询：先进光子物理 习题答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：203001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12570/#review-85118>
+  - 查询：先进光子物理 习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：203001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12570/#review-85118>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17237,6 +20574,12 @@
 
 ### 210002 操作系统
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2668/#review-90545>
+  - 查询：操作系统 复习练习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210002
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22008/#review-75460>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17269,6 +20612,12 @@
 
 ### 210004 密码学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2117/#review-27100>
+  - 查询：密码学导论：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210004
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2117/#review-32033>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17300,6 +20649,30 @@
 
 ### 210008 计算机安全
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6142/#review-84138>
+  - 查询：计算机安全 review
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210008
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6142/#review-84084>
+  - 查询：计算机安全：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210008
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6142/#review-84100>
+  - 查询：2024-review
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210008
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6142/#review-84257>
+  - 查询：复习内容
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210008
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6142/#review-84080>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17331,6 +20704,24 @@
 
 ### 210031 网络安全协议
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24112/#review-83971>
+  - 查询：NSP期末复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210031
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24112/#review-83715>
+  - 查询：2024NSP期末考试
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210031
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24112/#review-83710>
+  - 查询：网络安全协议 2024回忆版试卷答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210031
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24112/#review-83705>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17381,6 +20772,12 @@
 
 ### 210037 数理逻辑与图论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3018/#review-97915>
+  - 查询：数理逻辑与图论 期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210037
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/3018/#review-91725>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17497,6 +20894,36 @@
 
 ### 210045 电路基本理论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4984/#review-4604>
+  - 查询：电路基本理论 第一章讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4989/#review-18859>
+  - 查询：电路基本理论：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4984/#review-87143>
+  - 查询：电路理论基础（第四版）习题解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4989/#review-71301>
+  - 查询：电路基本理论 翻转课堂材料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14067/#review-52447>
+  - 查询：电路基本理论 2017–2018 学年试卷答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210045
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 56 条候选，覆盖 4 个课程页、16 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -17528,6 +20955,54 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：作为独立资料收录：homework-review-210050-digital-logic-tutorial。
   - 来源 ID：gh-li-qi-lin
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2794/#review-40454>
+  - 查询：数字逻辑电路：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2787/#review-26869>
+  - 查询：数字逻辑电路学习指导
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2791/#review-17628>
+  - 查询：2015-2016第1学期数字逻辑电路考试题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2787/#review-58317>
+  - 查询：数字逻辑电路：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2787/#review-26869>
+  - 查询：数电2016年期末考试
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2787/#review-40068>
+  - 查询：数电复习准备v1.0
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2792/#review-89140>
+  - 查询：2025年秋季学期数字逻辑电路思考题汇编
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210050
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2792/#review-89140>
+  - 查询：数字逻辑电路：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：210050
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
@@ -17567,6 +21042,48 @@
 
 ### 210060 计算机网络
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6255/#review-98464>
+  - 查询：计算机网络知识点小结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6255/#review-90312>
+  - 查询：计算机网络课程课件（第 1—9 章）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18387/#review-29470>
+  - 查询：计算机网络 2020 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6263/#review-42603>
+  - 查询：计算机网络 2020 年补考试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6267/#review-40523>
+  - 查询：计算机网络 2021 总复习课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6255/#review-56460>
+  - 查询：计算机网络：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6263/#review-36855>
+  - 查询：计算机网络复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210060
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6263/#review-92490>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17611,6 +21128,12 @@
 
 ### 210067 近世代数与数论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6526/#review-78837>
+  - 查询：数论与近世代数复习资料（手写提纲浓缩）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210067
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -17658,6 +21181,24 @@
   - 查询：评课社区：数据结构及其算法（刘东）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：210070
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2948/#review-54895>
+  - 查询：数据结构早期期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210070
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25785/#review-98268>
+  - 查询：数据结构及其算法复习整理（对照考试范围）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210070
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24633/#review-91272>
+  - 查询：数据结构第一、二章作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：210070
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
@@ -17776,6 +21317,12 @@
 
 ### 210072 算法分析与设计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18088/#review-33525>
+  - 查询：算法分析与设计 2021期末考试回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210072
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18088/#review-32551>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17807,6 +21354,12 @@
 
 ### 210073 电子技术实验I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14420/#review-23737>
+  - 查询：电子技术实验I 实验报告合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210073
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17833,6 +21386,12 @@
 
 ### 210074 电子技术实验II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18390/#review-84045>
+  - 查询：电子技术实验II讲义（扫描版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210074
 - 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/18390/#review-84045>
   - 查询：评课包历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17885,6 +21444,30 @@
 
 ### 210077 非线性电子线路
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18391/#review-88474>
+  - 查询：非线性电子线路 2024—2025 学年期末试卷（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210077
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6811/#review-17032>
+  - 查询：非线性电子线路 试卷答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210077
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19032/#review-70375>
+  - 查询：非线性电子线路复习资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210077
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6811/#review-88453>
+  - 查询：非线性电子线路 重点与易错总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210077
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18391/#review-88474>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -17911,6 +21494,36 @@
 
 ### 210078 电子系统设计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4846/#review-104673>
+  - 查询：电子系统设计：学习资料（10 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4842/#review-97726>
+  - 查询：电子系统设计 FPGA_EXP
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25899/#review-97710>
+  - 查询：电子系统设计 思考题2025(V1.0)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4842/#review-73233>
+  - 查询：电子系统设计2020试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210078
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4846/#review-104673>
+  - 查询：电子系统设计思考题2025
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210078
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4842/#review-97726>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 19 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18012,6 +21625,42 @@
 
 ### 210515 电子线路
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22050/#review-54440>
+  - 查询：电子线路：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4856/#review-96687>
+  - 查询：电子线路：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4853/#review-84996>
+  - 查询：电子线路 习题课6.3
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4853/#review-83788>
+  - 查询：电子线路：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4853/#review-26141>
+  - 查询：电子线路总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4853/#review-84996>
+  - 查询：电子线路往年题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210515
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/4856/#review-96687>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18063,6 +21712,12 @@
 
 ### 210703 电子设计实践I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12444/#review-79613>
+  - 查询：电子设计实践 I 课程总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210703
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12444/#review-3894>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18114,6 +21769,24 @@
 
 ### 210706 脑与认知科学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13727/#review-31803>
+  - 查询：脑与认知科学导论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210706
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13727/#review-23112>
+  - 查询：脑与认知科学导论 复习知识点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210706
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13727/#review-56423>
+  - 查询：脑与认知科学导论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：210706
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/13727/#review-87110>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18274,6 +21947,18 @@
 
 ### 219001 量子物理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25131/#review-93915>
+  - 查询：量子物理B：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：219001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20698/#review-105236>
+  - 查询：量子物理B：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：219001
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20698/#review-39743>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18375,6 +22060,12 @@
 
 ### 219005 数字集成电路设计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21260/#review-52154>
+  - 查询：2022数字集成电路设计复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：219005
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21260/#review-52154>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18400,6 +22091,12 @@
 
 ### 219006 集成电路工艺原理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18104/#review-66509>
+  - 查询：集成电路工艺原理 讲义（markdown）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：219006
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18104/#review-46025>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18425,6 +22122,18 @@
 
 ### 221001 网络空间安全导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23468/#review-96681>
+  - 查询：网络空间安全导论习题答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：221001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23468/#review-89820>
+  - 查询：网络空间安全导论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：221001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -18498,6 +22207,30 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：作为独立资料收录：homework-review-229001-discrete-math-solutions。
   - 来源 ID：gh-guidongnan
+  - 课程代码：229001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23469/#review-73005>
+  - 查询：离散数学复习提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：229001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23469/#review-88316>
+  - 查询：离散数学：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：229001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23469/#review-88316>
+  - 查询：离散数学：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：229001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25952/#review-100440>
+  - 查询：离散数学：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：229001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22485/#review-102166>
   - 查询：评课包历史资料逐条复核（blocked）
@@ -18977,6 +22710,12 @@
 
 ### AI1001B 人工智能数学原理与算法B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26225/#review-98231>
+  - 查询：人工智能数学原理与算法B：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI1001B
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26879/#review-106646>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -19052,6 +22791,12 @@
 
 ### AI2001A 人工智能导论A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25963/#review-104676>
+  - 查询：人工智能导论A：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI2001A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 18 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -19104,6 +22849,18 @@
 
 ### AI3001 机器学习A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26224/#review-97204>
+  - 查询：机器学习A 第二讲：线性回归课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26224/#review-97204>
+  - 查询：机器学习A 第一次作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26224/#review-97235>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -19143,6 +22900,24 @@
 ### AI3002 人工智能与机器学习基础
 
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26106/#review-97655>
+  - 查询：人工智能与机器学习基础 Lab1 讲解
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26106/#review-97214>
+  - 查询：人工智能与机器学习基础 课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26883/#review-106166>
+  - 查询：人工智能与机器学习基础 附加实验设计思路
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26106/#review-97655>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
   - 说明：评课包复核 2 条候选；有效或补入口 2 条；结果 reviewed。 主要理由：匿名回查原点评可见，目标公开可达，内容与课程相符。
@@ -19179,6 +22954,12 @@
 
 ### AI3003 深度学习基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26299/#review-105018>
+  - 查询：深度学习基础 大作业报告
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：AI3003
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26299/#review-105018>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -19241,6 +23022,24 @@
 
 ### ASTRON1501 天体物理概观
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26307/#review-103149>
+  - 查询：天体物理概观：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ASTRON1501
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22490/#review-85289>
+  - 查询：天体物理概观 2024 春期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ASTRON1501
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22490/#review-69392>
+  - 查询：天体物理概观 2023 春期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ASTRON1501
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/1979/#review-6958>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -19695,6 +23494,12 @@
 
 ### BIO1501 生命科学导论实验
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20725/#review-85436>
+  - 查询：生命科学导论实验 报告参考
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1501
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20725/#review-85436>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -19720,6 +23525,12 @@
 
 ### BIO1502 生命科学与医学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23481/#review-79821>
+  - 查询：生命科学与医学导论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO1502
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24648/#review-92267>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20052,6 +23863,12 @@
 
 ### BIO2701 生命科学前沿I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24658/#review-91761>
+  - 查询：生命科学前沿I 作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO2701
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24658/#review-91761>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20096,6 +23913,18 @@
 
 ### BIO3001 生物化学A1
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23486/#review-88724>
+  - 查询：生物化学A1笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22046/#review-95952>
+  - 查询：生物化学A1：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22046/#review-95952>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20165,6 +23994,12 @@
 
 ### BIO3004 分子生物学研讨
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24497/#review-92966>
+  - 查询：分子生物学研讨：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3004
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24497/#review-92966>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20196,6 +24031,12 @@
 
 ### BIO3005 细胞生物学研讨
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24144/#review-93049>
+  - 查询：细胞生物学研讨：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3005
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20240,6 +24081,12 @@
 
 ### BIO3701 生物医学论文写作
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24662/#review-101293>
+  - 查询：生物医学论文写作 期末试卷讲解-本科生
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：BIO3701
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24662/#review-90549>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20383,6 +24230,12 @@
 
 ### CHEM1501 生活中的化学科普实验
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4612/#review-91401>
+  - 查询：生活中的化学科普实验：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM1501
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 10 条候选，覆盖 1 个课程页、5 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -20575,6 +24428,12 @@
 
 ### CHEM3002 分子光谱学基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26643/#review-101843>
+  - 查询：回忆版试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CHEM3002
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/26643/#review-101843>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20827,6 +24686,48 @@
 
 ### CS1002A 计算系统概论A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20777/#review-57251>
+  - 查询：计算系统概论A：实验与项目（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20776/#review-88115>
+  - 查询：计算系统概论A：试题与解析（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20777/#review-42132>
+  - 查询：2021 midterm重点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20776/#review-88115>
+  - 查询：计算系统概论A：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20776/#review-42538>
+  - 查询：LCS 2021 作业与实验包
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20777/#review-57251>
+  - 查询：计算系统概论A：作业与习题（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20777/#review-42132>
+  - 查询：期末考试
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1002A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23536/#review-98848>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 46 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20883,6 +24784,42 @@
 
 ### CS1003 计算机程序设计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25828/#review-103950>
+  - 查询：计算机程序设计：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26056/#review-98576>
+  - 查询：计算机程序设计试题集及答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25828/#review-103950>
+  - 查询：计算机程序设计复习用测试题（2025 版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25853/#review-101251>
+  - 查询：计算机程序设计：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25853/#review-101251>
+  - 查询：计算机程序设计期末上机习题课
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25853/#review-101251>
+  - 查询：计算机程序设计复习用测试题（2025 版，另一帖）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25828/#review-103950>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
@@ -20909,6 +24846,18 @@
 
 ### CS1003L 计算机程序设计(L)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25885/#review-96896>
+  - 查询：计算机程序设计(L)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003L
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25885/#review-96896>
+  - 查询：计算机程序设计(L)：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1003L
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25885/#review-96896>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -21024,6 +24973,12 @@
 
 ### CS1507 Python与深度学习基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20039/#review-72303>
+  - 查询：往年课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS1507
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14421/#review-14439>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -21185,6 +25140,24 @@
   - 说明：补已有资料的具体入口：computing-homework-gh-ustc-course-plus-cs2002。
   - 来源 ID：gh-kobe972
   - 课程代码：CS2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24186/#review-104000>
+  - 查询：数理逻辑基础 真题合集（压缩包）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24186/#review-104000>
+  - 查询：数理逻辑基础 直接证明专题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24187/#review-86300>
+  - 查询：数理逻辑基础 直接证明处理思路
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS2002
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/notes>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -21313,6 +25286,12 @@
 
 ### CS2003 系统程序设计基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26652/#review-103053>
+  - 查询：期末机考
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS2003
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26652/#review-103053>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -21450,6 +25429,12 @@
 
 ### CS2701 图论(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26020/#review-100082>
+  - 查询：图论随笔
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS2701
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26020/#review-100082>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -21482,6 +25467,12 @@
 
 ### CS3001H 计算机组成原理(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25194/#review-93443>
+  - 查询：2025年组成原理期末考试回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS3001H
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 8 条候选，覆盖 2 个课程页、6 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -21624,6 +25615,30 @@
 
 ### CS4004 区块链技术与应用
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20049/#review-96447>
+  - 查询：区块链技术与应用 速查表
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20049/#review-88027>
+  - 查询：区块链技术与应用 以太坊专题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20049/#review-33084>
+  - 查询：区块链技术与应用 期末大抄
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20049/#review-102670>
+  - 查询：区块链技术与应用 2026 大抄
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4004
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20049/#review-96447>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
@@ -21940,6 +25955,12 @@
 
 ### CS4014 计算机体系结构
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6099/#review-66592>
+  - 查询：计算机体系结构：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：CS4014
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6099/#review-13661>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -22358,6 +26379,12 @@
 
 ### DS2002 数据库系统概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21283/#review-92690>
+  - 查询：数据库系统概论 实验一 SQL练习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：DS2002
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21283/#review-102215>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -22389,6 +26416,18 @@
 
 ### DS3001 数据分析及实践
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20053/#review-93456>
+  - 查询：数据分析及实践：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：DS3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24511/#review-102091>
+  - 查询：数据分析及实践：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：DS3001
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
@@ -22666,6 +26705,12 @@
 
 ### EE1513 文本表征学习
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22521/#review-61164>
+  - 查询：文本表征学习 NLP 课程报告（1—4）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE1513
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22521/#review-86006>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -22714,6 +26759,42 @@
   - 检查范围：旧 PDF 返回 404；匿名回查同作者 DOCX 原件，并与仓库其他 PDF 区分。
   - 说明：保留可复查的稳定入口，不登记临时签名。
   - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25202/#review-92780>
+  - 查询：计算机原理与嵌入式系统课程要点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21286/#review-84603>
+  - 查询：计算机原理与嵌入式系统：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25202/#review-94948>
+  - 查询：计算机原理与嵌入式系统：学习资料（12 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25202/#review-94948>
+  - 查询：计嵌第八章题目解析
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22522/#review-84882>
+  - 查询：计嵌大抄 v3（另一帖）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21287/#review-46454>
+  - 查询：计算机原理与嵌入式系统：学习资料（10 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：EE2003
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25202/#review-92780>
   - 查询：评课包历史资料逐条复核（blocked）
@@ -22794,6 +26875,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：eng-lectures-ee2004-34e82ff7。
   - 来源 ID：eng-github-duxiaoyang-materials
+  - 课程代码：EE2004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25814/#review-104674>
+  - 查询：计算机网络B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：EE2004
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21862/#review-96835>
   - 查询：评课包历史资料逐条复核（reviewed）
@@ -22957,6 +27044,12 @@
   - 说明：与编号32字节相同
   - 来源 ID：eng-github-duxiaoyang-materials
   - 课程代码：EE2007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25857/#review-104677>
+  - 查询：运筹学A：学习资料（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2007
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25857/#review-104677>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -23001,6 +27094,18 @@
 
 ### EE2009 数字信号处理A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25882/#review-99351>
+  - 查询：数字信号处理A：试题与解析（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25882/#review-99351>
+  - 查询：数字信号处理A：学习资料（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2009
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25882/#review-98342>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -23032,6 +27137,24 @@
 
 ### EE2501 电子技术基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21877/#review-78586>
+  - 查询：电子技术基础：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2501
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21877/#review-51598>
+  - 查询：电子技术基础 复习指北
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2501
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21877/#review-91638>
+  - 查询：电子技术基础：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2501
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24195/#review-95418>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
@@ -23070,6 +27193,24 @@
 
 ### EE2502 数字电路
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21880/#review-90524>
+  - 查询：电子技术基础 数字部分 学习辅导与习题解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21882/#review-91821>
+  - 查询：数字电路课程纲要
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21880/#review-100969>
+  - 查询：数字电路 习题课重点题目与小测解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE2502
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21879/#review-100467>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -23222,6 +27363,12 @@
   - 说明：评课页仅作为课程归属证据，不是新资料
   - 来源 ID：icourse-club
   - 课程代码：EE3003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24519/#review-102926>
+  - 查询：微波技术基础 样卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE3003
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24519/#review-102926>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -23323,6 +27470,12 @@
 
 ### EE3006 计算机控制基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21863/#review-56334>
+  - 查询：计算机控制基础 大实验要求与报告
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE3006
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21863/#review-56334>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -23348,6 +27501,12 @@
 
 ### EE3007 机器人创新实践
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24523/#review-94947>
+  - 查询：机器人创新实践：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE3007
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 4 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -23642,6 +27801,18 @@
   - 查询：评课社区：数字图像处理A（张荣）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：EE4011A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25210/#review-94287>
+  - 查询：祖传习题答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：EE4011A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25210/#review-94287>
+  - 查询：样卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：EE4011A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25210/#review-94287>
@@ -24313,6 +28484,12 @@
 
 ### ESS1509 地球物理与地球演化
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21291/#review-84298>
+  - 查询：21 世纪地球科学研究的十大科学问题（科学网）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS1509
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21291/#review-84298>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24457,6 +28634,12 @@
 
 ### ESS2006 地球和空间科学基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22015/#review-62345>
+  - 查询：地球和空间科学基础 笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS2006
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22015/#review-105901>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24632,6 +28815,12 @@
 
 ### ESS4002 航天电子电路设计
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23569/#review-91407>
+  - 查询：航天电子电路设计：学习资料（13 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS4002
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23569/#review-91407>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24663,6 +28852,12 @@
 
 ### ESS4004 航天器轨道动力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23094/#review-78812>
+  - 查询：航天器轨道动力学 课程复习课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ESS4004
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23094/#review-78812>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24776,6 +28971,12 @@
 
 ### FIN1503 证券理论与实务
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6343/#review-27681>
+  - 查询：REVISION
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN1503
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/6343/#review-101348>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24851,6 +29052,12 @@
 
 ### FIN2001 经济学基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20334/#review-94169>
+  - 查询：经济学基础 25春期末（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN2001
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20334/#review-101820>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
@@ -24907,6 +29114,12 @@
 
 ### FIN3002 货币金融学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21296/#review-50119>
+  - 查询：货币金融学 2022 复习课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FIN3002
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21296/#review-50119>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25001,6 +29214,12 @@
 
 ### FL1004 英语交流II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21299/#review-68990>
+  - 查询：英语交流II 课内口语考试材料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1004
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25242/#review-92547>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 26 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25032,6 +29251,12 @@
 
 ### FL1005 英语读写I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19200/#review-90131>
+  - 查询：英语读写I 词汇复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1005
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19205/#review-89272>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25069,6 +29294,12 @@
 
 ### FL1006 英语读写II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20079/#review-104883>
+  - 查询：英语读写II：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1006
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20076/#review-87098>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25100,6 +29331,12 @@
 
 ### FL1007 英语交流进阶I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19210/#review-88339>
+  - 查询：英语交流进阶I Semester Overview
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1007
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22069/#review-74728>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25187,6 +29424,12 @@
 
 ### FL1010 英语读写进阶I
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19213/#review-75731>
+  - 查询：英语读写进阶I：学习资料（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1010
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/19213/#review-78811>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25218,6 +29461,18 @@
 
 ### FL1011 英语读写进阶II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20085/#review-50086>
+  - 查询：英语读写进阶 II 期末题型说明
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20085/#review-104801>
+  - 查询：英语读写进阶 II 第 5 讲课件（essentials）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1011
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 13 条候选，覆盖 1 个课程页、3 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -25463,6 +29718,12 @@
 
 ### FL1105A 学术英语读写
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22110/#review-55134>
+  - 查询：学术英语读写 composition hw
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1105A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22110/#review-55134>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25652,6 +29913,12 @@
 
 ### FL1506 德国语言与文化(初级)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2545/#review-98206>
+  - 查询：德国语言与文化(初级)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1506
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -25683,6 +29950,18 @@
 
 ### FL1507 德国语言与文化(中级)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2542/#review-85252>
+  - 查询：德语练习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1507
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2542/#review-85252>
+  - 查询：德语2024春笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：FL1507
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 2 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -26092,6 +30371,12 @@
 
 ### GEOP3005 空间探测基础实习
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21780/#review-52427>
+  - 查询：IDL+SSW 安装过程说明
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3005
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26148,6 +30433,12 @@
 
 ### GEOP3007 流体力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12858/#review-58482>
+  - 查询：流体力学 A 卷（2022-12-12 回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3007
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12858/#review-97861>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26179,6 +30470,12 @@
 
 ### GEOP3008 磁流体力学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5042/#review-67011>
+  - 查询：磁流体力学讲义公式含义表
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3008
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 5 条候选，覆盖 1 个课程页、1 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -26204,6 +30501,30 @@
 
 ### GEOP3009 空间物理学导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22553/#review-96691>
+  - 查询：空间物理学导论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22553/#review-96555>
+  - 查询：电离层思考题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22553/#review-66646>
+  - 查询：空间物理学导论 思考题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22553/#review-66646>
+  - 查询：空间物理学导论 复习课课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP3009
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 15 条候选，覆盖 1 个课程页、4 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -26265,6 +30586,12 @@
 
 ### GEOP4003 地震勘探引论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/1526/#review-30312>
+  - 查询：期末大作业2020
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4003
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/1526/#review-30312>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26359,6 +30686,18 @@
 
 ### GEOP4010 空间环境与航天工程
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22019/#review-63420>
+  - 查询：空间环境与航天工程课程论文
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22019/#review-63420>
+  - 查询：空间环境与航天工程：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4010
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22019/#review-63420>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26384,6 +30723,12 @@
 
 ### GEOP4011 遥感技术
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22000/#review-61918>
+  - 查询：遥感技术 2022 秋期末试卷（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4011
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22000/#review-61918>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26421,6 +30766,12 @@
 
 ### GEOP4013 行星大气
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23637/#review-79561>
+  - 查询：行星大气 2023 秋期末回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：GEOP4013
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23637/#review-88033>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 3 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26590,6 +30941,12 @@
 
 ### HS1509M 经济与社会：如何用决策思维洞察生活
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19460/#review-49089>
+  - 查询：经济与社会 直播课文档（2022-04-21）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1509M
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26678,6 +31035,12 @@
 
 ### HS1519 中国文化史
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/229/#review-86254>
+  - 查询：中国文化·第九讲：佛教文化课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1519
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/229/#review-86254>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26852,6 +31215,12 @@
 
 ### HS1531 大学生心理学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25265/#review-92859>
+  - 查询：25春大学生心理学01_绪论
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1531
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/25265/#review-92859>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 14 条候选的原页、附件与课程归属，核对公开可访问性
@@ -26913,6 +31282,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：已有记录，正文含学生学号
   - 来源 ID：gh-li-qi-lin
+  - 课程代码：HS1534
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5056/#review-34460>
+  - 查询：社会心理学 2021 春课件包
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：HS1534
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/5056/#review-88393>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
@@ -27539,6 +31914,12 @@
 
 ### HS1590 中国纸墨笔砚
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21335/#review-50445>
+  - 查询：中国纸墨笔砚课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1590
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21335/#review-62914>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
@@ -27608,6 +31989,12 @@
 
 ### HS1593 西方文明史
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21813/#review-91948>
+  - 查询：西方文明史 大作业
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1593
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21813/#review-102731>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -27727,6 +32114,18 @@
 
 ### HS1606 化学与艺术-手工印染
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24243/#review-103039>
+  - 查询：化学印染资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1606
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24243/#review-96783>
+  - 查询：化学扎染课程展示（学生作业）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1606
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22560/#review-69217>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
@@ -27802,6 +32201,12 @@
 
 ### HS1611 当我们谈论科学时
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22564/#review-105223>
+  - 查询：当我们谈论科学时：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1611
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22564/#review-103209>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -28343,6 +32748,24 @@
 
 ### HS1651 西方音乐通史
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24787/#review-93767>
+  - 查询：西方音乐通史 课堂展示：拉赫玛尼诺夫第二协奏曲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1651
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24787/#review-92936>
+  - 查询：西方音乐通史：实验与项目（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1651
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24787/#review-93767>
+  - 查询：西方音乐通史 课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：HS1651
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24787/#review-92936>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 4 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29462,6 +33885,36 @@
   - 说明：保留可复查的稳定入口，不登记临时签名。
   - 来源 ID：feixu-alist
   - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14036/#review-70487>
+  - 查询：中国近现代史纲要 简记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21340/#review-85185>
+  - 查询：中国近现代史纲要：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21340/#review-102955>
+  - 查询：中国近现代史纲要：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20145/#review-50104>
+  - 查询：中国近现代史纲要：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21340/#review-102955>
+  - 查询：中国近现代史纲要 易混题目
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1010
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 24 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29504,6 +33957,72 @@
   - 查询：评课社区：马克思主义基本原理（胡云峰）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19492/#review-91330>
+  - 查询：马克思主义基本原理：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20920/#review-59289>
+  - 查询：马克思主义基本原理 教学要点
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6868/#review-4611>
+  - 查询：马克思主义基本原理：学习资料（10 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6867/#review-38919>
+  - 查询：马原提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19492/#review-91330>
+  - 查询：马原教材课后习题解答（2023 版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23671/#review-82994>
+  - 查询：马原索引
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6863/#review-75527>
+  - 查询：马克思主义基本原理 某年期末试题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6868/#review-15908>
+  - 查询：马克思主义基本原理：学习资料（11 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6867/#review-82080>
+  - 查询：马克思主义基本原理：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6863/#review-75527>
+  - 查询：马原各章原理知识框架（第一—七章）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23671/#review-82069>
+  - 查询：马克思主义基本原理：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：MARX1011
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E6%A6%82%E8%AE%BA/notes>
@@ -29555,6 +34074,54 @@
 
 ### MARX1012 思想道德与法治
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21948/#review-85186>
+  - 查询：思政课后题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20930/#review-98354>
+  - 查询：思想道德法治提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20930/#review-98354>
+  - 查询：思想道德与法治：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20930/#review-100348>
+  - 查询：2025德法无纸化考试题库
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20930/#review-100348>
+  - 查询：思想道德与法治：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20934/#review-96384>
+  - 查询：思想道德与法治：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20934/#review-88521>
+  - 查询：思想道德与法治2024-2025期末试题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20933/#review-42671>
+  - 查询：2021秋季学期《思想道德与法治》课机考试题库
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1012
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20925/#review-86242>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29590,6 +34157,36 @@
   - 查询：评课社区：毛泽东思想和中国特色社会主义理论体系概论（叶政）
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：评课页仅作为课程归属证据，不是新资料
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18072/#review-50115>
+  - 查询：毛泽东思想和中国特色社会主义理论体系概论：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18075/#review-85184>
+  - 查询：毛泽东思想和中国特色社会主义理论体系概论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18072/#review-50115>
+  - 查询：毛概提纲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18075/#review-93198>
+  - 查询：毛概一些资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18075/#review-85923>
+  - 查询：毛概总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：MARX1013
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/18075/#review-93198>
@@ -29630,6 +34227,48 @@
 
 ### MARX1014 习近平新时代中国特色社会主义思想概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24800/#review-98600>
+  - 查询：习近平新时代中国特色社会主义思想概论：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25826/#review-98252>
+  - 查询：习概 2025 秋学期总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24800/#review-100341>
+  - 查询：习近平新时代中国特色社会主义思想概论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22354/#review-96639>
+  - 查询：习概 2022 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24800/#review-100341>
+  - 查询：习近平新时代中国特色社会主义思想概论：实验与项目（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22355/#review-81611>
+  - 查询：习概笔记（Word 版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22354/#review-96639>
+  - 查询：习近平新时代中国特色社会主义思想概论：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1014
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24800/#review-98600>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 24 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29811,6 +34450,42 @@
 
 ### MATH1002 数学分析(A2)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2828/#review-104519>
+  - 查询：数学分析(A2)：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2828/#review-104139>
+  - 查询：MAA2 finalsol
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12392/#review-23487>
+  - 查询：数学分析(A2)：试题与解析（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12392/#review-23487>
+  - 查询：数学分析(A2)：作业与习题（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2828/#review-104519>
+  - 查询：数学分析教程下册 第10-13章习题整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12392/#review-50171>
+  - 查询：Reference answer for MAII
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1002
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/12392/#review-23487>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 7 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29891,6 +34566,30 @@
 
 ### MATH1003 数学分析(A3)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2831/#review-27987>
+  - 查询：数学分析A3 2020 秋期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13494/#review-87963>
+  - 查询：数学分析A3 2024 期中评分标准
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13494/#review-68716>
+  - 查询：数学分析(A3)：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13494/#review-68716>
+  - 查询：数学分析(A3)：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1003
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/13494/#review-97513>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 6 条候选的原页、附件与课程归属，核对公开可访问性
@@ -29947,6 +34646,24 @@
 
 ### MATH1004 线性代数(A1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13221/#review-85795>
+  - 查询：线性代数(A1)：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12386/#review-84696>
+  - 查询：习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1004
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13221/#review-85795>
+  - 查询：中国科学技术大学2023-2024学年线性代数A1期末考试答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1004
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12386/#review-85775>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -30027,6 +34744,12 @@
 
 ### MATH1005 线性代数(A2)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18270/#review-72509>
+  - 查询：线性代数：相似标准形专题笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1005
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18270/#review-97532>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
@@ -30107,6 +34830,84 @@
 
 ### MATH1006 数学分析(B1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13486/#review-69910>
+  - 查询：数学分析(B1)：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19512/#review-105840>
+  - 查询：数学分析(B1) 笔记 17
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19517/#review-90507>
+  - 查询：数学分析(B1)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19509/#review-68125>
+  - 查询：数学分析(B1)：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19516/#review-77292>
+  - 查询：数分习题课讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26560/#review-99720>
+  - 查询：数学分析(B1) 往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13486/#review-69910>
+  - 查询：数学分析(B1) 2020秋 期中答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19511/#review-41066>
+  - 查询：21-22年数分学习笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13486/#review-69910>
+  - 查询：数学分析(B1)：作业与习题（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2840/#review-29420>
+  - 查询：2020数分B1期中考试卷和答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19512/#review-100047>
+  - 查询：数学分析(B1)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21918/#review-57454>
+  - 查询：20秋-数学分析(B1)期中考试解析与评分细则
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26560/#review-99720>
+  - 查询：数学分析(B1) 学习指导v1.0
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19509/#review-91734>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -30301,6 +35102,48 @@
 
 ### MATH1007 数学分析(B2)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13222/#review-86578>
+  - 查询：数学分析(B2)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13222/#review-70644>
+  - 查询：数学分析(B2) 2018–2019 春季练习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20161/#review-102432>
+  - 查询：数学分析(B2) 期中答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2847/#review-83583>
+  - 查询：数学分析(B2) 教材习题答案（第一部分）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2848/#review-104511>
+  - 查询：数学分析(B2)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20161/#review-104266>
+  - 查询：数学分析(B2)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13223/#review-46622>
+  - 查询：数学分析(B2) 课程讲稿
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1007
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21345/#review-85766>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 87 条候选的原页、附件与课程归属，核对公开可访问性
@@ -30479,6 +35322,102 @@
 
 ### MATH1009 线性代数(B1)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5481/#review-85352>
+  - 查询：线性代数B1 2024F final ans
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5484/#review-18340>
+  - 查询：线性代数(B1)：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24268/#review-84581>
+  - 查询：线性代数期中复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5469/#review-87167>
+  - 查询：How Linear Algebra B1 Should Have Been
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25296/#review-94790>
+  - 查询：线性代数(B1) 2025-09 讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5492/#review-31976>
+  - 查询：《线性代数B1》定理整理（未校对版本）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21346/#review-94919>
+  - 查询：线性代数 01 第一章 向量
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18268/#review-86625>
+  - 查询：线性代数(B1)：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5481/#review-85352>
+  - 查询：《线性代数B1》讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5470/#review-81575>
+  - 查询：往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5484/#review-18340>
+  - 查询：理论力学习题课·线性代数复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5480/#review-13641>
+  - 查询：线性代数(B1)：试题与解析（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5481/#review-73657>
+  - 查询：线性代数(B1) 讲义 2023S
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5470/#review-81575>
+  - 查询：线性代数(B1)习题讲义合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24268/#review-84581>
+  - 查询：线性代数(B1)：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5483/#review-80978>
+  - 查询：线性代数(B1)：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1009
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 204 条候选，覆盖 27 个课程页、63 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -30824,6 +35763,30 @@
 
 ### MATH1010 线性代数(B2)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5493/#review-89897>
+  - 查询：线性代数B2 2022—2023 学年期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5495/#review-88028>
+  - 查询：线性代数(B2)：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5494/#review-81564>
+  - 查询：线性代数B2 2023 秋期中参考答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/5494/#review-78102>
+  - 查询：线性代数趣味应用案例
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1010
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/5494/#review-58315>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 17 条候选的原页、附件与课程归属，核对公开可访问性
@@ -30949,6 +35912,78 @@
 
 ### MATH2001 计算方法
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21925/#review-102038>
+  - 查询：计算方法：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20952/#review-94108>
+  - 查询：计算方法：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22586/#review-66650>
+  - 查询：计算方法 自编讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20952/#review-94108>
+  - 查询：计算方法 数值计算方法扩充教程
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21350/#review-46583>
+  - 查询：计算方法：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21925/#review-106377>
+  - 查询：计算方法习题课
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21350/#review-76125>
+  - 查询：计算方法：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24269/#review-85502>
+  - 查询：24春计算方法期末回忆版
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20952/#review-94108>
+  - 查询：计算方法 往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21350/#review-76125>
+  - 查询：计算方法总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21350/#review-67755>
+  - 查询：计算方法 2023春期末
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24269/#review-85502>
+  - 查询：计算方法 简要
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2001
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/notes>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -31533,6 +36568,30 @@
 
 ### MATH2502 微分方程概论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22362/#review-101241>
+  - 查询：微分方程习题课讲义（2025）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22362/#review-89851>
+  - 查询：微分方程概论：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22362/#review-85362>
+  - 查询：微分方程概论习题课材料（2023 秋）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2502
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22362/#review-98809>
+  - 查询：微分方程概论 2025 秋期末试卷（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH2502
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22362/#review-101241>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
@@ -31608,6 +36667,24 @@
 
 ### MATH3001 近世代数
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6520/#review-83625>
+  - 查询：近世代数：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/6518/#review-104518>
+  - 查询：近世代数-讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13213/#review-47004>
+  - 查询：近世代数：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3001
 - 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/6520/#review-67558>
   - 查询：评课包历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -31675,6 +36752,12 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：mp-gh-math3002-homework-d85aab。
   - 来源 ID：gh-weiyu-mathstat
+  - 课程代码：MATH3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24273/#review-83894>
+  - 查询：实分析 习题课
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：MATH3002
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/12373/#review-67036>
   - 查询：评课包历史资料逐条复核（blocked）
@@ -32043,6 +37126,48 @@
 
 ### MATH3007 概率论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-32835>
+  - 查询：概率论课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-95955>
+  - 查询：概率论作业（2024 秋）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-93147>
+  - 查询：概率论后三章习题解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-100689>
+  - 查询：概率论习题课讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/12816/#review-64780>
+  - 查询：概率论：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-54830>
+  - 查询：概率论：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3839/#review-83898>
+  - 查询：概率论：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3007
 - 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/3839/#review-95955>
   - 查询：评课包历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -32171,6 +37296,18 @@
 
 ### MATH3008 复分析
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/17982/#review-71214>
+  - 查询：复分析 习题课讲义合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3008
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13834/#review-67300>
+  - 查询：复分析：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3008
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课社区 2026-10 快照点评资料回查（分片 01）
   - 检查范围：分片 01 中本课 12 条候选，覆盖 3 个课程页、7 条点评；按公开 DOM 判据逐条核 href/src，登录占位附件计入受阻。
@@ -32299,6 +37436,12 @@
 
 ### MATH3009 微分几何
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21912/#review-79725>
+  - 查询：微分几何：学习资料（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3009
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21912/#review-79725>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
@@ -32337,6 +37480,12 @@
 
 ### MATH3010 组合学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20622/#review-72061>
+  - 查询：组合学：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3010
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20622/#review-104285>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 5 条候选的原页、附件与课程归属，核对公开可访问性
@@ -32380,6 +37529,18 @@
   - 检查范围：按作业原页、文件或可读部分的逐条复核记录裁定，不代表逐页通读。
   - 说明：补已有资料的具体入口：mp-gh-math3011-lectures-9ec5d2。
   - 来源 ID：gh-guidongnan
+  - 课程代码：MATH3011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23685/#review-72634>
+  - 查询：运筹学 期中小测
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3011
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23685/#review-99460>
+  - 查询：2025 秋运筹学期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
   - 课程代码：MATH3011
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/23685/#review-99701>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
@@ -32481,6 +37642,12 @@
 
 ### MATH3015 组合学进阶
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21915/#review-74938>
+  - 查询：组合学进阶：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3015
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21915/#review-74834>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -32524,6 +37691,18 @@
 
 ### MATH3016 数理统计进阶
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21913/#review-88815>
+  - 查询：数理统计进阶 笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3016
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21913/#review-88815>
+  - 查询：数理统计进阶 期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3016
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21913/#review-56332>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -32561,6 +37740,12 @@
 
 ### MATH3701 华罗庚讨论班(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24813/#review-94099>
+  - 查询：复动力系统若干对象（讨论班报告）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH3701
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/24813/#review-94099>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -32839,6 +38024,12 @@
 
 ### MATH4004 现代概率方法导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26410/#review-102127>
+  - 查询：集中不等式讲义（第 1 部分）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH4004
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/26410/#review-102127>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -33046,6 +38237,24 @@
 
 ### ME2006 理论力学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24828/#review-91294>
+  - 查询：理论力学 答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25793/#review-105672>
+  - 查询：理论力学 答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23690/#review-97971>
+  - 查询：理论力学B：学习资料（6 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2006
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23690/#review-97971>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
@@ -33141,6 +38350,12 @@
 
 ### ME2010 材料力学A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22076/#review-83592>
+  - 查询：材料力学A：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2010
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22075/#review-94793>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -33272,6 +38487,12 @@
 
 ### ME2015 工程材料及成型技术基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25801/#review-101081>
+  - 查询：工程材料试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2015
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/2206/#review-71938>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -33341,6 +38562,12 @@
 
 ### ME2501 材料力学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21953/#review-100708>
+  - 查询：材料力学B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2501
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21953/#review-100708>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -33802,6 +39029,12 @@
 
 ### ME4011 振动理论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/2636/#review-41556>
+  - 查询：振动理论及应用（第 5 版）课后答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME4011
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/2636/#review-41556>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -34300,6 +39533,12 @@
 
 ### MED2003 生理学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14252/#review-36643>
+  - 查询：生理学 复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MED2003
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/14252/#review-36643>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -35250,6 +40489,12 @@
 
 ### MNSC3008 数据分析编程基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21360/#review-71219>
+  - 查询：数据分析编程基础
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MNSC3008
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21360/#review-71219>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -35523,6 +40768,12 @@
 
 ### NNM1501 VR/AR/MR技术创意设计与应用
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20982/#review-72958>
+  - 查询：SwordGame 课程设计程序（Windows）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：NNM1501
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20982/#review-81931>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 8 条候选的原页、附件与课程归属，核对公开可访问性
@@ -36041,6 +41292,18 @@
 
 ### NSE3006 反应堆物理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18700/#review-83993>
+  - 查询：反应堆物理复习笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：NSE3006
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18700/#review-83993>
+  - 查询：反应堆物理：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：NSE3006
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/18700/#review-72649>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -36274,6 +41537,12 @@
 
 ### NSE4009 加速器理论基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25763/#review-98352>
+  - 查询：加速器理论基础：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：NSE4009
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 2 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37530,6 +42799,42 @@
 
 ### PHYS1001A 力学A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19588/#review-90767>
+  - 查询：2023期中
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19967/#review-27995>
+  - 查询：力学历年考题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19588/#review-90767>
+  - 查询：物理学科学习指南8.16
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22033/#review-90305>
+  - 查询：力学A：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22033/#review-90137>
+  - 查询：斜抛运动专题结论
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19589/#review-43609>
+  - 查询：力学A：试题与解析（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19967/#review-27995>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 25 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37588,6 +42893,42 @@
 
 ### PHYS1001B 力学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19594/#review-92925>
+  - 查询：力学B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20179/#review-49998>
+  - 查询：力学B 2021 春期中试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20178/#review-46266>
+  - 查询：力学B 作业（一份）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20179/#review-49998>
+  - 查询：力学B 复习课课件
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20179/#review-84332>
+  - 查询：力学B 往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19595/#review-45833>
+  - 查询：力学历年考题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1001B
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20177/#review-45838>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 21 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37664,6 +43005,48 @@
 
 ### PHYS1002A 热学A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20182/#review-32160>
+  - 查询：热学讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20182/#review-86729>
+  - 查询：《热学A》知识点整理（未校对版本）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20187/#review-36580>
+  - 查询：大学物理热学习题库试题与答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20189/#review-69168>
+  - 查询：热学笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20182/#review-33854>
+  - 查询：热学A：作业与习题（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20182/#review-33854>
+  - 查询：热学A：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20182/#review-86729>
+  - 查询：2017年热学公共题部分
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002A
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24407/#review-104356>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37702,6 +43085,24 @@
 
 ### PHYS1002B 热学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20194/#review-85779>
+  - 查询：往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19599/#review-36830>
+  - 查询：2019力热春期中考试参考答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19598/#review-95127>
+  - 查询：热学B第二次习题课
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1002B
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/19599/#review-50763>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37734,6 +43135,42 @@
 
 ### PHYS1003A 光学A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21013/#review-43504>
+  - 查询：光学A知识点整理
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24002/#review-78596>
+  - 查询：光学A：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24002/#review-76343>
+  - 查询：光学A 题集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21013/#review-39224>
+  - 查询：光学A：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21012/#review-90459>
+  - 查询：光学A习题集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24002/#review-76343>
+  - 查询：复习光学
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003A
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21005/#review-58165>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 15 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37772,6 +43209,36 @@
 
 ### PHYS1003B 光学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21395/#review-56738>
+  - 查询：交叉学科光学习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21395/#review-102569>
+  - 查询：光学B 习题解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21394/#review-88983>
+  - 查询：光学复习讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21397/#review-82691>
+  - 查询：光学公式
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21395/#review-102569>
+  - 查询：光学B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1003B
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22022/#review-77240>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37809,6 +43276,54 @@
 
 ### PHYS1004A 电磁学A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20200/#review-36575>
+  - 查询：电磁学A 小测三次合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23138/#review-70033>
+  - 查询：电磁学A 例题选讲
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4937/#review-69650>
+  - 查询：电磁学A 课程笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/13856/#review-86733>
+  - 查询：电磁学与电动力学（上册）习题参考答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/20200/#review-36575>
+  - 查询：电磁学A 磁场习题课
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24421/#review-86524>
+  - 查询：电磁学与电动力学（第二版）习题解答
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24421/#review-86524>
+  - 查询：电磁学A 2021 期末公共题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4933/#review-4600>
+  - 查询：电磁学A：学习资料（8 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4937/#review-69650>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 32 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37859,6 +43374,24 @@
 
 ### PHYS1004B 电磁学B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14403/#review-86577>
+  - 查询：2020春《电磁学》期末考试试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4969/#review-59283>
+  - 查询：电磁学B 讲义
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/14403/#review-86577>
+  - 查询：电磁学B：学习资料（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004B
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4969/#review-59283>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37902,6 +43435,36 @@
 
 ### PHYS1004C 电磁学C
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25875/#review-97448>
+  - 查询：电磁学C 电学部分总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25875/#review-100045>
+  - 查询：电磁学C 2025 秋期中试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4975/#review-98313>
+  - 查询：电磁学C 期末试题（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4977/#review-60784>
+  - 查询：电磁学C 试卷合集（压缩包）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/4977/#review-78846>
+  - 查询：电磁学C 磁学部分期末复习提纲（手写）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004C
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/4977/#review-60784>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 16 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37935,6 +43498,12 @@
 
 ### PHYS1004H 电磁学(H)
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24422/#review-86019>
+  - 查询：电磁学(H) 2024sp_midterm
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1004H
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/24422/#review-86019>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37967,6 +43536,42 @@
 
 ### PHYS1005A 原子物理A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21409/#review-90701>
+  - 查询：原子物理A：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21408/#review-84825>
+  - 查询：原子物理A：试题与解析（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21407/#review-94548>
+  - 查询：原子物理 笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21411/#review-87080>
+  - 查询：原子物理 简记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24423/#review-99248>
+  - 查询：原子物理 2025 秋小测答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21408/#review-48342>
+  - 查询：原子物理A：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/21702/#review-103175>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 18 条候选的原页、附件与课程归属，核对公开可访问性
@@ -37999,6 +43604,72 @@
 
 ### PHYS1005B 原子物理B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21022/#review-55565>
+  - 查询：原子物理B 习题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21021/#review-37410>
+  - 查询：原子物理B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21022/#review-49500>
+  - 查询：原子物理B 复习公式
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21413/#review-48922>
+  - 查询：原子物理B 期末复习
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21022/#review-103626>
+  - 查询：原子物理B 教材课后答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21414/#review-95486>
+  - 查询：原子物理B 2025 试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21022/#review-103626>
+  - 查询：原子物理B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21022/#review-103626>
+  - 查询：原子物理B：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21021/#review-93895>
+  - 查询：原子物理B 课件内容整理笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21021/#review-93895>
+  - 查询：原子物理B：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21021/#review-100861>
+  - 查询：原子物理B 复习笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1005B
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/21021/#review-37410>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38067,6 +43738,12 @@
 
 ### PHYS1007 大学物理II
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21417/#review-105265>
+  - 查询：物理笔记
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1007
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/20202/#review-35480>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38104,6 +43781,12 @@
 
 ### PHYS1008A 大学物理-基础实验A
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22951/#review-64856>
+  - 查询：大学物理-基础实验A：实验与项目（7 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008A
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/20440/#review-35729>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 12 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38135,6 +43818,30 @@
 
 ### PHYS1008B 大学物理-基础实验B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24426/#review-83695>
+  - 查询：一级大雾参考资料
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25421/#review-93326>
+  - 查询：大学物理-基础实验B：实验与项目（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21419/#review-50054>
+  - 查询：一级大雾预习测&出门测 Release 4.0
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24426/#review-84217>
+  - 查询：大学物理-基础实验B：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1008B
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 11 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38227,6 +43934,24 @@
 
 ### PHYS1009B 大学物理-综合实验B
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21901/#review-55186>
+  - 查询：大学物理-综合实验B 互助文档（v1.0）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1009B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23770/#review-80116>
+  - 查询：二级大物实验报告
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1009B
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24913/#review-96682>
+  - 查询：大学物理-综合实验B：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1009B
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/25734/#review-101551>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 10 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38264,6 +43989,42 @@
 
 ### PHYS1010 量子物理
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21423/#review-83640>
+  - 查询：量子物理：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22658/#review-63813>
+  - 查询：信智学部量子物理试卷（回忆版）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22658/#review-66056>
+  - 查询：量子物理：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22658/#review-66056>
+  - 查询：量子物理：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21420/#review-85044>
+  - 查询：量子物理：作业与习题（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21420/#review-94405>
+  - 查询：量子物理：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS1010
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22658/#review-66056>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 55 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38459,6 +44220,12 @@
 
 ### PHYS3005 受控热核聚变导论
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22661/#review-94525>
+  - 查询：聚变试卷2025
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PHYS3005
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/22661/#review-85043>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 9 条候选的原页、附件与课程归属，核对公开可访问性
@@ -38932,6 +44699,12 @@
 
 ### PLNT3006 天体生物学
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23638/#review-84565>
+  - 查询：天体生物学 2023 秋平时作业题目辑录
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：PLNT3006
 - 2026-11-19 · 评课社区 · 受阻 · <https://icourse.club/course/23638/#review-84565>
   - 查询：评课包历史资料逐条复核（blocked）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -39075,6 +44848,180 @@
   - 说明：补已有资料的具体入口：mp-gh-stat2002-lectures-c920cd。
   - 来源 ID：gh-wloner0809
   - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3847/#review-43506>
+  - 查询：概统往年题2003-2021
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3859/#review-91500>
+  - 查询：概率论与数理统计：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3854/#review-87488>
+  - 查询：概统习题第一章1-15
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21831/#review-96744>
+  - 查询：概统试卷和参考答案2023
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3854/#review-88202>
+  - 查询：概率论与数理统计：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23792/#review-79892>
+  - 查询：概率论与数理统计：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21053/#review-105446>
+  - 查询：期末-概率论部分总结
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3859/#review-91500>
+  - 查询：概率论与数理统计 往年真题
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21052/#review-39545>
+  - 查询：概率论与数理统计：作业与习题（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21830/#review-85049>
+  - 查询：概率论与数理统计：试题与解析（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3847/#review-90448>
+  - 查询：概率论与数理统计课件(刘杰_2024F)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3860/#review-56400>
+  - 查询：概率论与数理统计：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21048/#review-79734>
+  - 查询：概统2023秋试卷及答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21052/#review-105456>
+  - 查询：概统试卷和参考答案2026春
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3847/#review-78579>
+  - 查询：概率论与数理统计：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21053/#review-103976>
+  - 查询：近十年概统往年题合集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3855/#review-98594>
+  - 查询：概率论与数理统计：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3860/#review-57241>
+  - 查询：概率论与数理统计：试题与解析（3 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21053/#review-40210>
+  - 查询：概率论与数理统计 教案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3854/#review-88202>
+  - 查询：概率论部分复习资料-2026.1.5
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/23792/#review-79892>
+  - 查询：概率论与数理统计习题集
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3847/#review-78579>
+  - 查询：概率统计习题册
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21053/#review-103976>
+  - 查询：概统答案-习题答案、知识和思路(包含在remark部分)
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3847/#review-43506>
+  - 查询：概率论与数理统计习题集及答案
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21053/#review-103976>
+  - 查询：概率论与数理统计：学习资料（2 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3847/#review-43506>
+  - 查询：概率论与数理统计：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21831/#review-96744>
+  - 查询：概率论与数理统计：学习资料（4 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3855/#review-79302>
+  - 查询：概统试卷和参考答案202401
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/3855/#review-98594>
+  - 查询：概率论与数理统计 大题备考
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT2002
 - 2026-11-19 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/tree/master/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/notes>
   - 查询：旧库历史资料逐条复核（duplicate）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -39191,6 +45138,12 @@
 
 ### STAT3001 机器学习方法
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22067/#review-99219>
+  - 查询：机器学习方法：试题与解析（5 个附件）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3001
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22067/#review-75674>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -39240,6 +45193,24 @@
 
 ### STAT3002 实用统计软件
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18336/#review-25685>
+  - 查询：实用统计软件 R 项目压缩包
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18336/#review-25685>
+  - 查询：实用统计软件作业压缩包
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3002
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18336/#review-25685>
+  - 查询：实用统计软件课件压缩包
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3002
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/26508/#review-102652>
   - 查询：评课包历史资料逐条复核（reviewed）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -39277,6 +45248,18 @@
 
 ### STAT3003 统计算法基础
 
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22668/#review-96344>
+  - 查询：统计算法基础课件压缩包（2024 秋）
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3003
+- 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/22668/#review-98667>
+  - 查询：统计算法基础 2025 期末试卷
+  - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
+  - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：STAT3003
 - 2026-11-19 · 评课社区 · 无相关结果 · <https://icourse.club/course/22668/#review-97149>
   - 查询：评课包历史资料逐条复核（no_relevant_result）
   - 检查范围：逐条重判 1 条候选的原页、附件与课程归属，核对公开可访问性
@@ -40739,8 +46722,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 2184 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 429。
+- 统计范围：统计分母是站点引用的 2796 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1041。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。

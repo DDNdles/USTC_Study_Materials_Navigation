@@ -10,6 +10,35 @@
   "has_resources": true,
   "resources": [
     {
+      "id": "intake-login-010197-331e772c92d3d2c3",
+      "type": "homework",
+      "title": "执行器技术：作业与习题（3 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：✓第二次习题课液动部分、第二次习题课、第一次习题课。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/12799/#review-94938",
+        "note": "在对应课程原帖正常登录后核对 3 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/12799/#review-94938",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "intake-010197-c3b4f7773573f9cb",
       "type": "study",
       "title": "执行器技术 复习提纲（3 图）",

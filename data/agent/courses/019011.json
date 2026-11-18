@@ -40,9 +40,126 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-019011-cc5da07ac8c5b834",
+      "type": "exams",
+      "title": "有机化学(A1)：试题与解析（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：有机化学(A1) 期中试卷（含答案）、有机化学(A1) 2025—2026 秋期中参考答案。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3482/#review-101489",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3482/#review-101489",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-019011-ea07ed39c3818e97",
+      "type": "homework",
+      "title": "有机化学(A1) 第二次小测（答案）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/3482/#review-101489",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/3482/#review-101489",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-019011-e5c078a8fe193c68",
+      "type": "homework",
+      "title": "有机化学(A1) 小测 1 试卷与答案",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26009/#review-99678",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26009/#review-99678",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-019011-1197459b97eca7b9",
+      "type": "study",
+      "title": "有机化学(A1)：学习资料（10 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：有机化学(A1) 第 1 章讲义：绪论、有机化学(A1) 第 2 章讲义：烷烃与自由基取代、有机化学(A1) 第 3 章讲义：烯烃亲电加成、有机化学(A1) 第 4 章讲义：立体化学、有机化学(A1) 第 5 章讲义：炔烃与周环反应、有机化学(A1) 第 6 章讲义：芳烃取代反应、有机化学(A1) 第 7 章讲义：波谱分析、有机化学(A1) 第 8 章讲义：卤代烃、有机化学(A1) 第 9 章讲义：醇酚醚、有机化学(A1) 第 10 章讲义：醛酮醌。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/26009/#review-99678",
+        "note": "在对应课程原帖正常登录后核对 10 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/26009/#review-99678",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
-    "feixu-alist": "feixu 学习资料分享站（AList）"
+    "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区"
   }
 }

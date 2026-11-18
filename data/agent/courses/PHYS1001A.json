@@ -133,6 +133,37 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1001A-5cae8ea8c86ddbe5",
+      "type": "exams",
+      "title": "2023期中",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [
+          2023
+        ],
+        "academic_years": [],
+        "exam_kind": "midterm",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19588/#review-90767",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19588/#review-90767",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-uexam-phys1001a-2023-final-aaac1c",
       "type": "exams",
       "title": "力学 2023 期末",
@@ -374,6 +405,40 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1001A-eab950761ee98c7e",
+      "type": "exams",
+      "title": "力学A：试题与解析（7 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：2017年秋季力学期末考试参考解答、2018秋季力学期末试卷、2018秋季力学期末试题参考答案、2020秋期末、2020秋期中、MechanicsExams 2016FA-final、MechanicsExams 2017FA-final。",
+      "coverage": {
+        "years": [
+          2016,
+          2017,
+          2018,
+          2020
+        ],
+        "academic_years": [],
+        "exam_kind": "mixed",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19589/#review-43609",
+        "note": "在对应课程原帖正常登录后核对 7 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19589/#review-43609",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-phys1001a-exams-4cdd45",
       "type": "exams",
       "title": "2024-2025秋季学期 力学A(AH AL)期末参考答案",
@@ -405,6 +470,64 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-PHYS1001A-7a75ef49c5037c8f",
+      "type": "exams",
+      "title": "力学历年考题",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": "unknown",
+        "exam_form": "unknown",
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19967/#review-27995",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19967/#review-27995",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1001A-d14eee1e8f760320",
+      "type": "study",
+      "title": "力学A：学习资料（4 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：刚体笔记整理、流体笔记整理、相对论笔记整理、振动与波笔记整理。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22033/#review-90305",
+        "note": "在对应课程原帖正常登录后核对 4 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22033/#review-90305",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-phys1001a-open_book-c5c998",
       "type": "study",
       "title": "力学A大抄",
@@ -432,10 +555,69 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-PHYS1001A-a51b34d86b80d477",
+      "type": "study",
+      "title": "物理学科学习指南8.16",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/19588/#review-90767",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/19588/#review-90767",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-PHYS1001A-e1e0927a359d1d30",
+      "type": "study",
+      "title": "斜抛运动专题结论",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22033/#review-90137",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22033/#review-90137",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     }
   ],
   "sources": {
     "feixu-alist": "feixu 学习资料分享站（AList）",
-    "ustc-phy-exam": "USTC 物理课程往年试卷"
+    "ustc-phy-exam": "USTC 物理课程往年试卷",
+    "icourse-club": "USTC 评课社区"
   }
 }

@@ -218,6 +218,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-002001-5594487f0168ceac",
+      "type": "study",
+      "title": "固体物理期末总复习指南",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/1392/#review-103144",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/1392/#review-103144",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "mp-feixu-002001-study-6cf078d2",
       "type": "study",
       "title": "固体物理期中整理",
@@ -309,6 +338,7 @@
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "staff-ustc-gzwang": "固体物理课程讲义（教师主页）",
-    "staff-ustc-weng-ssp": "固体物理课程主页（翁老师）"
+    "staff-ustc-weng-ssp": "固体物理课程主页（翁老师）",
+    "icourse-club": "USTC 评课社区"
   }
 }

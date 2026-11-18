@@ -77,6 +77,7 @@ docs/sources-and-search.md  构建生成：来源、检索记录与致谢
 - `type`：`exams/homework/study/books/projects`。`books` 仅收权利方公开提供、免登录免费获取的完整教材 PDF，至少登记一个直接 PDF 链接，所有位置均为 `public`。
 - `exams` 的 `exam_kind` 为 `midterm/final/mixed/unknown`，`exam_form` 为 `original/recollection/practice/unknown`。小测归 `homework`，保留 `exam_kind=quiz`、已核验卷型与解答信息；其他非试题三项为 `null`。`has_solutions` 为 `true/false/null`。
 - `access`：`public/login/campus/paid/unknown`。可选的 `locations[].page_kind`：`directory/file/page`，分别标明资料目录、文件页和普通来源页；不得把目录填入 `download_url`。
+- 本轮登录例外只适用于 USTC 评课社区：`source_id: "icourse-club"`、`access: "login"`，`page_url` 指向匿名可定位的具体 `#review-` 原帖，且附件入口经正常登录核实。`download_url` 和 `download_page` 均为 `null`；不保存登录后才出现的直链、正文、登录凭证或文件副本。按附件名核对的条目，要在核验说明中明确未读文件正文。
 - `locations[].license_note` 与 `attribution` 必须是实际说明字符串（不得为 `null`）：前者写授权/使用限制，后者写公开署名；`coverage.note` 记录核验范围与依据。
 - `locations[].file_snapshot` 为可选的 `{sha256, bytes, checked_at}`，仅对应免登录的 `download_url`。SHA-256 必须是原始文件字节的完整 64 位小写十六进制值，`bytes` 是实际字节数，`checked_at` 是取样日期；不得使用网页、Git blob、提取文本或摘要前缀替代。链接改指另一文件时删除或重新取样。课程详情仅详细模式展示，不用它替代课程归属、内容或授权核验。
 - 作业、习题与小测可选 `exercise_source`，只写已核实的出处。明确对应、免登录的解答可用 `locations[].role: "solution"`，不另计一条资料；仍须保留不带该角色的主入口。详情页两种模式均显示配套解答，监控照常检查该位置的 URL。

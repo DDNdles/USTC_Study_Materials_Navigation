@@ -141,6 +141,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-EE2003-8c761449055a69d3",
+      "type": "homework",
+      "title": "计嵌第八章题目解析",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25202/#review-94948",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25202/#review-94948",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "epihio-ee2003-2025-worked-solutions",
       "type": "homework",
       "title": "计算机原理与嵌入式系统 · 2025 版作业参考答案（含解析）",
@@ -254,6 +283,35 @@
       "verified_at": "2026-11-18"
     },
     {
+      "id": "intake-login-EE2003-9350536b6a83c285",
+      "type": "study",
+      "title": "计嵌大抄 v3（另一帖）",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/22522/#review-84882",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/22522/#review-84882",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
       "id": "eng-open_book-ee2003-f03bc984",
       "type": "study",
       "title": "计嵌大抄（A4排版）",
@@ -324,6 +382,93 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-EE2003-a47da0d1172f0cd8",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统：学习资料（10 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：计嵌复习整理（考砸版）压缩包、计嵌复习·掌握第二部分、计嵌填空与简答练习、计嵌复习·理解第一部分、计嵌复习·理解第三部分、计嵌复习·理解第二部分、计嵌复习·了解第一部分、计嵌复习·掌握第一部分、计嵌复习·掌握第四部分、计嵌复习·掌握第三部分。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21287/#review-46454",
+        "note": "在对应课程原帖正常登录后核对 10 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21287/#review-46454",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-EE2003-690ca3d171a29387",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统：学习资料（12 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：《计嵌》复习提要（2023-06-05 版）、计嵌大抄 v3、计嵌大钞（半开卷资料）、计嵌复习提纲、计嵌概念解释、微嵌考点细化、计嵌第三章习题课、计嵌 2025 习题课（第 1—2 章）、计嵌 2025 习题课（第 5 章）、计嵌 2025 习题课（第 4 章）、计嵌第一章讲义（2025-02-26）、计嵌第二章讲义（2025-02-28）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25202/#review-94948",
+        "note": "在对应课程原帖正常登录后核对 12 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25202/#review-94948",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
+    },
+    {
+      "id": "intake-login-EE2003-4a6a4c0970584875",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统：学习资料（2 个附件）",
+      "authors": [],
+      "notes": "原帖附件主题：计嵌课程 PPT、计嵌资料（终稿）。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/21286/#review-84603",
+        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/21286/#review-84603",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "eng-notes-ee2003-7fab8348",
@@ -417,6 +562,35 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "intake-login-EE2003-391b3e8177002602",
+      "type": "study",
+      "title": "计算机原理与嵌入式系统课程要点",
+      "authors": [],
+      "notes": "",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://icourse.club/course/25202/#review-92780",
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      },
+      "locations": [
+        {
+          "source_id": "icourse-club",
+          "page_url": "https://icourse.club/course/25202/#review-92780",
+          "download_page": null,
+          "download_url": null,
+          "access": "login",
+          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+          "attribution": "USTC 评课社区原帖",
+          "page_kind": "page"
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "eng-lectures-ee2003-d6654962",
@@ -546,6 +720,7 @@
   "sources": {
     "eng-github-epihio-automation": "EpiHio/USTC_Automation（自动化专业课程资料）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
+    "icourse-club": "USTC 评课社区",
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
     "eng-github-ly382965-materials": "ly382965/USTC_learning_materials（6系课程资料）",
     "eng-github-duxiaoyang-materials": "duxiaoyang-creator/USTC-Course-Materials（本科课程存档）"
