@@ -21,7 +21,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://icourse.club/course/18319/#review-61598",
-        "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+        "note": "已核验本资料 2/2 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
       },
       "locations": [
         {
@@ -32,7 +32,19 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "2d75e22f9a4870d100e37cc634b8a51d3af4860c97ea13584b9292f0805ac6a8",
+              "bytes": 237173,
+              "checked_at": "2026-11-19"
+            },
+            {
+              "sha256": "782f6ba3cf0b39b8e47ff5b63cbd517a2104100aad14841de2317a831a40cba4",
+              "bytes": 172834,
+              "checked_at": "2026-11-19"
+            }
+          ]
         }
       ],
       "verified_at": "2026-11-19"
