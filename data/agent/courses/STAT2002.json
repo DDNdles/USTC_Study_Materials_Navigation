@@ -1367,7 +1367,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://icourse.club/course/3854/#review-87488",
-        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+        "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
       },
       "locations": [
         {
@@ -1378,7 +1378,14 @@
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
           "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
+          "page_kind": "page",
+          "attachment_snapshots": [
+            {
+              "sha256": "54053abd50550d8a5461911fe3ce334cfbfb6b5a5085fb388c89564d74e3fddf",
+              "bytes": 227889,
+              "checked_at": "2026-11-19"
+            }
+          ]
         }
       ],
       "verified_at": "2026-11-19"
