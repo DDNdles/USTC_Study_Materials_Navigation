@@ -82335,5 +82335,286 @@
       }
     ],
     "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-210045-b5189b6cda65e8cb",
+    "course_codes": [
+      "210045"
+    ],
+    "type": "exams",
+    "title": "电路基本理论 2024 夏期末试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2024
+      ],
+      "exam_kind": "final",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/4984/#review-87153",
+      "note": "卷头前两页 OCR 支持课程和试卷；原帖附件题名标注 2024 夏季期末。未逐页核验。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/4984/#review-87153",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "6d7aa439f8153f45a66bc54d4441c4469c8aa22408a135224ebbdde304035f9e",
+            "bytes": 2072278,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-001506-bc19cc95b9cdf248",
+    "course_codes": [
+      "001506"
+    ],
+    "type": "exams",
+    "title": "数理方程A 2021 期末试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "academic_years": [
+        "2020-2021"
+      ],
+      "exam_kind": "final",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/2963/#review-49683",
+      "note": "前两页 OCR 支持课程和试卷；原帖附件题名明确标注 2021-07-04 期末，与卷头学年相容。未逐页核验。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/2963/#review-49683",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "a0722fb5deba7ed2c5d52a74a94503683c37324be291f4bee6fc39ef6b5acbd8",
+            "bytes": 15604836,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-PHYS1010-957f23f1a65c0e16",
+    "course_codes": [
+      "PHYS1010"
+    ],
+    "type": "exams",
+    "title": "量子物理试卷(2026)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2026
+      ],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/25424/#review-103115",
+      "note": "全 2 页文本层读取，两页均检出 PHYS1010、「试卷」与 2026；年份取自卷面字样，未核对具体学期与卷别。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/25424/#review-103115",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "68a29328d564ae82465a97f32019e820afe1b091fea6512d91b8c64654fa3c17",
+            "bytes": 83024,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-PHYS1010-ec177d57e72b477f",
+    "course_codes": [
+      "PHYS1010"
+    ],
+    "type": "exams",
+    "title": "量子物理试卷(2025)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2025
+      ],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/25424/#review-103115",
+      "note": "全 3 页文本层读取，三页均检出 PHYS1010、「试卷」与 2025；年份取自卷面字样。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/25424/#review-103115",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "ecc62913700b9ff68cabc143407516a553ee11f8b974addc0c90cc1e61ee8833",
+            "bytes": 84745,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-PHYS1010-48b4c859e93b06f4",
+    "course_codes": [
+      "PHYS1010"
+    ],
+    "type": "exams",
+    "title": "量子物理试卷(2023)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2023
+      ],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/25424/#review-103115",
+      "note": "全 2 页文本层读取，两页均检出 PHYS1010、「试卷」与 2023；年份取自卷面字样。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/25424/#review-103115",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "5a4fb9e6261feb4b5cebdb6422b51f0dc44871f9d1bf18679da9ff22c9ae6b34",
+            "bytes": 79718,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-017146-d50024de6623089e",
+    "course_codes": [
+      "017146"
+    ],
+    "type": "exams",
+    "title": "回归分析 期末试卷(压缩包)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "final",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/1350/#review-21634",
+      "note": "抽读 7z 包内 2/2 个 PDF 的首页；其中 1 个 PDF 首页明确标注本课程和期末试卷。摘要对应原帖 7z 整包，不是包内文件。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/1350/#review-21634",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "110a72f95eb05e8c8a622c181734253367b051e5b5ad6132b0703482426a9a40",
+            "bytes": 664990,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-EE2003-495095a53cd17cda",
+    "course_codes": [
+      "EE2003"
+    ],
+    "type": "exams",
+    "title": "计算机原理与嵌入式系统 2024 试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2024
+      ],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/25202/#review-94948",
+      "note": "7 页扫描件，OCR 取样前两页；首页有课程标识、考试及试卷字样和 2024。卷别、卷型及解答未核实。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/25202/#review-94948",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "a9d032c1b4f0f777fcf29a8232de44c83ac9d37828e23b5f4f543ce3fef70969",
+            "bytes": 4681522,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
   }
 ]
