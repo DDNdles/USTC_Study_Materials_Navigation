@@ -183,6 +183,13 @@ function projectResource(resource) {
       page_kind: location.page_kind ?? null,
       ...(location.role ? { role: location.role } : {}),
       ...(location.file_snapshot ? { file_snapshot: location.file_snapshot } : {}),
+      ...(location.attachment_snapshots ? {
+        attachment_snapshots: location.attachment_snapshots.map(({ sha256, bytes, checked_at }) => ({
+          sha256,
+          bytes,
+          checked_at,
+        })),
+      } : {}),
     })),
     verified_at: resource.verified_at,
   };

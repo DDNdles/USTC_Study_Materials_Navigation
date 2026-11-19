@@ -1068,6 +1068,40 @@ function examWithSnapshot(fileSnapshot, locationOverrides = {}) {
   return data;
 }
 
+test('评课登录原帖可下发多个摘要，但不能披露附件地址或混用公开快照', () => {
+  const snapshots = [makeSnapshot(), makeSnapshot({ sha256: SOLUTION_SHA })];
+  const location = {
+    source_id: 'icourse-club', access: 'login', page_kind: 'page',
+    page_url: 'https://icourse.club/course/123/#review-456',
+    download_url: null, download_page: null, attachment_snapshots: snapshots,
+  };
+  const fixture = (overrides = {}) => {
+    const data = examWithSnapshot(undefined, { ...location, ...overrides });
+    data.sources.push({ ...data.sources[0], id: 'icourse-club' });
+    return data;
+  };
+  const data = fixture();
+  const valid = validateRepository(data);
+  assert.equal(valid.errors.length, 0, messages(valid));
+  const projected = buildCatalog(data).courses.find((course) => course.code === '001001')
+    .resources[0].locations[0];
+  assert.deepEqual(projected.attachment_snapshots, snapshots);
+  assert.equal(projected.download_url, null);
+  for (const overrides of [
+    { source_id: data.sources[0].id }, { access: 'public' }, { page_kind: 'file' },
+    { download_url: 'https://example.com/test.pdf' }, { download_page: 'https://example.com/files' },
+    { page_url: 'https://icourse.club/course/123/' }, { file_snapshot: makeSnapshot() },
+    { role: 'solution' }, { attachment_snapshots: [] },
+    { attachment_snapshots: [snapshots[0], snapshots[0]] },
+    { attachment_snapshots: [...snapshots].reverse() },
+    { attachment_snapshots: [makeSnapshot({ url: 'https://example.com/file' })] },
+    { attachment_snapshots: [makeSnapshot({ checked_at: '2026-02-30' })] },
+  ]) {
+    const invalid = validateRepository(fixture(overrides));
+    assert.ok(invalid.errors.some((issue) => issue.path.includes('.attachment_snapshots')), JSON.stringify(overrides));
+  }
+});
+
 test('公开直链的文件快照通过校验，目录按位置下发摘要且不虚构缺省快照', () => {
   const data = validData();
   data.resources = [

@@ -1750,6 +1750,7 @@ function validateResource(
         'page_kind',
         'role',
         'file_snapshot',
+        'attachment_snapshots',
       ],
       file,
       locationPath,
@@ -1817,23 +1818,34 @@ function validateResource(
       );
     }
     if (location.file_snapshot !== undefined) {
-      const snapshot = location.file_snapshot;
       const snapshotPath = `${locationPath}.file_snapshot`;
       if (location.access !== 'public' || !location.download_url) {
         collector.error(file, snapshotPath, '文件快照必须对应免登录的文件直链');
       }
-      if (!isPlainObject(snapshot)) {
-        collector.error(file, snapshotPath, '文件快照必须是对象');
+      validateSnapshotShape(location.file_snapshot, snapshotPath, file, collector);
+    }
+    if (location.attachment_snapshots !== undefined) {
+      const snapshotPath = `${locationPath}.attachment_snapshots`;
+      if (location.source_id !== 'icourse-club' || location.access !== 'login' ||
+          location.page_kind !== 'page' || location.download_url !== null ||
+          location.download_page !== null || location.file_snapshot !== undefined ||
+          location.role !== undefined || typeof location.page_url !== 'string' ||
+          !/^https:\/\/icourse\.club\/course\/\d+\/#review-\d+$/.test(location.page_url)) {
+        collector.error(file, snapshotPath, '附件取样仅适用于需登录的评课社区原帖位置');
+      }
+      const snapshots = location.attachment_snapshots;
+      if (!Array.isArray(snapshots) || snapshots.length === 0) {
+        collector.error(file, snapshotPath, '附件取样必须是非空数组');
       } else {
-        checkExactKeys(snapshot, ['sha256', 'bytes', 'checked_at'], file, snapshotPath, collector);
-        if (typeof snapshot.sha256 !== 'string' || !/^[0-9a-f]{64}$/.test(snapshot.sha256)) {
-          collector.error(file, `${snapshotPath}.sha256`, '必须是完整的小写 SHA-256 十六进制值');
-        }
-        if (!Number.isSafeInteger(snapshot.bytes) || snapshot.bytes <= 0) {
-          collector.error(file, `${snapshotPath}.bytes`, '文件字节数必须是正整数');
-        }
-        if (!isIsoDate(snapshot.checked_at)) {
-          collector.error(file, `${snapshotPath}.checked_at`, '取样日期必须是有效日期 YYYY-MM-DD');
+        let previous;
+        for (const [index, snapshot] of snapshots.entries()) {
+          const entryPath = `${snapshotPath}[${index}]`;
+          validateSnapshotShape(snapshot, entryPath, file, collector);
+          if (typeof snapshot?.sha256 !== 'string') continue;
+          if (previous !== undefined && snapshot.sha256 <= previous) {
+            collector.error(file, `${entryPath}.sha256`, '附件摘要必须按 SHA-256 升序且不重复');
+          }
+          previous = snapshot.sha256;
         }
       }
     }
@@ -1858,6 +1870,23 @@ function validateResource(
   }
   if (resource.type === 'books') {
     validateBookLocations(resource, itemPath, file, collector);
+  }
+}
+
+function validateSnapshotShape(snapshot, snapshotPath, file, collector) {
+  if (!isPlainObject(snapshot)) {
+    collector.error(file, snapshotPath, '文件快照必须是对象');
+    return;
+  }
+  checkExactKeys(snapshot, ['sha256', 'bytes', 'checked_at'], file, snapshotPath, collector);
+  if (typeof snapshot.sha256 !== 'string' || !/^[0-9a-f]{64}$/.test(snapshot.sha256)) {
+    collector.error(file, `${snapshotPath}.sha256`, '必须是完整的小写 SHA-256 十六进制值');
+  }
+  if (!Number.isSafeInteger(snapshot.bytes) || snapshot.bytes <= 0) {
+    collector.error(file, `${snapshotPath}.bytes`, '文件字节数必须是正整数');
+  }
+  if (!isIsoDate(snapshot.checked_at)) {
+    collector.error(file, `${snapshotPath}.checked_at`, '取样日期必须是有效日期 YYYY-MM-DD');
   }
 }
 
