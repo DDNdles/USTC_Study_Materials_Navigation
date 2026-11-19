@@ -82616,5 +82616,323 @@
       }
     ],
     "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-PHYS1002B-042c0df46f668070",
+    "course_codes": [
+      "PHYS1002B"
+    ],
+    "type": "exams",
+    "title": "热学B 试卷(2021)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [
+        2021
+      ],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/20196/#review-34378",
+      "note": "核验附件完整字节与前四页，首页有课程与试卷标识和 2021；期中或期末、卷型及解答未核实。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/20196/#review-34378",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "0aeaf4f956e5c35df592057e9f28df6abe9255c7b1d56a127be0e4f8ca09623d",
+            "bytes": 684813,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-MATH3002-d0b226a30fa5384d",
+    "course_codes": [
+      "MATH3002"
+    ],
+    "type": "exams",
+    "title": "实分析 期中试卷(扫描版)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "midterm",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/24273/#review-83894",
+      "note": "核验两页扫描件；首页 OCR 有课程标识及期中考试字样。年份、卷型及解答未核实。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/24273/#review-83894",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "e48d9699879e3aed6bea98c250b827525caeb990ec6357947da37e2e6ecfb9af",
+            "bytes": 273756,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-017144-d57fb36e5ee1c279",
+    "course_codes": [
+      "017144"
+    ],
+    "type": "exams",
+    "title": "随机过程B 期末试卷(年份未核实)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "final",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/6777/#review-87547",
+      "note": "8 页 PDF，抽读前四页；前两页均有本课程和期末试卷标识。年份及解答未核实。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/6777/#review-87547",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "193bb9e02c7e9ed6810b1f2f0a326e527c51a21f59b95011a566951c6011af0b",
+            "bytes": 385437,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-210045-80353e8ab04429d1",
+    "course_codes": [
+      "210045"
+    ],
+    "type": "exams",
+    "title": "电路基本理论 2020–2021 学年考试试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/4989/#review-71301",
+      "note": "核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。",
+      "academic_years": [
+        "2020-2021"
+      ]
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/4989/#review-71301",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "efb3ab6b2e1fe5484474fdf7a6e782ea5d35e3aea4553bdd04115a4fe3704b09",
+            "bytes": 196939,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-210045-b7f55aa5d963e3bc",
+    "course_codes": [
+      "210045"
+    ],
+    "type": "exams",
+    "title": "电路基本理论 2021–2022 学年考试试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/4989/#review-71301",
+      "note": "核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。",
+      "academic_years": [
+        "2021-2022"
+      ]
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/4989/#review-71301",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "2d9a39a9cb25e960ce3aeedde7e7c627f792c9b940159704890dc0a54c5b1334",
+            "bytes": 201321,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-210045-00ac14f290d6f34e",
+    "course_codes": [
+      "210045"
+    ],
+    "type": "exams",
+    "title": "电路基本理论 2022–2023 学年考试试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/4989/#review-71301",
+      "note": "核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。",
+      "academic_years": [
+        "2022-2023"
+      ]
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/4989/#review-71301",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "9d9ebcae461bca554bc9b9edd791f02fde52a24bbe8c5397d0de713bc84e2671",
+            "bytes": 207931,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-210045-f76c8e6c4328d07e",
+    "course_codes": [
+      "210045"
+    ],
+    "type": "exams",
+    "title": "电路基本理论 2023–2024 学年考试试卷",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "unknown",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/4987/#review-95863",
+      "note": "核验该份附件的完整字节与首页卷头；学年与原帖附件题名一致。抽读前四页内可提取文本，未逐页核验，卷别与解答未核实。",
+      "academic_years": [
+        "2023-2024"
+      ]
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/4987/#review-95863",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "f27ae9d5ec2626e4e7044f00747edbb4f8055c4209d7ebf23e87d4b48665068d",
+            "bytes": 198982,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
+  },
+  {
+    "id": "intake-login-011186-90f7a79870e4feb9",
+    "course_codes": [
+      "011186"
+    ],
+    "type": "exams",
+    "title": "大数据算法 期末试卷(2 页,年份未核实)",
+    "authors": [],
+    "notes": "",
+    "coverage": {
+      "years": [],
+      "exam_kind": "final",
+      "exam_form": "unknown",
+      "has_solutions": null,
+      "evidence_url": "https://icourse.club/course/18025/#review-92594",
+      "note": "核验两页扫描件及本课程期末卷头；是否完整试卷、年份与解答未核实。"
+    },
+    "locations": [
+      {
+        "source_id": "icourse-club",
+        "page_url": "https://icourse.club/course/18025/#review-92594",
+        "download_page": null,
+        "download_url": null,
+        "access": "login",
+        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
+        "attribution": "USTC 评课社区原帖",
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "fdf5a4bb16560f72c3d5c0765f3ddb0ae81b2433ecc55baa109659026feaf40a",
+            "bytes": 1041796,
+            "checked_at": "2026-11-19"
+          }
+        ]
+      }
+    ],
+    "verified_at": "2026-11-20"
   }
 ]
