@@ -5,9 +5,9 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 374 门，暂未收录 810 门）。
-- 资料：2293 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：2292 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：165 个登记来源，其中 155 个被正式资料引用。
-- 检索记录：6207 条，覆盖 1184 门课程。
+- 检索记录：6208 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
 - 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2796 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
 - 检查结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1041。
@@ -4417,9 +4417,8 @@
   - 2026 年（期末、原题、解答情况不明）：2025-2026秋力学A期末 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025-2026%E7%A7%8B%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2025 年（期末、形式不明、含解答）：2025力学A期末答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2024 年（期末、回忆版、解答情况不明）：力学 2024 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/24FaMechAFinal.pdf
-  - 2023 年（期中、形式不明、解答情况不明）：2023期中 —— USTC 评课社区 https://icourse.club/course/19588/#review-90767
   - 2023 年（期末、原题、解答情况不明）：力学 2023 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/23FaMechAFinal.pdf
-  - 2023 年（期中、形式不明、解答情况不明）：力学 2023 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23FaMechAMid.pdf
+  - 2023 年（期中、形式不明、解答情况不明）：力学 2023 期中 —— USTC 物理课程往年试卷、USTC 评课社区 https://ustcphyexam.github.io/USTC/23FaMechAMid.pdf
   - 2021 年（期末、回忆版、解答情况不明）：2021力学A期末试题回忆版 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86%E7%89%88.pdf（文件页）
   - 2021 年（期末、形式不明、解答情况不明）：力学 2021 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/21FaMechAFinal.pdf
   - 2021 年（期中、形式不明、解答情况不明）：力学 2021 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/21FaMechAMid.pdf
@@ -42853,6 +42852,12 @@
   - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page；unidentified_generic_name
   - 来源 ID：icourse-club
   - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/19588/#review-90767>
+  - 查询：力学 2023 期中试卷镜像
+  - 检查范围：匿名复核原帖可定位；评课原帖附件 1/1 的字节数与完整 SHA-256 均与正式公开快照相同。
+  - 说明：同课、同类型、试卷覆盖信息一致；保留公开资料 ID 与两种访问入口。
+  - 来源 ID：icourse-club、ustc-phy-exam
+  - 课程代码：PHYS1001A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/CS-Course-Resource-USTC-CS-Resources>
   - 查询：力学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -46622,6 +46627,7 @@
 - 课程 NSE4021 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%88%E8%BF%9B%E5%85%89%E6%BA%90%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PE1502 · 评课社区 · 受阻 · <https://icourse.club/course/3824/#review-56663>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 PHYS1001A · 评课社区 · 受阻 · <https://icourse.club/course/19967/#review-27995>：评课包复核 25 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+- 课程 PHYS1001A · 评课社区 · 重复或镜像 · <https://icourse.club/course/19588/#review-90767>：同课、同类型、试卷覆盖信息一致；保留公开资料 ID 与两种访问入口。
 - 课程 PHYS1001B · 评课社区 · 受阻 · <https://icourse.club/course/20177/#review-93419>：评课包复核 23 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 PHYS1001B · 评课社区 · 候选未确认 · <https://icourse.club/course/20178/>：附件需登录，未核验卷面/年份/解答：一次有趣的作业.pdf
 - 课程 PHYS1001H · 评课社区 · 受阻 · <https://icourse.club/course/23763/#review-78489>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
