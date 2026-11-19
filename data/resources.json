@@ -60190,7 +60190,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/2791/#review-17628",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -60201,7 +60201,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "315543cfa6cfa69a6ae328d364e1c6a7e42844d458bf615e2cd7c46d888199c8",
+            "bytes": 217411,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -60285,7 +60292,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/2787/#review-26869",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。既有年份来自附件标题，未在此次取样中单独复核。"
     },
     "locations": [
       {
@@ -60296,7 +60303,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "d0ba2859a27ed079ae3f1fbfec7c54f2e8ec7ce0ce430cb3377ac0e3a1110009",
+            "bytes": 269203,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -60471,7 +60485,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/18319/#review-61598",
-      "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 2/2 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -60482,7 +60496,19 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "2d75e22f9a4870d100e37cc634b8a51d3af4860c97ea13584b9292f0805ac6a8",
+            "bytes": 237173,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "782f6ba3cf0b39b8e47ff5b63cbd517a2104100aad14841de2317a831a40cba4",
+            "bytes": 172834,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -60564,7 +60590,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/20656/#review-80457",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -60575,7 +60601,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "ed0094be9477e0bd4f63d61dc4a6b75f563032d2961d437b91ff040ae2f0928b",
+            "bytes": 544446,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -60785,7 +60818,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/22470/#review-84641",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件：前两页文本出现课程名及期末考试标记；未核实试卷年份与解答。2024 仅来自原附件标题。"
     },
     "locations": [
       {
@@ -60796,7 +60829,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "a75f80eb009c72d63a09466fb13fa55343961eda57c03aab0ed92cbe0ceaeafa",
+            "bytes": 221921,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -61814,7 +61854,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/3321/#review-32468",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -61825,7 +61865,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "25c10a8b563091ad8746383e77c6fe45039fac65c45f3fdddbf3cf7a7c973b79",
+            "bytes": 1271777,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -63475,7 +63522,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/6263/#review-42603",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -63486,7 +63533,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "dc61f8b1e5cc5f285ac1b3cdecba576595a1f738ab122171470de2463cfac05f",
+            "bytes": 204499,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -64035,7 +64089,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/23043/#review-104683",
-      "note": "在对应课程原帖正常登录后核对 2 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 2/2 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -64046,7 +64100,19 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "119e10ab3360e12ed703da05b06ac887ff59ec6bd2c9b4ea8132a22fae767462",
+            "bytes": 452179,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "b91ff25d7caba933451c0b3e5c962f9867e92ef1b7bd84a00bf3625365c8a5fd",
+            "bytes": 412135,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -64161,7 +64227,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/5229/#review-59492",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -64172,7 +64238,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "bc033a27bf8d6dc3662a18cfc3adfde3650ed1a2a7dfbdd55625fb95d81ccf66",
+            "bytes": 347746,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -64508,7 +64581,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/21913/#review-88815",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -64519,7 +64592,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "41aadab3dc31f25a5e1046680260b9c6718e30577b05148924c683a1387a8eca",
+            "bytes": 55642,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -65729,7 +65809,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/19598/#review-95127",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -65740,7 +65820,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "9f4da714be10cd1c39d21e716f2fc7523feeb0dd5540698a65f247c593a77f14",
+            "bytes": 733038,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -65855,7 +65942,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/4842/#review-73233",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -65866,7 +65953,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "a3b9b5476f5249fe5b55457ad34ee31e4d2cf8728b3d8788ada78d4fe458fe65",
+            "bytes": 218157,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -66326,7 +66420,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/18031/#review-46387",
-      "note": "在对应课程原帖正常登录后核对 5 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 5/5 个附件的完整字节及各件前两页 PDF 文本或前两张幻灯片文本；取样支持课程及现有资料类别，不代表逐页核验。"
     },
     "locations": [
       {
@@ -66337,7 +66431,34 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "8b94ba308be3215acf8aabcb29a1275458257f41e1a3e9bfebdb78df36c23e2f",
+            "bytes": 5058411,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "be49e2201e386287a34aef056159b3ecfdb3bd0afd48791ca0940f65f6c9508f",
+            "bytes": 3057658,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "c901b2ddfe1f34d5b64b7a985bb2958708dda27c0995d3049e88bfbf5a0133ca",
+            "bytes": 1667540,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "de124129613ef3cf862c1c660269f96f7133548e850465cad96ace6151018fd5",
+            "bytes": 3192631,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "eabbc932c8bb33a59913a8177cc81bbe30ccb0f70b76c7f72861adc16ea92e03",
+            "bytes": 5034548,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -67789,7 +67910,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/21874/#review-91486",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及各件前两页 PDF 文本或前两张幻灯片文本；取样支持课程及现有资料类别，不代表逐页核验。"
     },
     "locations": [
       {
@@ -67800,7 +67921,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "3f1595b458a88f7288e58fd8e1bf4dd6c898335dc280d4c609a088ecd45c497f",
+            "bytes": 88549,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -67915,7 +68043,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/21886/#review-58116",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及各件前两页 PDF 文本或前两张幻灯片文本；取样支持课程及现有资料类别，不代表逐页核验。"
     },
     "locations": [
       {
@@ -67926,7 +68054,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "e80a328252303a20cfc4ebaa0212ea894ea3c6b4de2087e76be38672bd6eb85b",
+            "bytes": 161492,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -68134,7 +68269,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/2972/#review-22209",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -68145,7 +68280,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "21619ef7485471de1945baef13fcfc2a2437c238a057f42edbc58857cc1089db",
+            "bytes": 243312,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -68758,7 +68900,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/2668/#review-90545",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -68769,7 +68911,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "3d1dc40c8e502f54dca64f1166fc8bbfa5461ad8276148cc43bea04b15343975",
+            "bytes": 351001,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -68915,7 +69064,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/23685/#review-99460",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -68926,7 +69075,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "9abe15719250113031bb7ee90b9582add8cd41d6e264115d9ba789833260dbb9",
+            "bytes": 161579,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -69070,7 +69226,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/23690/#review-97971",
-      "note": "在对应课程原帖正常登录后核对 6 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 6/6 个附件的完整字节及各件前两页 PDF 文本或前两张幻灯片文本；取样支持课程及现有资料类别，不代表逐页核验。"
     },
     "locations": [
       {
@@ -69081,7 +69237,39 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "072868fe17edf8d8b38ac8a5b9b43f39eeaf24da38abd7f8c405fd62a0e9f7de",
+            "bytes": 7937840,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "5074dfae30d7eebe45e861a7408a963084237edfd0400a31426aacb3f2cacb33",
+            "bytes": 1432932,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "7a56700a84b14f3f533eb020ce75520053563d10c3b963dbab86f3695f89619e",
+            "bytes": 4737470,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "a8f1aa4849107b0bca1a0b275b5bc701935bb88e850b2016dc14cd4dcc556a25",
+            "bytes": 9010245,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "dc5cff83ff8a66a606b2b9192709f4319acc076d386ce03e00775cba1fafa3a2",
+            "bytes": 3792911,
+            "checked_at": "2026-11-19"
+          },
+          {
+            "sha256": "eea1f21d49f91faf4563671ae931fd29f424bf53a4f0750151936d3abb4728cb",
+            "bytes": 2947297,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -69101,7 +69289,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/24828/#review-91294",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
+      "note": "保留的原帖附件与已去除的镜像字节完全相同（完整 SHA-256 及字节数一致）；正文仅取样前两页。"
     },
     "locations": [
       {
@@ -69112,7 +69300,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "26458964322b961b19705bc7fee4d69fcb580fed70c98437ff6833764bdeee7c",
+            "bytes": 7891515,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -69411,7 +69606,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/12570/#review-85118",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -69422,7 +69617,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "f0aa5478a1aa7e0a6f7ead92f963875566b5cfdfd5800b1ac3098d1edc22ce07",
+            "bytes": 3000296,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -69633,7 +69835,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/24082/#review-98834",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。既有年份来自附件标题，未在此次取样中单独复核。"
     },
     "locations": [
       {
@@ -69644,7 +69846,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "59406729c12a742e13b817c1c3b14af24c54f2300556699ee409ab1261ac0aec",
+            "bytes": 54549,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -70011,7 +70220,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/5261/#review-88717",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -70022,7 +70231,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "006b75f2a76f9899df7c5047f076e5e5c26503dcec0687f2471c9f111287a05c",
+            "bytes": 4164255,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -70042,7 +70258,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/18315/#review-62320",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节和各自前两页可提取文本（不足两页时检查全件）；文本支持课程与资料类型，未逐页核验。"
     },
     "locations": [
       {
@@ -70053,7 +70269,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "24a62e122f6b141d61671c2ecf81de2b93751825e9f67fea121db8aae05e82bc",
+            "bytes": 181207,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -71884,7 +72107,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/22681/#review-106709",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -71895,7 +72118,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "018274304e7e8f2462083144f4c8ed2dca9558ee0e4e9b15b085ab64bd70781f",
+            "bytes": 832284,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -74033,7 +74263,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/21877/#review-51598",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -74044,7 +74274,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "fdc31f2fa63e8e83f3b87c75a36effbff96850c1cbf622c661af0d9754843500",
+            "bytes": 1611285,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -75246,7 +75483,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/3854/#review-87488",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -75257,7 +75494,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "54053abd50550d8a5461911fe3ce334cfbfb6b5a5085fb388c89564d74e3fddf",
+            "bytes": 227889,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -78438,7 +78682,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/24112/#review-83715",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -78449,7 +78693,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "45682d44ca2abd53603a5d8482b575edfca7f09fa25f6fdb506e1f5758a1c9f0",
+            "bytes": 284222,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -78908,7 +79159,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/22668/#review-98667",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -78919,7 +79170,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "1edd5c5975c163ece880dadae9b2cae7bef70af81104f2a445f6437ebd6f598d",
+            "bytes": 115564,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -80533,7 +80791,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/25875/#review-100045",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -80544,7 +80802,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "3f47965cb4566c7a548e9ee0e47cb3d7860612eaca2429ca7a70314de42db139",
+            "bytes": 874098,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"
@@ -81655,7 +81920,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/3018/#review-97915",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "已核验本资料 1/1 个附件的完整字节及 PDF 前两页可提取文本；文本支持课程及资料类型，未逐页核验，不据此新增年份、卷别或解答声明。"
     },
     "locations": [
       {
@@ -81666,7 +81931,14 @@
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
+        "page_kind": "page",
+        "attachment_snapshots": [
+          {
+            "sha256": "4b446009cd2c5741ed6e6eeb7ee3665b6ccc256ff0fe1e7f3ae977e1231c21cb",
+            "bytes": 167787,
+            "checked_at": "2026-11-19"
+          }
+        ]
       }
     ],
     "verified_at": "2026-11-19"

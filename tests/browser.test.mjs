@@ -101,6 +101,18 @@ function createFixtureCatalog() {
               checked_at: SNAPSHOT_DATE,
             },
           },
+          {
+            source_id: 'icourse-club',
+            page_url: 'https://icourse.club/course/123/#review-456',
+            download_page: null,
+            download_url: null,
+            access: 'login',
+            page_kind: 'page',
+            attachment_snapshots: [
+              { sha256: '3'.repeat(64), bytes: 1234, checked_at: SNAPSHOT_DATE },
+              { sha256: '4'.repeat(64), bytes: 5678, checked_at: SNAPSHOT_DATE },
+            ],
+          },
         ],
         verified_at: SNAPSHOT_DATE,
       },
@@ -571,8 +583,10 @@ test(
     assert.equal(compact.pressed, 'false');
     assert.equal(compact.toggleHidden, false);
     assert.equal(compact.toggleVisible, true);
-    assert.equal(compact.snapshotCount, 2, '题面与解答各有一个取样摘要节点');
-    assert.deepEqual(compact.snapshotVisible, [false, false], '简洁模式必须隐藏文件摘要');
+    assert.equal(compact.snapshotCount, 3);
+    assert.deepEqual(compact.snapshotVisible, [false, false, false], '简洁模式必须隐藏文件摘要');
+    assert.equal(compact.bodyText.includes('3'.repeat(64)), false);
+    assert.equal(compact.bodyText.includes('4'.repeat(64)), false);
     assert.equal(compact.codeTexts.includes(QUESTION_SHA), true);
     assert.equal(compact.codeTexts.includes(SOLUTION_SHA), true);
     assert.equal(compact.bodyText.includes(QUESTION_SHA), false);
@@ -624,7 +638,23 @@ test(
     assert.equal(detailed.pressed, 'true');
     assert.equal(detailed.toggleVisible, true);
     assert.equal(detailed.storage, 'detailed');
-    assert.equal(detailed.snapshotCount, 2);
+    assert.equal(detailed.snapshotCount, 3);
+    const login = await cdp.evaluate(`(() => {
+      const item = document.querySelector('.attachment-snapshots');
+      const row = item.closest('li.location');
+      return {
+        hrefs: [...row.querySelectorAll('a')].map(a => a.href),
+        downloads: row.querySelectorAll('[download], button').length,
+        hashes: [...item.querySelectorAll('ul li code')].map(code => code.textContent),
+        text: item.innerText,
+      };
+    })()`);
+    assert.deepEqual(login.hrefs, ['https://icourse.club/course/123/#review-456']);
+    assert.equal(login.downloads, 0);
+    assert.deepEqual(login.hashes, ['3'.repeat(64), '4'.repeat(64)]);
+    assert.match(login.text, /原帖附件取样（2 个，需登录原帖获取）/u);
+    assert.match(login.text, new RegExp(`${SNAPSHOT_DATE}.*1,234 字节`, 'u'));
+    assert.match(login.text, new RegExp(`${SNAPSHOT_DATE}.*5,678 字节`, 'u'));
 
     const questionRow = detailed.rows.find((row) => row.hrefs.includes(QUESTION_URL));
     const solutionRow = detailed.rows.find((row) => row.hrefs.includes(SOLUTION_URL));
@@ -652,7 +682,7 @@ test(
     const compactAgain = await cdp.evaluate(readableState);
     assert.equal(compactAgain.mode, null);
     assert.equal(compactAgain.pressed, 'false');
-    assert.deepEqual(compactAgain.snapshotVisible, [false, false]);
+    assert.deepEqual(compactAgain.snapshotVisible, [false, false, false]);
     assert.equal(compactAgain.bodyText.includes(QUESTION_SHA), false);
     assert.equal(compactAgain.bodyText.includes(SOLUTION_SHA), false);
     assert.equal(compactAgain.storage, null);

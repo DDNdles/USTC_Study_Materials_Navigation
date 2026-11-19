@@ -882,6 +882,21 @@ function renderLocation({ location, entries }, labels, index) {
     );
     wrapper.append(snapshot);
   }
+  if (location.attachment_snapshots?.length) {
+    const snapshots = el('div', 'location-meta file-snapshot attachment-snapshots');
+    snapshots.append(el('p', null, `原帖附件取样（${location.attachment_snapshots.length} 个，需登录原帖获取）`));
+    const list = el('ul');
+    for (const { sha256, bytes, checked_at } of location.attachment_snapshots) {
+      const item = el('li');
+      item.append(
+        `${formatDate(checked_at)}，${bytes.toLocaleString('zh-CN')} 字节 · SHA-256：`,
+        el('code', null, sha256),
+      );
+      list.append(item);
+    }
+    snapshots.append(list);
+    wrapper.append(snapshots);
+  }
   return wrapper;
 }
 
