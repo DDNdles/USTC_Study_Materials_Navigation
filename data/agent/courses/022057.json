@@ -708,21 +708,6 @@
             "bytes": 330712,
             "checked_at": "2026-11-19"
           }
-        },
-        {
-          "source_id": "ustc-phy-exam",
-          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
-          "download_page": null,
-          "download_url": "https://ustcphyexam.github.io/USTC/17SpEDAFinalPHJ.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null,
-          "file_snapshot": {
-            "sha256": "dd47ce8839cf60e48167efca03ca71d40db427e580c011eadae7c54a6cbf0b51",
-            "bytes": 330712,
-            "checked_at": "2026-11-19"
-          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -760,21 +745,6 @@
           "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
           "download_page": null,
           "download_url": "https://ustcphyexam.github.io/USTC/16SpEDAFinalPHJ.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": null,
-          "file_snapshot": {
-            "sha256": "fead168088b507a4411feb719dd0b5999aa42119fc647976a19af638ca935470",
-            "bytes": 389145,
-            "checked_at": "2026-11-19"
-          }
-        },
-        {
-          "source_id": "ustc-phy-exam",
-          "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
-          "download_page": null,
-          "download_url": "https://ustcphyexam.github.io/USTC/16SpEDAFinalYHX.pdf",
           "access": "public",
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
@@ -893,6 +863,42 @@
         }
       ],
       "verified_at": "2026-11-18"
+    },
+    {
+      "id": "uphi-022057-gsh-4-solutions",
+      "type": "homework",
+      "title": "《电动力学》（第四版，郭硕鸿）习题参考解答（Uphi. 修订版）",
+      "authors": [
+        "Uphi.（修订整理）"
+      ],
+      "notes": "据作者再版序，在来源未确认的旧版解答上校对、修订并补充第七章；非官方，禁止商用。",
+      "coverage": {
+        "years": [],
+        "academic_years": [],
+        "exam_kind": null,
+        "exam_form": null,
+        "has_solutions": null,
+        "evidence_url": "https://hongfeiy.com/assets/pdf/gsh_answer.pdf",
+        "note": "核对卷首、目录及再版序；2026 春电动力学 A 助教整理。仅链接版本整理者的公开文件。"
+      },
+      "locations": [
+        {
+          "source_id": "personal-uphi",
+          "page_url": "https://hongfeiy.com/assets/pdf/gsh_answer.pdf",
+          "download_page": null,
+          "download_url": "https://hongfeiy.com/assets/pdf/gsh_answer.pdf",
+          "access": "public",
+          "license_note": "非官方；禁止商用。仅导航公开原文件，不重新分发。",
+          "attribution": "Uphi. 修订版的一手发布；旧版解答原作者不详。",
+          "page_kind": "file",
+          "file_snapshot": {
+            "sha256": "7650adaa5a8fc4f28044ae47664398f65079ed19423d1ff05a5b27a3d8bb84ea",
+            "bytes": 543481,
+            "checked_at": "2026-11-19"
+          }
+        }
+      ],
+      "verified_at": "2026-11-19"
     },
     {
       "id": "intake-login-022057-528036b8be538871",
@@ -1101,6 +1107,7 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "feixu-alist": "feixu 学习资料分享站（AList）",
+    "personal-uphi": "Uphi. 个人站",
     "icourse-club": "USTC 评课社区"
   }
 }

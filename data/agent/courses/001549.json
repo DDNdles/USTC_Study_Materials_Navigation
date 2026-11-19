@@ -88,21 +88,6 @@
             "bytes": 238422,
             "checked_at": "2026-11-19"
           }
-        },
-        {
-          "source_id": "gh-ustc-resource",
-          "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
-          "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
-          "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
-          "access": "public",
-          "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
-          "attribution": "USTC-Resource 组织",
-          "page_kind": "file",
-          "file_snapshot": {
-            "sha256": "ceabc3664fc3a00a7f721a5827e8ef06221c7ccfdcab702f5e3c33f68052688a",
-            "bytes": 216168,
-            "checked_at": "2026-11-19"
-          }
         }
       ],
       "verified_at": "2026-11-19"
@@ -533,7 +518,7 @@
         "exam_form": null,
         "has_solutions": null,
         "evidence_url": "https://icourse.club/course/2992/#review-93741",
-        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
       },
       "locations": [
         {
@@ -543,7 +528,7 @@
           "download_url": null,
           "access": "login",
           "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-          "attribution": "USTC 评课社区原帖",
+          "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
           "page_kind": "page"
         }
       ],
@@ -568,35 +553,6 @@
         {
           "source_id": "icourse-club",
           "page_url": "https://icourse.club/course/14346/#review-85062",
-          "download_page": null,
-          "download_url": null,
-          "access": "login",
-          "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-          "attribution": "USTC 评课社区原帖",
-          "page_kind": "page"
-        }
-      ],
-      "verified_at": "2026-11-19"
-    },
-    {
-      "id": "intake-login-001549-c3a23953e7d50492",
-      "type": "homework",
-      "title": "hw",
-      "authors": [],
-      "notes": "",
-      "coverage": {
-        "years": [],
-        "academic_years": [],
-        "exam_kind": null,
-        "exam_form": null,
-        "has_solutions": null,
-        "evidence_url": "https://icourse.club/course/21190/#review-64490",
-        "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-      },
-      "locations": [
-        {
-          "source_id": "icourse-club",
-          "page_url": "https://icourse.club/course/21190/#review-64490",
           "download_page": null,
           "download_url": null,
           "access": "login",

@@ -1067,20 +1067,6 @@ export function generatePartitionFiles(dataset) {
 /* 精确镜像合并                                                        */
 /* ------------------------------------------------------------------ */
 
-function stableMirrorValue(value) {
-  if (Array.isArray(value)) return value.map(stableMirrorValue);
-  if (isPlainObject(value)) {
-    const result = {};
-    for (const key of Object.keys(value).sort()) result[key] = stableMirrorValue(value[key]);
-    return result;
-  }
-  return value;
-}
-
-function mirrorLocationKey(location) {
-  return JSON.stringify(stableMirrorValue(location));
-}
-
 function mirrorCoverageSignature(coverage) {
   if (!isPlainObject(coverage)) return '\u0000missing';
   const years = Array.isArray(coverage.years)
@@ -1114,14 +1100,8 @@ function normalizeMirrorEvidence(evidence, knownIds) {
   for (const entry of Array.isArray(evidence) ? evidence : []) {
     if (!isPlainObject(entry)) continue;
     if (typeof entry.resource_id !== 'string' || !knownIds.has(entry.resource_id)) continue;
-    if (entry.algorithm !== 'git-blob' && entry.algorithm !== 'sha256') continue;
-    if (typeof entry.sha !== 'string') continue;
-    const sha = entry.sha.trim().toLowerCase();
-    const pattern =
-      entry.algorithm === 'git-blob'
-        ? /^(?:[0-9a-f]{40}|[0-9a-f]{64})$/
-        : /^[0-9a-f]{64}$/;
-    if (!pattern.test(sha)) continue;
+    if (entry.algorithm !== 'sha256' || typeof entry.sha !== 'string' || !/^[0-9a-f]{64}$/u.test(entry.sha)) continue;
+    const sha = entry.sha;
     if (!grouped.has(entry.resource_id)) grouped.set(entry.resource_id, new Map());
     grouped.get(entry.resource_id).set(`${entry.algorithm}:${sha}`, {
       algorithm: entry.algorithm,
@@ -1146,17 +1126,7 @@ function compareStableIds(a, b) {
 
 function mergeMirrorGroup(kept, removed) {
   const merged = structuredClone(kept);
-  const locations = [];
-  const seenLocations = new Set();
-  for (const resource of [kept, ...removed]) {
-    for (const location of Array.isArray(resource.locations) ? resource.locations : []) {
-      const key = mirrorLocationKey(location);
-      if (seenLocations.has(key)) continue;
-      seenLocations.add(key);
-      locations.push(structuredClone(location));
-    }
-  }
-  merged.locations = locations;
+  // Keep the winning resource's complete set, including distinct companion files.
   merged.authors = uniqueMirrorStrings(
     [kept, ...removed].flatMap((resource) =>
       Array.isArray(resource.authors) ? resource.authors : [],
@@ -1179,15 +1149,15 @@ function mergeMirrorGroup(kept, removed) {
 /**
  * 按真实独立文件摘要合并精确镜像。
  *
- * evidence 只接受 [{resource_id,sha,algorithm:'git-blob'|'sha256'}]；
- * 同一资源的证据集合必须完全一致、type 与 course_codes 集合一致才合并。
+ * evidence 只接受完整文件 SHA-256；调用方须确认每组证据涵盖资源所有成员。
+ * priority 按资源 ID 提供已核实的 { centralized, primary } 布尔标记，缺省不推断。
  * 只有 coverage 的 years/exam_kind/exam_form/has_solutions 也一致才合并；
  * 矛盾时不合并，并在 conflicts 中报告待人工核验。
  * 无证据、目录 tree SHA、标题/年份相似都不合并。
  * 返回 {resources, merged:[{kept_id,removed_ids}], conflicts}。
  * conflicts 是内部报告，不写入正式 resources schema。
  */
-export function mergeExactMirrors(resources, evidence = []) {
+export function mergeExactMirrors(resources, evidence = [], priority = new Map()) {
   const list = Array.isArray(resources) ? resources : [];
   const knownIds = new Set(
     list
@@ -1254,7 +1224,11 @@ export function mergeExactMirrors(resources, evidence = []) {
 
     for (const coverageGroup of byCoverage.values()) {
       if (coverageGroup.length < 2) continue;
-      const sorted = [...coverageGroup].sort((a, b) => compareStableIds(a.id, b.id));
+      const score = (id) => {
+        const proof = priority.get(id);
+        return 2 * Number(proof?.centralized === true) + Number(proof?.primary === true);
+      };
+      const sorted = [...coverageGroup].sort((a, b) => score(b.id) - score(a.id) || compareStableIds(a.id, b.id));
       const kept = sorted[0];
       const removed = sorted.slice(1);
       replacements.set(kept.id, mergeMirrorGroup(kept, removed));

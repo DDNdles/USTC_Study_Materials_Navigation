@@ -494,8 +494,8 @@ test('分区文件路径编码保留前导零和加号，清单可确定性复�
 /* 精确镜像合并                                                        */
 /* ------------------------------------------------------------------ */
 
-test('mergeExactMirrors 同文件 SHA 异来源合并，保留全部 locations 与 authors', () => {
-  const sha = 'a'.repeat(40);
+test('集中入口优先于已证实首发的分散入口，保留作者而不并列展示镜像', () => {
+  const sha = 'a'.repeat(64);
   const first = makeResource({
     id: 'res-b',
     authors: ['B'],
@@ -519,17 +519,34 @@ test('mergeExactMirrors 同文件 SHA 异来源合并，保留全部 locations �
   const result = mergeExactMirrors(
     [first, second],
     [
-      { resource_id: 'res-b', sha, algorithm: 'git-blob' },
-      { resource_id: 'res-a', sha, algorithm: 'git-blob' },
+      { resource_id: 'res-b', sha, algorithm: 'sha256' },
+      { resource_id: 'res-a', sha, algorithm: 'sha256' },
     ],
+    new Map([['res-a', { centralized: true }], ['res-b', { primary: true }]]),
   );
   assert.equal(result.resources.length, 1);
   const kept = result.resources[0];
   assert.equal(kept.id, 'res-a');
   assert.deepEqual(kept.authors, ['A', 'B']);
-  assert.equal(kept.locations.length, 2);
+  assert.deepEqual(kept.locations, second.locations);
   assert.deepEqual(result.merged, [{ kept_id: 'res-a', removed_ids: ['res-b'] }]);
   assert.deepEqual(result.conflicts, []);
+});
+
+test('同等集中度优先已证实的一手入口，Git blob 与短摘要不能触发合并', () => {
+  const secondary = makeResource({ id: 'a-collection' });
+  const primary = makeResource({ id: 'z-author' });
+  const resources = [secondary, primary];
+  const priority = new Map([
+    [secondary.id, { centralized: true }],
+    [primary.id, { centralized: true, primary: true }],
+  ]);
+  const evidence = (sha, algorithm) => resources.map(r => ({ resource_id: r.id, sha, algorithm }));
+  const ranked = mergeExactMirrors(resources, evidence('a'.repeat(64), 'sha256'), priority);
+  assert.deepEqual(ranked.merged, [{ kept_id: primary.id, removed_ids: [secondary.id] }]);
+  for (const [sha, algorithm] of [['a'.repeat(64), 'git-blob'], ['a'.repeat(40), 'sha256']]) {
+    assert.deepEqual(mergeExactMirrors(resources, evidence(sha, algorithm), priority).merged, []);
+  }
 });
 
 test('mergeExactMirrors 同名不同 SHA 保留为两条', () => {
@@ -538,8 +555,8 @@ test('mergeExactMirrors 同名不同 SHA 保留为两条', () => {
   const result = mergeExactMirrors(
     [first, second],
     [
-      { resource_id: 'res-a', sha: 'a'.repeat(40), algorithm: 'git-blob' },
-      { resource_id: 'res-b', sha: 'b'.repeat(40), algorithm: 'git-blob' },
+      { resource_id: 'res-a', sha: 'a'.repeat(64), algorithm: 'sha256' },
+      { resource_id: 'res-b', sha: 'b'.repeat(64), algorithm: 'sha256' },
     ],
   );
   assert.equal(result.resources.length, 2);
@@ -552,8 +569,8 @@ test('mergeExactMirrors 同年异卷保留为两条', () => {
   const result = mergeExactMirrors(
     [first, second],
     [
-      { resource_id: 'res-a', sha: 'a'.repeat(40), algorithm: 'git-blob' },
-      { resource_id: 'res-b', sha: 'b'.repeat(40), algorithm: 'git-blob' },
+      { resource_id: 'res-a', sha: 'a'.repeat(64), algorithm: 'sha256' },
+      { resource_id: 'res-b', sha: 'b'.repeat(64), algorithm: 'sha256' },
     ],
   );
   assert.equal(result.resources.length, 2);
@@ -561,14 +578,14 @@ test('mergeExactMirrors 同年异卷保留为两条', () => {
 });
 
 test('mergeExactMirrors 课程归属不同不合', () => {
-  const sha = 'c'.repeat(40);
+  const sha = 'c'.repeat(64);
   const first = makeResource({ id: 'res-a', course_codes: ['001001'] });
   const second = makeResource({ id: 'res-b', course_codes: ['001002'] });
   const result = mergeExactMirrors(
     [first, second],
     [
-      { resource_id: 'res-a', sha, algorithm: 'git-blob' },
-      { resource_id: 'res-b', sha, algorithm: 'git-blob' },
+      { resource_id: 'res-a', sha, algorithm: 'sha256' },
+      { resource_id: 'res-b', sha, algorithm: 'sha256' },
     ],
   );
   assert.equal(result.resources.length, 2);
@@ -576,7 +593,7 @@ test('mergeExactMirrors 课程归属不同不合', () => {
 });
 
 test('mergeExactMirrors 同 SHA 但 coverage 年份/卷型/解答矛盾时拒绝合并并报告', () => {
-  const sha = 'd'.repeat(40);
+  const sha = 'd'.repeat(64);
   const patches = [
     { years: [2021] },
     { exam_kind: 'midterm' },
@@ -591,8 +608,8 @@ test('mergeExactMirrors 同 SHA 但 coverage 年份/卷型/解答矛盾时拒绝
     const result = mergeExactMirrors(
       [first, second],
       [
-        { resource_id: first.id, sha, algorithm: 'git-blob' },
-        { resource_id: second.id, sha, algorithm: 'git-blob' },
+        { resource_id: first.id, sha, algorithm: 'sha256' },
+        { resource_id: second.id, sha, algorithm: 'sha256' },
       ],
     );
     assert.equal(result.resources.length, 2);
@@ -657,9 +674,9 @@ test('mergeExactMirrors 只按证据摘要+type+课程集合同组，算法/证�
   const evidenceSetResult = mergeExactMirrors(
     [single, doubled],
     [
-      { resource_id: 'ev-a', sha, algorithm: 'git-blob' },
+      { resource_id: 'ev-a', sha: '2'.repeat(64), algorithm: 'sha256' },
       { resource_id: 'ev-a', sha, algorithm: 'sha256' },
-      { resource_id: 'ev-b', sha, algorithm: 'git-blob' },
+      { resource_id: 'ev-b', sha, algorithm: 'sha256' },
     ],
   );
   assert.equal(evidenceSetResult.resources.length, 2);
@@ -667,7 +684,7 @@ test('mergeExactMirrors 只按证据摘要+type+课程集合同组，算法/证�
 });
 
 test('mergeExactMirrors coverage 矛盾不跨签名合并，同签名精确镜像仍合并并报告冲突', () => {
-  const sha = 'f'.repeat(40);
+  const sha = 'f'.repeat(64);
   const first = makeResource({ id: 'mix-a', verified_at: '2026-11-17' });
   const second = makeResource({ id: 'mix-b', verified_at: '2026-11-18' });
   const conflicting = makeResource({
@@ -679,7 +696,7 @@ test('mergeExactMirrors coverage 矛盾不跨签名合并，同签名精确镜�
     [first, second, conflicting].map((resource) => ({
       resource_id: resource.id,
       sha,
-      algorithm: 'git-blob',
+      algorithm: 'sha256',
     })),
   );
   assert.equal(result.resources.length, 2);

@@ -20427,20 +20427,6 @@
           "bytes": 389145,
           "checked_at": "2026-11-19"
         }
-      },
-      {
-        "source_id": "ustc-phy-exam",
-        "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
-        "download_page": null,
-        "download_url": "https://ustcphyexam.github.io/USTC/16SpEDAFinalYHX.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "file_snapshot": {
-          "sha256": "fead168088b507a4411feb719dd0b5999aa42119fc647976a19af638ca935470",
-          "bytes": 389145,
-          "checked_at": "2026-11-19"
-        }
       }
     ],
     "verified_at": "2026-11-18"
@@ -20558,20 +20544,6 @@
         "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
         "download_page": null,
         "download_url": "https://ustcphyexam.github.io/USTC/17SpEDAFinalYHX.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "file_snapshot": {
-          "sha256": "dd47ce8839cf60e48167efca03ca71d40db427e580c011eadae7c54a6cbf0b51",
-          "bytes": 330712,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "ustc-phy-exam",
-        "page_url": "https://ustcphyexam.github.io/SeniorPhy/",
-        "download_page": null,
-        "download_url": "https://ustcphyexam.github.io/USTC/17SpEDAFinalPHJ.pdf",
         "access": "public",
         "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
         "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
@@ -26576,20 +26548,6 @@
           "bytes": 84946,
           "checked_at": "2026-11-19"
         }
-      },
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/APDE/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2015realfinal.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "file_snapshot": {
-          "sha256": "e8b5c299c43cde0fc3d1bb67d57a0ad59333cf72d3c4e7a4c548d80c1c1d1489",
-          "bytes": 84946,
-          "checked_at": "2026-11-19"
-        }
       }
     ],
     "verified_at": "2026-11-18"
@@ -30949,7 +30907,7 @@
     "authors": [
       "余启帆"
     ],
-    "notes": "目录：数学类/概率论与数理统计；概率论与数理统计历年真题.pdf（5543218 字节，108 页）；2022 版由余启帆整理；与评课社区文件、guch8017/USTC_CS_EXAM 备用文件字节一致。",
+    "notes": "目录：数学类/概率论与数理统计；概率论与数理统计历年真题.pdf（5543218 字节，108 页）；2022 版由余启帆整理；与评课社区文件、guch8017/USTC_CS_EXAM 备用文件字节一致。；同字节评课附件署名：余启帆整理；原始发布地点未确认。",
     "coverage": {
       "years": [],
       "academic_years": [
@@ -30988,21 +30946,6 @@
         "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
         "attribution": "share.feixu.site 公开分享目录",
         "page_kind": "file"
-      },
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
-        "download_page": null,
-        "download_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
-        "access": "public",
-        "license_note": "评课社区公开上传文件；站点未声明再分发许可，仅登记原文件入口",
-        "attribution": "USTC 评课社区用户上传（2022 版，余启帆整理）",
-        "page_kind": "file",
-        "file_snapshot": {
-          "sha256": "0372ac43785ea013ae66d97515a2c5a0edb1a5b99a635ac6941560096cfc4472",
-          "bytes": 5543218,
-          "checked_at": "2026-11-19"
-        }
       },
       {
         "source_id": "eng-github-guch8017",
@@ -31064,36 +31007,6 @@
         "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
         "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
         "page_kind": "directory",
-        "file_snapshot": {
-          "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
-          "bytes": 683495,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/Services/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2023probstatfinal.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "page_kind": "directory",
-        "file_snapshot": {
-          "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
-          "bytes": 683495,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "eng-github-guch8017",
-        "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics2023.pdf",
-        "download_page": null,
-        "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics2023.pdf",
-        "access": "public",
-        "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
-        "attribution": "guch8017/USTC_CS_EXAM",
-        "page_kind": "file",
         "file_snapshot": {
           "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
           "bytes": 683495,
@@ -31275,21 +31188,6 @@
         "file_snapshot": {
           "sha256": "a1e80bed322d1bec20c66bdf1096be484ae84159f4a5d817129e32beee81f26d",
           "bytes": 238422,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "gh-ustc-resource",
-        "page_url": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
-        "download_page": "https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
-        "download_url": "https://raw.githubusercontent.com/USTC-Resource/USTC-Course/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017%E7%AD%94%E6%A1%88.pdf",
-        "page_kind": "file",
-        "access": "public",
-        "license_note": "仓库未见根 LICENSE；仅作原仓库导航，不复制文件；内容权利归原作者",
-        "attribution": "USTC-Resource 组织",
-        "file_snapshot": {
-          "sha256": "ceabc3664fc3a00a7f721a5827e8ef06221c7ccfdcab702f5e3c33f68052688a",
-          "bytes": 216168,
           "checked_at": "2026-11-19"
         }
       }
@@ -33280,7 +33178,7 @@
       "exam_form": "original",
       "has_solutions": true,
       "evidence_url": "https://ustcmathexam.github.io/AMCM/",
-      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：考试；行年份：2023；单元格：期末；文件：2023NumAnalfinal.pdf；首页可见日期 2023年5月；年份按首页考试日期 2023年5月；文本层可读；已读全3页"
+      "note": "课程目录页：https://ustcmathexam.github.io/AMCM/；表头列：考试；行年份：2023；单元格：期末；文件：2023NumAnalfinal.pdf；首页可见日期 2023年5月；年份按首页考试日期 2023年5月；文本层可读；已读全3页；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -33290,7 +33188,7 @@
         "download_url": "https://ustcmathexam.github.io/USTC/2023NumAnalfinal.pdf",
         "access": "public",
         "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）；专题试卷汇集入口，文件原始出处未确认",
         "file_snapshot": {
           "sha256": "5ccaa965746691f57aa1b4bc64921a14647e35be1cf7accc85fe2079db83e7ff",
           "bytes": 121818,
@@ -33298,7 +33196,7 @@
         }
       }
     ],
-    "verified_at": "2026-11-18"
+    "verified_at": "2026-11-19"
   },
   {
     "id": "mp-uexam-001046-2024-final-bf607b",
@@ -47511,7 +47409,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://ustcphyexam.github.io/JuniorPhy/",
-      "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2023秋；单元格：未知老师；文件：23FaMechAMid.pdf；无文本层（扫描件）；抽读前3页（共4页），全文未逐页核验"
+      "note": "课程目录页：https://ustcphyexam.github.io/JuniorPhy/；表头列：期中考试；行年份：2023秋；单元格：未知老师；文件：23FaMechAMid.pdf；无文本层（扫描件）；抽读前3页（共4页），全文未逐页核验；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -47521,7 +47419,7 @@
         "download_url": "https://ustcphyexam.github.io/USTC/23FaMechAMid.pdf",
         "access": "public",
         "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
+        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）；专题试卷汇集入口，文件原始出处未确认",
         "file_snapshot": {
           "sha256": "843089fd59c14ad2479149bad1a995cc2b39375fa51a2cdc4a70d567f2a8a3bc",
           "bytes": 1042042,
@@ -47529,7 +47427,7 @@
         }
       }
     ],
-    "verified_at": "2026-11-18"
+    "verified_at": "2026-11-19"
   },
   {
     "id": "mp-uexam-phys1001a-2024-final-d8a5ff",
@@ -49016,36 +48914,6 @@
           "bytes": 730092,
           "checked_at": "2026-11-19"
         }
-      },
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/Services/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2024probstatfinal.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "page_kind": "directory",
-        "file_snapshot": {
-          "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
-          "bytes": 730092,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "eng-github-guch8017",
-        "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202401.pdf",
-        "download_page": null,
-        "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics202401.pdf",
-        "access": "public",
-        "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
-        "attribution": "guch8017/USTC_CS_EXAM",
-        "page_kind": "file",
-        "file_snapshot": {
-          "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
-          "bytes": 730092,
-          "checked_at": "2026-11-19"
-        }
       }
     ],
     "verified_at": "2026-11-18"
@@ -49119,36 +48987,6 @@
         "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
         "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
         "page_kind": "directory",
-        "file_snapshot": {
-          "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
-          "bytes": 706217,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "ustc-math-exam",
-        "page_url": "https://ustcmathexam.github.io/Services/",
-        "download_page": null,
-        "download_url": "https://ustcmathexam.github.io/USTC/2025probstatfinal.pdf",
-        "access": "public",
-        "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-        "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-        "page_kind": "directory",
-        "file_snapshot": {
-          "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
-          "bytes": 706217,
-          "checked_at": "2026-11-19"
-        }
-      },
-      {
-        "source_id": "eng-github-guch8017",
-        "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202501.pdf",
-        "download_page": null,
-        "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics202501.pdf",
-        "access": "public",
-        "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
-        "attribution": "guch8017/USTC_CS_EXAM",
-        "page_kind": "file",
         "file_snapshot": {
           "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
           "bytes": 706217,
@@ -62290,7 +62128,7 @@
       "exam_form": "unknown",
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/13486/#review-69910",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
+      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -62300,7 +62138,7 @@
         "download_url": null,
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
+        "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
         "page_kind": "page"
       }
     ],
@@ -62358,39 +62196,6 @@
       {
         "source_id": "icourse-club",
         "page_url": "https://icourse.club/course/19516/#review-77292",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
-    "id": "intake-login-MATH1006-e9e38ee69e450773",
-    "course_codes": [
-      "MATH1006"
-    ],
-    "type": "exams",
-    "title": "20秋-数学分析(B1)期中考试解析与评分细则",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [
-        2020
-      ],
-      "exam_kind": "midterm",
-      "exam_form": "unknown",
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/21918/#review-57454",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/21918/#review-57454",
         "download_page": null,
         "download_url": null,
         "access": "login",
@@ -63042,7 +62847,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/18075/#review-93198",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -63052,38 +62857,7 @@
         "download_url": null,
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
-    "id": "intake-login-MARX1013-95810f02c303adc8",
-    "course_codes": [
-      "MARX1013"
-    ],
-    "type": "study",
-    "title": "毛概总结",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [],
-      "exam_kind": null,
-      "exam_form": null,
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/18075/#review-85923",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/18075/#review-85923",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
+        "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
         "page_kind": "page"
       }
     ],
@@ -65247,39 +65021,6 @@
     "verified_at": "2026-11-19"
   },
   {
-    "id": "intake-login-PHYS1001A-5cae8ea8c86ddbe5",
-    "course_codes": [
-      "PHYS1001A"
-    ],
-    "type": "exams",
-    "title": "2023期中",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [
-        2023
-      ],
-      "exam_kind": "midterm",
-      "exam_form": "unknown",
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/19588/#review-90767",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。 年份仅取自明确标注的附件标题。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/19588/#review-90767",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
     "id": "intake-login-PHYS1001A-a51b34d86b80d477",
     "course_codes": [
       "PHYS1001A"
@@ -66478,37 +66219,6 @@
     "verified_at": "2026-11-19"
   },
   {
-    "id": "intake-login-001046-53c138e9e375c8c9",
-    "course_codes": [
-      "001046"
-    ],
-    "type": "exams",
-    "title": "数值分析 期末试卷",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [],
-      "exam_kind": "final",
-      "exam_form": "unknown",
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/2710/#review-64183",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/2710/#review-64183",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
     "id": "intake-login-001046-17ade8d3d824621a",
     "course_codes": [
       "001046"
@@ -67315,37 +67025,6 @@
     "verified_at": "2026-11-19"
   },
   {
-    "id": "intake-login-001549-c3a23953e7d50492",
-    "course_codes": [
-      "001549"
-    ],
-    "type": "homework",
-    "title": "hw",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [],
-      "exam_kind": null,
-      "exam_form": null,
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/21190/#review-64490",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/21190/#review-64490",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
     "id": "intake-login-001549-5b7e347f00212ce4",
     "course_codes": [
       "001549"
@@ -67422,7 +67101,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/2992/#review-93741",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -67432,7 +67111,7 @@
         "download_url": null,
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
+        "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
         "page_kind": "page"
       }
     ],
@@ -69422,7 +69101,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/24828/#review-91294",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -69432,38 +69111,7 @@
         "download_url": null,
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
-    "id": "intake-login-ME2006-4193b33071651d1d",
-    "course_codes": [
-      "ME2006"
-    ],
-    "type": "homework",
-    "title": "理论力学 答案",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [],
-      "exam_kind": null,
-      "exam_form": null,
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/25793/#review-105672",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/25793/#review-105672",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
+        "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
         "page_kind": "page"
       }
     ],
@@ -73356,7 +73004,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/425/#review-93157",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -73366,7 +73014,7 @@
         "download_url": null,
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
+        "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
         "page_kind": "page"
       }
     ],
@@ -73472,37 +73120,6 @@
     ],
     "type": "study",
     "title": "传感器复习准备资料 v1.2",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [],
-      "exam_kind": null,
-      "exam_form": null,
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/425/#review-40077",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/425/#review-40077",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
-    "id": "intake-login-010196-f90f939b75e49785",
-    "course_codes": [
-      "010196"
-    ],
-    "type": "homework",
-    "title": "传感器自测题 v1.2",
     "authors": [],
     "notes": "",
     "coverage": {
@@ -79959,37 +79576,6 @@
     "verified_at": "2026-11-19"
   },
   {
-    "id": "intake-login-019161-ff528759b22e3659",
-    "course_codes": [
-      "019161"
-    ],
-    "type": "homework",
-    "title": "化学原理 习题答案",
-    "authors": [],
-    "notes": "",
-    "coverage": {
-      "years": [],
-      "exam_kind": null,
-      "exam_form": null,
-      "has_solutions": null,
-      "evidence_url": "https://icourse.club/course/1078/#review-79816",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
-    },
-    "locations": [
-      {
-        "source_id": "icourse-club",
-        "page_url": "https://icourse.club/course/1078/#review-79816",
-        "download_page": null,
-        "download_url": null,
-        "access": "login",
-        "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
-        "page_kind": "page"
-      }
-    ],
-    "verified_at": "2026-11-19"
-  },
-  {
     "id": "intake-login-019161-8f6a30fabba95a0b",
     "course_codes": [
       "019161"
@@ -80099,7 +79685,7 @@
       "exam_form": null,
       "has_solutions": null,
       "evidence_url": "https://icourse.club/course/19010/#review-96756",
-      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。"
+      "note": "在对应课程原帖正常登录后核对 1 个附件入口；按附件标题判断资料类型，未逐份核读正文。；完整 SHA-256 与字节数一致的重复入口已去除，适用课程不变。"
     },
     "locations": [
       {
@@ -80109,7 +79695,7 @@
         "download_url": null,
         "access": "login",
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
-        "attribution": "USTC 评课社区原帖",
+        "attribution": "USTC 评课社区原帖；评课原帖，文件原始出处未确认",
         "page_kind": "page"
       }
     ],
@@ -82360,6 +81946,44 @@
         "license_note": "仅链接原帖；须登录 USTC 评课社区下载，版权归原作者。",
         "attribution": "USTC 评课社区原帖",
         "page_kind": "page"
+      }
+    ],
+    "verified_at": "2026-11-19"
+  },
+  {
+    "id": "uphi-022057-gsh-4-solutions",
+    "course_codes": [
+      "022057"
+    ],
+    "type": "homework",
+    "title": "《电动力学》（第四版，郭硕鸿）习题参考解答（Uphi. 修订版）",
+    "authors": [
+      "Uphi.（修订整理）"
+    ],
+    "notes": "据作者再版序，在来源未确认的旧版解答上校对、修订并补充第七章；非官方，禁止商用。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://hongfeiy.com/assets/pdf/gsh_answer.pdf",
+      "note": "核对卷首、目录及再版序；2026 春电动力学 A 助教整理。仅链接版本整理者的公开文件。"
+    },
+    "locations": [
+      {
+        "source_id": "personal-uphi",
+        "page_url": "https://hongfeiy.com/assets/pdf/gsh_answer.pdf",
+        "download_page": null,
+        "download_url": "https://hongfeiy.com/assets/pdf/gsh_answer.pdf",
+        "access": "public",
+        "license_note": "非官方；禁止商用。仅导航公开原文件，不重新分发。",
+        "attribution": "Uphi. 修订版的一手发布；旧版解答原作者不详。",
+        "page_kind": "file",
+        "file_snapshot": {
+          "sha256": "7650adaa5a8fc4f28044ae47664398f65079ed19423d1ff05a5b27a3d8bb84ea",
+          "bytes": 543481,
+          "checked_at": "2026-11-19"
+        }
       }
     ],
     "verified_at": "2026-11-19"

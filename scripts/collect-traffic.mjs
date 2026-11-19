@@ -2,7 +2,10 @@ import { writeFile } from 'node:fs/promises';
 
 const { GITHUB_REPOSITORY, GOATCOUNTER_SITE } = process.env;
 const token = process.env.TRAFFIC_TOKEN || process.env.GITHUB_TOKEN;
-const views_date_utc = new Date().toISOString().slice(0, 10);
+const collected_at = new Date().toISOString();
+const site_views_date_utc = collected_at.slice(0, 10);
+const repo_views_date_utc = new Date(Date.parse(`${site_views_date_utc}T00:00:00Z`) - 86_400_000)
+  .toISOString().slice(0, 10);
 
 async function readStats(label, url, parse, headers) {
   try {
@@ -33,14 +36,16 @@ const [repo, site_total_views, site_views_today] = await Promise.all([
   token ? readStats('Repository traffic', `https://api.github.com/repos/${GITHUB_REPOSITORY}/traffic/views`,
     ({ count: total, views }) => ({
       repo_views_14d: count(total),
-      repo_views_today: Array.isArray(views)
-        ? count(views.find(({ timestamp }) => timestamp?.slice(0, 10) === views_date_utc)?.count ?? 0)
+      repo_views_yesterday: Array.isArray(views)
+        ? count(views.find(({ timestamp }) => timestamp?.slice(0, 10) === repo_views_date_utc)?.count)
         : null,
     }), { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json' }) : null,
   counter ? readStats('Site traffic total', counter, goatCount) : null,
-  counter ? readStats('Site traffic today', `${counter}?start=${views_date_utc}`, goatCount) : null,
+  counter ? readStats('Site traffic today', `${counter}?start=${site_views_date_utc}`, goatCount) : null,
 ]);
 
 await writeFile('data/traffic.local.json', JSON.stringify({
-  views_date_utc, ...repo, site_total_views, site_views_today,
+  repo_views_date_utc, site_views_date_utc, collected_at,
+  repo_views_yesterday: repo?.repo_views_yesterday ?? null,
+  repo_views_14d: repo?.repo_views_14d ?? null, site_total_views, site_views_today,
 }, null, 2) + '\n');

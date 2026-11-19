@@ -108,12 +108,12 @@ function showLoadError(message) {
 }
 
 /**
- * 分别渲染仓库及网站浏览量；无数据的指标不显示。
+ * 分别渲染仓库与网站统计；有统计日期但缺少昨日记录时明确提示。
  */
 function renderSiteStats(stats) {
   const container = document.getElementById('site-stats');
   if (!container) return;
-  const keys = ['repo_views_today', 'repo_views_14d', 'site_views_today', 'site_total_views'];
+  const keys = ['repo_views_yesterday', 'repo_views_14d', 'site_views_today', 'site_total_views', 'collected_at'];
   let visibleCount = 0;
 
   for (const key of keys) {
@@ -121,17 +121,17 @@ function renderSiteStats(stats) {
     const valueNode = container.querySelector(`[data-stat-value="${key}"]`);
     if (!item || !valueNode) continue;
     const raw = stats?.[key];
-    if (Number.isInteger(raw) && raw >= 0) {
-      valueNode.textContent = raw.toLocaleString('zh-CN');
-      if (key.endsWith('_today') && stats.views_date_utc) {
-        item.querySelector('dt').append(` · ${stats.views_date_utc}`);
-      }
-      item.hidden = false;
-      visibleCount += 1;
-    } else {
-      valueNode.textContent = '';
-      item.hidden = true;
-    }
+    const date = key === 'repo_views_yesterday' ? stats?.repo_views_date_utc
+      : key === 'site_views_today' ? stats?.site_views_date_utc : null;
+    const dateNode = item.querySelector('[data-stat-date]');
+    if (dateNode) dateNode.textContent = date ? ` · ${date}` : '';
+    if (key === 'collected_at' && raw) valueNode.dateTime = raw;
+    const text = key === 'collected_at' ? stats?.collected_at_beijing
+      : Number.isSafeInteger(raw) && raw >= 0 ? raw.toLocaleString('zh-CN')
+        : key === 'repo_views_yesterday' && date ? '暂无数据' : null;
+    valueNode.textContent = text ?? '';
+    item.hidden = !text;
+    if (text) visibleCount += 1;
   }
   container.hidden = visibleCount === 0;
 }

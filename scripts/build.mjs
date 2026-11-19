@@ -277,13 +277,19 @@ function buildCatalog(dataset) {
 
   const withResources = courses.filter((course) => course.has_resources).length;
   const rawStats = dataset.traffic ?? {};
-  const stats = Object.fromEntries(['repo_views_today', 'repo_views_14d', 'site_views_today', 'site_total_views'].map(key => {
+  const stats = Object.fromEntries(['repo_views_yesterday', 'repo_views_14d', 'site_views_today', 'site_total_views'].map(key => {
     const value = rawStats[key];
     return [key, Number.isSafeInteger(value) && value >= 0 ? value : null];
   }));
-  const date = /^\d{4}-\d{2}-\d{2}$/u.test(rawStats.views_date_utc ?? '') ? rawStats.views_date_utc : null;
-  stats.views_date_utc = date;
-  if (!date) stats.repo_views_today = stats.site_views_today = null;
+  for (const [key, field] of [['repo_views_yesterday', 'repo_views_date_utc'], ['site_views_today', 'site_views_date_utc']]) {
+    stats[field] = /^\d{4}-\d{2}-\d{2}$/u.test(rawStats[field] ?? '') ? rawStats[field] : null;
+    if (!stats[field]) stats[key] = null;
+  }
+  const collected = rawStats.collected_at;
+  stats.collected_at = typeof collected === 'string' && Number.isFinite(Date.parse(collected)) ? collected : null;
+  stats.collected_at_beijing = stats.collected_at ? new Intl.DateTimeFormat('sv-SE', {
+    timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'medium',
+  }).format(new Date(collected)) : null;
 
   return {
     schema_version: 1,
@@ -674,12 +680,12 @@ function renderHtmlLogEntry(entry) {
 function renderSourcesHtml(report) {
   const stats = report.catalog?.stats ?? {};
   const statLabels = {
-    repo_views_today: '仓库浏览（今日，UTC）',
+    repo_views_yesterday: '仓库昨日浏览（UTC）',
     repo_views_14d: '仓库浏览（近 14 天）',
     site_views_today: '网站浏览（今日，UTC）',
     site_total_views: '网站累计浏览次数',
   };
-  const hasStats = Object.keys(statLabels).some(key => stats[key] != null);
+  const hasStats = Object.keys(statLabels).some(key => stats[key] != null) || stats.repo_views_date_utc || stats.collected_at;
 
   const parts = [];
   parts.push(`<!doctype html>
@@ -886,11 +892,18 @@ function renderSourcesHtml(report) {
         <dl id="site-stats" class="site-stats" aria-label="访问统计"${hasStats ? '' : ' hidden'}>
           ${Object.entries(statLabels).map(([key, label]) => {
             const value = stats[key];
-            return `<div class="stat-pill" data-stat-item="${key}"${value == null ? ' hidden' : ''}>
-            <dt>${label}${key.endsWith('_today') && stats.views_date_utc ? ` · ${escapeHtml(stats.views_date_utc)}` : ''}</dt>
-            <dd data-stat-value="${key}">${value?.toLocaleString('zh-CN') ?? ''}</dd>
+            const date = key === 'repo_views_yesterday' ? stats.repo_views_date_utc
+              : key === 'site_views_today' ? stats.site_views_date_utc : null;
+            const visible = value != null || (key === 'repo_views_yesterday' && date);
+            return `<div class="stat-pill" data-stat-item="${key}"${visible ? '' : ' hidden'}>
+            <dt>${label}${date ? ` · ${escapeHtml(date)}` : ''}</dt>
+            <dd data-stat-value="${key}">${value?.toLocaleString('zh-CN') ?? (visible ? '暂无数据' : '')}</dd>
           </div>`;
           }).join('\n          ')}
+          ${stats.collected_at ? `<div class="stat-pill" data-stat-item="collected_at">
+            <dt>统计取数时间（北京时间）</dt>
+            <dd><time datetime="${escapeHtml(stats.collected_at)}" data-stat-value="collected_at">${escapeHtml(stats.collected_at_beijing)}</time></dd>
+          </div>` : ''}
         </dl>
       </div>
     </footer>

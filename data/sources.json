@@ -1927,5 +1927,14 @@
       "branch": "master"
     },
     "notes": "评课社区公开点评外链定位到的课程实验仓库；匿名核对仓库页可访问，仅导航原页。"
+  },
+  {
+    "id": "personal-uphi",
+    "name": "Uphi. 个人站",
+    "url": "https://hongfeiy.com/",
+    "maintainer": "Uphi.",
+    "kind": "website",
+    "github": null,
+    "notes": "版本整理者 Uphi. 的个人站；原参考解答作者不详。"
   }
 ]

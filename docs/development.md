@@ -82,8 +82,8 @@ docs/sources-and-search.md  构建生成：来源、检索记录与致谢
 - `locations[].file_snapshot` 为可选的 `{sha256, bytes, checked_at}`，仅对应免登录的 `download_url`。SHA-256 必须是原始文件字节的完整 64 位小写十六进制值，`bytes` 是实际字节数，`checked_at` 是取样日期；不得使用网页、Git blob、提取文本或摘要前缀替代。链接改指另一文件时删除或重新取样。课程详情仅详细模式展示，不用它替代课程归属、内容或授权核验。
 - 作业、习题与小测可选 `exercise_source`，只写已核实的出处。明确对应、免登录的解答可用 `locations[].role: "solution"`，不另计一条资料；仍须保留不带该角色的主入口。详情页两种模式均显示配套解答，监控照常检查该位置的 URL。
 - `coverage.years` 只写明确公历年份；可选的 `coverage.academic_years` 用 `YYYY-YYYY` 记录学年。只知道学年时保留 `years: []`，不推断公历年份。
-- 同年、同课、同卷别不足以判重。精确镜像须有相同 Git blob SHA 或字节摘要；正文同题或明确为配套答案、补页的不同文件，可挂在同一资源下，注明关系。不同卷、独立解析版本分别记录。
-- `mergeExactMirrors(resources, evidence)` 用独立的内部文件摘要证据合并：摘要集合、算法、资料类型、适用课程集合及年份/卷型/解答声明均一致才合并；保留字典序最小 ID 和全部独有来源。无摘要不合并，同文件的覆盖声明冲突会返回 `conflicts`，集成时先核对证据，不静默选择。内部合并证据不进入网站数据，不生成发布校验附件；页面仅展示正式登记的直链取样。
+- 同课、同年、同卷别不证明重复。只有完整文件 SHA-256 相同才按来源优先级去重；不同字节的题面、答案与补页可作为配套入口，但不是镜像。
+- `mergeExactMirrors` 仅比较完整成员。集中目录、成套仓库或专题资料站优先；集中程度相当时，有证据的一手入口优先。feixu、数学和物理往年试卷站与 guch8017/USTC_CS_EXAM 是汇集入口，不默认认作首发。评课社区、duxiaoyang-creator 与 ly382965 的仓库逐件区分自写与转收；缺证据标「出处未确认」。刘越课程主页是该版本数分真题汇编的一手出处，不等于其中每张卷的首发。正式导航仅保留优先入口，已核实出处可写进说明。类型、课程归属或覆盖冲突单独复核，不因去重删除课程归属。
 - 工具、空壳、无增量镜像、受阻项只进入检索记录，不能作为正式资料。构建会拒绝引用 `tool/stub` 来源的资料。
 
 检索记录每行：
@@ -193,9 +193,9 @@ GitHub 检查只读登记资料库的确定 `branch`；头未变跳过树，变�
 
 ## 访问统计
 
-两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。仓库统计默认尝试工作流自带的 `GITHUB_TOKEN`；若无权读取 Traffic，设置限本仓库且有读取权限的 Actions secret `TRAFFIC_TOKEN`。设置 Actions variable `GOATCOUNTER_SITE`（仅填 GoatCounter 子域名，并在其后台允许公开计数）后，生成的网页会向 GoatCounter 上报浏览，同时 Actions 会读取其公开累计计数。未配置或采集失败的项目不显示，真实的零正常显示。
+两条发布工作流构建前运行 `scripts/collect-traffic.mjs`。仓库统计默认使用工作流的 `GITHUB_TOKEN`；若无权读取 Traffic，设置有限权限的 Actions secret `TRAFFIC_TOKEN`。设置 Actions variable `GOATCOUNTER_SITE`（仅子域名，后台允许公开计数）后，网页上报浏览，Actions 读取公开计数。除已标日期的仓库昨日指标外，无数据的指标不显示。
 
-仓库显示 UTC 当日及近 14 天，网站显示 UTC 当日及自启用以来累计（GoatCounter 的 `TOTAL` 接口按 UTC 划日）。当日指标附统计日期。聚合值保存在被 Git 忽略的 `data/traffic.local.json`；Pages 计划每四小时重新构建，GoatCounter 公开计数还可能有缓存。上报只使用固定路径、标题，不发送搜索词、筛选条件或课号；页脚注明统计提供方。
+仓库显示 GitHub 仓库昨日（UTC）及近 14 天；昨日缺行显示「暂无数据」，明确返回 0 才显示 0。网站显示 UTC 当日及累计：GoatCounter 公开 `TOTAL` 接口只接受日期，实测北京时间零点对应的 UTC 时刻查询返回 HTTP 400。两项分别标注统计日期。统计取数时间以北京时间显示本批请求的发起时间，不是访问、部署或上游数据更新时间。聚合值保存在被 Git 忽略的 `data/traffic.local.json`；Pages 调度不变，上游数字可能延迟或调整。上报只使用固定路径、标题，不发送搜索词、筛选条件或课号。
 
 ## 处理读者推荐
 

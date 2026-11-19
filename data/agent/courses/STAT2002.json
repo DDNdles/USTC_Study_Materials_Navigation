@@ -110,36 +110,6 @@
             "bytes": 706217,
             "checked_at": "2026-11-19"
           }
-        },
-        {
-          "source_id": "ustc-math-exam",
-          "page_url": "https://ustcmathexam.github.io/Services/",
-          "download_page": null,
-          "download_url": "https://ustcmathexam.github.io/USTC/2025probstatfinal.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory",
-          "file_snapshot": {
-            "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
-            "bytes": 706217,
-            "checked_at": "2026-11-19"
-          }
-        },
-        {
-          "source_id": "eng-github-guch8017",
-          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202501.pdf",
-          "download_page": null,
-          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics202501.pdf",
-          "access": "public",
-          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
-          "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file",
-          "file_snapshot": {
-            "sha256": "0ce62a11e227f172a03ca48133d87cad354e8b809a6ec5e8772f7eee7a9e4ed3",
-            "bytes": 706217,
-            "checked_at": "2026-11-19"
-          }
         }
       ],
       "verified_at": "2026-11-18"
@@ -173,36 +143,6 @@
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
           "page_kind": "directory",
-          "file_snapshot": {
-            "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
-            "bytes": 730092,
-            "checked_at": "2026-11-19"
-          }
-        },
-        {
-          "source_id": "ustc-math-exam",
-          "page_url": "https://ustcmathexam.github.io/Services/",
-          "download_page": null,
-          "download_url": "https://ustcmathexam.github.io/USTC/2024probstatfinal.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory",
-          "file_snapshot": {
-            "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
-            "bytes": 730092,
-            "checked_at": "2026-11-19"
-          }
-        },
-        {
-          "source_id": "eng-github-guch8017",
-          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics202401.pdf",
-          "download_page": null,
-          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics202401.pdf",
-          "access": "public",
-          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
-          "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file",
           "file_snapshot": {
             "sha256": "c1928de600c158849d45f79fc3ca4e52c7d83aaf0ca6e3e82cbe37b12bd2ef98",
             "bytes": 730092,
@@ -354,36 +294,6 @@
           "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
           "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
           "page_kind": "directory",
-          "file_snapshot": {
-            "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
-            "bytes": 683495,
-            "checked_at": "2026-11-19"
-          }
-        },
-        {
-          "source_id": "ustc-math-exam",
-          "page_url": "https://ustcmathexam.github.io/Services/",
-          "download_page": null,
-          "download_url": "https://ustcmathexam.github.io/USTC/2023probstatfinal.pdf",
-          "access": "public",
-          "license_note": "公开试卷合集站点；站点模板 MIT 许可不覆盖试卷内容，试卷权利归命题/授课教师，未见逐份再分发许可",
-          "attribution": "USTC数学/物理课程往年试卷（学生运营站点）",
-          "page_kind": "directory",
-          "file_snapshot": {
-            "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
-            "bytes": 683495,
-            "checked_at": "2026-11-19"
-          }
-        },
-        {
-          "source_id": "eng-github-guch8017",
-          "page_url": "https://github.com/guch8017/USTC_CS_EXAM/blob/master/Exams/ProbabilityAndStatistics2023.pdf",
-          "download_page": null,
-          "download_url": "https://raw.githubusercontent.com/guch8017/USTC_CS_EXAM/master/Exams/ProbabilityAndStatistics2023.pdf",
-          "access": "public",
-          "license_note": "无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认",
-          "attribution": "guch8017/USTC_CS_EXAM",
-          "page_kind": "file",
           "file_snapshot": {
             "sha256": "ee62bb65204cc7d3f6031c0ce9d9eaf77bc5888f9fe332964f0b03f788fc9b3c",
             "bytes": 683495,
@@ -976,7 +886,7 @@
       "authors": [
         "余启帆"
       ],
-      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计历年真题.pdf（5543218 字节，108 页）；2022 版由余启帆整理；与评课社区文件、guch8017/USTC_CS_EXAM 备用文件字节一致。",
+      "notes": "目录：数学类/概率论与数理统计；概率论与数理统计历年真题.pdf（5543218 字节，108 页）；2022 版由余启帆整理；与评课社区文件、guch8017/USTC_CS_EXAM 备用文件字节一致。；同字节评课附件署名：余启帆整理；原始发布地点未确认。",
       "coverage": {
         "years": [],
         "academic_years": [
@@ -1015,21 +925,6 @@
           "license_note": "站点页脚声明资料仅供学习、不得商用；文件权利归原作者/教师，站点声明不构成逐文件再分发许可",
           "attribution": "share.feixu.site 公开分享目录",
           "page_kind": "file"
-        },
-        {
-          "source_id": "icourse-club",
-          "page_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
-          "download_page": null,
-          "download_url": "https://icourse.club/uploads/files/0252e1c7aa3469536b0aeaadc8f09e9a4c6f38bf.pdf",
-          "access": "public",
-          "license_note": "评课社区公开上传文件；站点未声明再分发许可，仅登记原文件入口",
-          "attribution": "USTC 评课社区用户上传（2022 版，余启帆整理）",
-          "page_kind": "file",
-          "file_snapshot": {
-            "sha256": "0372ac43785ea013ae66d97515a2c5a0edb1a5b99a635ac6941560096cfc4472",
-            "bytes": 5543218,
-            "checked_at": "2026-11-19"
-          }
         },
         {
           "source_id": "eng-github-guch8017",
@@ -2055,11 +1950,11 @@
   "sources": {
     "ustc-phy-exam": "USTC 物理课程往年试卷",
     "icourse-club": "USTC 评课社区",
-    "ustc-math-exam": "USTC 数学课程往年试卷",
-    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "feixu-alist": "feixu 学习资料分享站（AList）",
     "gh-guidongnan": "guidongnan/ustc_ds_undergraduate_course",
+    "ustc-math-exam": "USTC 数学课程往年试卷",
     "gh-li-qi-lin": "li-qi-lin/USTC-Course-Materials-Sharing",
+    "eng-github-guch8017": "guch8017/USTC_CS_EXAM（跨课试卷索引）",
     "gh-stardust-math-refans": "Stardust-math/Reference-Answer",
     "gh-wloner0809": "Wloner0809/ustc-course-resource",
     "gh-kobe972": "Kobe972/ustc_course_plus",

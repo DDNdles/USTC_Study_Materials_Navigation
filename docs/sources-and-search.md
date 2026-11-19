@@ -5,12 +5,12 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 374 门，暂未收录 810 门）。
-- 资料：2293 条（按资料类型与试题年份的覆盖见下一节）。
-- 来源：165 个登记来源，其中 155 个被正式资料引用。
-- 检索记录：6206 条，覆盖 1184 门课程。
+- 资料：2286 条（按资料类型与试题年份的覆盖见下一节）。
+- 来源：166 个登记来源，其中 156 个被正式资料引用。
+- 检索记录：6215 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2796 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1041。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2777 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1035。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -28,7 +28,6 @@
   - 2025 年（期中、形式不明、解答情况不明）：数值分析 2025 期中 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2025NumAnalmid.pdf
   - 2023 年（期末、原题、含解答）：数值分析 2023 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2023NumAnalfinal.pdf
   - 年份待确认（期末、形式不明、解答情况不明）：数值分析 2024 期末 —— USTC 数学课程往年试卷 https://ustcmathexam.github.io/USTC/2024NumAnalfinal.pdf
-  - 年份待确认（期末、形式不明、解答情况不明）：数值分析 期末试卷 —— USTC 评课社区 https://icourse.club/course/2710/#review-64183
 - **学习资料**
   - 数值分析 2026 课程课件 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25072/#review-102390
 
@@ -189,7 +188,6 @@
   - 数理方程B 数理方程B（homework） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB/%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E5%92%8C%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88.pdf（文件页）
   - 数理方程B 作业答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/2992/#review-93741
   - 作业 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-85062
-  - hw —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21190/#review-64490
 - **学习资料**
   - 复习资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/21191/#review-53574
   - 期末复习笔记整理 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/14346/#review-64783
@@ -785,7 +783,6 @@
   - 传感器原理与技术 思考题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/26263/#review-102913
   - 传感器原理与技术 自测题 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-93157
   - 传感器原理与技术：作业与习题（3 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/424/#review-94943
-  - 传感器自测题 v1.2 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-40077
 - **学习资料**
   - 传感器复习准备资料 v1.2 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/425/#review-40077
   - 传感器原理与技术：学习资料（19 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/424/#review-94943
@@ -1530,7 +1527,6 @@
   - 年份待确认（类型不明、形式不明、解答情况不明）：化学原理 真题 —— USTC 评课社区 https://icourse.club/course/12859/#review-76508
 - **作业、习题与小测**
   - 化学原理 习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19010/#review-96756
-  - 化学原理 习题答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/1078/#review-79816
 - **学习资料**
   - 化学原理A 第三次习题课：氧化还原反应与电化学及期中复习（2022 秋，王建平） —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E5%85%B6%E4%BB%96/%E5%8C%96%E5%AD%A6%E5%8E%9F%E7%90%86%20%E6%97%A0%E6%9C%BA%E5%8C%96%E5%AD%A6/%E5%8C%96%E5%AD%A6%E5%8E%9F%E7%90%86%E6%9C%9F%E4%B8%AD%20%E4%B8%80%E4%BA%8C%E4%B8%89%E5%9B%9B%E4%BA%94%E7%AB%A0.pdf（文件页）
   - 化学原理A：学习资料（20 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19010/#review-96756
@@ -1666,6 +1662,7 @@
   - 2014 年（期末、原题、解答情况不明）：电动力学 2014 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/14SpEDAFinalPHJ.pdf
   - 年份待确认（期末、原题、解答情况不明）：电动力学 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaEDAFinal.pdf
 - **作业、习题与小测**
+  - 《电动力学》（第四版，郭硕鸿）习题参考解答（Uphi. 修订版） —— Uphi. 个人站；核验于 2026-11-19 https://hongfeiy.com/assets/pdf/gsh_answer.pdf（文件页）
   - 电动力学：作业与习题（18 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23458/#review-72448
 - **学习资料**
   - 电动力学：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23458/#review-72448
@@ -3486,7 +3483,6 @@
   - 毛概期末试卷考场抄写版（2022春） —— Kobe972/ustc_course_plus；核验于 2026-11-18 https://github.com/Kobe972/ustc_course_plus/blob/main/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%80%9D%E6%83%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB%E6%A6%82%E8%AE%BA/%E6%AF%9B%E6%A6%82%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7%E8%80%83%E5%9C%BA%E6%8A%84%E5%86%99%E7%89%88.docx
   - 毛概提纲 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18072/#review-50115
   - 毛概一些资料 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18075/#review-93198
-  - 毛概总结 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18075/#review-85923
   - 毛泽东思想和中国特色社会主义理论体系概论：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/18075/#review-85184
 
 ### MARX1014 习近平新时代中国特色社会主义思想概论
@@ -3668,7 +3664,6 @@
   - 2021 年（期中、形式不明、解答情况不明）：2021秋数学分析(B1)期中参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2021%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2020 年（期末、形式不明、解答情况不明）：2020秋数学分析(B1)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2020 年（期中、形式不明、解答情况不明）：2020数分B1期中考试卷和答案 —— USTC 评课社区 https://icourse.club/course/2840/#review-29420
-  - 2020 年（期中、形式不明、解答情况不明）：20秋-数学分析(B1)期中考试解析与评分细则 —— USTC 评课社区 https://icourse.club/course/21918/#review-57454
   - 2020 年（期中、形式不明、解答情况不明）：数学分析(B1) 2020秋 期中答案 —— USTC 评课社区 https://icourse.club/course/13486/#review-69910
   - 2019 年（期中、原题、含解答）：2019 秋数学分析(B1)期中考试解析与评分细则 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2020%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
   - 2019 年（期末、形式不明、解答情况不明）：2019秋数学分析(B1)期末考试解析与评分细则 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88/2019%E7%A7%8B%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%28B1%29%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%A7%A3%E6%9E%90%E4%B8%8E%E8%AF%84%E5%88%86%E7%BB%86%E5%88%99.pdf（文件页）
@@ -4039,7 +4034,7 @@
   - 2017 年（期中、原题、解答情况不明）：2017实分析期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2017%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
   - 2016 年（期中、原题、解答情况不明）：2016实分析期中考试1 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2016%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%951.pdf（文件页）
   - 2016 年（期中、原题、解答情况不明）：2016实分析期中考试2 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2016%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%952.pdf（文件页）
-  - 2015 年（期末、原题、解答情况不明）：2015实分析期末考试 —— feixu 学习资料分享站（AList）、Weiyu-USTC/USTCmath-stat、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
+  - 2015 年（期末、原题、解答情况不明）：2015实分析期末考试 —— feixu 学习资料分享站（AList）、Weiyu-USTC/USTCmath-stat https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95.pdf（文件页）
   - 2015 年（期中、形式不明、解答情况不明）：2015实分析期中考试 —— feixu 学习资料分享站（AList）、USTC 数学课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%AE%9E%E5%88%86%E6%9E%90/2015%E5%AE%9E%E5%88%86%E6%9E%90%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95.pdf（文件页）
 - **作业、习题与小测**
   - 2007—2008 学年：实变函数习题答案（2007–2008 学年第二学期） —— Weiyu-USTC/USTCmath-stat；核验于 2026-11-18 https://raw.githubusercontent.com/Weiyu-USTC/USTCmath-stat/master/%E5%AE%9E%E5%88%86%E6%9E%90Real%20Analysis/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88_%E5%8C%97%E5%A4%A7%E7%89%88_%E5%91%A8%E6%B0%91%E5%BC%BA.pdf
@@ -4326,7 +4321,6 @@
 
 - **作业、习题与小测**
   - 理论力学 答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/24828/#review-91294
-  - 理论力学 答案 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25793/#review-105672
 - **学习资料**
   - 理论力学B：学习资料（6 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/23690/#review-97971
 
@@ -4417,7 +4411,6 @@
   - 2026 年（期末、原题、解答情况不明）：2025-2026秋力学A期末 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025-2026%E7%A7%8B%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB.pdf（文件页）
   - 2025 年（期末、形式不明、含解答）：2025力学A期末答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2025%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2024 年（期末、回忆版、解答情况不明）：力学 2024 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/24FaMechAFinal.pdf
-  - 2023 年（期中、形式不明、解答情况不明）：2023期中 —— USTC 评课社区 https://icourse.club/course/19588/#review-90767
   - 2023 年（期末、原题、解答情况不明）：力学 2023 期末 —— USTC 物理课程往年试卷、feixu 学习资料分享站（AList） https://ustcphyexam.github.io/USTC/23FaMechAFinal.pdf
   - 2023 年（期中、形式不明、解答情况不明）：力学 2023 期中 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23FaMechAMid.pdf
   - 2021 年（期末、回忆版、解答情况不明）：2021力学A期末试题回忆版 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2021%E5%8A%9B%E5%AD%A6A%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86%E7%89%88.pdf（文件页）
@@ -4792,12 +4785,12 @@
 - **试题与解析**
   - 2026 年（期末、原题、解答情况不明）：概率论与数理统计 2025 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/25FaProbStatFinal.pdf
   - 2026 年（类型不明、形式不明、解答情况不明）：概统试卷和参考答案2026春 —— USTC 评课社区 https://icourse.club/course/21052/#review-105456
-  - 2025 年（期末、原题、含解答）：概率论与数理统计 2024 秋期末（2025 年 1 月） —— USTC 物理课程往年试卷、USTC 数学课程往年试卷、guch8017/USTC_CS_EXAM（跨课试卷索引） https://ustcphyexam.github.io/USTC/24FaProbStatFinal.pdf（资料目录）
-  - 2024 年（期末、原题、含解答）：概率论与数理统计 2023 秋期末（2024 年 1 月） —— USTC 物理课程往年试卷、USTC 数学课程往年试卷、guch8017/USTC_CS_EXAM（跨课试卷索引） https://ustcphyexam.github.io/USTC/23FaProbStatFinal.pdf（资料目录）
+  - 2025 年（期末、原题、含解答）：概率论与数理统计 2024 秋期末（2025 年 1 月） —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24FaProbStatFinal.pdf（资料目录）
+  - 2024 年（期末、原题、含解答）：概率论与数理统计 2023 秋期末（2024 年 1 月） —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23FaProbStatFinal.pdf（资料目录）
   - 2024 年（期末、原题、解答情况不明）：概率论与数理统计 2024 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/24SpProbStatFinal.pdf
   - 2024 年（类型不明、形式不明、解答情况不明）：概统试卷和参考答案202401 —— USTC 评课社区 https://icourse.club/course/3855/#review-79302
   - 2023 年（期末、原题、解答情况不明）：概率论与数理统计 2023 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/23SpProbStatFinal.pdf
-  - 2023 年（期末、原题、含解答）：概率论与数理统计2022-2023第一学期试题及答案 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷、USTC 数学课程往年试卷、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A12022-2023%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
+  - 2023 年（期末、原题、含解答）：概率论与数理统计2022-2023第一学期试题及答案 —— feixu 学习资料分享站（AList）、USTC 物理课程往年试卷 https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A12022-2023%E7%AC%AC%E4%B8%80%E5%AD%A6%E6%9C%9F%E8%AF%95%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf（文件页）
   - 2023 年（类型不明、形式不明、解答情况不明）：概统2023秋试卷及答案 —— USTC 评课社区 https://icourse.club/course/21048/#review-79734
   - 2023 年（类型不明、形式不明、解答情况不明）：概统试卷和参考答案2023 —— USTC 评课社区 https://icourse.club/course/21831/#review-96744
   - 2022 年（期末、原题、解答情况不明）：概率论与数理统计 2022 期末 —— USTC 物理课程往年试卷 https://ustcphyexam.github.io/USTC/22SpProbStatFinal.pdf
@@ -4815,7 +4808,7 @@
   - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/3860/#review-56400
   - 年份待确认（类型不明、形式不明、解答情况不明）：概率论与数理统计：试题与解析（3 个附件） —— USTC 评课社区 https://icourse.club/course/3860/#review-57241
   - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版，含手写页） —— li-qi-lin/USTC-Course-Materials-Sharing https://github.com/li-qi-lin/USTC-Course-Materials-Sharing/tree/master/3-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1（资料目录）
-  - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版） —— feixu 学习资料分享站（AList）、USTC 评课社区、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
+  - 2002—2003 学年、2003—2004 学年、2004—2005 学年、2005—2006 学年、2006—2007 学年、2007—2008 学年、2008—2009 学年、2009—2010 学年、2010—2011 学年、2011—2012 学年、2013—2014 学年、2015—2016 学年、2016—2017 学年、2017—2018 学年、2018—2019 学年、2019—2020 学年、2020—2021 学年、2021—2022 学年（期中期末混合、原题、解答情况不明）：概率论与数理统计历年真题（2022 版） —— feixu 学习资料分享站（AList）、guch8017/USTC_CS_EXAM（跨课试卷索引） https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%8E%86%E5%B9%B4%E7%9C%9F%E9%A2%98.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：概统往年题2003-2021 —— USTC 评课社区 https://icourse.club/course/3847/#review-43506
   - 年份待确认（类型不明、形式不明、解答情况不明）：近十年概统往年题合集 —— USTC 评课社区 https://icourse.club/course/21053/#review-103976
 - **作业、习题与小测**
@@ -4992,7 +4985,7 @@
 - 维护者：guch8017
 - GitHub：guch8017/USTC_CS_EXAM（分支 master）
 - 说明：README按课程/教师/年份列试卷；资源大部分收集自USTC评课社区。本轮检查README与Exams目录。 branch=master 经 GitHub API repos 元数据核验；无仓库级许可声明；README 说明资源多收集自评课社区，署名与授权边界需逐文件确认。2026-11-18 读取完整 git tree 核对目录。
-- 被正式资料引用：98 处
+- 被正式资料引用：95 处
 
 ### ly382965/USTC_learning_materials（6系课程资料）
 
@@ -5171,7 +5164,7 @@
 - 维护者：USTC-Resource
 - GitHub：USTC-Resource/USTC-Course（分支 master）
 - 说明：跨课程资料库；数理方程、概率统计、计算方法、近世代数等目录；未见根 LICENSE。 README的CC声明不覆盖仓库内全部第三方文件；本轮仅登记已确认课程目录页。 branch=master 经 GitHub API repos 元数据核验；仓库声明：无特别声明资料按 CC BY-NC-SA 4.0 授权，第三方文件权利归原作者。2026-11-18 读取完整 git tree 核对目录。 学生原创笔记、总结与经验；README 声明无特别声明资料按 CC BY-NC-SA 4.0，第三方内容版权归原作者，仅原页导航。
-- 被正式资料引用：81 处
+- 被正式资料引用：80 处
 
 ### TheVaticanCameos/USTC_MM_25
 
@@ -5260,7 +5253,7 @@
 - 地址：<https://icourse.club/>
 - 维护者：USTC评课社区（jenny42 等）
 - 说明：公开课程页可核对课程号和开课信息（课程号可能附教学班后缀）。评课社区原帖可公开定位、附件已通过正常登录核对的资料，可标为需登录并链接到原帖；不登记登录后才出现的附件直链，不转载文件。文件权利归原作者。 评课社区历史资料线索回查起点：2026-10-29T09:33:55Z（北京时间 2026-10-29 17:33:55）。以后增量回查从此刻（含）开始；此前不全站重复筛查。
-- 被正式资料引用：810 处
+- 被正式资料引用：801 处
 
 ### USTC 数学课程往年试卷
 
@@ -5269,7 +5262,7 @@
 - 维护者：ustcmathexam（学生运营）
 - GitHub：ustcmathexam/ustcmathexam.github.io（分支 master）
 - 说明：按课程分类的数学试卷站，文件在仓库 USTC/；站点模板 MIT 不覆盖试卷权利。
-- 被正式资料引用：377 处
+- 被正式资料引用：373 处
 
 ### 中国科学技术大学慕课平台
 
@@ -5286,7 +5279,7 @@
 - 维护者：ustcphyexam（学生运营）
 - GitHub：ustcphyexam/ustcphyexam.github.io（分支 main）
 - 说明：按课程分类的物理试卷站，文件在仓库 USTC/；站点模板 MIT 不覆盖试卷权利。
-- 被正式资料引用：166 处
+- 被正式资料引用：164 处
 
 ### USTC 教师个人主页（staff/faculty）
 
@@ -6320,6 +6313,14 @@
 - 维护者：GitHub @zzx6869
 - GitHub：zzx6869/2020_python_program_design（分支 master）
 - 说明：评课社区公开点评外链定位到的课程实验仓库；匿名核对仓库页可访问，仅导航原页。
+- 被正式资料引用：1 处
+
+### Uphi. 个人站
+
+- 类型：网站
+- 地址：<https://hongfeiy.com/>
+- 维护者：Uphi.
+- 说明：版本整理者 Uphi. 的个人站；原参考解答作者不详。
 - 被正式资料引用：1 处
 
 ## 检索记录
@@ -7483,6 +7484,12 @@
   - 说明：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
   - 来源 ID：icourse-club
   - 课程代码：001046
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://ustcmathexam.github.io/AMCM/>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-001046-53c138e9e375c8c9；原始出处未确认。
+  - 来源 ID：ustc-math-exam、icourse-club
+  - 课程代码：001046
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/search?q=%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%20USTC&type=repositories>
   - 查询：数值分析 USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -8412,6 +8419,12 @@
   - 查询：数理方程B 作业答案
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
   - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：001549
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/2992/#review-93741>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-001549-c3a23953e7d50492；原始出处未确认。
   - 来源 ID：icourse-club
   - 课程代码：001549
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/21191/#review-53574>
@@ -13802,6 +13815,12 @@
   - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：010196
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/425/#review-93157>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-010196-f90f939b75e49785；原始出处未确认。
+  - 来源 ID：icourse-club
+  - 课程代码：010196
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/424/#review-94943>
   - 查询：传感器原理与技术：学习资料（19 个附件）
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -18083,6 +18102,12 @@
   - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：019161
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/19010/#review-96756>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-019161-ff528759b22e3659；原始出处未确认。
+  - 来源 ID：icourse-club
+  - 课程代码：019161
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/24619/#review-98725>
   - 查询：化学原理A 2024 秋期末试卷
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -18925,6 +18950,12 @@
   - 检查范围：逐条重判 47 条候选的原页、附件与课程归属，核对公开可访问性
   - 说明：评课包复核 47 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
   - 来源 ID：icourse-club
+  - 课程代码：022057
+- 2026-11-19 · 公开网页 · 已查看 · <https://hongfeiy.com/assets/pdf/gsh_answer.pdf>
+  - 查询：Issue #2：电动力学第四版习题参考解答
+  - 检查范围：免登录完整 PDF；核对卷首、目录、再版序及 SHA-256。
+  - 说明：收录 Uphi. 修订版；旧版作者不详。非官方，仅导航。
+  - 来源 ID：personal-uphi
   - 课程代码：022057
 - 2026-11-18 · GitHub · 已查看 · <https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6>
   - 查询：电动力学 USTC
@@ -34183,6 +34214,12 @@
   - 说明：仅导航评课社区原帖；附件需登录下载。
   - 来源 ID：icourse-club
   - 课程代码：MARX1013
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/18075/#review-93198>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-MARX1013-95810f02c303adc8；原始出处未确认。
+  - 来源 ID：icourse-club
+  - 课程代码：MARX1013
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/18075/#review-85923>
   - 查询：毛概总结
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -34870,6 +34907,12 @@
   - 查询：数学分析(B1) 2020秋 期中答案
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
   - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：MATH1006
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/13486/#review-69910>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-MATH1006-e9e38ee69e450773；原始出处未确认。
   - 来源 ID：icourse-club
   - 课程代码：MATH1006
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19511/#review-41066>
@@ -38241,6 +38284,12 @@
   - 查询：理论力学 答案
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
   - 说明：仅导航评课社区原帖；附件需登录下载。
+  - 来源 ID：icourse-club
+  - 课程代码：ME2006
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://icourse.club/course/24828/#review-91294>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-ME2006-4193b33071651d1d；原始出处未确认。
   - 来源 ID：icourse-club
   - 课程代码：ME2006
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25793/#review-105672>
@@ -42847,6 +42896,12 @@
   - 说明：评课包复核 46 条候选；有效或补入口 0 条；结果 no_relevant_result。 主要理由：review_image_not_study_material；not_course_material_or_generic_page；unidentified_generic_name
   - 来源 ID：icourse-club
   - 课程代码：PHYS1001A
+- 2026-11-19 · 评课社区 · 重复或镜像 · <https://ustcphyexam.github.io/JuniorPhy/>
+  - 查询：相同文件的入口优先级
+  - 检查范围：完整文件字节数及 SHA-256 相同；成员集合完整，未改变课程归属。
+  - 说明：移除并列重复入口 intake-login-PHYS1001A-5cae8ea8c86ddbe5；原始出处未确认。
+  - 来源 ID：ustc-phy-exam、icourse-club
+  - 课程代码：PHYS1001A
 - 2026-11-18 · GitHub · 已查看 · <https://github.com/USTC/CS-Course-Resource-USTC-CS-Resources>
   - 查询：力学A USTC
   - 检查范围：GitHub 仓库搜索首10条（本次多有429）+ 26 个 USTC 资料库克隆文件树按课名/代码匹配
@@ -45592,6 +45647,7 @@
 - 通用来源 · GitHub · 工具 · <https://github.com/Enthusjast/USTC-catalog-CLI>：官方课程查询CLI工具，不是具体课件试卷资料；不作为有资料课程计数。
 - 通用来源 · GitHub · 工具 · <https://github.com/USTC-iCourse/ustc-course>：该仓库为Python/Flask评课网站源代码，不当作试卷讲义；真实资料在icourse.club课程点评附件/外链另行核验。AGPL仅对应程序，不继承到用户上传资料。
 - 课程 001046 · 评课社区 · 受阻 · <https://icourse.club/course/2710/#review-64183>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 001046 · 评课社区 · 重复或镜像 · <https://ustcmathexam.github.io/AMCM/>：移除并列重复入口 intake-login-001046-53c138e9e375c8c9；原始出处未确认。
 - 课程 001046 · 评课社区 · 候选未确认 · <https://icourse.club/course/2710/>：附件需登录，未核验卷面/年份/解答：数值分析期末考.pdf；数值分析PPT 2026（徐岩、夏银华）.pdf
 - 课程 001065 · 评课社区 · 候选未确认 · <https://icourse.club/course/6120/#review-96705>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：缺少原页内容或归属核验证据，移出最终提案
 - 课程 001065 · 评课社区 · 受阻 · <https://icourse.club/course/6120/#review-102909>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
@@ -45614,6 +45670,7 @@
 - 课程 001548 · 评课社区 · 受阻 · <https://icourse.club/course/20626/#review-97761>：评课包复核 39 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；该附件直链已作为既有资料 mp-icourse-001548-exams-87cd 登记；匿名原点评仍只显示登录入口，本轮不重复收录、不新增公开链接。
 - 课程 001549 · GitHub · 候选未确认 · <https://share.feixu.site/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB%20%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90%2820260122213731%29.pdf>：原文明示未经同意不得上传校外
 - 课程 001549 · GitHub · 候选未确认 · <https://github.com/Wloner0809/ustc-course-resource/tree/main/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB>：重复且原文明示不得上传校外
+- 课程 001549 · 评课社区 · 重复或镜像 · <https://icourse.club/course/2992/#review-93741>：移除并列重复入口 intake-login-001549-c3a23953e7d50492；原始出处未确认。
 - 课程 001549 · GitHub · 重复或镜像 · <https://github.com/USTC-Resource/USTC-Course/blob/d091d4d43df88d6744e4c914825afa8f5019d95f/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/exams/%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8BB2017.pdf>：旧库复核 4 条候选；有效或补入口 3 条；结果 duplicate。 主要理由：既有 2017 条目此前登记的是配套答案文件；本轮改挂题面并补答案为 solution 入口，题面与答案逐题对应；配套答案文件，不另计一条资料，作为 solution 入口挂回既有 2017 题面条目，答案与题面五题逐题对应；既有 001549 study 条目指向课程目录；补 notes 下 6 份复习/总结 PDF 文件级入口。
 - 课程 001549 · 评课社区 · 受阻 · <https://icourse.club/course/21190/#review-64490>：评课包复核 51 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 001549 · 评课社区 · 候选未确认 · <https://icourse.club/course/24052/>：附件需登录，未核验卷面/年份/解答：课后习题解析.pdf；数理方程指导.pdf
@@ -45831,6 +45888,7 @@
 - 课程 010177 · 评课社区 · 候选未确认 · <https://icourse.club/course/4455/#review-97190>：评课包复核 1 条候选；有效或补入口 0 条；结果 candidate。 主要理由：评课附件未见匿名原点评/评论字面链接，仅可取性不足以证明公开，移出最终提案
 - 课程 010177 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 010190 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 010196 · 评课社区 · 重复或镜像 · <https://icourse.club/course/425/#review-93157>：移除并列重复入口 intake-login-010196-f90f939b75e49785；原始出处未确认。
 - 课程 010196 · 评课社区 · 重复或镜像 · <https://icourse.club/course/425/#review-93159>：评课包复核 1 条候选；有效或补入口 0 条；结果 duplicate。 主要理由：该仓库已在现有来源 eng-github-epihio-automation 下收录多条资料，仓库根入口不重复计
 - 课程 010196 · 评课社区 · 受阻 · <https://icourse.club/course/425/#review-93157>：评课包复核 34 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交
 - 课程 010196 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -45941,6 +45999,7 @@
 - 课程 019149e · 评课社区 · 候选未确认 · <https://icourse.club/course/23451/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
 - 课程 019151 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 1 条、登录占位/无法匿名核验受阻 1 条；未使用包内直链反查。
 - 课程 019151e · 评课社区 · 候选未确认 · <https://icourse.club/course/23054/>：搜索命中名称相近的课程页，但课程号与该官方代码不匹配（可能是旧课程号或不同课），未据此挂资料。
+- 课程 019161 · 评课社区 · 重复或镜像 · <https://icourse.club/course/19010/#review-96756>：移除并列重复入口 intake-login-019161-ff528759b22e3659；原始出处未确认。
 - 课程 019161 · 评课社区 · 受阻 · <https://icourse.club/course/1078/#review-79816>：评课包复核 46 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
 - 课程 019163 · 评课社区 · 受阻 · <https://icourse.club/course/12862/#review-24427>：评课包复核 31 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
 - 课程 019165 · 评课社区 · 受阻 · <https://icourse.club/course/13429/#review-87608>：评课包复核 2 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
@@ -46406,6 +46465,7 @@
 - 课程 MARX1011 · 评课社区 · 受阻 · <https://icourse.club/course/20920/#review-88766>：评课包复核 69 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；页面要求登录或校园网权限，匿名请求无法核对正文，按规则不转交链接。
 - 课程 MARX1012 · 评课社区 · 受阻 · <https://icourse.club/course/20925/#review-86242>：评课包复核 17 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
 - 课程 MARX1013 · 评课社区 · 候选未确认 · <https://icourse.club/course/18075/>：评课页仅作为课程归属证据，不是新资料
+- 课程 MARX1013 · 评课社区 · 重复或镜像 · <https://icourse.club/course/18075/#review-93198>：移除并列重复入口 intake-login-MARX1013-95810f02c303adc8；原始出处未确认。
 - 课程 MARX1013 · 评课社区 · 受阻 · <https://icourse.club/course/18075/#review-93198>：评课包复核 12 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。；匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。
 - 课程 MARX1014 · 评课社区 · 受阻 · <https://icourse.club/course/24800/#review-98600>：评课包复核 24 条候选；有效或补入口 0 条；结果 blocked。 主要理由：点评页以登录弹窗（data-target=#signin）列出该附件，匿名不可见、无可核对链接；按规则不转交；目标返回 403 或人机验证，匿名无法核对；公众号页面需验证，匿名无法核对
 - 课程 MARX1503 · 评课社区 · 受阻 · <https://icourse.club/course/22584/#review-83598>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
@@ -46413,6 +46473,7 @@
 - 课程 MATH1003 · 评课社区 · 受阻 · <https://icourse.club/>：评课包复核 10 条候选；有效或补入口 0 条；结果 blocked。 主要理由：原点评未匿名呈现该附件链接，无法确认公开链接与关联，不转交
 - 课程 MATH1004 · 评课社区 · 受阻 · <https://icourse.club/course/12386/#review-84696>：评课包复核 4 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名页仅显示登录占位（“Please login to download the attachment”）或未给出可点击链接；未在独立公开原址核到同件，按规则不转交、不公开该链接。
 - 课程 MATH1005 · 评课社区 · 受阻 · <https://icourse.club/course/18270/#review-72509>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder
+- 课程 MATH1006 · 评课社区 · 重复或镜像 · <https://icourse.club/course/13486/#review-69910>：移除并列重复入口 intake-login-MATH1006-e9e38ee69e450773；原始出处未确认。
 - 课程 MATH1006 · 评课社区 · 受阻 · <https://icourse.club/course/26560/#review-99720>：评课包复核 132 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 MATH1007 · 评课社区 · 受阻 · <https://icourse.club/course/21345/#review-85766>：评课包复核 87 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案；匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 MATH1008 · 评课社区 · 受阻 · <https://icourse.club/course/14210/#review-75944>：评课包复核 6 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。；匿名请求被站点拒绝或无法连接（4xx/验证/限流/404），未能核对内容。
@@ -46508,6 +46569,7 @@
 - 课程 ME2004 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
 - 课程 ME2005 · 评课社区 · 受阻 · <https://icourse.club/>：公开 DOM 可直接定位 0 条、判非资料或重复 12 条、登录占位/无法匿名核验受阻 3 条；未使用包内直链反查。
 - 课程 ME2005 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
+- 课程 ME2006 · 评课社区 · 重复或镜像 · <https://icourse.club/course/24828/#review-91294>：移除并列重复入口 intake-login-ME2006-4193b33071651d1d；原始出处未确认。
 - 课程 ME2006 · 评课社区 · 受阻 · <https://icourse.club/course/23690/#review-97971>：评课包复核 8 条候选；有效或补入口 0 条；结果 blocked。 主要理由：无 Cookie 原点评 DOM 中文件名为 href=# data-target=#signin 登录占位或没有匿名 href；按门槛判 blocked，直链可取也不入案
 - 课程 ME2006 · 公开网页 · 候选未确认 · <https://ustcguide.gitbook.io/coursedata/ke-cheng-zi-liao/wu-li-cong-ru-men-dao-ru-tu/li-lun-li-xue.md>：课程资料簿有《理论力学》页，但未确认官方代码/课程号；仅候选，不发布为正式资源。
 - 课程 ME2007 · 公开网页 · 受阻 · <https://ustcguide.gitbook.io/coursedata/llms.txt>：课程资料簿目录无该课页；通用web检索受阻（Bing返回无关结果、DDG 202、Brave 429、faculty索引重建、teach无服务端结果）。未获公开课程/教师主页，不宣称全网零结果。
@@ -46616,6 +46678,7 @@
 - 课程 NSE4021 · GitHub · 受阻 · <https://github.com/search?q=%E5%85%88%E8%BF%9B%E5%85%89%E6%BA%90%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95%20USTC&type=repositories>：GitHub 搜索返回 429（限流），同义一次仍 429；已克隆 26 个 USTC 资料库文件树无该课命中
 - 课程 PE1502 · 评课社区 · 受阻 · <https://icourse.club/course/3824/#review-56663>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问被重置或需校园网/登录，未能核验公开内容
 - 课程 PHYS1001A · 评课社区 · 受阻 · <https://icourse.club/course/19967/#review-27995>：评课包复核 25 条候选；有效或补入口 0 条；结果 blocked。 主要理由：anonymous_dom_login_placeholder；anonymous_access_unconfirmed
+- 课程 PHYS1001A · 评课社区 · 重复或镜像 · <https://ustcphyexam.github.io/JuniorPhy/>：移除并列重复入口 intake-login-PHYS1001A-5cae8ea8c86ddbe5；原始出处未确认。
 - 课程 PHYS1001B · 评课社区 · 受阻 · <https://icourse.club/course/20177/#review-93419>：评课包复核 23 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名访问目标需要登录、验证或反爬拦截（平台限制），未能核对正文；按规则不公开该链接。；原点评匿名页对附件仅显示登录下载入口（或登录占位提示），未在独立公开原址核到同件；按规则不转交、不公开该链接。
 - 课程 PHYS1001B · 评课社区 · 候选未确认 · <https://icourse.club/course/20178/>：附件需登录，未核验卷面/年份/解答：一次有趣的作业.pdf
 - 课程 PHYS1001H · 评课社区 · 受阻 · <https://icourse.club/course/23763/#review-78489>：评课包复核 1 条候选；有效或补入口 0 条；结果 blocked。 主要理由：匿名点评页对附件仅显示文件名与登录弹窗（data-target=#signin），未公开直链；未在独立公开原址核到同件，按规则不转交该链接。
@@ -46722,8 +46785,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 2796 个网址，监控文件覆盖其中 1755 个；监控文件另有 5 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1737（已收到 HTTP 响应 1737、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1041。
+- 统计范围：统计分母是站点引用的 2777 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1035。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。
