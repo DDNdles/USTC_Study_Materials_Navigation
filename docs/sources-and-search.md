@@ -5,12 +5,12 @@
 ## 概览
 
 - 课程：1184 门（已收录资料 374 门，暂未收录 810 门）。
-- 资料：2307 条（按资料类型与试题年份的覆盖见下一节）。
+- 资料：2309 条（按资料类型与试题年份的覆盖见下一节）。
 - 来源：167 个登记来源，其中 157 个被正式资料引用。
-- 检索记录：6266 条，覆盖 1184 门课程。
+- 检索记录：6267 条，覆盖 1184 门课程。
 - 查缺记录：0 门课程尚未记录全部 GitHub / 评课社区 / 公开网页三条检索路径；未记录不等于没有资料，只表示本文件未覆盖。
-- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2791 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1049。
+- 外链检查：2026-11-18T12:43:53.013Z；统计分母是站点引用的 2793 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 检查结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1051。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 
 ## 课程 × 资料类型 × 试题年份覆盖
@@ -2557,6 +2557,7 @@
   - 计算机程序设计复习用测试题（2025 版，另一帖） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计复习用测试题（2025 版） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
 - **学习资料**
+  - 计算机程序设计 结构化题库与知识点树（1,533 题，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003（资料目录）
   - 计算机程序设计：学习资料（2 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25828/#review-103950
   - 计算机程序设计期末上机习题课 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/25853/#review-101251
   - 计算机程序设计总结与复习 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%BB%93%E4%B8%8E%E5%A4%8D%E4%B9%A0.pdf（文件页）
@@ -4438,6 +4439,7 @@
   - 2024—2025 学年（期末、形式不明、解答情况不明）：2024-2025秋季学期 力学A(AH AL)期末参考答案 —— feixu 学习资料分享站（AList） https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/2024-2025%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F%20%E5%8A%9B%E5%AD%A6A%28AH%20AL%29%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf（文件页）
   - 年份待确认（类型不明、形式不明、解答情况不明）：力学历年考题 —— USTC 评课社区 https://icourse.club/course/19967/#review-27995
 - **学习资料**
+  - 力学A 结构化题库、配图与知识点树（253 题 + 91 图，JSONL / SQLite） —— DDNdles/USTC-Question-Bank（中科大本科课程结构化题库）；核验于 2026-11-21 https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A（资料目录）
   - 力学A：学习资料（4 个附件） —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/22033/#review-90305
   - 力学A大抄 —— feixu 学习资料分享站（AList）；核验于 2026-11-18 https://share.feixu.site/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8A%9B%E5%AD%A6/%E5%8A%9B%E5%AD%A6A%E5%A4%A7%E6%8A%84.pdf（文件页）
   - 物理学科学习指南8.16 —— USTC 评课社区；核验于 2026-11-19 https://icourse.club/course/19588/#review-90767
@@ -6350,8 +6352,8 @@
 - 地址：<https://github.com/DDNdles/USTC-Question-Bank>
 - 维护者：DDNdles
 - GitHub：DDNdles/USTC-Question-Bank（分支 main）
-- 说明：按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）与线性代数(B1)（MATH1009，885 题），合计 2,470 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。
-- 被正式资料引用：4 处
+- 说明：按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）、线性代数(B1)（MATH1009，885 题）、计算机程序设计（CS1003，1,533 题）与力学A（PHYS1001A，253 题，含 91 张 WebP 配图），合计 4,256 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。
+- 被正式资料引用：6 处
 
 ## 检索记录
 
@@ -25043,6 +25045,12 @@
 
 ### CS1003 计算机程序设计
 
+- 2026-11-21 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0>
+  - 查询：DDNdles/USTC-Question-Bank v0.3.0 CS1003 & PHYS1001A
+  - 检查范围：courses/{CS1003,PHYS1001A}/{meta.json,taxonomy.json,questions.jsonl}, courses/PHYS1001A/assets/*.webp, manifest.json (v0.3.0), NOTICE.md
+  - 说明：仓库 v0.3.0 新增计算机程序设计（CS1003，1,533 题，31 个知识点节点）与力学A（PHYS1001A，253 题，46 个知识点节点，86 题含 91 张灰度优化 WebP 配图）；已核对两课 meta.json、taxonomy.json、questions.jsonl 与 Release v0.3.0 SQLite 产物，并同步其余 4 门课的 download_page 至 v0.3.0。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：CS1003、PHYS1001A
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/25828/#review-103950>
   - 查询：计算机程序设计：学习资料（2 个附件）
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -43142,6 +43150,12 @@
 
 ### PHYS1001A 力学A
 
+- 2026-11-21 · GitHub · 已查看 · <https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0>
+  - 查询：DDNdles/USTC-Question-Bank v0.3.0 CS1003 & PHYS1001A
+  - 检查范围：courses/{CS1003,PHYS1001A}/{meta.json,taxonomy.json,questions.jsonl}, courses/PHYS1001A/assets/*.webp, manifest.json (v0.3.0), NOTICE.md
+  - 说明：仓库 v0.3.0 新增计算机程序设计（CS1003，1,533 题，31 个知识点节点）与力学A（PHYS1001A，253 题，46 个知识点节点，86 题含 91 张灰度优化 WebP 配图）；已核对两课 meta.json、taxonomy.json、questions.jsonl 与 Release v0.3.0 SQLite 产物，并同步其余 4 门课的 download_page 至 v0.3.0。
+  - 来源 ID：gh-ddndles-ustc-question-bank
+  - 课程代码：CS1003、PHYS1001A
 - 2026-11-19 · 评课社区 · 已查看 · <https://icourse.club/course/19588/#review-90767>
   - 查询：2023期中
   - 检查范围：匿名回查原帖可定位；在正常登录的会话核对附件入口与标题，不读取文件正文。
@@ -47135,8 +47149,8 @@
 ## 外链健康检查
 
 - 最近一次检查：2026-11-18T12:43:53.013Z
-- 统计范围：统计分母是站点引用的 2791 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
-- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1049。
+- 统计范围：统计分母是站点引用的 2793 个网址，监控文件覆盖其中 1742 个；监控文件另有 18 个当前未被引用的历史条目（不计入统计）。
+- 结果：实际收到过 HTTP 响应的条目 1724（已收到 HTTP 响应 1724、需登录或认证 0、确认 404/410 0）；预检中止，未发出请求 0；已发出请求但无响应 18；从未检查 1051。
 - 从未检查的网址没有监控记录，与“已检查但无法确认”不同。
 - 判定口径：只有确认的 404/410 计为“无法找到”。需登录/认证说明服务器有响应但要求身份验证；目录列表页、软错误页、超时与预检拦截都不证明文件可下载或不存在。重定向中前一跳已收到响应、最终目标被预检拦截的条目归入预检中止，但仍计入“实际收到过 HTTP 响应”的条目。
 - 匿名检查只代表当次网络访问结果，不代表资料内容、课程归属、年份或授权已确认；失败不会自动删除资料或改变“是否收录”的分区。
