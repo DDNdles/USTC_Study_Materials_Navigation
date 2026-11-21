@@ -1948,6 +1948,6 @@
       "repo": "USTC-Question-Bank",
       "branch": "main"
     },
-    "notes": "按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），首发覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）与数学分析(B2)（MATH1007，569 题）。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。"
+    "notes": "按中科大官方课号组织的结构化题库仓库（UTF-8 JSONL、知识点树 taxonomy.json、零依赖 Python 加载库与 SQLite FTS5 构建器），覆盖复变函数B（001548，571 题）、数学分析(B1)（MATH1006，445 题）、数学分析(B2)（MATH1007，569 题）与线性代数(B1)（MATH1009，885 题），合计 2,470 题。仓库代码、Schema 与元数据采用 MIT；NOTICE.md 明确第三方真题、教材习题及引用解答版权归原作者与出版社所有、不适用 MIT，仅供学习研究。"
   }
 ]
