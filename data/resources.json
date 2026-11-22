@@ -82958,7 +82958,7 @@
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/001548",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -82991,7 +82991,7 @@
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1006",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -83024,7 +83024,7 @@
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1007",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -83057,7 +83057,7 @@
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/MATH1009",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -83090,7 +83090,7 @@
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/CS1003",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -83123,7 +83123,7 @@
       {
         "source_id": "gh-ddndles-ustc-question-bank",
         "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1001A",
-        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.3.0",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
         "download_url": null,
         "access": "public",
         "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
@@ -83132,5 +83132,105 @@
       }
     ],
     "verified_at": "2026-11-21"
+  },
+  {
+    "id": "gh-ddndles-qbank-phys1002a",
+    "course_codes": [
+      "PHYS1002A"
+    ],
+    "type": "study",
+    "title": "热学A 结构化题库、配图与知识点树（352 题 + 48 图，JSONL / SQLite）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "结构化题库目录 courses/PHYS1002A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 352 道 Markdown+LaTeX 题目与分步解析，覆盖 2004–2026 年期中/期末/预考/免修考与三次小测、热学历年真题合订本及清华《大学物理》热学选择题库（official 219 / community 13 / ai 120，10 题低置信隔离），附 48 张灰度 WebP 与矢量化 SVG 配图（共 123.7 KB）。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1002A/meta.json",
+      "note": "已核对仓库 courses/PHYS1002A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（352 题，45 个知识点节点，48 题含 48 张 WebP/SVG 配图）；按官方课号 PHYS1002A 建目录，10 道回忆版/条件歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1002A",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-22"
+  },
+  {
+    "id": "gh-ddndles-qbank-phys1004a",
+    "course_codes": [
+      "PHYS1004A"
+    ],
+    "type": "study",
+    "title": "电磁学A 结构化题库、配图与知识点树（121 题 + 59 图，JSONL / SQLite）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "结构化题库目录 courses/PHYS1004A/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 121 道 Markdown+LaTeX 题目与分步解析，覆盖 2017–2026 年期中/期末公共题、秦敢期中样题、各班回忆版及磁场习题课例题（official 43 / community 0 / ai 78，7 题低置信隔离），附 59 张灰度 WebP 与矢量化 SVG 配图（共 190.2 KB）。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/PHYS1004A/meta.json",
+      "note": "已核对仓库 courses/PHYS1004A/meta.json、taxonomy.json、questions.jsonl 与 assets/*（121 题，47 个知识点节点，58 题含 59 张 WebP/SVG 配图）；按官方课号 PHYS1004A 建目录，7 道回忆版/模型歧义题标为 quarantined=true，仓库不含原扫描 PDF。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/PHYS1004A",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-22"
+  },
+  {
+    "id": "gh-ddndles-qbank-210070",
+    "course_codes": [
+      "210070",
+      "CS2502A"
+    ],
+    "type": "study",
+    "title": "数据结构及其算法 结构化题库、配图与知识点树（347 题 + 17 图，JSONL / SQLite）",
+    "authors": [
+      "DDNdles"
+    ],
+    "notes": "结构化题库目录 courses/210070/（含 questions.jsonl、taxonomy.json、meta.json 与 assets/*.webp|svg），收录 347 道 Markdown+LaTeX 题目（含 C 代码围栏），覆盖 2008–2024 年期末真题、《数据结构》试卷A、三次习题课讲义及六次课程作业（official 71 / community 145 / ai 131），附 17 张灰度 WebP 与矢量化 SVG 配图（共 101.7 KB）。",
+    "coverage": {
+      "years": [],
+      "exam_kind": null,
+      "exam_form": null,
+      "has_solutions": null,
+      "evidence_url": "https://github.com/DDNdles/USTC-Question-Bank/blob/main/courses/210070/meta.json",
+      "note": "已核对仓库 courses/210070/meta.json、taxonomy.json、questions.jsonl 与 assets/*（347 题，46 个知识点节点，17 题含 WebP/SVG 配图）；按官方课号 210070 建目录（兼容 CS2502A），仓库不含原扫描 PDF。"
+    },
+    "locations": [
+      {
+        "source_id": "gh-ddndles-ustc-question-bank",
+        "page_url": "https://github.com/DDNdles/USTC-Question-Bank/tree/main/courses/210070",
+        "download_page": "https://github.com/DDNdles/USTC-Question-Bank/releases/tag/v0.4.0",
+        "download_url": null,
+        "access": "public",
+        "license_note": "仓库代码、Schema 与元数据采用 MIT；第三方真题、教材习题与引用解答版权归原作者与出版社所有，不适用 MIT（见 NOTICE.md）。",
+        "attribution": "GitHub @DDNdles/USTC-Question-Bank（整理与结构化；上游来源见仓库 NOTICE.md）",
+        "page_kind": "directory"
+      }
+    ],
+    "verified_at": "2026-11-22"
   }
 ]
